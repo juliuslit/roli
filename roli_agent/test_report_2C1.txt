@@ -1,0 +1,13 @@
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ============================
+SKIPPED [1] roli_agent/tests/test_live.py:34: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:41: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:48: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:55: set ROLI_LIVE_TESTS=1 for live calls
+223 passed, 4 skipped, 1 warning in 1.58s
+
+--- nutrition_service ---
+SKIPPED [1] tests/test_live.py:40: set ROLI_LIVE_TESTS=1 to call USDA
+SKIPPED [1] tests/test_live.py:46: set ROLI_LIVE_TESTS=1 to call USDA
+308 passed, 4 skipped in 2.70s

@@ -1,0 +1,53 @@
+{
+ "photo": "16",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 14,
+ "found_items": 14,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 2,
+ "cut_off_names": [
+  "CHILE COLORADO",
+  "ARROZ CON POLLO"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9285714285714286,
+ "descriptions_checked": 14,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 10,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 3,
+   "share_wrong": 0.3333333333333333
+  },
+  "low": {
+   "wrong": 1,
+   "total": 3,
+   "share_wrong": 0.3333333333333333
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Left and right edges of the menu are cut off in places: 'CHILE VERDE', 'CHILE COLORADO', 'ARROZ CON POLLO' (shown as 'ROZ CON POLLO'), and the descriptions for Pollo Fundido, Tacos al Carbon and Taquitos are partly hidden. Only items with names and prices visible are listed; cut-off descriptions and prices are left as far as they could be read. The bottom of the menu is also cut off and the tacos price is not visible.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 8.241321457986487,
+ "cost_usd": 0.0012026,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": ""
+}

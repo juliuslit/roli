@@ -1,0 +1,61 @@
+{
+ "photo": "10",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 157,
+ "other_set_aside": 0,
+ "found_items": 157,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 0.7133757961783439,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 140,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 12,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 0,
+   "total": 5,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Photo is angled with glare on the lower middle (Fish section), and a sliver of another menu is visible at the left edge, which was ignored. Prices of Diced Fish (Spicy) and Mandarin Fish are partly obscured by glare. No lines were left out because of cut-off names.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 54.773100332997274,
+ "cost_usd": 0.132094,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3912,
+ "completion_tokens": 12427,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793378845-S1g6cSIVsF6NDPrpbeUy"
+}

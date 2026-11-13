@@ -1,0 +1,123 @@
+{
+  "fdcId": 168833,
+  "description": "Sugars, brown",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "id": 1392432,
+      "amount": 0.0,
+      "dataPoints": 0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "id": 1392431,
+      "amount": 0.0,
+      "dataPoints": 1
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 83855,
+      "gramWeight": 220.0,
+      "sequenceNumber": 2,
+      "amount": 1.0,
+      "modifier": "cup packed",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 83857,
+      "gramWeight": 4.6,
+      "sequenceNumber": 4,
+      "amount": 1.0,
+      "modifier": "tsp packed",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 83856,
+      "gramWeight": 145.0,
+      "sequenceNumber": 3,
+      "amount": 1.0,
+      "modifier": "cup unpacked",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 83854,
+      "gramWeight": 3.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "modifier": "tsp unpacked",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 83858,
+      "gramWeight": 3.2,
+      "sequenceNumber": 5,
+      "amount": 1.0,
+      "modifier": "tsp brownulated",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 12502,
+      "proteinValue": 4.0,
+      "fatValue": 0.0,
+      "carbohydrateValue": 3.87,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 17372,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "inputFoods": [],
+  "ndbNumber": 19334,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 19,
+    "code": "1900",
+    "description": "Sweets"
+  }
+}

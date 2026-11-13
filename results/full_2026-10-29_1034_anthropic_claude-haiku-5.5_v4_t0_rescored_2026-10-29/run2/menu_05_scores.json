@@ -1,0 +1,70 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9672131147540983,
+ "expected_items": 61,
+ "found_items": 59,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "SAVOURY PASTRIES FROM",
+  "DAILY SPECIAL (PLEASE ASK)"
+ ],
+ "invented": 2,
+ "invented_names": [
+  "ULTIMATE BREAKFAST SANDWICH - 2 FILLINGS",
+  "ULTIMATE BREAKFAST SANDWICH - 3 FILLINGS"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "SAVOURY PASTRIES ~ SAVOURY PASTRIES FROM (76%)"
+ ],
+ "grouping": 3,
+ "grouping_names": [
+  "ULTIMATE BREAKFAST SANDWICH - 1 FILLING -> ['ULTIMATE BREAKFAST SANDWICH', 'Smoked bacon', 'Sausage']",
+  "EXTRAS - Smoked bacon, Sausage, Chorizo, Black pudding, Halloumi, Avocado, 2 Eggs -> ['Chorizo', 'Black pudding', 'Halloumi', 'Avocado', '2 Eggs']",
+  "EXTRAS - Field mushroom, Tomato, Hash Brown, Beans -> ['Field mushroom', 'Tomato', 'Hash Brown', 'Beans']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9259259259259259,
+ "descriptions_checked": 27,
+ "tags_right": 0.8723404255319149,
+ "portion_right": 0.7872340425531915,
+ "has_choice_right": 0.8936170212765957,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 39,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 4,
+   "total": 12,
+   "share_wrong": 0.3333333333333333
+  },
+  "low": {
+   "wrong": 2,
+   "total": 2,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 20.522708375006914,
+ "cost_usd": 0.0035848,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

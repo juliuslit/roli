@@ -1,0 +1,63 @@
+{
+ "photo": "23",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9,
+ "expected_items": 10,
+ "other_set_aside": 0,
+ "found_items": 9,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Watermelon, fetta, mint, almond, salsa verde salad"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 1,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 0.8888888888888888,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 3,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 2,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 0,
+   "total": 4,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Glare on the blackboard partly covers the middle of the board, around the Taste of the Sea items. No prices are printed for the crudo or the Taste of the Sea items. The 'Barramundi' price looks like 38 but is slightly unclear. The last lines (watermelon, fetta, mint, almond, salsa verde, and SALAD) have no price. They may be a separate salad item, so I did not list them as a dish.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 8.170199790998595,
+ "cost_usd": 0.01696,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3520,
+ "completion_tokens": 992,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793369058-ZzUdbkvRfwg4oAg18VXG",
+ "rep": 1
+}

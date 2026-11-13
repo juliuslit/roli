@@ -1,0 +1,171 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Wafer / Masala Papad / Boiled Eggs",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Garlic Toast / Green Salad",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "French Fries / Hash Brown (6 pcs)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Cheese Cherry Pineapple Stick",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Onion Rings / Cheese Balls (Schezwan)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Chilly Cheese Toast",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Cutlet & Fries (Veg / Chicken)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Koliwada (Paneer / Prawns)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Mondy's Steak Boti",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Masala Omelette with French Fries",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Kheema Pao / Kheema Gotala",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Extra Sauce",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  }
+ ],
+ "dishes_found": 0.6666666666666666,
+ "expected_items": 24,
+ "found_items": 8,
+ "unmatched_expected_names": [
+  "A.T.M. (Any Time Meal)",
+  "Malfatti Indiana",
+  "Amalfi",
+  "Brochettes de Legumes"
+ ],
+ "invented": 7,
+ "invented_names": [
+  "A.M. (Any Time Meal)",
+  "Malai Indiana",
+  "Brocketeries de Legumes",
+  "Chicken / Pollo",
+  "VEGETARIAN",
+  "NON - VEGETARIAN",
+  "Chicken Sheek / Achari / Tandoori"
+ ],
+ "cut_off_listed": 6,
+ "cut_off_names": [
+  "Achari Gobi Tikka / Baby Corn Tikka",
+  "Paneer Tikka / Malai / Achari / Shashlik",
+  "Chicken Tikka / Malai / Reshmi",
+  "Fish Tikka / Achari / Kalami",
+  "King Prawns Tikka / Haryanvi",
+  "Tandoor Naan / Butter Naan"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.0,
+ "descriptions_checked": 3,
+ "tags_right": 0.25,
+ "portion_right": 1.0,
+ "has_choice_right": 0.75,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 4,
+   "total": 7,
+   "share_wrong": 0.5714285714285714
+  },
+  "medium": {
+   "wrong": 9,
+   "total": 14,
+   "share_wrong": 0.6428571428571429
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is partially obscured by two salt and pepper shakers in the foreground. The left column of the Continental Menu is mostly hidden, and the right column is partially cut off at the edges. Prices are visible for some items but not all.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 9.47542324999813,
+ "cost_usd": 0.0019628,
+ "finish_reason": "stop"
+}

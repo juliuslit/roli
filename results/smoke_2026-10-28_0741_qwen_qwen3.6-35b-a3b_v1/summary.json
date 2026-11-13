@@ -1,0 +1,81 @@
+{
+ "model": "qwen/qwen3.6-35b-a3b",
+ "prompt": "v1",
+ "photos": [
+  "06",
+  "17",
+  "13"
+ ],
+ "calls": [
+  {
+   "photo": "06",
+   "model": "qwen/qwen3.6-35b-a3b",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_06_pizzaface_uk_printed_spread.jpg",
+   "photo_size": [
+    1280,
+    964
+   ],
+   "seconds": 78.06681641700561,
+   "prompt_tokens": 1803,
+   "completion_tokens": 7248,
+   "cost_usd": 0.0070659,
+   "provider": null,
+   "finish_reason": "stop",
+   "generation_id": "gen-1793187693-BmVpRqwLpuBe2Hy0q3jm",
+   "error": ""
+  },
+  {
+   "photo": "17",
+   "model": "qwen/qwen3.6-35b-a3b",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_17_duck_house_takeout_printed_wall.jpg",
+   "photo_size": [
+    719,
+    1280
+   ],
+   "seconds": 467.30832070899487,
+   "prompt_tokens": 1711,
+   "completion_tokens": 32000,
+   "cost_usd": 0.0305711,
+   "provider": null,
+   "finish_reason": "length",
+   "generation_id": "gen-1793187777-249XKDeUY730NgmDI4Ax",
+   "error": ""
+  },
+  {
+   "photo": "13",
+   "model": "qwen/qwen3.6-35b-a3b",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_13_hard_obstructed_cafe_mondegar.jpg",
+   "photo_size": [
+    960,
+    1280
+   ],
+   "seconds": 25.418483458997798,
+   "prompt_tokens": 1803,
+   "completion_tokens": 2047,
+   "cost_usd": 0.00212495,
+   "provider": "DeepInfra",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793188251-36B1OffTD0PvOQe1bdGc",
+   "error": ""
+  }
+ ],
+ "answers": 3,
+ "dishes_found_avg": 0.45555555555555555,
+ "dishes_found_min": 0.0,
+ "invented_total": 56,
+ "cut_off_listed_total": 6,
+ "prices_right_avg": 0.944047619047619,
+ "descriptions_right_avg": 0.5735294117647058,
+ "tags_right_avg": 0.6202380952380953,
+ "portion_right_avg": 1.0,
+ "has_choice_right_avg": 0.819047619047619,
+ "belongs_to_right_avg": 0.5,
+ "format_right_avg": 0.6666666666666666,
+ "bad_photos_caught": 1,
+ "bad_photos_total": 2,
+ "false_alarms": 0,
+ "check_list_items": 6
+}

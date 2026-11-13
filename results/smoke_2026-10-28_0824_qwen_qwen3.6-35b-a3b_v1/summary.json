@@ -1,0 +1,81 @@
+{
+ "model": "qwen/qwen3.6-35b-a3b",
+ "prompt": "v1",
+ "photos": [
+  "06",
+  "17",
+  "13"
+ ],
+ "calls": [
+  {
+   "photo": "06",
+   "model": "qwen/qwen3.6-35b-a3b",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_06_pizzaface_uk_printed_spread.jpg",
+   "photo_size": [
+    1280,
+    964
+   ],
+   "seconds": 44.56314416699752,
+   "prompt_tokens": 1803,
+   "completion_tokens": 7441,
+   "cost_usd": 0.00724925,
+   "provider": "DeepInfra",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793190284-8K2lpwUJWdE2d4kDRX74",
+   "error": ""
+  },
+  {
+   "photo": "17",
+   "model": "qwen/qwen3.6-35b-a3b",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_17_duck_house_takeout_printed_wall.jpg",
+   "photo_size": [
+    719,
+    1280
+   ],
+   "seconds": 428.624880125004,
+   "prompt_tokens": 1711,
+   "completion_tokens": 32000,
+   "cost_usd": 0.0305711,
+   "provider": "DeepInfra",
+   "finish_reason": "length",
+   "generation_id": "gen-1793190335-MlrdHyvHrwIBKoX7IXqW",
+   "error": ""
+  },
+  {
+   "photo": "13",
+   "model": "qwen/qwen3.6-35b-a3b",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_13_hard_obstructed_cafe_mondegar.jpg",
+   "photo_size": [
+    960,
+    1280
+   ],
+   "seconds": 68.17313333299535,
+   "prompt_tokens": 1803,
+   "completion_tokens": 3253,
+   "cost_usd": 0.00327065,
+   "provider": "DeepInfra",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793190777-fjCVkMnWJ1nbQ69ZUOo9",
+   "error": ""
+  }
+ ],
+ "answers": 3,
+ "dishes_found_avg": 0.5343675931911226,
+ "dishes_found_min": 0.0,
+ "invented_total": 21,
+ "cut_off_listed_total": 9,
+ "prices_right_avg": 0.6394984326018809,
+ "descriptions_right_avg": 0.3625,
+ "tags_right_avg": 0.657262277951933,
+ "portion_right_avg": 1.0,
+ "has_choice_right_avg": 0.9487983281086729,
+ "belongs_to_right_avg": 0.5816326530612245,
+ "format_right_avg": 0.6666666666666666,
+ "bad_photos_caught": 1,
+ "bad_photos_total": 2,
+ "false_alarms": 0,
+ "check_list_items": 7
+}

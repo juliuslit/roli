@@ -1,0 +1,9 @@
+{"readable": "partly", "problems": "The chalkboard lists only what the store is serving and has no prices. There is an empty bullet line between 'Hot Dogs' and 'Baked Goods' where text appears to have been erased or smudged, so any item there cannot be read and is not listed.", "items": [
+{"section": "SERVING:", "category": "food", "name": "DELI SANDWICHES", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "HOT CHICKEN SANDWICHES", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "BREAKFAST SANDWICHES", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "BLT", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "MAC 'N' CHEESE", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "HOT DOGS", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "BAKED GOODS", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"}
+]}

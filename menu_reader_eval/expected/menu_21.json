@@ -1,0 +1,103 @@
+{
+ "file": "menu_21_the_block_handwritten_whiteboard.jpg",
+ "telegram_file": "telegram_1280/menu_21_the_block_handwritten_whiteboard.jpg",
+ "expected": {
+  "readable": "yes",
+  "problems": "",
+  "items": [
+   {
+    "section": "HAPPY HOUR SPECIALS - PIZZA BY THE SLICE",
+    "category": "food",
+    "name": "Vegetarian",
+    "description": "",
+    "price": "5",
+    "tags": "VEGETARIAN",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HAPPY HOUR SPECIALS - PIZZA BY THE SLICE",
+    "category": "food",
+    "name": "Combo",
+    "description": "",
+    "price": "5",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HAPPY HOUR SPECIALS - PIZZA BY THE SLICE",
+    "category": "food",
+    "name": "Pepperoni",
+    "description": "",
+    "price": "5",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HAPPY HOUR SPECIALS",
+    "category": "food",
+    "name": "Wood Fire Oysters",
+    "description": "Pesto / BBQ",
+    "price": "3.50",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HAPPY HOUR SPECIALS",
+    "category": "food",
+    "name": "Meatballs (3)",
+    "description": "served with homemade sauce + bread",
+    "price": "9",
+    "tags": "",
+    "portion": "3",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HAPPY HOUR SPECIALS",
+    "category": "food",
+    "name": "Riblets",
+    "description": "",
+    "price": "10",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HAPPY HOUR SPECIALS",
+    "category": "food",
+    "name": "Mini Gyros (2)",
+    "description": "Lamb",
+    "price": "10",
+    "tags": "",
+    "portion": "2",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HAPPY HOUR SPECIALS",
+    "category": "food",
+    "name": "Focaccia / Onion Focaccia",
+    "description": "served with olive tapenade",
+    "price": "8",
+    "tags": "",
+    "portion": "",
+    "has_choice": "yes",
+    "belongs_to": ""
+   }
+  ]
+ },
+ "scoring_hints": {
+  "cut_off_lines_left_out": [],
+  "low_confidence_items": [],
+  "medium_confidence_items": []
+ }
+}

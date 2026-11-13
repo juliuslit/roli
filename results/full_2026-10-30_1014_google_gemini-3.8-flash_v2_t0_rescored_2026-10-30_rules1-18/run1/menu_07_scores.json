@@ -1,0 +1,55 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9782608695652174,
+ "expected_items": 46,
+ "other_set_aside": 0,
+ "found_items": 45,
+ "joined_found": 2,
+ "unmatched_expected_names": [
+  "Mixers: Coca Cola/Diet, Lemonade, Tonic/Diet"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 1,
+ "grouping_names": [
+  "Alternative milks (no charge) -> ['Oat milk', 'Soya milk', 'Coconut milk']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.8333333333333334,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.9047619047619048,
+ "has_choice_right": 0.7142857142857143,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 43,
+   "share_wrong": 0.023255813953488372
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 19.056134082988137,
+ "cost_usd": 0.012597,
+ "finish_reason": "stop",
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 2546,
+ "completion_tokens": 2850,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793369788-Q20SwkI0JTQ3a5hqfdI2",
+ "rep": 1
+}

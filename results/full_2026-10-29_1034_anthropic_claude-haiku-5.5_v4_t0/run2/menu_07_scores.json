@@ -1,0 +1,65 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8260869565217391,
+ "expected_items": 46,
+ "found_items": 38,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream",
+  "Oat milk",
+  "Soya milk",
+  "Coconut milk",
+  "Bloody Mary single/double",
+  "House Spirit & mixer - single/double",
+  "Premium spirit & mixer - single/double",
+  "Mixers: Coca Cola/Diet, Lemonade, Tonic/Diet"
+ ],
+ "invented": 5,
+ "invented_names": [
+  "Victorian Lemonade, Ginger",
+  "Beer, Sparkling Elderflower",
+  "Bloody Mary",
+  "House Spirit & mixer",
+  "Premium spirit & mixer"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.5,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.868421052631579,
+ "has_choice_right": 0.868421052631579,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 3,
+   "total": 35,
+   "share_wrong": 0.08571428571428572
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 6,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 2,
+   "total": 2,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "Menu is a drinks menu only. Slight glare/skew on right column but text is legible. Small print footer lines (service charge, allergy note) ignored as non-items.",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 13.059557792003034,
+ "cost_usd": 0.0023153,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": ""
+}

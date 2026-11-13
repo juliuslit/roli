@@ -1,0 +1,61 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8048780487804879,
+ "expected_items": 41,
+ "found_items": 33,
+ "unmatched_expected_names": [
+  "Our Special Blend Coffee",
+  "Fresh Orange Juice",
+  "Other Delicious Bakery Pies",
+  "No. 1",
+  "No. 2",
+  "No. 3",
+  "No. 4",
+  "No. 5"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 0.8181818181818182,
+ "price_wrong_names": [
+  "Waffles: price '30' vs key '20c'",
+  "Ham: price '30' vs key '20c'",
+  "Doughnuts (Two): price '10' vs key '5c'",
+  "Grilled Cheese: price '15' vs key ''",
+  "Chicken Salad: price '35' vs key '25c'",
+  "Grillburger: price '35' vs key '25c'"
+ ],
+ "descriptions_right": 0.6,
+ "descriptions_checked": 15,
+ "tags_right": 1.0,
+ "portion_right": 0.9696969696969697,
+ "has_choice_right": 0.9696969696969697,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 4,
+   "total": 25,
+   "share_wrong": 0.16
+  },
+  "low": {
+   "wrong": 2,
+   "total": 8,
+   "share_wrong": 0.25
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is photographed at a steep angle and the small print is faint and skewed, so many item names and prices are hard to read with confidence. Some description lines and prices in the breakfast and sandwich sections are illegible and have been left blank or omitted. The 'Our Special' steak plate and several breakfast suggestion lines were only partly legible.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 10.765251291013556,
+ "cost_usd": 0.0018335,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": ""
+}

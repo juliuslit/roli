@@ -1,0 +1,59 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.8913043478260869,
+ "expected_items": 46,
+ "other_set_aside": 0,
+ "found_items": 41,
+ "joined_found": 2,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream",
+  "Oat milk",
+  "Soya milk",
+  "Fentamins",
+  "Mixers: Coca Cola/Diet, Lemonade, Tonic/Diet"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Fentimans ~ Fentamins (78%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 5,
+ "tags_right": 1.0,
+ "portion_right": 0.9024390243902439,
+ "has_choice_right": 0.7073170731707317,
+ "belongs_to_right": 0.5,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 42,
+   "share_wrong": 0.023809523809523808
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 16.964162415999454,
+ "cost_usd": 0.012861,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 3013,
+ "completion_tokens": 2827,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793375679-zpkpPiLlYjm4ESIIDqU4"
+}

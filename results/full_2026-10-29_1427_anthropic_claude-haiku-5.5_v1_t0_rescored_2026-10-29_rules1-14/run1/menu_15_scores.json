@@ -1,0 +1,57 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 42,
+ "other_set_aside": 1,
+ "found_items": 42,
+ "joined_found": 4,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9523809523809523,
+ "price_wrong_names": [
+  "Cheese Burger: price '13' vs key '11.50'",
+  "Oysters: price '' vs key '3 for 8.50 / 6 for 14.50 / 12 for 25.50'"
+ ],
+ "descriptions_right": 0.5652173913043478,
+ "descriptions_checked": 23,
+ "tags_right": 0.9285714285714286,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 31,
+   "share_wrong": 0.03225806451612903
+  },
+  "low": {
+   "wrong": 1,
+   "total": 11,
+   "share_wrong": 0.09090909090909091
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Chalkboard menu is glare-affected and some prices are small or partly obscured; the photographer's reflection covers the lower-middle area. Items with uncertain prices are marked low confidence. The 'Make it Vegan' and 'Gluten Free' notes are treated as tags/other text where applicable.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 14.58620137500111,
+ "cost_usd": 0.0024505,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2700,
+ "completion_tokens": 4361,
+ "generation_id": "gen-1793298635-xkZGCtLtFdEKPkMHyD4H",
+ "rep": 1
+}

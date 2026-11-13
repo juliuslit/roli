@@ -1,0 +1,52 @@
+{
+ "photo": "04",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8571428571428571,
+ "expected_items": 7,
+ "found_items": 6,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "optional wine pairing"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8333333333333334,
+ "price_wrong_names": [
+  "BLUEFIN CRUDO: price '25' vs key ''"
+ ],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 6,
+   "share_wrong": 0.16666666666666666
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 4.599438167002518,
+ "cost_usd": 0.0007701,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2031,
+ "completion_tokens": 718,
+ "generation_id": "gen-1793323169-YXnN6HKiojwS9oZRgEq6"
+}

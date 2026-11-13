@@ -1,0 +1,18 @@
+Checkpoint 3H test report, 2026-11-06
+
+Agent suite: .venv/bin/python -m pytest roli_agent/tests (LANGSMITH_TRACING=false), from the repo root
+=========================== short test summary info ============================
+SKIPPED [1] roli_agent/tests/test_live.py:34: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:41: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:48: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:55: set ROLI_LIVE_TESTS=1 for live calls
+493 passed, 4 skipped, 1 warning in 7.16s
+
+of which roli_agent/tests/test_3h.py:
+83 passed, 1 warning in 0.65s
+
+Library suite: nutrition_service/.venv/bin/python -m pytest, from nutrition_service/
+SKIPPED [1] tests/test_live.py:46: set ROLI_LIVE_TESTS=1 to call USDA
+337 passed, 4 skipped in 3.01s
+
+3G: agent 419 passed, library 333 passed. 3H: no regressions. Tests of behaviour 12.14 removes or replaces were rewritten or removed, not skipped: I01 and I02, W57, the olive card setting, the pizza area ratio and the old near-zero tests. D25 now lends counts, and the lookup count in test_recipes_2c1 rose by one because the facts read the record.

@@ -1,0 +1,89 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Cutlet & Fries (Veg / Chicken)",
+   "key_price": "",
+   "model_name": "Cutlet & Fries (Veg / Chicken)",
+   "model_price": "400",
+   "reason": "price differs"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Koliwada (Paneer / Prawns)",
+   "key_price": "",
+   "model_name": "Koliwada (Paneer / Prawns)",
+   "model_price": "450",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 0.6666666666666666,
+ "expected_items": 24,
+ "other_set_aside": 0,
+ "found_items": 16,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Malfatti Indiana",
+  "Amalfi",
+  "Wafer / Masala Papad / Boiled Eggs",
+  "Garlic Toast / Green Salad",
+  "French Fries / Hash Brown (6 pcs)",
+  "Cheese Cherry Pineapple Stick",
+  "Onion Rings / Cheese Balls (Schezwan)",
+  "Chilly Cheese Toast"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 7,
+ "cut_off_names": [
+  "Achari Gobi Tikka / Baby Corn Tikka",
+  "Paneer Tikka / Malai / Achari / Schezwan",
+  "Chicken Tikka / Malai / Reshmi",
+  "Chicken Sheek / Achari / Tandoori",
+  "Fish Tikka / Achari / Kalami",
+  "King Prawns Tikka / Haryali",
+  "Tandoor Naan / Butter Naan"
+ ],
+ "garbled": 2,
+ "garbled_names": [
+  "Malai Indiana ~ Malfatti Indiana (81%)",
+  "Anjali ~ Amalfi (50%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.5,
+ "descriptions_checked": 6,
+ "tags_right": 0.5,
+ "portion_right": 1.0,
+ "has_choice_right": 0.8125,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 11,
+   "total": 25,
+   "share_wrong": 0.44
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is partially obscured by salt and pepper shakers. The left column is upside down and difficult to read. The right column is partially cut off at the edges. Prices are visible but some are faint.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 11.108871749980608,
+ "cost_usd": 0.0020049,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2031,
+ "completion_tokens": 2090,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793323408-Ujjukewkt3fkK76cx7rf",
+ "rep": 2
+}

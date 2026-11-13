@@ -1,0 +1,12 @@
+{
+"readable": "partly",
+"problems": "The top line of the menu is cut off, so the full section heading is not visible. The last item 'FRENCH DIP' has two prices printed (735 and 79), but it is unclear which price corresponds to the base item and which to the 'W/CHEDDAR' option.",
+"items": [
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEST BEEF", "description": "", "price": "674", "tags": "", "portion": "REG", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF SUPREME", "description": "", "price": "744", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BACON & CHEESE", "description": "", "price": "784", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF & CHEDDAR", "description": "", "price": "734", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BAC. & CHEDDAR", "description": "", "price": "784", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "FRENCH DIP", "description": "W/CHEDDAR", "price": "735", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"}
+]
+}

@@ -1,0 +1,22 @@
+{
+"readable": "yes",
+"problems": "",
+"items": [
+{"section": "Best of Gaggan", "category": "food", "name": "Street eats from India", "description": "Yogurt Chaat, Spiced nuts in an edible plastic bag, Chocolate Pani puri Potato 2-some- crispy and liquid", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Viagra®", "description": "Freshly shucked oyster, Yuzu spiced marinated apples and horseradish ice cream, lemon air", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Sandwich", "description": "Foiégras mousse, onion water baguette, onion chutney and hazelnut candy", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Down To Earth", "description": "Summer vegetables - Asparagus, Morels, Mushrooms, Artichokes with 62°C egg yolk and truffle chili air", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Alchemist's Cake", "description": "Dhokla; lentil flour cakes with curry leaves, mustard, chutney, and coconut ice cream", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Keema Pav (Lamb Ragout)", "description": "Minced lamb curry with dehydrated tomato bread and chutney", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Gunpowder", "description": "Fiery spiced Thai Sea-bass, curry leaf powder, basmati Rice porridge, tamarind sugar", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Treasure Shells", "description": "Norwegian diver scallops, Bengali mustard, Cognac and spiced sour cream", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Land of lungi", "description": "Coldwater Atlantic lobster cooked in chameen style malabari coconut curry", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Fusion called confusion", "description": "White asparagus, chili bean mizo curry and peas sprouts", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Portuguese Connection", "description": "Joselito Iberian pork belly stir-fried with vinadaloo curry and crushed garlic", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Best memory", "description": "Free-range lamb chops sous-vide, grilled and finished with almond saffron oil", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "British National Dish", "description": "Home-style Chicken tikka masala accompanied naan breads", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Poor man's porridge", "description": "Jasmine rice ice- cream, pistachio gel, Rose room-freshener, almond and flower glass", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "Masala Chai", "description": "Indian spiced black milk tea jujube jelly", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Best of Gaggan", "category": "food", "name": "I Love Chocolate", "description": "Five acts of chocolate in different textures and tastes plated at the table by our dessert team", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"}
+]
+}

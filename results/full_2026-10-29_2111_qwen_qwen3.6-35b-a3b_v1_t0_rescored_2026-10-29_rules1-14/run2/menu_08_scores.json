@@ -1,0 +1,60 @@
+{
+ "photo": "08",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 38,
+ "other_set_aside": 0,
+ "found_items": 38,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.868421052631579,
+ "price_wrong_names": [
+  "BAKED VANILLA CHEESECAKE: price '' vs key '8'",
+  "STICKY TOFFEE PUDDING: price '' vs key '8'",
+  "APPLE & CRUMBLE RHUBARB: price '' vs key '8'",
+  "BISCOFF DOUGHNUTS: price '' vs key '8'",
+  "CHOCOLATE BROWNIE: price '' vs key '8'"
+ ],
+ "descriptions_right": 0.9629629629629629,
+ "descriptions_checked": 27,
+ "tags_right": 0.5789473684210527,
+ "portion_right": 0.21052631578947367,
+ "has_choice_right": 0.9736842105263158,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 33,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 5,
+   "total": 5,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 20.45412370900158,
+ "cost_usd": 0.0031866,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2031,
+ "completion_tokens": 3403,
+ "generation_id": "gen-1793323269-c94ntab3PngvYHz3Uqhe",
+ "rep": 2
+}

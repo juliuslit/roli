@@ -1,0 +1,68 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8913043478260869,
+ "expected_items": 46,
+ "other_set_aside": 0,
+ "found_items": 41,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream",
+  "Oat milk",
+  "Soya milk",
+  "Coconut milk",
+  "Mixers: Coca Cola/Diet, Lemonade, Tonic/Diet"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Victorian Lemonade, Ginger Beer, Sparkling Elderflower"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.16666666666666666,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.8780487804878049,
+ "has_choice_right": 0.7317073170731707,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 27,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 13,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 1,
+   "total": 2,
+   "share_wrong": 0.5
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The photo is slightly skewed and has glare and a laminate reflection. Some prices are misaligned with their rows, so they are doubtful: Hot Chocolate/marshmallows line, Babyccino, and the Victorian Lemonade / Ginger Beer / Sparkling Elderflower / Kombucha group. The Wine and Spirits prices are small. The Mixers line has no price and is not listed. The Syrups and alternative milks options are listed without prices.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 17.04513174999738,
+ "cost_usd": 0.04198,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3520,
+ "completion_tokens": 3494,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793369202-41TMSBC0fZi2YXS8lGNR",
+ "rep": 2
+}

@@ -1,0 +1,63 @@
+{
+ "photo": "16",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 14,
+ "other_set_aside": 0,
+ "found_items": 14,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 2,
+ "cut_off_names": [
+  "CHILE COLORADO",
+  "ARROZ CON POLLO"
+ ],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9285714285714286,
+ "descriptions_checked": 14,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 11,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 2,
+   "total": 3,
+   "share_wrong": 0.6666666666666666
+  },
+  "low": {
+   "wrong": 0,
+   "total": 2,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Photo is taken at an angle and the left and right edges are cut off. Some item names and prices at the right edge are partly hidden (e.g. POLLO FUNDIDO price, TACOS AL CARBON price, CHILE COLORADO name partly cut, CARNE ASADA description partly obscured by glare, ARROZ CON POLLO name cut off on left, CHILE VERDE/COLORADO left-side text cut). Items with unreadable or hidden names/prices are included with medium/low confidence or omitted where the name itself is not readable.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 6.908888708014274,
+ "cost_usd": 0.0012994,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3104,
+ "completion_tokens": 1978,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793299459-9K6iKmVQRYUBuSEhfN6L",
+ "rep": 2
+}

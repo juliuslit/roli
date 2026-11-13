@@ -1,0 +1,194 @@
+{
+  "fdcId": 168277,
+  "description": "Pork, cured, bacon, unprepared",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 49,
+        "code": "NC",
+        "description": "Calculated",
+        "foodNutrientSource": {
+          "id": 2,
+          "code": "4",
+          "description": "Calculated or imputed"
+        }
+      },
+      "id": 1345065,
+      "amount": 12.615,
+      "dataPoints": 0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 1,
+        "code": "A",
+        "description": "Analytical",
+        "foodNutrientSource": {
+          "id": 1,
+          "code": "1",
+          "description": "Analytical or derived from analytical"
+        }
+      },
+      "id": 1345104,
+      "amount": 66.0,
+      "dataPoints": 18,
+      "max": 76.0,
+      "min": 54.0
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 82802,
+      "dataPoints": 36,
+      "gramWeight": 442.0,
+      "sequenceNumber": 3,
+      "amount": 1.0,
+      "modifier": "package",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 82801,
+      "dataPoints": 360,
+      "gramWeight": 28.0,
+      "sequenceNumber": 2,
+      "amount": 1.0,
+      "modifier": "slice raw",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 82800,
+      "gramWeight": 113.0,
+      "sequenceNumber": 1,
+      "amount": 4.0,
+      "modifier": "oz",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 3401418,
+      "value": "http://purl.obolibrary.org/obo/NCBITaxon_9823",
+      "name": "NCBI Taxon",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3401419,
+      "value": "http://purl.obolibrary.org/obo/NCBITaxon_33208",
+      "name": "NCBI Taxon Parent",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3401420,
+      "value": "Sus scrofa",
+      "name": "Scientific Name",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3401421,
+      "value": "http://purl.obolibrary.org/obo/FOODON_03317331",
+      "name": "FoodOn Ontology ID #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3401422,
+      "value": "bacon (whole cut or pieces)",
+      "name": "FoodOn Ontology Name #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3401423,
+      "value": "http://purl.obolibrary.org/obo/FOODON_00002663",
+      "name": "Ontology ID For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3401424,
+      "value": "pork food product",
+      "name": "Ontology Name For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    }
+  ],
+  "nutrientConversionFactors": [
+    {
+      "id": 16905,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    },
+    {
+      "id": 12070,
+      "proteinValue": 4.27,
+      "fatValue": 9.02,
+      "carbohydrateValue": 3.87,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    }
+  ],
+  "inputFoods": [],
+  "ndbNumber": 10123,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 10,
+    "code": "1000",
+    "description": "Pork Products"
+  }
+}

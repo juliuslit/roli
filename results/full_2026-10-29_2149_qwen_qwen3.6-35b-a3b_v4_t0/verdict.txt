@@ -1,0 +1,37 @@
+qwen/qwen3.6-35b-a3b x v4 x temperature 0: 50 answers, $0.15  [scoring_rules.md interpretations 1-14 (2026-10-29)]
+
+[as_written] passes: False
+  dishes found avg 91.3%  min photo 0%  by run {1: 89.8%, 2: 92.8%}
+  invented by run {1: 30, 2: 26}  cut-off listed by run {1: 10, 2: 9}  prices 93.1%  descriptions 81.8%  format 96.0%
+  partly caught {1: '5/7', 2: '5/7'}  false alarms {1: 1, 2: 1}  speed 19 s  cost 0.29 c/photo
+  garbled 23  groupings 6  found via joined text 28  tokens in/out avg 2772/3043
+    FAIL  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  2b cut-off lines listed 0 on both runs
+    FAIL  3 prices >=95%
+    FAIL  4 descriptions >=90%
+    FAIL  6 format >=98%
+    FAIL  7 all partly photos caught, both runs
+    PASS  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+[photo_17_set_aside] passes: False
+  dishes found avg 95.1%  min photo 42%  by run {1: 93.5%, 2: 96.7%}
+  invented by run {1: 30, 2: 26}  cut-off listed by run {1: 10, 2: 9}  prices 93.1%  descriptions 81.8%  format 100.0%
+  partly caught {1: '5/6', 2: '5/6'}  false alarms {1: 1, 2: 1}  speed 16 s  cost 0.24 c/photo
+  garbled 23  groupings 6  found via joined text 28  tokens in/out avg 2783/2503
+    PASS  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  2b cut-off lines listed 0 on both runs
+    FAIL  3 prices >=95%
+    FAIL  4 descriptions >=90%
+    PASS  6 format >=98%
+    FAIL  7 all partly photos caught, both runs
+    PASS  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+hosts: Parasail 50 calls, median 173 output tok/s
+
+check list: 12 medium/low key items -> /Users/juliuslitinskas/projects/roli/results/full_2026-10-29_2149_qwen_qwen3.6-35b-a3b_v4_t0/check_list.csv

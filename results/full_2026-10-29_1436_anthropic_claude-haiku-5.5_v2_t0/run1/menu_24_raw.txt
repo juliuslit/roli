@@ -1,0 +1,9 @@
+{"readable": "partly", "problems": "The photo is cropped at the top and right edges. The section heading is cut off ('HOT SANDWICHES' partly visible). Prices for several items are cut off at the right edge (e.g., '67', '74', '78', '73', '78', '79' may be incomplete). The 'REG' column label is visible but the full price for some rows is not. Item names at the left edge are complete. Prices are shown as partial digits only and may be missing a final digit, so prices are given as printed where readable and flagged as low confidence.", "items": [
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEST BEEF", "description": "", "price": "6 7", "tags": "", "portion": "REG", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF SUPREME", "description": "", "price": "7 4", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BACON & CHEESE", "description": "", "price": "7 8", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF & CHEDDAR", "description": "", "price": "7 3", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BAC. & CHEDDAR", "description": "", "price": "7 8", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "FRENCH DIP", "description": "", "price": "7 3 5", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "add-on", "name": "W/CHEDDAR", "description": "", "price": "7 9", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "FRENCH DIP", "confidence": "low"}
+]}

@@ -1,0 +1,1352 @@
+{
+  "fdcId": 748608,
+  "description": "Oil, olive, extra virgin",
+  "publicationDate": "12/16/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 1,
+        "code": "A",
+        "description": "Analytical",
+        "foodNutrientSource": {
+          "id": 1,
+          "code": "1",
+          "description": "Analytical or derived from analytical"
+        }
+      },
+      "id": 8529158,
+      "amount": 15.4,
+      "dataPoints": 36,
+      "max": 18.8,
+      "min": 13.1,
+      "median": 15.3,
+      "minYearAcquired": 2019,
+      "nutrientAnalysisDetails": [
+        {
+          "subSampleId": 748371,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748368,
+              "purchaseDate": "8/9/2019",
+              "storeCity": "1250 GRANT RD. MOUNTIAN VIEW 94040",
+              "storeState": "CA"
+            }
+          ],
+          "amount": 16.7,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748377,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748374,
+              "purchaseDate": "6/23/2019",
+              "storeCity": "11075 RESORT RDELLICOTT CITY 21042",
+              "storeState": "MD"
+            }
+          ],
+          "amount": 13.1,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748383,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748380,
+              "purchaseDate": "8/9/2019",
+              "storeCity": "2175 GRANT RD. LOS ALTOS 94024",
+              "storeState": "CA"
+            }
+          ],
+          "amount": 17.3,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748389,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748386,
+              "purchaseDate": "8/9/2019",
+              "storeCity": "1250 GRANT RD. MOUNTIAN VIEW 94040",
+              "storeState": "CA"
+            }
+          ],
+          "amount": 14.1,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748396,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748392,
+              "purchaseDate": "6/25/2019",
+              "storeCity": "3200 N. RIDGE RD. ELLICOT CITY",
+              "storeState": "MD"
+            }
+          ],
+          "amount": 17.3,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748403,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748399,
+              "purchaseDate": "7/16/2019",
+              "storeCity": "4720 CHERRY HILL RD. COLLEGE PARK ",
+              "storeState": "MD"
+            }
+          ],
+          "amount": 17.6,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748409,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748406,
+              "purchaseDate": "6/25/2019",
+              "storeCity": "8855 MCGAW RD. COLUMBIA 21044",
+              "storeState": "MD"
+            }
+          ],
+          "amount": 14.9,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748415,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748412,
+              "purchaseDate": "6/27/2019",
+              "storeCity": "10825 BIRMINGHAM WAY WOODSTOCK21163",
+              "storeState": "MD"
+            }
+          ],
+          "amount": 13.9,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748422,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748418,
+              "purchaseDate": "7/16/2019",
+              "storeCity": "10000 BALT. NATL PIKE ELLICOTT CITY",
+              "storeState": "MD"
+            }
+          ],
+          "amount": 14.5,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748429,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748425,
+              "purchaseDate": "7/16/2019",
+              "storeCity": "12028 CHERRY HILL RD. SILVER SPRING",
+              "storeState": "MD"
+            }
+          ],
+          "amount": 13.2,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748436,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748432,
+              "purchaseDate": "6/25/2019",
+              "storeCity": "10275 LITTLE PATUXENT PARKWAY COLUM",
+              "storeState": "MD"
+            }
+          ],
+          "amount": 14.2,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748443,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748439,
+              "purchaseDate": "6/24/2019",
+              "storeCity": "12028 CHERRY HILL RD. SILVER SPRING",
+              "storeState": "MD"
+            }
+          ],
+          "amount": 14.8,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748450,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748446,
+              "purchaseDate": "6/20/2019",
+              "storeCity": "2400 N FRANKLIN ST. CHRISTIANSBURG",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 16.2,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748451,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748446,
+              "purchaseDate": "6/20/2019",
+              "storeCity": "2400 N FRANKLIN ST. CHRISTIANSBURG",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 16.2,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748458,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748454,
+              "purchaseDate": "6/30/2019",
+              "storeCity": "3863 NY-31 LIVERPOOL 13090",
+              "storeState": "NY"
+            }
+          ],
+          "amount": 14.8,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748465,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748461,
+              "purchaseDate": "6/20/2019",
+              "storeCity": "2400 N FRANKLIN ST. CHRISTIASBURG ",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 16.2,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748472,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748468,
+              "purchaseDate": "6/20/2019",
+              "storeCity": "2400 N FRANKLIN ST CHRISTIANSBURG",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 16.4,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748479,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748475,
+              "purchaseDate": "7/12/2019",
+              "storeCity": "1000 LEATHERWOOD LN BLUEFIELD 24605",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 16.4,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748485,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748482,
+              "purchaseDate": "6/28/2019",
+              "storeCity": "CHRISTIANSBURG",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 15.9,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748491,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748488,
+              "purchaseDate": "6/20/2019",
+              "storeCity": "903 UNIVER. CITY BLVD. BLACKSBURG",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 15.8,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748497,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748494,
+              "purchaseDate": "6/28/2019",
+              "storeCity": "2400 N FRANKLIN ST. CHRISTIANSBURG",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 13.8,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748503,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748500,
+              "purchaseDate": "6/28/2019",
+              "storeCity": "195 CONSTAN AVE NW CBURG",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 16.0,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748509,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748506,
+              "purchaseDate": "6/28/2019",
+              "storeCity": "2400 N FRANKLIN ST CHRISTIANSBURG",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 18.8,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748516,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748512,
+              "purchaseDate": "6/20/2019",
+              "storeCity": "2400 N FRANKIN ST. CHRISTIANSBURG",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 14.5,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748523,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748519,
+              "purchaseDate": "7/15/2019",
+              "storeCity": "615 MAIN ST. BLAND 24315",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 14.0,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748530,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748526,
+              "purchaseDate": "6/20/2019",
+              "storeCity": "903 UNIV. CITY BLVD. BLACKSBURG",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 17.2,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748536,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748533,
+              "purchaseDate": "8/27/2019",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 15.3,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748543,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748539,
+              "purchaseDate": "8/27/2019",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 13.8,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748550,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748546,
+              "purchaseDate": "8/27/2019",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 15.2,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748557,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748553,
+              "purchaseDate": "8/27/2019",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 16.8,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748563,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748560,
+              "purchaseDate": "8/27/2019",
+              "storeCity": "",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 16.0,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748571,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748566,
+              "purchaseDate": "8/27/2019",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 16.2,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748572,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748566,
+              "purchaseDate": "8/27/2019",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 16.2,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748579,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748576,
+              "purchaseDate": "8/27/2019",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 15.4,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748586,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748582,
+              "purchaseDate": "8/27/2019",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 14.6,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748594,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748590,
+              "purchaseDate": "8/27/2019",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 16.4,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748600,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748597,
+              "purchaseDate": "6/20/2019",
+              "storeCity": "2400 N FRANKIN ST. CHRISTIANSBURG",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 14.7,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 748606,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 748603,
+              "purchaseDate": "8/27/2019",
+              "storeCity": "",
+              "storeState": "VA"
+            }
+          ],
+          "amount": 14.3,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        }
+      ]
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 192355,
+      "dataPoints": 6,
+      "gramWeight": 90.7,
+      "sequenceNumber": 1,
+      "amount": 100.0,
+      "modifier": "",
+      "minDateAcquired": "6/20/2019",
+      "measureUnit": {
+        "id": 1004,
+        "name": "milliliter",
+        "abbreviation": "ml"
+      },
+      "minYearAcquired": 2019
+    }
+  ],
+  "dataType": "Foundation",
+  "foodClass": "FinalFood",
+  "inputFoods": [
+    {
+      "id": 46664,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748474,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46650,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748379,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46676,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748552,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46673,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748532,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46683,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748602,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46680,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748581,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46656,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748417,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46679,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748575,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46674,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748538,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46649,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748373,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46666,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748487,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46658,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748431,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46671,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748518,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46653,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748398,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46659,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748438,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46677,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748559,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46678,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748565,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46672,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748525,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46652,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748391,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46662,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748460,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46651,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748385,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46670,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748511,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46675,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748545,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46660,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748445,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46682,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748596,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46648,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748367,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46655,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748411,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46663,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748467,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46668,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748499,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46657,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748424,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46654,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748405,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46669,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748505,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46667,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748493,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46661,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748453,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46681,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748589,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 46665,
+      "foodDescription": "OLIVE OIL, EXTRA VIRGIN",
+      "inputFood": {
+        "fdcId": 748481,
+        "description": "OLIVE OIL, EXTRA VIRGIN",
+        "publicationDate": "12/16/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    }
+  ],
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [],
+  "ndbNumber": 4063,
+  "isHistoricalReference": false,
+  "foodCategory": {
+    "id": 4,
+    "code": "0400",
+    "description": "Fats and Oils"
+  }
+}

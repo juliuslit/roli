@@ -1,0 +1,55 @@
+{
+ "photo": "06",
+ "format_right": 0,
+ "format_reason": "not valid JSON as returned: Expecting value: line 1 column 1 (char 0)",
+ "check_list": [],
+ "dishes_found": 0.978021978021978,
+ "expected_items": 91,
+ "other_set_aside": 0,
+ "found_items": 89,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "MATTO VGN",
+  "Make your own pizza - standard base with sauce and mozzarella"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "MATTO VON ~ MATTO VGN (56%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.975,
+ "descriptions_checked": 40,
+ "tags_right": 0.7415730337078652,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9887640449438202,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 90,
+   "share_wrong": 0.011111111111111112
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 44.237766749982256,
+ "cost_usd": 0.02910825,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 2546,
+ "completion_tokens": 7253,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793369744-yG06UKCgXBOs331hHkg2"
+}

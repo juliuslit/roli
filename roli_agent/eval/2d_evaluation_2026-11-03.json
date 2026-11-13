@@ -1,0 +1,468 @@
+{
+ "run": "/Users/juliuslitinskas/projects/roli/roli_agent/eval/2d_controlled_2026-11-03.json",
+ "expectations": "/Users/juliuslitinskas/projects/roli/roli_agent/eval/expectations_2d_v1.csv",
+ "expectations_sha256": "d6921e2beeb800d5d3e9d95c451a43ac3b4a2de3ed37fad8fac83b6c0e2403e7",
+ "magnitude": [
+  {
+   "dish": "bluefin_crudo",
+   "nutrient": "saturated_fat_g",
+   "modeled_low": "0.507200",
+   "modeled_high": "4.290933",
+   "expected_low": "0.2",
+   "expected_high": "2.5",
+   "verdict": "overlaps_expected",
+   "modeled_wider_than_expected": true,
+   "n_bounded": 3,
+   "n_scenarios": 3
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "nutrient": "saturated_fat_g",
+   "modeled_low": "4.643331",
+   "modeled_high": "8.948213",
+   "expected_low": "2",
+   "expected_high": "7",
+   "verdict": "overlaps_expected",
+   "modeled_wider_than_expected": false,
+   "n_bounded": 1,
+   "n_scenarios": 1
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "nutrient": "saturated_fat_g",
+   "modeled_low": "0.818716",
+   "modeled_high": "2.227503007905958052538899555",
+   "expected_low": "0.3",
+   "expected_high": "3",
+   "verdict": "overlaps_expected",
+   "modeled_wider_than_expected": false,
+   "n_bounded": 2,
+   "n_scenarios": 2
+  },
+  {
+   "dish": "margherita",
+   "nutrient": "saturated_fat_g",
+   "modeled_low": "5.411197",
+   "modeled_high": "27.848985",
+   "expected_low": "10",
+   "expected_high": "25",
+   "verdict": "overlaps_expected",
+   "modeled_wider_than_expected": true,
+   "n_bounded": 3,
+   "n_scenarios": 3
+  },
+  {
+   "dish": "king_salmon",
+   "nutrient": "saturated_fat_g",
+   "modeled_low": "4.472288",
+   "modeled_high": "14.88647293122410767182878319",
+   "expected_low": "4",
+   "expected_high": "10",
+   "verdict": "overlaps_expected",
+   "modeled_wider_than_expected": true,
+   "n_bounded": 4,
+   "n_scenarios": 4
+  },
+  {
+   "dish": "bluefin_crudo",
+   "nutrient": "cholesterol_mg",
+   "modeled_low": "17.100000",
+   "modeled_high": "115.1000000000000000000000000",
+   "expected_low": "20",
+   "expected_high": "120",
+   "verdict": "overlaps_expected",
+   "modeled_wider_than_expected": false,
+   "n_bounded": 3,
+   "n_scenarios": 3
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "nutrient": "cholesterol_mg",
+   "modeled_low": "4.300000",
+   "modeled_high": "12.900000",
+   "expected_low": "3",
+   "expected_high": "15",
+   "verdict": "overlaps_expected",
+   "modeled_wider_than_expected": false,
+   "n_bounded": 1,
+   "n_scenarios": 1
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "nutrient": "cholesterol_mg",
+   "modeled_low": "0.000000",
+   "modeled_high": "0E-27",
+   "expected_low": "0",
+   "expected_high": "0",
+   "verdict": "overlaps_expected",
+   "modeled_wider_than_expected": false,
+   "n_bounded": 2,
+   "n_scenarios": 2
+  },
+  {
+   "dish": "margherita",
+   "nutrient": "cholesterol_mg",
+   "modeled_low": "22.396123",
+   "modeled_high": "141.556819",
+   "expected_low": "40",
+   "expected_high": "140",
+   "verdict": "overlaps_expected",
+   "modeled_wider_than_expected": true,
+   "n_bounded": 3,
+   "n_scenarios": 3
+  },
+  {
+   "dish": "king_salmon",
+   "nutrient": "cholesterol_mg",
+   "modeled_low": "56.500000",
+   "modeled_high": "154.538054",
+   "expected_low": "55",
+   "expected_high": "160",
+   "verdict": "overlaps_expected",
+   "modeled_wider_than_expected": false,
+   "n_bounded": 4,
+   "n_scenarios": 4
+  }
+ ],
+ "pairwise": [
+  {
+   "dish_a": "bluefin_crudo",
+   "dish_b": "heirloom_tomatoes",
+   "nutrient": "saturated_fat_g",
+   "verdict": "overlapping",
+   "lower": null,
+   "margin": null,
+   "reason": "bluefin_crudo 0.507-4.29 g overlaps heirloom_tomatoes 0.819-2.23 g",
+   "caveats": [
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 3 recipes",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 2 recipes"
+   ],
+   "expected_lower": "heirloom_tomatoes",
+   "expected_ranges_disjoint": false,
+   "status": "undecided (expected overlap)"
+  },
+  {
+   "dish_a": "bluefin_crudo",
+   "dish_b": "king_salmon",
+   "nutrient": "saturated_fat_g",
+   "verdict": "clear",
+   "lower": "bluefin_crudo",
+   "margin": "0.181355",
+   "reason": "bluefin_crudo at most 4.29 g per portion; king_salmon at least 4.47 g",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 3 recipes",
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "narrow margin: 0.181 g between bluefin_crudo's upper bound and king_salmon's lower bound, against ranges up to 10.4 g wide"
+   ],
+   "expected_lower": "bluefin_crudo",
+   "expected_ranges_disjoint": true,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "bluefin_crudo",
+   "dish_b": "little_gem_lettuces",
+   "nutrient": "saturated_fat_g",
+   "verdict": "clear",
+   "lower": "bluefin_crudo",
+   "margin": "0.352398",
+   "reason": "bluefin_crudo at most 4.29 g per portion; little_gem_lettuces at least 4.64 g",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 3 recipes",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 1 recipes",
+    "narrow margin: 0.352 g between bluefin_crudo's upper bound and little_gem_lettuces's lower bound, against ranges up to 4.30 g wide"
+   ],
+   "expected_lower": "bluefin_crudo",
+   "expected_ranges_disjoint": false,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "bluefin_crudo",
+   "dish_b": "margherita",
+   "nutrient": "saturated_fat_g",
+   "verdict": "clear",
+   "lower": "bluefin_crudo",
+   "margin": "1.120264",
+   "reason": "bluefin_crudo at most 4.29 g per portion; margherita at least 5.41 g",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 3 recipes",
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "narrow margin: 1.12 g between bluefin_crudo's upper bound and margherita's lower bound, against ranges up to 22.4 g wide"
+   ],
+   "expected_lower": "bluefin_crudo",
+   "expected_ranges_disjoint": true,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "heirloom_tomatoes",
+   "dish_b": "king_salmon",
+   "nutrient": "saturated_fat_g",
+   "verdict": "clear",
+   "lower": "heirloom_tomatoes",
+   "margin": "2.244784992094041947461100445",
+   "reason": "heirloom_tomatoes at most 2.23 g per portion; king_salmon at least 4.47 g",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 2 recipes",
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)"
+   ],
+   "expected_lower": "heirloom_tomatoes",
+   "expected_ranges_disjoint": true,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "heirloom_tomatoes",
+   "dish_b": "little_gem_lettuces",
+   "nutrient": "saturated_fat_g",
+   "verdict": "clear",
+   "lower": "heirloom_tomatoes",
+   "margin": "2.415827992094041947461100445",
+   "reason": "heirloom_tomatoes at most 2.23 g per portion; little_gem_lettuces at least 4.64 g",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 2 recipes",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 1 recipes"
+   ],
+   "expected_lower": "heirloom_tomatoes",
+   "expected_ranges_disjoint": false,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "heirloom_tomatoes",
+   "dish_b": "margherita",
+   "nutrient": "saturated_fat_g",
+   "verdict": "clear",
+   "lower": "heirloom_tomatoes",
+   "margin": "3.183693992094041947461100445",
+   "reason": "heirloom_tomatoes at most 2.23 g per portion; margherita at least 5.41 g",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 2 recipes",
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)"
+   ],
+   "expected_lower": "heirloom_tomatoes",
+   "expected_ranges_disjoint": true,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "king_salmon",
+   "dish_b": "little_gem_lettuces",
+   "nutrient": "saturated_fat_g",
+   "verdict": "overlapping",
+   "lower": null,
+   "margin": null,
+   "reason": "king_salmon 4.47-14.9 g overlaps little_gem_lettuces 4.64-8.95 g",
+   "caveats": [
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 1 recipes"
+   ],
+   "expected_lower": "little_gem_lettuces",
+   "expected_ranges_disjoint": false,
+   "status": "undecided (expected overlap)"
+  },
+  {
+   "dish_a": "king_salmon",
+   "dish_b": "margherita",
+   "nutrient": "saturated_fat_g",
+   "verdict": "overlapping",
+   "lower": null,
+   "margin": null,
+   "reason": "king_salmon 4.47-14.9 g overlaps margherita 5.41-27.8 g",
+   "caveats": [],
+   "expected_lower": "king_salmon",
+   "expected_ranges_disjoint": false,
+   "status": "undecided (expected overlap)"
+  },
+  {
+   "dish_a": "little_gem_lettuces",
+   "dish_b": "margherita",
+   "nutrient": "saturated_fat_g",
+   "verdict": "overlapping",
+   "lower": null,
+   "margin": null,
+   "reason": "little_gem_lettuces 4.64-8.95 g overlaps margherita 5.41-27.8 g",
+   "caveats": [
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 1 recipes"
+   ],
+   "expected_lower": "little_gem_lettuces",
+   "expected_ranges_disjoint": true,
+   "status": "undecided (expected a clear order)"
+  },
+  {
+   "dish_a": "bluefin_crudo",
+   "dish_b": "heirloom_tomatoes",
+   "nutrient": "cholesterol_mg",
+   "verdict": "clear",
+   "lower": "heirloom_tomatoes",
+   "margin": "17.10000000000000000000000000",
+   "reason": "heirloom_tomatoes at most 0 mg per portion; bluefin_crudo at least 17.1 mg",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 2 recipes",
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 3 recipes"
+   ],
+   "expected_lower": "heirloom_tomatoes",
+   "expected_ranges_disjoint": true,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "bluefin_crudo",
+   "dish_b": "king_salmon",
+   "nutrient": "cholesterol_mg",
+   "verdict": "overlapping",
+   "lower": null,
+   "margin": null,
+   "reason": "bluefin_crudo 17.1-115 mg overlaps king_salmon 56.5-155 mg",
+   "caveats": [
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 3 recipes"
+   ],
+   "expected_lower": "bluefin_crudo",
+   "expected_ranges_disjoint": false,
+   "status": "undecided (expected overlap)"
+  },
+  {
+   "dish_a": "bluefin_crudo",
+   "dish_b": "little_gem_lettuces",
+   "nutrient": "cholesterol_mg",
+   "verdict": "clear",
+   "lower": "little_gem_lettuces",
+   "margin": "4.200000",
+   "reason": "little_gem_lettuces at most 12.9 mg per portion; bluefin_crudo at least 17.1 mg",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 1 recipes",
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 3 recipes",
+    "narrow margin: 4.2 mg between little_gem_lettuces's upper bound and bluefin_crudo's lower bound, against ranges up to 98 mg wide"
+   ],
+   "expected_lower": "little_gem_lettuces",
+   "expected_ranges_disjoint": true,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "bluefin_crudo",
+   "dish_b": "margherita",
+   "nutrient": "cholesterol_mg",
+   "verdict": "overlapping",
+   "lower": null,
+   "margin": null,
+   "reason": "bluefin_crudo 17.1-115 mg overlaps margherita 22.4-142 mg",
+   "caveats": [
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 3 recipes"
+   ],
+   "expected_lower": "bluefin_crudo",
+   "expected_ranges_disjoint": false,
+   "status": "undecided (expected overlap)"
+  },
+  {
+   "dish_a": "heirloom_tomatoes",
+   "dish_b": "king_salmon",
+   "nutrient": "cholesterol_mg",
+   "verdict": "clear",
+   "lower": "heirloom_tomatoes",
+   "margin": "56.50000000000000000000000000",
+   "reason": "heirloom_tomatoes at most 0 mg per portion; king_salmon at least 56.5 mg",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 2 recipes",
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)"
+   ],
+   "expected_lower": "heirloom_tomatoes",
+   "expected_ranges_disjoint": true,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "heirloom_tomatoes",
+   "dish_b": "little_gem_lettuces",
+   "nutrient": "cholesterol_mg",
+   "verdict": "clear",
+   "lower": "heirloom_tomatoes",
+   "margin": "4.300000000000000000000000000",
+   "reason": "heirloom_tomatoes at most 0 mg per portion; little_gem_lettuces at least 4.3 mg",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 2 recipes",
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 1 recipes"
+   ],
+   "expected_lower": "heirloom_tomatoes",
+   "expected_ranges_disjoint": true,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "heirloom_tomatoes",
+   "dish_b": "margherita",
+   "nutrient": "cholesterol_mg",
+   "verdict": "clear",
+   "lower": "heirloom_tomatoes",
+   "margin": "22.39612300000000000000000000",
+   "reason": "heirloom_tomatoes at most 0 mg per portion; margherita at least 22.4 mg",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 2 recipes",
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)"
+   ],
+   "expected_lower": "heirloom_tomatoes",
+   "expected_ranges_disjoint": true,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "king_salmon",
+   "dish_b": "little_gem_lettuces",
+   "nutrient": "cholesterol_mg",
+   "verdict": "clear",
+   "lower": "little_gem_lettuces",
+   "margin": "43.600000",
+   "reason": "little_gem_lettuces at most 12.9 mg per portion; king_salmon at least 56.5 mg",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 1 recipes",
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)"
+   ],
+   "expected_lower": "little_gem_lettuces",
+   "expected_ranges_disjoint": true,
+   "status": "agrees"
+  },
+  {
+   "dish_a": "king_salmon",
+   "dish_b": "margherita",
+   "nutrient": "cholesterol_mg",
+   "verdict": "overlapping",
+   "lower": null,
+   "margin": null,
+   "reason": "king_salmon 56.5-155 mg overlaps margherita 22.4-142 mg",
+   "caveats": [],
+   "expected_lower": "margherita",
+   "expected_ranges_disjoint": false,
+   "status": "undecided (expected overlap)"
+  },
+  {
+   "dish_a": "little_gem_lettuces",
+   "dish_b": "margherita",
+   "nutrient": "cholesterol_mg",
+   "verdict": "clear",
+   "lower": "little_gem_lettuces",
+   "margin": "9.496123",
+   "reason": "little_gem_lettuces at most 12.9 mg per portion; margherita at least 22.4 mg",
+   "caveats": [
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "assumption-driven: assumed lines exceed 30 % of a known subtotal in 1 of 1 recipes",
+    "the upper bound includes external evidence bounds for lines no USDA record could calculate (labelled per scenario; never inside a total)",
+    "narrow margin: 9.50 mg between little_gem_lettuces's upper bound and margherita's lower bound, against ranges up to 119 mg wide"
+   ],
+   "expected_lower": "little_gem_lettuces",
+   "expected_ranges_disjoint": true,
+   "status": "agrees"
+  }
+ ],
+ "summary": {
+  "magnitude_consistent": 10,
+  "magnitude_total": 10,
+  "pairs_decided": 13,
+  "pairs_agree": 13,
+  "pairs_contradict": 0,
+  "pairs_undecided": 7
+ }
+}

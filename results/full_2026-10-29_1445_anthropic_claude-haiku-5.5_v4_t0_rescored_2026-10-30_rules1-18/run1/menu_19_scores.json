@@ -1,0 +1,70 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.8292682926829268,
+ "expected_items": 41,
+ "other_set_aside": 0,
+ "found_items": 34,
+ "joined_found": 3,
+ "unmatched_expected_names": [
+  "Our Special Blend Coffee",
+  "Other Delicious Bakery Pies",
+  "No. 1",
+  "No. 2",
+  "No. 3",
+  "No. 4",
+  "No. 5"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Coffee"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9117647058823529,
+ "price_wrong_names": [
+  "Steak Plate: price '50' vs key '65c'",
+  "Grilled Cheese: price '20' vs key ''",
+  "Waffles: price '30' vs key '20c'"
+ ],
+ "descriptions_right": 0.4375,
+ "descriptions_checked": 16,
+ "tags_right": 1.0,
+ "portion_right": 0.9705882352941176,
+ "has_choice_right": 0.9705882352941176,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 3,
+   "total": 25,
+   "share_wrong": 0.12
+  },
+  "low": {
+   "wrong": 1,
+   "total": 10,
+   "share_wrong": 0.1
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is small and slightly blurred in the photo, shot at an angle. Several lines in the dense sections (Breakfast Suggestions, Sandwiches, Drinks) are hard to read with certainty, so prices and some descriptions may be inaccurate. Lines I could not make out with confidence were left out.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 11.934431000001496,
+ "cost_usd": 0.0020563,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3748,
+ "completion_tokens": 3363,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793299754-CJHXPuYlRAGY8ovcf01k",
+ "rep": 1
+}

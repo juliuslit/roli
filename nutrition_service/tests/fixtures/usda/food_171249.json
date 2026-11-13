@@ -1,0 +1,87 @@
+{
+  "fdcId": 171249,
+  "description": "Cheese, romano",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "id": 1594165,
+      "amount": 17.115,
+      "dataPoints": 0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "id": 1594164,
+      "amount": 104.0,
+      "dataPoints": 1
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 88268,
+      "gramWeight": 142.0,
+      "sequenceNumber": 2,
+      "amount": 5.0,
+      "modifier": "package (5 oz)",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 88267,
+      "gramWeight": 28.35,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "modifier": "oz",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 14077,
+      "proteinValue": 4.27,
+      "fatValue": 8.79,
+      "carbohydrateValue": 3.87,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 19307,
+      "value": 6.38,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "inputFoods": [],
+  "ndbNumber": 1038,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 1,
+    "code": "0100",
+    "description": "Dairy and Egg Products"
+  }
+}

@@ -1,0 +1,103 @@
+{
+ "photo": "10",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Diced Fish (Spicy)",
+   "key_price": "",
+   "model_name": "Diced Fish (Spicy)",
+   "model_price": "310",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Mandarin Fish",
+   "key_price": "",
+   "model_name": "Mandarin Fish",
+   "model_price": "310",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Sichuan Fish",
+   "key_price": "",
+   "model_name": "Sichuan Fish",
+   "model_price": "310",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Apollo Fish",
+   "key_price": "",
+   "model_name": "Apollo Fish",
+   "model_price": "310",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Pepper Fish",
+   "key_price": "",
+   "model_name": "Pepper Fish",
+   "model_price": "310",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 157,
+ "other_set_aside": 0,
+ "found_items": 157,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.993421052631579,
+ "price_wrong_names": [
+  "Egg Drop Soup: price '115' vs key '11500'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 0.7133757961783439,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9617834394904459,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 149,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 6,
+   "total": 8,
+   "share_wrong": 0.75
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Left edge of the photo is cut off; a partial section on the far left (possibly soups or other items) is not legible and was not transcribed. Some items in the Fish and Prawn sections (lower rows, e.g. Ginger Fish, Diced Fish, Mandarin Fish, Sichuan Fish, Apollo Fish, Pepper Fish; Prawn items) are slightly faint, and a few prices there are partly obscured. Small print in the Soup and Momo sections is slightly blurred.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 38.63961987500079,
+ "cost_usd": 0.0070339,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2424,
+ "completion_tokens": 13583,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793298824-aysNZGEpjnLy9S3Np0Sx",
+ "rep": 2
+}

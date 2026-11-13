@@ -1,0 +1,53 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9761904761904762,
+ "expected_items": 42,
+ "found_items": 41,
+ "unmatched_expected_names": [
+  "Oysters - Humboldt Bay"
+ ],
+ "invented": 2,
+ "invented_names": [
+  "Oysters",
+  "Make it Vegan"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 0.9512195121951219,
+ "price_wrong_names": [
+  "Solaraide (Lemonade + Tea): price '4 / 4.50' vs key '4'",
+  "Lost Coast Root Beer: price '2.50' vs key '4.50'"
+ ],
+ "descriptions_right": 0.6818181818181818,
+ "descriptions_checked": 22,
+ "tags_right": 0.8780487804878049,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 35,
+   "share_wrong": 0.02857142857142857
+  },
+  "low": {
+   "wrong": 3,
+   "total": 8,
+   "share_wrong": 0.375
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Photo is a chalkboard menu with glare, reflections and a shadow across the middle and lower sections; some prices and descriptions are faint or partly hidden. A reflection of a person covers part of the lower-left area. Items with doubtful prices are marked low confidence. Items whose names were not clearly legible were omitted.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 17.105438124999637,
+ "cost_usd": 0.0025378,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": ""
+}

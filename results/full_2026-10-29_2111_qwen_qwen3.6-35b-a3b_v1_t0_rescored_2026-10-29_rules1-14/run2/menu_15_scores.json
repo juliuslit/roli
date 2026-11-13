@@ -1,0 +1,64 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 42,
+ "other_set_aside": 2,
+ "found_items": 42,
+ "joined_found": 4,
+ "unmatched_expected_names": [],
+ "invented": 4,
+ "invented_names": [
+  "Humboldt Grassfed Beef",
+  "the works",
+  "The works w/ cole slaw",
+  "Sauerkraut, swiss, mustard, meudo mustard, mayo, pickles on Rye"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9047619047619048,
+ "price_wrong_names": [
+  "Cheese Burger: price '13' vs key '11.50'",
+  "Sunset Burger: price '15' vs key '13'",
+  "Lost Coast Burger: price '13' vs key '15'",
+  "Humboldt Bay: price '' vs key '3 for 8.50 / 6 for 14.50 / 12 for 25.50'"
+ ],
+ "descriptions_right": 0.391304347826087,
+ "descriptions_checked": 23,
+ "tags_right": 0.8809523809523809,
+ "portion_right": 0.9761904761904762,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 7,
+   "total": 39,
+   "share_wrong": 0.1794871794871795
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 7,
+   "share_wrong": 0.14285714285714285
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The middle section of the menu is heavily obscured by glare and a reflection of a person taking the photo. Several items in the 'Chicken Sandwiches' and 'From The Sea' sections are partially or fully unreadable. Prices and descriptions for 'Dylan', 'Mediterranean', 'Wild West', 'Aloha', 'Brie', 'Salmon Burgers', and 'Oysters' are difficult to read accurately.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 26.854070957982913,
+ "cost_usd": 0.0038085,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2031,
+ "completion_tokens": 4006,
+ "generation_id": "gen-1793323431-nzaMEhnYVHbBwbsYI5Nr",
+ "rep": 2
+}

@@ -1,0 +1,102 @@
+{
+"readable": "yes",
+"problems": "",
+"items": [
+{
+"section": "",
+"category": "food",
+"name": "BLUEFIN CRUDO",
+"description": "bottarga, muscat grape, meyer lemon\nPalmento Costanzo, Carriante, Etna, Sicily, Italy '25",
+"price": "25",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "food",
+"name": "TALEGGIO SCARPINOCC",
+"description": "aceto balsamico, parmigiano reggiano",
+"price": "",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "food",
+"name": "STROZZAPRETI",
+"description": "chanterelle, turnip, wasabi, pecorino toscano\nHammerling, Sparkling Red, 'Big Night', California '24",
+"price": "",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "food",
+"name": "TORTELLINI IN BRODO",
+"description": "ham hock, shelling bean, chives\nWeingut Niklas, Schiavo, Alto Adige, Italy '24",
+"price": "",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "food",
+"name": "PORK BELLY",
+"description": "apple, agrodolce, collard greens\nPiquentum, Refash, Istria, Croatia '21",
+"price": "",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "food",
+"name": "CHOCOLATE BUDINO",
+"description": "espresso-caramel crema, sea salt\nFred Ferbis, Vermut, Friuli, Italy NV",
+"price": "",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "other",
+"name": "90 per person",
+"description": "",
+"price": "",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "other",
+"name": "45 optional wine pairing",
+"description": "",
+"price": "",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+}
+]
+}

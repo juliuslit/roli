@@ -1,0 +1,148 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Wafer / Masala Papad / Boiled Eggs",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Garlic Toast / Green Salad",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "French Fries / Hash Brown (6 pcs)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Cheese Cherry Pineapple Stick",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Onion Rings / Cheese Balls (Schezwan)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Cutlet & Fries (Veg / Chicken)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Koliwada (Paneer / Prawns)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  }
+ ],
+ "dishes_found": 0.6470588235294118,
+ "expected_items": 24,
+ "found_items": 11,
+ "unmatched_expected_names": [
+  "A.T.M. (Any Time Meal)",
+  "Funghi Con Crema",
+  "Malfatti Indiana",
+  "Amalfi",
+  "Aloo Tikka / Mushroom Tikka",
+  "Chicken Tandoori (Half / Full)"
+ ],
+ "invented": 15,
+ "invented_names": [
+  "MIXED BERRY",
+  "SANGRIA",
+  "SANGRIA ROSE",
+  "Nacho",
+  "French Fries",
+  "Chilli Cheese Cherry Pineapple Stick",
+  "Onion Rings",
+  "Cutlet & Fries",
+  "Kaliwada",
+  "Aloo Tikka",
+  "Chicken Tandoori",
+  "A.M. (Any Time Meal)",
+  "Penguin Corn Crema",
+  "Malai Indiana",
+  "Alakki"
+ ],
+ "cut_off_listed": 9,
+ "cut_off_names": [
+  "Achari Gobi Tikka",
+  "Paneer Tikka",
+  "Chicken Tikka",
+  "Chicken Sheek",
+  "Fish Tikka",
+  "King Prawns Tikka",
+  "CHICKEN TIKKA",
+  "Tandoor Naan",
+  "Butter Naan"
+ ],
+ "prices_right": 0.7272727272727273,
+ "price_wrong_names": [
+  "Vegetable Au Gratin: price '' vs key '530'",
+  "Brochettes de Legumes: price '' vs key '530'",
+  "Roast Chicken: price '530' vs key '590'"
+ ],
+ "descriptions_right": 0.0,
+ "descriptions_checked": 4,
+ "tags_right": 0.6363636363636364,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9090909090909091,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 10,
+   "total": 13,
+   "share_wrong": 0.7692307692307693
+  },
+  "medium": {
+   "wrong": 12,
+   "total": 17,
+   "share_wrong": 0.7058823529411765
+  },
+  "low": {
+   "wrong": 5,
+   "total": 5,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is split into two columns with significant glare and blur. The left column (Continental Menu) is partially readable but blurry. The right column (Tandoor Menu) is clearer but prices are cut off on the right edge. The items list below the 'VEGETARIAN' section on the right is cut off. Many items in the middle section (above Continental Menu) are blurred or obscured by the shakers.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 68.17313333299535,
+ "cost_usd": 0.00327065,
+ "finish_reason": "stop"
+}

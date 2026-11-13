@@ -1,0 +1,75 @@
+{
+ "photo": "24",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "Beef, Bac. & Cheddar",
+   "key_price": "",
+   "model_name": "BEEF, BAC. & CHEDDAR",
+   "model_price": "7 84",
+   "reason": "price differs"
+  },
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "French Dip w/Cheddar",
+   "key_price": "",
+   "model_name": "FRENCH DIP W/CHEDDAR",
+   "model_price": "7 9",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 7,
+ "other_set_aside": 0,
+ "found_items": 7,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 1,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 2,
+   "total": 6,
+   "share_wrong": 0.3333333333333333
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Right side cut off, full prices partially clipped, additional size/option columns cut off on the right",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 5.209395834011957,
+ "cost_usd": 0.00417825,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 2991,
+ "completion_tokens": 516,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793986630-XDMmwAq2eR2XELVpB9NG"
+}

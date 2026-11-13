@@ -1,0 +1,37 @@
+anthropic/claude-sonnet-5.5 x v5 x temperature 0: 50 answers, $1.90  [scoring_rules.md interpretations 1-18 (2026-10-30)]
+
+[as_written] passes: False
+  dishes found avg 92.5%  min photo 3%  by run {1: 92.9%, 2: 92.1%}
+  invented by run {1: 1, 2: 1}  cut-off listed by run {1: 1, 2: 1}  prices 95.5%  descriptions 83.2%  format 100.0% (fenced 0)
+  partly caught {1: '7/7', 2: '7/7'}  false alarms {1: 5, 2: 5}  speed 16 s  cost 3.80 c/photo
+  garbled 6  groupings 10  found via joined text 29  tokens in/out avg 4114/2974  reasoning tokens total 0
+    FAIL  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  2b cut-off lines listed 0 on both runs
+    PASS  3 prices >=95%
+    FAIL  4 descriptions >=90%
+    PASS  6 format >=98%
+    PASS  7 all partly photos caught, both runs
+    FAIL  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+[photo_17_set_aside] passes: False
+  dishes found avg 96.2%  min photo 38%  by run {1: 96.7%, 2: 95.8%}
+  invented by run {1: 1, 2: 1}  cut-off listed by run {1: 1, 2: 1}  prices 95.8%  descriptions 87.5%  format 100.0% (fenced 0)
+  partly caught {1: '6/6', 2: '6/6'}  false alarms {1: 5, 2: 5}  speed 16 s  cost 3.90 c/photo
+  garbled 6  groupings 10  found via joined text 29  tokens in/out avg 4129/3069  reasoning tokens total 0
+    PASS  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  2b cut-off lines listed 0 on both runs
+    PASS  3 prices >=95%
+    FAIL  4 descriptions >=90%
+    PASS  6 format >=98%
+    PASS  7 all partly photos caught, both runs
+    FAIL  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+hosts: Anthropic 50 calls, median 182 output tok/s
+
+check list: 3 medium/low key items -> /Users/juliuslitinskas/projects/roli/results/full_2026-10-30_1237_anthropic_claude-sonnet-5.5_v5_t0/check_list.csv

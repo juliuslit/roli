@@ -1,0 +1,140 @@
+{
+ "model": "qwen/qwen3.6-35b-a3b",
+ "prompt_version": "v1",
+ "temperature": 0,
+ "max_answer_tokens": 24000,
+ "deadline_seconds": 300,
+ "thinking": false,
+ "provider_order": [
+  "parasail",
+  "deepinfra"
+ ],
+ "photos": 1,
+ "repetitions": 2,
+ "calls_in_sequence": true,
+ "run_dir": "/Users/juliuslitinskas/projects/roli/results/full_2026-10-29_2205_qwen_qwen3.6-35b-a3b_v1_t0",
+ "rules": "scoring_rules.md interpretations 1-16 (2026-10-29)",
+ "calls": [
+  {
+   "photo": "17",
+   "rep": 1,
+   "seconds": 115.08232341599069,
+   "cost_usd": 0.0217711,
+   "finish_reason": "length",
+   "provider": "Parasail",
+   "error": "",
+   "prompt_tokens": 1711,
+   "completion_tokens": 24000,
+   "generation_id": "gen-1793325922-dNJ1z2d4ICYmg0Eaxmyf"
+  },
+  {
+   "photo": "17",
+   "rep": 2,
+   "seconds": 108.03301445799298,
+   "cost_usd": 0.0217711,
+   "finish_reason": "length",
+   "provider": "Parasail",
+   "error": "",
+   "prompt_tokens": 1711,
+   "completion_tokens": 24000,
+   "generation_id": "gen-1793326037-IoLRgqEVDa33g3PbdO9O"
+  }
+ ],
+ "as_written": {
+  "photos_set_aside": [],
+  "dishes_found_avg": 0.0,
+  "dishes_found_min_photo": 0.0,
+  "invented_total_by_run": {
+   "1": 0,
+   "2": 0
+  },
+  "prices_right_avg": null,
+  "descriptions_right_avg": null,
+  "format_right_avg": 0.0,
+  "partly_caught_by_run": {
+   "1": "0/1",
+   "2": "0/1"
+  },
+  "false_alarms_by_run": {
+   "1": 0,
+   "2": 0
+  },
+  "seconds_avg": 111.55766893699183,
+  "cost_avg_usd": 0.0217711,
+  "cost_total_usd": 0.0435422,
+  "cut_off_listed_total": 0,
+  "cut_off_listed_by_run": {
+   "1": 0,
+   "2": 0
+  },
+  "other_set_aside_total": 0,
+  "garbled_total": 0,
+  "grouping_total": 0,
+  "joined_found_total": 0,
+  "prompt_tokens_avg": 1711.0,
+  "completion_tokens_avg": 24000.0,
+  "dishes_found_by_run": {
+   "1": 0.0,
+   "2": 0.0
+  },
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": false,
+   "2 invented 0 on both runs": true,
+   "2b cut-off lines listed 0 on both runs": true,
+   "3 prices >=95%": false,
+   "4 descriptions >=90%": false,
+   "6 format >=98%": false,
+   "7 all partly photos caught, both runs": false,
+   "7 false alarms <=3 per run": true,
+   "8 speed <60 s avg": false
+  },
+  "passes": false,
+  "unstable_runs_differ_over_5_points": false
+ },
+ "photo_17_set_aside": {
+  "photos_set_aside": [
+   "17"
+  ],
+  "dishes_found_avg": null,
+  "dishes_found_min_photo": null,
+  "invented_total_by_run": {},
+  "prices_right_avg": null,
+  "descriptions_right_avg": null,
+  "format_right_avg": null,
+  "partly_caught_by_run": {},
+  "false_alarms_by_run": {},
+  "seconds_avg": null,
+  "cost_avg_usd": null,
+  "cost_total_usd": 0,
+  "cut_off_listed_total": 0,
+  "cut_off_listed_by_run": {},
+  "other_set_aside_total": 0,
+  "garbled_total": 0,
+  "grouping_total": 0,
+  "joined_found_total": 0,
+  "prompt_tokens_avg": null,
+  "completion_tokens_avg": null,
+  "dishes_found_by_run": {},
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": false,
+   "2 invented 0 on both runs": true,
+   "2b cut-off lines listed 0 on both runs": true,
+   "3 prices >=95%": false,
+   "4 descriptions >=90%": false,
+   "6 format >=98%": false,
+   "7 all partly photos caught, both runs": true,
+   "7 false alarms <=3 per run": true,
+   "8 speed <60 s avg": false
+  },
+  "passes": false
+ },
+ "hosts": {
+  "Parasail": {
+   "median_tokens_per_second": 222,
+   "calls_measured": 2,
+   "calls_total": 2
+  }
+ }
+}

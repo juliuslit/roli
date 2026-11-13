@@ -1,0 +1,63 @@
+{
+ "photo": "08",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9444444444444444,
+ "expected_items": 36,
+ "found_items": 34,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "SIRLOIN STEAK 10oz",
+  "add: Emmental Cheese 2.5 / Bacon 2.5 / Blue Cheese 2.5"
+ ],
+ "invented": 3,
+ "invented_names": [
+  "add : Emmental Cheese",
+  "Bacon",
+  "Blue Cheese"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "SIRLOIN STEAK ~ SIRLOIN STEAK 10oz (72%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8529411764705882,
+ "price_wrong_names": [
+  "BAKED VANILLA CHEESECAKE: price '' vs key '8'",
+  "STICKY TOFFEE PUDDING: price '' vs key '8'",
+  "APPLE & CRUMBLE RHUBARB: price '' vs key '8'",
+  "BISCOFF DOUGHNUTS: price '' vs key '8'",
+  "CHOCOLATE BROWNIE: price '' vs key '8'"
+ ],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 26,
+ "tags_right": 0.5294117647058824,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9705882352941176,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 9,
+   "total": 38,
+   "share_wrong": 0.23684210526315788
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 113.58054695799365,
+ "cost_usd": 0.00340365,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 1803,
+ "completion_tokens": 3393,
+ "generation_id": "gen-1793301348-8a5QX6rzz7iF7yWBGiyO"
+}

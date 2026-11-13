@@ -1,0 +1,10 @@
+# Test report, Phase 3 (2026-11-03)
+
+--- roli_agent (root .venv) ---
+SKIPPED [1] roli_agent/tests/test_live.py:48: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:55: set ROLI_LIVE_TESTS=1 for live calls
+248 passed, 4 skipped, 1 warning in 2.31s
+
+--- nutrition_service ---
+SKIPPED [1] tests/test_live.py:46: set ROLI_LIVE_TESTS=1 to call USDA
+308 passed, 4 skipped in 2.89s

@@ -1,0 +1,72 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.8536585365853658,
+ "expected_items": 41,
+ "other_set_aside": 0,
+ "found_items": 35,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Our Special Blend Coffee",
+  "No. 1",
+  "No. 2",
+  "No. 3",
+  "No. 4",
+  "No. 5"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Coffee"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 1,
+ "grouping_names": [
+  "Our Homemade Pies -> ['Icebox Chocolate', 'Half Moon Peach', 'Half Moon Apple', 'Other Delicious Bakery Pies']"
+ ],
+ "prices_right": 0.8709677419354839,
+ "price_wrong_names": [
+  "Grilled Cheese: price '20' vs key ''",
+  "Waffles: price '30' vs key '20c'",
+  "Ham: price '10' vs key '20c'",
+  "Steak Plate: price '45' vs key '65c'"
+ ],
+ "descriptions_right": 0.5384615384615384,
+ "descriptions_checked": 13,
+ "tags_right": 1.0,
+ "portion_right": 0.9354838709677419,
+ "has_choice_right": 0.967741935483871,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 2,
+   "share_wrong": 0.5
+  },
+  "low": {
+   "wrong": 5,
+   "total": 31,
+   "share_wrong": 0.16129032258064516
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is photographed at an angle and is small, so many item names and prices are faint or hard to read. Some small-print descriptions and the breakfast suggestion details could not be reliably read. Items with unclear prices are marked low confidence or left blank.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 11.963083374983398,
+ "cost_usd": 0.0019478,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "reasoning_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

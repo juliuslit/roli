@@ -1,0 +1,66 @@
+{
+ "photo": "08",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.868421052631579,
+ "expected_items": 38,
+ "other_set_aside": 0,
+ "found_items": 33,
+ "joined_found": 18,
+ "unmatched_expected_names": [
+  "THE FARMHOUSE",
+  "WAGYU BEEF BURGER",
+  "Bacon",
+  "Blue Cheese",
+  "THE GREYHOUND VEGAN BURGER"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 3,
+ "garbled_names": [
+  "THE FARMHOUSE 33 ~ THE FARMHOUSE (81%)",
+  "WAGYU BEEF BURGER 19 ~ WAGYU BEEF BURGER (85%)",
+  "THE GREYHOUND VEGAN BURGER 17 VG ~ THE GREYHOUND VEGAN BURGER (90%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8484848484848485,
+ "price_wrong_names": [
+  "STICKY TOFFEE PUDDING: price '' vs key '8'",
+  "APPLE & CRUMBLE RHUBARB: price '' vs key '8'",
+  "BISCOFF DOUGHNUTS: price '' vs key '8'",
+  "CHOCOLATE BROWNIE: price '' vs key '8'",
+  "BAKED VANILA CHEESECAKE: price '' vs key '8'"
+ ],
+ "descriptions_right": 0.9583333333333334,
+ "descriptions_checked": 24,
+ "tags_right": 0.5454545454545454,
+ "portion_right": 0.9696969696969697,
+ "has_choice_right": 0.9393939393939394,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 8,
+   "total": 36,
+   "share_wrong": 0.2222222222222222
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 98.75742129201535,
+ "cost_usd": 0.0024114,
+ "finish_reason": "stop",
+ "provider": "Novita",
+ "error": "",
+ "prompt_tokens": 2012,
+ "completion_tokens": 2870,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793363072-eiqN7aInyRUToDqavzAz",
+ "rep": 1
+}

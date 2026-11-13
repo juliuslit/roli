@@ -1,0 +1,55 @@
+{
+ "photo": "09",
+ "format_right": 0,
+ "format_reason": "item 6 ('Scrambled Eggs on Toast') missing ['belongs_to']",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9333333333333333,
+ "expected_items": 15,
+ "other_set_aside": 0,
+ "found_items": 14,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Bacon"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9285714285714286,
+ "price_wrong_names": [
+  "Bacon: price '3 | 3' vs key '3'"
+ ],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.7142857142857143,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 14,
+   "share_wrong": 0.07142857142857142
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 8.207122874970082,
+ "cost_usd": 0.00615075,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 3051,
+ "completion_tokens": 1030,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793987718-mq55AhmwDUo7Z9vsTFFv"
+}

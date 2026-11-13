@@ -1,0 +1,68 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.7380952380952381,
+ "expected_items": 42,
+ "other_set_aside": 2,
+ "found_items": 31,
+ "joined_found": 3,
+ "unmatched_expected_names": [
+  "Chicken",
+  "Dylan",
+  "Mediterraean",
+  "Wild west",
+  "Aloha",
+  "Brie",
+  "Grilled Beef Frank",
+  "Polish",
+  "Salmon Burgers",
+  "Oysters - Humboldt Bay",
+  "BLT w/ coleslaw"
+ ],
+ "invented": 3,
+ "invented_names": [
+  "Humboldt Grassfed Beef",
+  "BLT",
+  "Sauerkraut"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9354838709677419,
+ "price_wrong_names": [
+  "Cheese Burger: price '13' vs key '11.50'",
+  "the works: price '' vs key '10.50'"
+ ],
+ "descriptions_right": 0.5714285714285714,
+ "descriptions_checked": 14,
+ "tags_right": 0.8387096774193549,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 5,
+   "total": 34,
+   "share_wrong": 0.14705882352941177
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The middle section of the menu is heavily obscured by glare and reflection, making the 'Chicken Sandwiches' and 'From The Sea' sections largely unreadable. Items like 'Dylan', 'Mediterranean', 'Wild West', 'Aloha', 'Brie', 'Salmon Burgers', and 'Oysters' cannot be read with certainty.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 15.974320790992351,
+ "cost_usd": 0.0024947,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2825,
+ "completion_tokens": 2546,
+ "generation_id": "gen-1793325405-xEpjpCbQiU1iRljV30WT"
+}

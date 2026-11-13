@@ -1,0 +1,89 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.375,
+ "expected_items": 24,
+ "other_set_aside": 0,
+ "found_items": 9,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Funghi Con Crema",
+  "Malfatti Indiana",
+  "Amalfi",
+  "Wafer / Masala Papad / Boiled Eggs",
+  "Garlic Toast / Green Salad",
+  "French Fries / Hash Brown (6 pcs)",
+  "Cheese Cherry Pineapple Stick",
+  "Onion Rings / Cheese Balls (Schezwan)",
+  "Chilly Cheese Toast",
+  "Cutlet & Fries (Veg / Chicken)",
+  "Koliwada (Paneer / Prawns)",
+  "Mondy's Steak Boti",
+  "Masala Omelette with French Fries",
+  "Kheema Pao / Kheema Gotala",
+  "Extra Sauce"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 7,
+ "cut_off_names": [
+  "Achari Gobi Tikka / Baby Corn Tikka",
+  "Paneer Tikka / Malai / Achari / Shashlik",
+  "Chicken Tikka / Malai / Reshmi",
+  "Chicken Sheek / Achari / Tandoori",
+  "Fish Tikka / Achari / Kalami",
+  "King Prawns Tikka / Haryanvi",
+  "Tandoor Naan / Butter Naan"
+ ],
+ "garbled": 3,
+ "garbled_names": [
+  "Punght Con Crema ~ Funghi Con Crema (88%)",
+  "Malai Indiana ~ Malfatti Indiana (81%)",
+  "Anali ~ Amalfi (67%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.25,
+ "descriptions_checked": 4,
+ "tags_right": 0.2222222222222222,
+ "portion_right": 1.0,
+ "has_choice_right": 0.7777777777777778,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 2,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 3,
+   "total": 5,
+   "share_wrong": 0.6
+  },
+  "low": {
+   "wrong": 7,
+   "total": 12,
+   "share_wrong": 0.5833333333333334
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is partially obscured by two salt and pepper shakers in the foreground. The left column (Continental Menu) is heavily blocked, and the right column (Tandoor Menu) is partially blocked. Many prices are illegible or completely hidden. The text is dense and small, making some items difficult to read with certainty.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 65.92920645797858,
+ "cost_usd": 0.0016353,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 2597,
+ "completion_tokens": 1448,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793315171-rUL1Zmv7GyNHxiIGKyId",
+ "rep": 2
+}

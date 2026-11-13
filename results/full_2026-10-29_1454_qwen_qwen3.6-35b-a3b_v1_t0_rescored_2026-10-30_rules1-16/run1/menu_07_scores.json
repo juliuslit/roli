@@ -1,0 +1,55 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 46,
+ "other_set_aside": 2,
+ "found_items": 46,
+ "joined_found": 2,
+ "unmatched_expected_names": [],
+ "invented": 2,
+ "invented_names": [
+  "Victorian Lemonade, Ginger Beer, Sparkling Elderflower",
+  "Bright, orchard fruits & brioche"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9782608695652174,
+ "price_wrong_names": [
+  "Caramel, Vanilla, Hazelnut: price '0.6' vs key '0.5'"
+ ],
+ "descriptions_right": 0.0,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.8913043478260869,
+ "has_choice_right": 0.782608695652174,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 3,
+   "total": 48,
+   "share_wrong": 0.0625
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 102.27866954199271,
+ "cost_usd": 0.00368105,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 1803,
+ "completion_tokens": 3685,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793301246-8tD6fyn5AbEujvJG37j5",
+ "rep": 1
+}

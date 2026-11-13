@@ -1,0 +1,9 @@
+{"readable": "partly", "problems": "Chalkboard sign with no prices printed. One bullet line (between HOT DOGS and BAKED GOODS) is blank or smudged: 1 line left out, no readable name. Signs at the edge of the photo (Key Drop Box, Wi-Fi, U-Haul) were ignored.", "items": [
+{"section": "SERVING:", "category": "food", "name": "DELI SANDWICHES", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "HOT CHICKEN SANDWICHES", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "BREAKFAST SANDWICHES", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "BLT", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "MAC 'N' CHEESE", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "HOT DOGS", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SERVING:", "category": "food", "name": "BAKED GOODS", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"}
+]}

@@ -1,0 +1,19 @@
+Checkpoint 3E test report, 2026-11-06 08:58 EST
+
+Agent suite: .venv/bin/python -m pytest -q -p no:cacheprovider (from the repo root, LANGSMITH_TRACING=false)
+=========================== short test summary info ============================
+SKIPPED [1] roli_agent/tests/test_live.py:34: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:41: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:48: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:55: set ROLI_LIVE_TESTS=1 for live calls
+358 passed, 4 skipped, 1 warning in 6.68s
+
+Library suite: nutrition_service/.venv/bin/python -m pytest -q -p no:cacheprovider (from nutrition_service/)
+=========================== short test summary info ============================
+SKIPPED [1] tests/test_live.py:25: set ROLI_LIVE_TESTS=1 to call USDA
+SKIPPED [1] tests/test_live.py:33: set ROLI_LIVE_TESTS=1 to call USDA
+SKIPPED [1] tests/test_live.py:40: set ROLI_LIVE_TESTS=1 to call USDA
+SKIPPED [1] tests/test_live.py:46: set ROLI_LIVE_TESTS=1 to call USDA
+333 passed, 4 skipped in 2.95s
+
+Baselines at Checkpoint 3D: agent 338 passed, library 332 passed.

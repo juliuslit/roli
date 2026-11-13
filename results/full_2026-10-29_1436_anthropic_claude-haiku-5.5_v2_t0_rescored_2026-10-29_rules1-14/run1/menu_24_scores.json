@@ -1,0 +1,73 @@
+{
+ "photo": "24",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "Beef, Bac. & Cheddar",
+   "key_price": "",
+   "model_name": "BEEF, BAC. & CHEDDAR",
+   "model_price": "7 8",
+   "reason": "price differs"
+  },
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "French Dip w/Cheddar",
+   "key_price": "",
+   "model_name": "W/CHEDDAR",
+   "model_price": "7 9",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 7,
+ "other_set_aside": 0,
+ "found_items": 7,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.2,
+ "price_wrong_names": [
+  "BEST BEEF: price '6 7' vs key '6.74'",
+  "BEEF SUPREME: price '7 4' vs key '7.44'",
+  "BEEF, BACON & CHEESE: price '7 8' vs key '7.84'",
+  "BEEF & CHEDDAR: price '7 3' vs key '7.34'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "low": {
+   "wrong": 6,
+   "total": 7,
+   "share_wrong": 0.8571428571428571
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The photo is cropped at the top and right edges. The section heading is cut off ('HOT SANDWICHES' partly visible). Prices for several items are cut off at the right edge (e.g., '67', '74', '78', '73', '78', '79' may be incomplete). The 'REG' column label is visible but the full price for some rows is not. Item names at the left edge are complete. Prices are shown as partial digits only and may be missing a final digit, so prices are given as printed where readable and flagged as low confidence.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 4.344209708011476,
+ "cost_usd": 0.0007519,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3334,
+ "completion_tokens": 837,
+ "generation_id": "gen-1793299245-qDc70gWJigVAiPkJ4mIO",
+ "rep": 1
+}

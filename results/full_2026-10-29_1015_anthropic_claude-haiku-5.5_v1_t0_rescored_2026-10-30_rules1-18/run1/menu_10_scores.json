@@ -1,0 +1,104 @@
+{
+ "photo": "10",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Diced Fish (Spicy)",
+   "key_price": "",
+   "model_name": "Diced Fish (Spicy)",
+   "model_price": "310",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Mandarin Fish",
+   "key_price": "",
+   "model_name": "Mandarin Fish",
+   "model_price": "310",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Sichuan Fish",
+   "key_price": "",
+   "model_name": "Sichuan Fish",
+   "model_price": "310",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Apollo Fish",
+   "key_price": "",
+   "model_name": "Apollo Fish",
+   "model_price": "310",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Pepper Fish",
+   "key_price": "",
+   "model_name": "Pepper Fish",
+   "model_price": "310",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 157,
+ "other_set_aside": 0,
+ "found_items": 157,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.993421052631579,
+ "price_wrong_names": [
+  "Egg Drop Soup: price '115' vs key '11500'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 0.7133757961783439,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9617834394904459,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 149,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 6,
+   "total": 8,
+   "share_wrong": 0.75
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Left edge of the photo is cut off, so some items at the far left are not visible and were not listed. Fish section lower items (Ginger Fish through Pepper Fish) and some prawn prices are faint/slightly blurred; confidence lowered accordingly. Several sections are small print and may be misread.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 40.96694350001053,
+ "cost_usd": 0.0069994,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "reasoning_tokens": null,
+ "generation_id": null,
+ "rep": 1
+}

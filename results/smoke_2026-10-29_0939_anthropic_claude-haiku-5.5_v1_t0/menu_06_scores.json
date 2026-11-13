@@ -1,0 +1,71 @@
+{
+ "photo": "06",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8681318681318682,
+ "expected_items": 91,
+ "found_items": 79,
+ "unmatched_expected_names": [
+  "WHOLEGRAIN SPELT BASE",
+  "BASE MADE WITH NON GLUTEN FLOUR",
+  "Make your own pizza - standard base with sauce and mozzarella",
+  "Garlic butter",
+  "Garlic oil (vgn)",
+  "Garlic mayo",
+  "Marinara sauce (vgn)",
+  "Sundried tomato (vgn) (contains garlic)",
+  "BBQ sauce (vgn)",
+  "Chilli jam (vgn)",
+  "Chilli oil (vgn)",
+  "Almond pesto (vgn)"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "DIPS"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 0.8987341772151899,
+ "price_wrong_names": [
+  "Dolcelatte blue cheese: price '' vs key '£1.65 each'",
+  "Feta: price '' vs key '£1.65 each'",
+  "Parmesan: price '' vs key '£1.65 each'",
+  "Almond Pesto (vgn): price '' vs key '£1.65 each'",
+  "Mascarpone: price '' vs key '£1.65 each'",
+  "Goats cheese: price '' vs key '£1.65 each'",
+  "OLIVES: price '4' vs key '£1.15 each'",
+  "Olives: price '1.15' vs key '£4'"
+ ],
+ "descriptions_right": 0.8461538461538461,
+ "descriptions_checked": 39,
+ "tags_right": 0.7848101265822784,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9873417721518988,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 32,
+   "share_wrong": 0.03125
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 19,
+   "share_wrong": 0.05263157894736842
+  },
+  "low": {
+   "wrong": 7,
+   "total": 29,
+   "share_wrong": 0.2413793103448276
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is slightly skewed and some small print is faint, especially Spare Parts add-on prices and some tags; left-edge and right-edge text partially cut. Several prices are ambiguous (e.g. 'Mozzarella' and 'vegan sausage' price lines grouped). The Bases section lists non-pizza base options only; items listed as bases were included where priced.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 27.6909136249742,
+ "cost_usd": 0.0050375,
+ "finish_reason": "stop"
+}

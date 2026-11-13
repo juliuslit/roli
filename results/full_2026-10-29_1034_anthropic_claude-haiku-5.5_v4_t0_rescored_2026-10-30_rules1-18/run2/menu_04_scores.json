@@ -1,0 +1,59 @@
+{
+ "photo": "04",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.8571428571428571,
+ "expected_items": 7,
+ "other_set_aside": 0,
+ "found_items": 6,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "STROZZAPRETI"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.16666666666666666,
+ "price_wrong_names": [
+  "BLUEFIN CRUDO: price '90' vs key ''",
+  "TALEGGIO SCARPINOCC: price '90' vs key ''",
+  "TORTELLINI IN BRODO: price '90' vs key ''",
+  "PORK BELLY: price '90' vs key ''",
+  "CHOCOLATE BUDINO: price '90' vs key ''"
+ ],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 5,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 5,
+   "total": 6,
+   "share_wrong": 0.8333333333333334
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "The menu is for SF Restaurant Week. The wine pairing lines and the full-table note are printed on the card, and a second menu card is partly visible at the top right (upside down and cut off), which I have ignored. Several wine lines appear beneath dishes and are treated as part of the description.",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 4.874585165991448,
+ "cost_usd": 0.0007908,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "reasoning_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

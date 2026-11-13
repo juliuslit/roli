@@ -1,0 +1,61 @@
+{
+ "photo": "04",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 7,
+ "other_set_aside": 1,
+ "found_items": 7,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 1,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 5,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 0,
+   "total": 1,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Front card is a set menu (SF Restaurant Week) with one price line '90 per person' and '45 optional wine pairing'; the wine pairing line is recorded as other. Wine pairing lines printed in italics under each course are wine notes and are included in descriptions. Background menus and wine list are partly cut off and not read. Left-column edge partly obscured by the decorative seal; no item names lost.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 5.337064082996221,
+ "cost_usd": 0.0009451,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 4186,
+ "completion_tokens": 1053,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793377741-nOBXfDgIoJsESG1hHhCC"
+}

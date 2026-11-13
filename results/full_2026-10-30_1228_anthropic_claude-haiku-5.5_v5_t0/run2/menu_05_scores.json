@@ -1,0 +1,64 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9545454545454546,
+ "expected_items": 66,
+ "other_set_aside": 1,
+ "found_items": 63,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "DAILY SPECIAL (PLEASE ASK)",
+  "add shot of spirulina",
+  "add scoop of vegan protein"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 1,
+ "grouping_names": [
+  "parent FRESHLY BAKED JACKETS -> ['Ham and Cheese', 'Beans and Cheese', 'Barbecue Pulled Pork', 'Mediterranean roast vegetables (vegan)']"
+ ],
+ "prices_right": 0.9830508474576272,
+ "price_wrong_names": [
+  "ULTIMATE BREAKFAST SANDWICH: price '5.50 1 filling / 6.50 2 fillings / 7.50 3 fillings' vs key '5.50 / 6.50 / 7.50'"
+ ],
+ "descriptions_right": 0.9615384615384616,
+ "descriptions_checked": 26,
+ "tags_right": 0.8983050847457628,
+ "portion_right": 0.7966101694915254,
+ "has_choice_right": 0.9152542372881356,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 48,
+   "share_wrong": 0.020833333333333332
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 11,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 27.37725625000894,
+ "cost_usd": 0.0038256,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 4186,
+ "completion_tokens": 6814,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793378024-VgenbN2fDZe558THf0AJ"
+}

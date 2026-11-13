@@ -1,0 +1,68 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8536585365853658,
+ "expected_items": 41,
+ "found_items": 35,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Our Special Blend Coffee",
+  "No. 1",
+  "No. 2",
+  "No. 3",
+  "No. 4",
+  "No. 5"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Coffee"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 1,
+ "grouping_names": [
+  "Our Homemade Pies -> ['Icebox Chocolate', 'Half Moon Peach', 'Half Moon Apple', 'Other Delicious Bakery Pies']"
+ ],
+ "prices_right": 0.9032258064516129,
+ "price_wrong_names": [
+  "Waffles: price '30' vs key '20c'",
+  "Steak Plate: price '45' vs key '65c'",
+  "Grilled Cheese: price '15' vs key ''"
+ ],
+ "descriptions_right": 0.46153846153846156,
+ "descriptions_checked": 13,
+ "tags_right": 1.0,
+ "portion_right": 0.9354838709677419,
+ "has_choice_right": 0.967741935483871,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 3,
+   "total": 19,
+   "share_wrong": 0.15789473684210525
+  },
+  "low": {
+   "wrong": 2,
+   "total": 14,
+   "share_wrong": 0.14285714285714285
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is a small, low-resolution print on a blue card photographed at an angle; much of the fine text is very small and blurred. Prices are small but mostly legible (e.g. 5c, 10c, 15c, 20c, 25c, 30c). Some lines in the Breakfast Suggestions and Drinks columns are too blurred to read with certainty; those are recorded with low confidence or omitted. The Breakfast Suggestions 'No. 1–5' combo prices and some description lines are partly unreadable.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 10.809775125002488,
+ "cost_usd": 0.0020198,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3748,
+ "completion_tokens": 3290,
+ "generation_id": "gen-1793300012-KZFOoU5f5PAFHTE817vB"
+}

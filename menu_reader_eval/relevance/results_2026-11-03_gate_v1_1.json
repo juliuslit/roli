@@ -1,0 +1,343 @@
+{
+ "date": "2026-11-03",
+ "set_sha256": "f9b7b6fc3ec257abe243235b2275c15485e03f8afd6f3c504c864db5020ba422",
+ "gate": [
+  {
+   "dish": "bluefin_crudo",
+   "title": "Flatiron NoMad Foodie: L’Adresse NoMad’s Bluefin Tuna Crudo - Flatiron NoMad",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Summertime Tuna Crudo with Caviar – SoPo Seafood",
+   "gate": "rejected",
+   "reason": "listicle_or_collection:no_quantities",
+   "ref_gate": "rejected",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Tuna Crudo — Sea Forager",
+   "gate": "rejected",
+   "reason": "listicle_or_collection:no_quantities",
+   "ref_gate": "rejected",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Spicy Tuna Crudo with Shoyu Ponzu Sauce",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Sicilian Tuna Crudo with Olives and Pistachios",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Tuna Crudo with Citrus Caper Vinaigrette",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Tuna Crudo | James Beard Foundation",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Tuna Crudo",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Spaghettini With Bottarga and Colatura",
+   "gate": "rejected",
+   "reason": "dish_word_absent:carpaccio/crudo/raw/sashimi/tartare",
+   "ref_gate": "rejected",
+   "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Spaghetti with bottarga sauce",
+   "gate": "rejected",
+   "reason": "dish_word_absent:carpaccio/crudo/raw/sashimi/tartare",
+   "ref_gate": "rejected",
+   "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Baby Gem Lettuce. - by Rachel Phipps - ingredient",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Baby Gem Lettuce Salad",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Little Gem Cookies Food",
+   "gate": "rejected",
+   "reason": "hard_exclusion:main_ingredient_cooked_in_method:cook",
+   "ref_gate": "rejected",
+   "ref_hard_exclusion": "hard_exclusion:main_ingredient_cooked_in_method"
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Little Gem Salad",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Grilled Little Gem salad",
+   "gate": "rejected",
+   "reason": "hard_exclusion:main_ingredient_cooked_in_method:grill",
+   "ref_gate": "rejected",
+   "ref_hard_exclusion": "hard_exclusion:preparation_different"
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Little Gem Wedge Salad with Bacon, Blue Cheese, and Warm Garlic Croutons",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Grilled Little Gems With Creamy Tarragon Dressing",
+   "gate": "rejected",
+   "reason": "hard_exclusion:main_ingredient_cooked_in_method:grill",
+   "ref_gate": "rejected",
+   "ref_hard_exclusion": "hard_exclusion:preparation_different"
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Baked Goat Cheese With Garden Lettuces",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "title": "Roasted Heirloom Tomato Soup with Smoked Paprika",
+   "gate": "rejected",
+   "reason": "listicle_or_collection:no_quantities",
+   "ref_gate": "rejected",
+   "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "title": "6 Tasty Recipes Using Heirloom Tomatoes - Marin Mama Cooks",
+   "gate": "rejected",
+   "reason": "listicle_or_collection:title",
+   "ref_gate": "rejected",
+   "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "title": "Heirloom Tomato Salad",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "title": "Pluot-Tomato Salad With Suya Pistachio Crunch",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "title": "Chamoy Tomato Salad",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza Recipe",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "margherita",
+   "title": "Best Homemade Margherita Pizza",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "margherita",
+   "title": "Easy Pizza Margherita Recipe",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "margherita",
+   "title": "Easy Margherita Pizza",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "margherita",
+   "title": "Alexandra Stafford's Classic Margherita Pizza – Cherry Bombe",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "margherita",
+   "title": "The Perfect Margherita Pizza",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "king_salmon",
+   "title": "King Salmon Recipe | Pan Seared King Salmon",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Baked King Salmon",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Pan-Seared Buttery Ora King Salmon Fillets",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Simple King Salmon en Papillote",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Best Easy Healthy Baked Salmon",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Crispy Skin Salmon with Lemon Butter Garlic Sauce",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Pan-Seared Wild Pacific King Salmon with Lemon and Thyme Polenta Cake",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": ""
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Salmon, squash & prawn laksa",
+   "gate": "passed",
+   "reason": "",
+   "ref_gate": "passed",
+   "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+  }
+ ],
+ "runs": []
+}

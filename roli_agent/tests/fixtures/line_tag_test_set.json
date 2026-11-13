@@ -1,0 +1,1230 @@
+{
+ "name": "Roli line-tag test set",
+ "version": 3,
+ "created": "2026-11-06",
+ "spec": "SPEC_3_mvp.md 12.9.3",
+ "how": "Each recipe goes through roli_agent.recipes.tags.tag_lines exactly as a live dish does. 'role' and 'kind' are the expected tags and 'rule' says where they come from. A 'kind' of null is not scored (12.10.3 decides that line's role only).",
+ "recipes": [
+  {
+   "dish": "PADRON PEPPERS",
+   "section": "BAR SNACKS",
+   "title": "Blistered Padron Peppers",
+   "method": "Heat the oil in a large skillet over high heat. Add the peppers and cook, tossing, until blistered. Sprinkle with salt and serve.",
+   "lines": [
+    {
+     "line": "3 tablespoons olive oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.2 oil used to blister (seen in 3D)"
+    },
+    {
+     "line": "1 pound padron peppers",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "Flaky sea salt",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "seasoning stays on the food"
+    }
+   ]
+  },
+  {
+   "dish": "PADRON PEPPERS",
+   "section": "BAR SNACKS",
+   "title": "Padron Peppers with Lemon",
+   "method": "Warm the olive oil in a heavy pan. Blister the peppers for 4 minutes.",
+   "lines": [
+    {
+     "line": "1 to 2 tablespoons olive oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.2 oil used to blister (seen in 3D)"
+    },
+    {
+     "line": "8 oz padron peppers",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "1 lemon, cut into wedges",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "served on the plate"
+    }
+   ]
+  },
+  {
+   "dish": "PAN FRIED SEABASS",
+   "section": "MAINS",
+   "title": "Pan-Seared Sea Bass",
+   "method": "Heat the oil in a non-stick pan. Sear the fish skin side down for 3 minutes, add the butter and baste.",
+   "lines": [
+    {
+     "line": "2 tbsp olive oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.2 searing oil (seen in 3D)"
+    },
+    {
+     "line": "1 knob of butter",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.2 fat that stays with the food"
+    },
+    {
+     "line": "4 sea bass fillets",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "SNAPPER",
+   "section": "MAINS",
+   "title": "Seared Snapper",
+   "method": "Sear the snapper in the hot oil until crisp, 4 minutes a side.",
+   "lines": [
+    {
+     "line": "2 tablespoons vegetable oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.2 searing oil (seen in 3D)"
+    },
+    {
+     "line": "2 snapper fillets, skin on",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "MUSHROOMS ON TOAST",
+   "section": "STARTERS",
+   "title": "Sauteed Mushrooms",
+   "method": "Melt the butter in a skillet and saute the mushrooms until golden.",
+   "lines": [
+    {
+     "line": "2 tablespoons unsalted butter",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.2 saute fat"
+    },
+    {
+     "line": "1 pound mushrooms, sliced",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "PORK SCHNITZEL",
+   "section": "MAINS",
+   "title": "Pan-Fried Pork Cutlets",
+   "method": "Heat the oil in a frying pan and pan-fry the cutlets 3 minutes a side.",
+   "lines": [
+    {
+     "line": "3 tablespoons vegetable oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.2 pan-frying oil"
+    },
+    {
+     "line": "4 pork cutlets",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "1/2 cup flour, for dredging",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "coating stays on the food"
+    }
+   ]
+  },
+  {
+   "dish": "ROASTED CAULIFLOWER",
+   "section": "STARTERS",
+   "title": "Roasted Cauliflower",
+   "method": "Toss the florets with the oil and roast at 425F for 30 minutes.",
+   "lines": [
+    {
+     "line": "1/4 cup olive oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.2 roasting oil"
+    },
+    {
+     "line": "1 head cauliflower, cut into florets",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "BEEF STIR FRY",
+   "section": "MAINS",
+   "title": "Beef and Broccoli Stir-Fry",
+   "method": "Heat the oil in a wok and stir-fry the beef.",
+   "lines": [
+    {
+     "line": "2 tablespoons peanut oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.2 stir-fry oil"
+    },
+    {
+     "line": "1 pound flank steak, sliced",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "3 tablespoons oyster sauce",
+     "role": "eaten",
+     "kind": "prepared_product",
+     "rule": "kind: a sauce"
+    }
+   ]
+  },
+  {
+   "dish": "CHIPS",
+   "section": "SIDES",
+   "title": "Shoestring Potatoes",
+   "method": "Heat the oil to 375F in a deep pot. Fry the potatoes in batches until golden. Drain on paper towels.",
+   "lines": [
+    {
+     "line": "1 1/2 - 2 cups vegetable oil",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.2 deep-fry bath (cups, recipe deep-fries)"
+    },
+    {
+     "line": "1 large russet potato",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "Sea salt",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "seasoning stays on the food"
+    }
+   ]
+  },
+  {
+   "dish": "FISH AND CHIPS",
+   "section": "MAINS",
+   "title": "Beer-Battered Fish",
+   "method": "Heat the oil to 350F in a deep fryer. Dip the fish in the batter and deep-fry until golden.",
+   "lines": [
+    {
+     "line": "Vegetable oil, for deep frying",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.2 deep-fry bath"
+    },
+    {
+     "line": "1 cup all-purpose flour",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "batter stays on the food"
+    },
+    {
+     "line": "1 cup dark lager beer",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "batter liquid stays in the batter (tagged medium in 3D)"
+    },
+    {
+     "line": "4 cod fillets",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "FRIED CALAMARI",
+   "section": "STARTERS",
+   "title": "Crispy Calamari",
+   "method": "Bring the oil to 360F in a large pot. Fry the squid in batches for 2 minutes.",
+   "lines": [
+    {
+     "line": "2 quarts canola oil",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.2 deep-fry bath"
+    },
+    {
+     "line": "1 pound squid, cleaned",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "about 1 litre sunflower oil for frying",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.2 deep-fry bath"
+    }
+   ]
+  },
+  {
+   "dish": "MARINATED OLIVES",
+   "section": "BAR SNACKS",
+   "title": "Marinated Olives",
+   "method": "Warm the oil with the garlic and herbs. Pour over the olives and leave to marinate for a day.",
+   "lines": [
+    {
+     "line": "1 cup olive oil",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.3 olive oil of a marinade"
+    },
+    {
+     "line": "2 cups green olives",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "2 bay leaves",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "12.9.3 bay leaf"
+    },
+    {
+     "line": "4 sprigs fresh thyme",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "12.9.3 herb sprigs"
+    },
+    {
+     "line": "zest of 1 lemon",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "zest stays in the food (tagged removed in 3D)"
+    },
+    {
+     "line": "Strips of rind from 1 lemon (preferably organic)",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "12.10.3 decided 2026-11-06"
+    },
+    {
+     "line": "3 large cloves garlic, smashed",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.10.3 decided 2026-11-06"
+    }
+   ]
+  },
+  {
+   "dish": "GRILLED CHICKEN",
+   "section": "MAINS",
+   "title": "Marinated Grilled Chicken",
+   "method": "Whisk the marinade, add the chicken and chill for 4 hours. Lift the chicken out and grill it.",
+   "lines": [
+    {
+     "line": "1/4 cup olive oil",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.2 marinade oil"
+    },
+    {
+     "line": "1/4 cup lemon juice",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.2 marinade liquid"
+    },
+    {
+     "line": "4 chicken breasts",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "2 tablespoons soy sauce",
+     "role": "cooking_medium",
+     "kind": "prepared_product",
+     "rule": "12.10.3 decided 2026-11-06"
+    }
+   ]
+  },
+  {
+   "dish": "ROAST TURKEY",
+   "section": "MAINS",
+   "title": "Brined Turkey Breast",
+   "method": "Dissolve the salt in the water to make the brine. Submerge the turkey for 12 hours, then rinse and roast.",
+   "lines": [
+    {
+     "line": "1/2 cup kosher salt",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.3 brine"
+    },
+    {
+     "line": "2 quarts water",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.3 brine"
+    },
+    {
+     "line": "1 turkey breast",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "POACHED SALMON",
+   "section": "MAINS",
+   "title": "Poached Salmon",
+   "method": "Bring the wine, stock, milk and aromatics to a simmer. Poach the salmon for 10 minutes and lift it out.",
+   "lines": [
+    {
+     "line": "1 cup dry white wine",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.2 poaching liquid"
+    },
+    {
+     "line": "4 cups fish stock",
+     "role": "cooking_medium",
+     "kind": "prepared_product",
+     "rule": "12.9.2 poaching liquid; 12.10.3 stock and sausage are prepared_product"
+    },
+    {
+     "line": "4 salmon fillets",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "1 bay leaf",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "12.9.3 bay leaf"
+    },
+    {
+     "line": "2 cups whole milk",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.10.3 decided 2026-11-06"
+    }
+   ]
+  },
+  {
+   "dish": "SPAGHETTI WITH CLAMS",
+   "section": "PASTA",
+   "title": "Spaghetti with Clams",
+   "method": "Boil the spaghetti in salted water. Saute the garlic in the oil, add the clams and wine.",
+   "lines": [
+    {
+     "line": "salted water for boiling",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.3 pasta water"
+    },
+    {
+     "line": "1 pound spaghetti",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "1/3 cup olive oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.2 saute oil that becomes the sauce"
+    },
+    {
+     "line": "1 cup dry white wine",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "sauce liquid"
+    },
+    {
+     "line": "2 tsp kosher salt (or more for cooking the pasta)",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.10.3 decided 2026-11-06"
+    }
+   ]
+  },
+  {
+   "dish": "LENTIL SOUP",
+   "section": "STARTERS",
+   "title": "Lentil Soup",
+   "method": "Simmer the lentils in the water and stock until soft. Blend half.",
+   "lines": [
+    {
+     "line": "6 cups water",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.3 water in a soup"
+    },
+    {
+     "line": "4 cups chicken stock",
+     "role": "eaten",
+     "kind": "prepared_product",
+     "rule": "12.9.2 liquid of a soup; 12.10.3 stock and sausage are prepared_product"
+    },
+    {
+     "line": "1 cup lentils",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "1 cinnamon stick",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "12.3 aromatic lifted out"
+    },
+    {
+     "line": "1 Parmesan rind",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "12.3 rind lifted out"
+    }
+   ]
+  },
+  {
+   "dish": "MUSHROOM RISOTTO",
+   "section": "MAINS",
+   "title": "Mushroom Risotto",
+   "method": "Add the stock a ladle at a time until the rice absorbs it.",
+   "lines": [
+    {
+     "line": "6 cups vegetable stock",
+     "role": "eaten",
+     "kind": "prepared_product",
+     "rule": "absorbed by the rice; 12.10.3 stock and sausage are prepared_product"
+    },
+    {
+     "line": "1 1/2 cups arborio rice",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "3 tablespoons butter",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "fat in the dish"
+    }
+   ]
+  },
+  {
+   "dish": "GARDEN SALAD",
+   "section": "SALADS",
+   "title": "Garden Salad with Vinaigrette",
+   "method": "Whisk the oil and vinegar. Dress the leaves. Drizzle with more oil to serve.",
+   "lines": [
+    {
+     "line": "3 tablespoons extra-virgin olive oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.3 dressing oil"
+    },
+    {
+     "line": "1 tablespoon red wine vinegar",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "dressing"
+    },
+    {
+     "line": "Olive oil, to drizzle",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.9.3 drizzle oil"
+    },
+    {
+     "line": "1 head lettuce",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "1 tablespoon Dijon mustard",
+     "role": "eaten",
+     "kind": "prepared_product",
+     "rule": "kind: a condiment"
+    }
+   ]
+  },
+  {
+   "dish": "GRILLED STEAK",
+   "section": "MAINS",
+   "title": "Grilled Steak with Salsa Verde",
+   "method": "Oil the grill grates. Grill the steak over high heat. Serve with the salsa verde.",
+   "lines": [
+    {
+     "line": "Vegetable oil, for grill",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.3 oil on a grill grate"
+    },
+    {
+     "line": "Olive oil, for the grill grates",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.3 oil on a grill grate"
+    },
+    {
+     "line": "2 ribeye steaks",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "1/2 cup salsa verde",
+     "role": "eaten",
+     "kind": "prepared_product",
+     "rule": "12.4.2 a sauce is a prepared product"
+    }
+   ]
+  },
+  {
+   "dish": "DUCK CONFIT",
+   "section": "MAINS",
+   "title": "Duck Confit",
+   "method": "Submerge the legs in the duck fat and cook at 225F for 3 hours. Lift them out and crisp them.",
+   "lines": [
+    {
+     "line": "4 cups duck fat",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.3 confit fat"
+    },
+    {
+     "line": "4 duck legs",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "2 sprigs thyme",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "12.9.3 herb sprigs"
+    }
+   ]
+  },
+  {
+   "dish": "TOMATO CONFIT",
+   "section": "STARTERS",
+   "title": "Slow-Roasted Tomato Confit",
+   "method": "Cover the tomatoes with the oil and bake at 250F for 2 hours.",
+   "lines": [
+    {
+     "line": "2 cups olive oil",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.9.3 confit fat"
+    },
+    {
+     "line": "2 pints cherry tomatoes",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "SCOTCH EGG",
+   "section": "STARTERS",
+   "title": "Scotch Egg with Remoulade",
+   "method": "",
+   "lines": [
+    {
+     "line": "1 cup celeriac remoulade",
+     "role": "eaten",
+     "kind": "prepared_product",
+     "rule": "12.9.1 a mayonnaise sauce (Scotch egg, seen in 3D)"
+    },
+    {
+     "line": "1/2 cup mayonnaise",
+     "role": "eaten",
+     "kind": "prepared_product",
+     "rule": "12.4.2 a sauce is a prepared product"
+    },
+    {
+     "line": "2 tablespoons basil pesto",
+     "role": "eaten",
+     "kind": "prepared_product",
+     "rule": "12.4.2 a sauce is a prepared product"
+    },
+    {
+     "line": "1 sausage",
+     "role": "eaten",
+     "kind": "prepared_product",
+     "rule": "main ingredient; 12.10.3 stock and sausage are prepared_product"
+    }
+   ]
+  },
+  {
+   "dish": "MARGHERITA",
+   "section": "PIZZA",
+   "title": "Margherita Pizza",
+   "method": "Stretch the dough, top and bake.",
+   "lines": [
+    {
+     "line": "1 ball pizza dough",
+     "role": "eaten",
+     "kind": "prepared_product",
+     "rule": "12.3 a bought dough"
+    },
+    {
+     "line": "8 oz fresh mozzarella",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "topping"
+    },
+    {
+     "line": "Maldon sea salt",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.7 a plain food"
+    },
+    {
+     "line": "Semolina, for the peel",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.10.3 decided 2026-11-06"
+    }
+   ]
+  },
+  {
+   "dish": "SCHNITZEL",
+   "section": "MAINS",
+   "title": "Chicken Schnitzel",
+   "method": "Pour oil into a skillet to a depth of 1/2 inch and shallow-fry the cutlets.",
+   "lines": [
+    {
+     "line": "1 cup vegetable oil",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.10.3 decided 2026-11-06"
+    }
+   ]
+  },
+  {
+   "dish": "ROAST CHICKEN",
+   "section": "MAINS",
+   "title": "Roast Chicken with Lemon and Garlic",
+   "method": "Stuff the cavity with the lemon and garlic. Roast at 400F for an hour.",
+   "lines": [
+    {
+     "line": "1 lemon, quartered",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "12.10.3 decided 2026-11-06"
+    },
+    {
+     "line": "2 whole, unpeeled heads garlic, split in half horizontally",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.10.3 decided 2026-11-06"
+    },
+    {
+     "line": "1 whole chicken",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "SHEET PAN VEGETABLES",
+   "section": "SIDES",
+   "title": "Sheet-Pan Vegetables",
+   "method": "Grease the tray with the spray and roast the vegetables.",
+   "lines": [
+    {
+     "line": "Cooking spray",
+     "role": "eaten",
+     "kind": null,
+     "rule": "12.10.3 decided 2026-11-06"
+    },
+    {
+     "line": "1 pound carrots",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "TUNA CRUDO",
+   "section": "STARTERS",
+   "title": "Crudo with Pickled Carrots",
+   "method": "Fry the carrots: heat the olive oil in a small skillet over medium heat. Fry the carrot matchsticks until lightly golden. Transfer to a paper towel-lined plate to drain excess oil.",
+   "lines": [
+    {
+     "line": "olive oil (to cover the carrots)",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.10.3 decided 2026-11-06"
+    }
+   ]
+  },
+  {
+   "dish": "COUSCOUS",
+   "section": "SIDES",
+   "title": "Herbed Couscous",
+   "method": "Pour the boiling water over the couscous and cover for 5 minutes.",
+   "lines": [
+    {
+     "line": "3 cup boiling water (see notes)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.10.3 decided 2026-11-06"
+    }
+   ]
+  },
+  {
+   "dish": "MARGHERITA",
+   "section": "PIZZA",
+   "title": "Margherita Pizza (life-in-the-lofthouse)",
+   "method": "Preheat oven to 450 degrees F. Oil a large pizza pan. Set aside. In a medium bowl combine olive oil and minced garlic. Add tomato slices and let tomatoes marinate for 15 minutes. After the 15 minutes is up, remove the tomato slices from oil and set aside. Spread pizza dough out onto prepared pizza pan. Brush dough with the olive oil/garlic mixture. Sprinkle cheeses evenly over the top of dough. Place tomato slices evenly over the cheese. Bake.",
+   "lines": [
+    {
+     "line": "1/4 cup extra virgin olive oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.10.2 a marinade brushed on; real line, harmful miss in 3E"
+    },
+    {
+     "line": "4 medium Roma tomatoes (thinly sliced)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "BEET CARPACCIO",
+   "section": "STARTERS",
+   "title": "Beet Carpaccio with Goat Cheese (aline-made)",
+   "method": "In a bowl, combine olive oil, balsamic vinegar, honey, and a pinch of salt and pepper. With a mandoline or sharp knife, slice the beets as thinly as possible. Add them to the bowl and toss gently. You can let them marinate up to a few hours in the fridge. Arrange the marinated beets in overlapping layers on two individual plates or one large serving platter.",
+   "lines": [
+    {
+     "line": "8.8 oz cooked beets",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "1 tbsp olive oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.10.2 a marinade served on the plate; real line, harmful miss in 3E"
+    },
+    {
+     "line": "1 tbsp balsamic vinegar",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.10.2 a marinade served on the plate"
+    }
+   ]
+  },
+  {
+   "dish": "SMOKED HADDOCK",
+   "section": "MAINS",
+   "title": "Haddock in Parsley Sauce",
+   "method": "Poach the haddock in the milk for 8 minutes and lift it out. Melt the butter, stir in the flour, then whisk in the poaching milk to make a sauce. Serve the sauce over the fish.",
+   "lines": [
+    {
+     "line": "2 cups whole milk",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.10.2 a poaching liquid made into a sauce"
+    },
+    {
+     "line": "2 haddock fillets",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "TERIYAKI CHICKEN",
+   "section": "MAINS",
+   "title": "Pan Teriyaki Chicken",
+   "method": "Marinate the chicken in the oil and soy sauce for an hour. Tip the chicken and all the marinade into a hot pan and cook until the sauce is sticky.",
+   "lines": [
+    {
+     "line": "2 tablespoons vegetable oil",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "12.10.2 a marinade cooked with the food"
+    },
+    {
+     "line": "2 chicken thighs",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "WHOLE SEA BASS",
+   "section": "MAINS",
+   "title": "Whole Roast Sea Bass",
+   "method": "Stuff the cavity of each fish with lemon slices. Roast for 20 minutes and lift the lemon out before serving.",
+   "lines": [
+    {
+     "line": "1 lemon, sliced",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "12.10.3 lemon in a fish cavity"
+    },
+    {
+     "line": "2 whole sea bass",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "SICILIAN OLIVES",
+   "section": "BAR SNACKS",
+   "title": "Marinated Olives",
+   "source": "real_page",
+   "url": "https://thecozyapron.com/marinated-olives",
+   "seen_in": "3F",
+   "method": "Begin by gathering and prepping all of your ingredients according to the ingredient list above to have ready and organized for use. Drain the olives of their brine, but do not blot dry as to keep some of the tangy briny flavor. Place the olive into a medium-size bowl. Next, pour the olive oil into a small sauce pan or sauce pot, and add into it the sprigs of rosemary and thyme, the smashed garlic cloves, the lemon peel and red pepper flakes, along with the sea salt. Place over low heat and gently heat the olive oil just until warm, about 3 to 5 minutes. Remove from heat. Next, allow the olive oil to infuse for 20 minutes and slightly cool. Then, pour it over the olives in the bowl, along with all the goodies in the oil, and allow the olives to marinate for at least 4 hours at room temp if serving the same day, or in the fridge if preparing ahead a day or two. When ready to serve, spoon the olives, along with some of their flavorful oil, into a serving dish, and serve the olives at room temperature with small forks or toothpicks. (You can store the marinated olives, packed in their oil and seasonings, in 16 ounce, wide-mouth mason jars with lids, if desired.)",
+   "lines": [
+    {
+     "line": "1 1/2 cups combination of pitted Kalamata and Castelvetrano olives (or just one variety)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "1 cup olive oil",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.12.1 oil a food is stored in or served out of (3F: tagged eaten at full recipe weight)"
+    },
+    {
+     "line": "2 medium sprigs fresh rosemary",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "whole herb sprigs stay in the jar and are not eaten (3F: tagged eaten)"
+    },
+    {
+     "line": "4 medium sprigs fresh thyme",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "whole herb sprigs stay in the jar and are not eaten (3F: tagged eaten)"
+    },
+    {
+     "line": "3 large cloves garlic, smashed",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "4 (2 inch) thin strips lemon peel",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "strips of peel or rind stay in the jar and are not eaten (3F: tagged eaten)"
+    },
+    {
+     "line": "Pinch red pepper flakes",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "1/4 teaspoon sea salt",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    }
+   ]
+  },
+  {
+   "dish": "Marinated olives",
+   "section": "",
+   "title": "Marinated Olives Recipe",
+   "source": "real_page",
+   "url": "https://www.foodiecrush.com/marinated-olives",
+   "seen_in": "3F",
+   "method": "Drain the olives in a colander and rinse in cool water. Set aside to drain. In a medium skillet, add the oil, smashed garlic cloves, half of the fresh herbs (reserve the rest for packing with the olives), lemon zest, red chile flakes, and black peppercorns. Bring to medium heat and cook for 3-4 minutes, swirling the herbs in the oil, until the garlic is fragrant and the herbs sizzle. Remove from the heat, season with the kosher salt, and set aside. In a quart jar with a fitted lid, layer the olives with the garlic and cooked and reserved fresh herbs. Pour the flavored oil over the olives. Cover and refrigerate for at least 30 minutes. The olives taste better the longer they sit in the flavored oil, up to 3 days before serving.",
+   "lines": [
+    {
+     "line": "5.3 ounces DeLallo Castelvetrano olives",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "5.3 ounces DeLallo Calamata olives",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "1 cup DeLallo extra virgin olive oil",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.12.1 oil a food is stored in or served out of (3F: tagged eaten at full recipe weight)"
+    },
+    {
+     "line": "5 cloves garlic (, peeled and smashed)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "4 sprigs fresh rosemary",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "whole herb sprigs stay in the jar and are not eaten (3F: tagged eaten)"
+    },
+    {
+     "line": "4 sprigs fresh thyme",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "whole herb sprigs stay in the jar and are not eaten (3F: tagged eaten)"
+    },
+    {
+     "line": "6-8 black peppercorns",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "1/2 teaspoon red chile flakes",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "1/4 teaspoon kosher salt",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "zest of 1 lemon",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "grated zest stays with the food"
+    }
+   ]
+  },
+  {
+   "dish": "Marinated olives",
+   "section": "",
+   "title": "Marinated Olives Recipe",
+   "source": "real_page",
+   "url": "https://www.budgetbytes.com/marinated-olives",
+   "seen_in": "3F",
+   "method": "Peel orange with a vegetable peeler and juice the rest of it. Gather all ingredients. Layer olives, garlic, the orange peel, fresh rosemary, fresh thyme, red pepper flakes, and black peppercorns in a 16Oz mason jar. Pour orange juice and olive oil over the top. Shake Screw on the jar lid and shake vigorously to blend the flavors. Marinate Let olives marinate at room temperature for 2 hours. Alternatively, you can put the jar in the fridge for up to 1 week, allowing olives and marinade to come back to room temperature before serving.",
+   "lines": [
+    {
+     "line": "1 orange, reserving all of the peel + juice ($0.77)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "a whole fruit; the line is not a liquid"
+    },
+    {
+     "line": "1 ½ cups Mediterranean olive mix*, drained ($2.40)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "4 cloves garlic, smashed but kept whole ($0.09)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "2 sprigs fresh rosemary ($0.19)",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "whole herb sprigs stay in the jar and are not eaten (3F: tagged eaten)"
+    },
+    {
+     "line": "2 sprigs fresh thyme ($0.05)",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "whole herb sprigs stay in the jar and are not eaten (3F: tagged eaten)"
+    },
+    {
+     "line": "¼ tsp cracked red pepper flakes ($0.05)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "1 tsp black peppercorns, whole ($0.08)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "½ cup olive oil ($1.55)",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.12.1 oil a food is stored in or served out of (3F: tagged eaten at full recipe weight)"
+    }
+   ]
+  },
+  {
+   "dish": "Marinated olives",
+   "section": "",
+   "title": "Marinated Olives",
+   "source": "real_page",
+   "url": "https://cooking.nytimes.com/recipes/1014416-marinated-olives",
+   "seen_in": "3F",
+   "method": "Combine the olive oil, vinegar, bay leaves and garlic in a small saucepan and heat just until warm over low heat. Remove from the heat and stir in the lemon rind, thyme, rosemary and fennel seeds. Place the olives in a wide mouthed jar and pour in the olive oil mixture. Shake the jar to coat the olives. Refrigerate for two hours or for up to two weeks. Shake the jar a few times a day to redistribute the seasonings.",
+   "lines": [
+    {
+     "line": "¼ cup extra virgin olive oil",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.12.1 oil a food is stored in or served out of (3F: tagged eaten at full recipe weight)"
+    },
+    {
+     "line": "2 tablespoons red wine vinegar",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.10.2 a marinade left in the jar: every liquid of it is a medium"
+    },
+    {
+     "line": "5 bay leaves",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "bay leaves"
+    },
+    {
+     "line": "2 large garlic cloves, peeled, green shoots removed, thinly sliced",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "Strips of rind from 1 lemon (preferably organic)",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "strips of peel or rind stay in the jar and are not eaten (3F: tagged eaten)"
+    },
+    {
+     "line": "1 tablespoon fresh thyme leaves, coarsely chopped",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "1 teaspoon chopped fresh rosemary",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "½ teaspoon fennel seeds",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "2 cups imported olives (black, green or a mix) (about ¾ pound)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    }
+   ]
+  },
+  {
+   "dish": "Marinated olives",
+   "section": "",
+   "title": "Warm Marinated Olives",
+   "source": "real_page",
+   "url": "https://www.foodnetwork.com/recipes/ina-garten/warm-marinated-olives-1-7088521",
+   "seen_in": "3F",
+   "method": "Drain the green and black olives from the brine or oil that they're packed in and place them in a medium bowl. Add the orange zest, garlic, fennel seeds, thyme leaves, red pepper flakes, 1/2 teaspoon salt, and 1/2 teaspoon black pepper. Pour the olive oil over the mixture, add the thyme sprigs, and toss to combine. Transfer the mixture, including the olive oil, to a medium (10-inch) saute pan. Heat over medium heat until the oil begins to sizzle. Lower the heat and saute for 4 to 5 minutes, stirring occasionally, until the olives and garlic are heated through and fragrant. Serve warm right from the pan or transfer to a serving dish. Offer a small dish for the pits.",
+   "lines": [
+    {
+     "line": "2 cups large green olives with pits, such as Cerignola (11 ounces)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "2 cups large black olives with pits, such as Kalamata (11 ounces)",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "main ingredient"
+    },
+    {
+     "line": "Zest of 1 orange, peeled in large strips",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "strips of peel or rind stay in the jar and are not eaten (3F: tagged eaten)"
+    },
+    {
+     "line": "4 large garlic cloves, smashed",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "2 teaspoons whole fennel seeds",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "2 teaspoons chopped fresh thyme leaves",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "3/4 teaspoon crushed red pepper flakes",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "Kosher salt and freshly ground black pepper",
+     "role": "eaten",
+     "kind": "plain_food",
+     "rule": "stays with the food"
+    },
+    {
+     "line": "2/3 cup good olive oil",
+     "role": "cooking_medium",
+     "kind": "plain_food",
+     "rule": "12.12.1 oil a food is stored in or served out of (3F: tagged eaten at full recipe weight)"
+    },
+    {
+     "line": "4 sprigs fresh thyme",
+     "role": "removed",
+     "kind": "plain_food",
+     "rule": "whole herb sprigs stay in the jar and are not eaten (3F: tagged eaten)"
+    }
+   ]
+  }
+ ]
+}

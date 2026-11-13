@@ -1,0 +1,85 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.3333333333333333,
+ "expected_items": 24,
+ "found_items": 8,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "A.T.M. (Any Time Meal)",
+  "Malfatti Indiana",
+  "Amalfi",
+  "Wafer / Masala Papad / Boiled Eggs",
+  "Garlic Toast / Green Salad",
+  "French Fries / Hash Brown (6 pcs)",
+  "Cheese Cherry Pineapple Stick",
+  "Onion Rings / Cheese Balls (Schezwan)",
+  "Chilly Cheese Toast",
+  "Cutlet & Fries (Veg / Chicken)",
+  "Koliwada (Paneer / Prawns)",
+  "Mondy's Steak Boti",
+  "Masala Omelette with French Fries",
+  "Kheema Pao / Kheema Gotala",
+  "Extra Sauce",
+  "Aloo Tikka / Mushroom Tikka"
+ ],
+ "invented": 3,
+ "invented_names": [
+  "Chicken Tikka / Malai / Achari / Sheek",
+  "Chicken Sheek / Achari / Tandoori",
+  "Chicken Sheek / Achari / Tandoori"
+ ],
+ "cut_off_listed": 6,
+ "cut_off_names": [
+  "Fish Tikka / Achari / Kalami",
+  "King Prawns Tikka / Harya",
+  "Chicken Tikka / Malai / Reshmi",
+  "Fish Tikka / Achari / Kalami",
+  "King Prawns Tikka / Harya",
+  "Tandoor Naan / Butter Naan"
+ ],
+ "garbled": 3,
+ "garbled_names": [
+  "A.M. (Any Time Meal) ~ A.T.M. (Any Time Meal) (89%)",
+  "Malai Indiana ~ Malfatti Indiana (81%)",
+  "Anjali ~ Amalfi (50%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.0,
+ "descriptions_checked": 4,
+ "tags_right": 0.25,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 3,
+   "total": 7,
+   "share_wrong": 0.42857142857142855
+  },
+  "medium": {
+   "wrong": 9,
+   "total": 13,
+   "share_wrong": 0.6923076923076923
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is partially obscured by two salt and pepper shakers in the foreground. The left column (Continental Menu) is mostly readable but the bottom is cut off. The right column (Tandoor Menu) is partially readable, with the top section (Starters) and bottom section (Accompaniments) partially cut off or obscured. Some text is small and slightly blurry.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 38.8441001670144,
+ "cost_usd": 0.00167185,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 2421,
+ "completion_tokens": 1505,
+ "generation_id": "gen-1793310593-sb1ys875dcfaWLOPJf3M"
+}

@@ -1,0 +1,79 @@
+{
+ "photo": "24",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "French Dip w/Cheddar",
+   "key_price": "",
+   "model_name": "W/CHEDDAR",
+   "model_price": "79",
+   "reason": "name differs (52% similar)"
+  },
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "Beef, Bac. & Cheddar",
+   "key_price": "",
+   "model_name": "BEEF, BAC. & CHEDDAR",
+   "model_price": "78",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 7,
+ "found_items": 6,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "W/CHEDDAR ~ French Dip w/Cheddar (52%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.2,
+ "price_wrong_names": [
+  "BEST BEEF: price '' vs key '6.74'",
+  "BEEF SUPREME: price '' vs key '7.44'",
+  "BEEF, BACON & CHEESE: price '' vs key '7.84'",
+  "BEEF & CHEDDAR: price '' vs key '7.34'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 2,
+   "total": 3,
+   "share_wrong": 0.6666666666666666
+  },
+  "low": {
+   "wrong": 4,
+   "total": 4,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The photo is cropped at the left and right edges. The section heading 'HOT SANDWICHES' is cut off at the top. The price for 'Best Beef' reads 'REG 6 7 4' with the last digit clipped at the right edge, and 'Beef Supreme' shows '7 4 4' with its last digit cut off. The price for 'Beef, Bacon & Cheese' reads '7 8 4' with the last digit clipped. The price for 'Beef & Cheddar' reads '7 3 4' with the last digit clipped. Prices that are clipped or partly hidden are left blank or marked low confidence.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 4.860501875024056,
+ "cost_usd": 0.0007634,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "generation_id": null,
+ "rep": 1
+}

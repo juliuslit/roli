@@ -1,0 +1,68 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8048780487804879,
+ "expected_items": 41,
+ "other_set_aside": 0,
+ "found_items": 33,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Our Special Blend Coffee",
+  "Fresh Orange Juice",
+  "Other Delicious Bakery Pies",
+  "No. 1",
+  "No. 2",
+  "No. 3",
+  "No. 4",
+  "No. 5"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8787878787878788,
+ "price_wrong_names": [
+  "Waffles: price '30' vs key '20c'",
+  "Grilled Cheese: price '20' vs key ''",
+  "Chicken Salad: price '35' vs key '25c'",
+  "Grillburger: price '35' vs key '25c'"
+ ],
+ "descriptions_right": 0.3333333333333333,
+ "descriptions_checked": 15,
+ "tags_right": 1.0,
+ "portion_right": 0.9696969696969697,
+ "has_choice_right": 0.9696969696969697,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 12,
+   "share_wrong": 0.08333333333333333
+  },
+  "low": {
+   "wrong": 3,
+   "total": 21,
+   "share_wrong": 0.14285714285714285
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is photographed at a steep angle and the print is very small, so many item names and prices are hard to read with confidence. Some item descriptions and prices in the breakfast suggestions and sandwich sections could not be reliably read and have been omitted or marked low confidence. The left panel is the restaurant header and was ignored.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 11.407761000009486,
+ "cost_usd": 0.0017965,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2700,
+ "completion_tokens": 3053,
+ "generation_id": "gen-1793298681-H0VFAxCeCnUZarHR7He3",
+ "rep": 1
+}

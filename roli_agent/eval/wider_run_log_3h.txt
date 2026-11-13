@@ -1,0 +1,17 @@
+2026-11-06T17:20:42 21 photos, 0 done already; limits {'menu_usd': '0.50', 'menu_search_credits': 30, 'daily_usd': '5.00', 'daily_search_credits': 300}
+2026-11-06T17:20:42 start menu_02_own_IMG_5181.jpg; today $3.666939, 36 credits; USDA remaining None
+2026-11-06T17:22:03 done menu_02_own_IMG_5181.jpg: 20261106-222042-28cf0d done; ranked 8, model $0.036724, credits 4, USDA 3
+2026-11-06T17:22:03 start menu_04_own_IMG_5186.jpg; today $3.703663, 40 credits; USDA remaining 3469
+2026-11-06T17:24:18 done menu_04_own_IMG_5186.jpg: 20261106-222203-6e973e done; ranked 0, model $0.116357, credits 6, USDA 121
+2026-11-06T17:24:18 start menu_05_ren_kitchen_uk_printed_long.jpg; today $3.820020, 46 credits; USDA remaining 3356
+2026-11-06T17:28:09 done menu_05_ren_kitchen_uk_printed_long.jpg: 20261106-222418-0e0548 done; ranked 0, model $0.186655, credits 8, USDA 171
+2026-11-06T17:28:09 start menu_06_pizzaface_uk_printed_spread.jpg; today $4.006675, 54 credits; USDA remaining 3192
+2026-11-06T17:32:35 done menu_06_pizzaface_uk_printed_spread.jpg: 20261106-222809-004812 done; ranked 2, model $0.178514, credits 28, USDA 93
+2026-11-06T17:32:35 start menu_07_cafe_rust_uk_printed_kraft.jpg; today $4.185189, 82 credits; USDA remaining 3109
+2026-11-06T17:32:51 done menu_07_cafe_rust_uk_printed_kraft.jpg: 20261106-223235-fdff2b done; ranked 0, model $0.012741, credits 0, USDA 0
+2026-11-06T17:32:51 start menu_09_the_shed_breakfast_uk_printed.jpg; today $4.197930, 82 credits; USDA remaining 3109
+2026-11-06T17:32:59 done menu_09_the_shed_breakfast_uk_printed.jpg: 20261106-223251-cbe070 done; ranked 0, model $0.006055, credits 0, USDA 0
+2026-11-06T17:32:59 start menu_10_alexs_kitchen_indochinese_dense.jpg; today $4.203985, 82 credits; USDA remaining 3109
+2026-11-06T17:40:18 done menu_10_alexs_kitchen_indochinese_dense.jpg: 20261106-223259-ea627f done; ranked 12, model $0.372017, credits 28, USDA 244
+2026-11-06T17:40:18 today so far $4.576002, 110 credits: another menu might not fit under $5.00 and 300 credits
+2026-11-06T17:40:18 waiting for the next day's caps, until 2026-11-07T00:05

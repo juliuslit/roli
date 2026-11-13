@@ -1,0 +1,79 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.4583333333333333,
+ "expected_items": 24,
+ "other_set_aside": 0,
+ "found_items": 11,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "A.T.M. (Any Time Meal)",
+  "Malfatti Indiana",
+  "Roast Chicken",
+  "Wafer / Masala Papad / Boiled Eggs",
+  "French Fries / Hash Brown (6 pcs)",
+  "Cheese Cherry Pineapple Stick",
+  "Onion Rings / Cheese Balls (Schezwan)",
+  "Cutlet & Fries (Veg / Chicken)",
+  "Koliwada (Paneer / Prawns)",
+  "Kheema Pao / Kheema Gotala",
+  "Extra Sauce",
+  "Aloo Tikka / Mushroom Tikka",
+  "Tandoor Roti"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 1,
+ "cut_off_names": [
+  "King Prawns Tikka / Haryali"
+ ],
+ "garbled": 1,
+ "garbled_names": [
+  "Maltati Indiana ~ Malfatti Indiana (88%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.6363636363636364,
+ "price_wrong_names": [
+  "Funghi Con Crema: price '' vs key '530'",
+  "Vegetable Au Gratin: price '' vs key '530'",
+  "Amalfi: price '' vs key '530'",
+  "Brochettes de Legumes: price '' vs key '530'"
+ ],
+ "descriptions_right": 0.0,
+ "descriptions_checked": 4,
+ "tags_right": 0.36363636363636365,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 0,
+   "total": 6,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 6,
+   "total": 7,
+   "share_wrong": 0.8571428571428571
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The photo mainly shows salt and pepper shakers on a laminated table menu. Most of the menu is hidden by the shakers, cut off at the edges, or too small and skewed to read. Prices are mostly cut off, so none are recorded. Only lines whose names are printed in full are included. Lines cut off at the right edge, hidden behind the shakers, or too blurred to read were left out, roughly 25 or more lines across the Continental, Tandoor, wine and Lite Bites sections. The Tandoor accompaniment lines are cut off at the right edge and left out.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 9.289767834008671,
+ "cost_usd": 0.022316,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 4188,
+ "completion_tokens": 1394,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793378551-vAj5GcJ00WQ3YvNQfB3T"
+}

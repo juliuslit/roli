@@ -1,0 +1,66 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9761904761904762,
+ "expected_items": 42,
+ "other_set_aside": 3,
+ "found_items": 41,
+ "joined_found": 6,
+ "unmatched_expected_names": [
+  "Dylan"
+ ],
+ "invented": 3,
+ "invented_names": [
+  "The works w/Cheddar and Bacon",
+  "Brie Boat Burger",
+  "the works w/cole slaw"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Dylau ~ Dylan (80%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.926829268292683,
+ "price_wrong_names": [
+  "add cheese: price '0.75' vs key '.75'",
+  "Pastrami Reuben: price '16.00' vs key '16.50'",
+  "the works: price '' vs key '16.50'"
+ ],
+ "descriptions_right": 0.4090909090909091,
+ "descriptions_checked": 22,
+ "tags_right": 0.926829268292683,
+ "portion_right": 0.975609756097561,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 4,
+   "total": 40,
+   "share_wrong": 0.1
+  },
+  "medium": {
+   "wrong": 3,
+   "total": 5,
+   "share_wrong": 0.6
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is a large chalkboard with significant glare and reflections in the center and lower sections, making some text difficult to read. The bottom right corner is partially obscured by a reflection of a person taking the photo. Some prices and descriptions are faint or partially covered by glare.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 140.93102029099828,
+ "cost_usd": 0.00355285,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 2421,
+ "completion_tokens": 3485,
+ "generation_id": "gen-1793308360-Y7DW23V7tHMZeynkoS19",
+ "rep": 1
+}

@@ -1,0 +1,58 @@
+{
+ "photo": "21",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.75,
+ "expected_items": 8,
+ "other_set_aside": 0,
+ "found_items": 6,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Vegetarian",
+  "Meatballs (3)"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "MEATBALLS ~ Meatballs (3) (82%)"
+ ],
+ "grouping": 1,
+ "grouping_names": [
+  "PIZZA BY THE SLICE -> ['Combo', 'Pepperoni']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 3,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 0.75,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 2,
+   "total": 6,
+   "share_wrong": 0.3333333333333333
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 4.545503959001508,
+ "cost_usd": 0.003591,
+ "finish_reason": "stop",
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 2508,
+ "completion_tokens": 456,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793374728-R1XcL70FgvWhPInuw7Gr",
+ "rep": 2
+}

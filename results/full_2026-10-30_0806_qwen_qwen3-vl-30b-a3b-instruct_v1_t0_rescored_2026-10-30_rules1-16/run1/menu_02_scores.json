@@ -1,0 +1,63 @@
+{
+ "photo": "02",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 22,
+ "other_set_aside": 3,
+ "found_items": 22,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 5,
+ "invented_names": [
+  "$1 from each chicken sold is donated to UR Blessings, a mutual aid organization working to end food injustice.",
+  "",
+  "",
+  "",
+  ""
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9545454545454546,
+ "price_wrong_names": [
+  "Shelburne Farms cheddar cheese: price 'add 1.00' vs key '3.00'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 0.9545454545454546,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 2,
+   "total": 23,
+   "share_wrong": 0.08695652173913043
+  },
+  "low": {
+   "wrong": 4,
+   "total": 4,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": 0,
+ "false_alarm": 0,
+ "seconds": 137.86295583299943,
+ "cost_usd": 0.0019606,
+ "finish_reason": "stop",
+ "provider": "Novita",
+ "error": "",
+ "prompt_tokens": 2012,
+ "completion_tokens": 2226,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793362325-iWCbIh9vCp7mZ3VFwpkj",
+ "rep": 1
+}

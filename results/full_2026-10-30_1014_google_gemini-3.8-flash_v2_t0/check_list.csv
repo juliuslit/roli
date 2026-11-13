@@ -1,0 +1,31 @@
+photo,key_confidence,key_name,key_price,model_name,model_price,reason
+10,low,Diced Fish (Spicy),,Diced Fish (Spicy),310-00,price differs
+10,low,Mandarin Fish,,Mandarin Fish,310-00,price differs
+16,low,POLLO FUNDIDO,,POLLO FUNDIDO,1,price differs
+17,medium,Hot & Sour Soup,(S) 1.95 (L) 7.95,Hot & Sour Soup,3.95 (S) / 7.95 (L),price differs
+17,medium,Egg Flower Soup,(S) 1.95 (L) 7.95,Egg Flower Soup,3.95 (S) / 7.95 (L),price differs
+17,medium,Beef w/ Broccoli,13.95,Beef w/ Broccoli,14.95,price differs
+17,medium,Beef w/ Pickled Chili,13.95,Beef w/ Pickled Chili,14.95,price differs
+17,medium,Beef w/ Mixed Mushroom,15.95,Beef w/ Mixed Mushroom,14.95,price differs
+17,medium,Beef w/ Snow Peas,15.95,Beef w/ Snow Peas,14.95,price differs
+10,low,Diced Fish (Spicy),,Diced Fish (Spicy),310-00,price differs
+10,low,Mandarin Fish,,Mandarin Fish,310-00,price differs
+16,low,POLLO FUNDIDO,,POLLO FUNDIDO,1,price differs
+17,medium,Hot & Sour Soup,(S) 1.95 (L) 7.95,Hot & Sour Soup,3.95 (S) 7.95 (L),price differs
+17,medium,Egg Flower Soup,(S) 1.95 (L) 7.95,Egg Flower Soup,3.95 (S) 7.95 (L),price differs
+17,medium,Soft Tofu Beef,14.95,Soft Tofu Beef,16.95,price differs
+17,medium,Beef w/ Mixed Mushroom,15.95,Beef w/ Mixed Mushroom,14.95,price differs
+17,medium,Beef w/ Black Pepper Sauce,14.95,Beef w/ Black Pepper Sauce,13.95,price differs
+17,medium,Beef w/ Green Bean,14.95,Beef w/ Green Bean,13.95,price differs
+17,medium,Beef w/ Snow Peas,15.95,Beef w/ Snow Peas,14.95,price differs
+17,low,Pork w/ Bamboo Shoots,,Pork w/ Bamboo Shoots,12.95,price differs
+17,low,Shredded Pork w/ Hot Garlic Sauce,,Shredded Pork w/ Hot Garlic Sauce,12.95,price differs
+17,low,Smoked Pork Belly w/ Leek,,Smoked Pork Belly w/ Leek,13.95,price differs
+17,low,Smoked Pork Belly w/ Wood Ear Fungus and Leek,,Smoked Pork Belly w/ Wood Ear Fungus and Leek,13.95,price differs
+17,low,Pork Belly w/ Preserved Vegetables,,Pork Belly w/ Preserved Vegetables,14.95,price differs
+17,low,Pan Fried Intestines,,Pan Fried Intestines,14.95,price differs
+17,low,Intestines in Hot & Spicy Gravy,,Intestines in Hot & Spicy Gravy,14.95,price differs
+17,low,Intestines w/ Preserved Vegetable,,Intestines w/ Preserved Vegetable,14.95,price differs
+17,low,Szechuan Style Pig Feet,,Szechuan Style Pig Feet,13.95,price differs
+17,low,House Special Garlic Pork Spareribs,,House Special Garlic Pork Spareribs,13.95,price differs
+17,low,Sweet & Sour Pork Spareribs,,Sweet & Sour Pork Spareribs,12.95,price differs

@@ -1,0 +1,63 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9672131147540983,
+ "expected_items": 61,
+ "found_items": 59,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "ULTIMATE BREAKFAST SANDWICH",
+  "DAILY SPECIAL (PLEASE ASK)"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 3,
+ "garbled_names": [
+  "ULTIMATE BREAKFAST SANDWICH 1 FILLING ~ ULTIMATE BREAKFAST SANDWICH (73%)",
+  "ULTIMATE BREAKFAST SANDWICH 2 FILLINGS ~ ULTIMATE BREAKFAST SANDWICH (71%)",
+  "ULTIMATE BREAKFAST SANDWICH 3 FILLINGS ~ ULTIMATE BREAKFAST SANDWICH (71%)"
+ ],
+ "grouping": 2,
+ "grouping_names": [
+  "EXTRAS -> ['Smoked bacon', 'Sausage', 'Chorizo', 'Black pudding', 'Halloumi', 'Avocado', '2 Eggs']",
+  "EXTRAS -> ['Field mushroom', 'Tomato', 'Hash Brown', 'Beans']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9285714285714286,
+ "descriptions_checked": 28,
+ "tags_right": 0.8541666666666666,
+ "portion_right": 0.7916666666666666,
+ "has_choice_right": 0.875,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 40,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 5,
+   "total": 13,
+   "share_wrong": 0.38461538461538464
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 18.84741099999519,
+ "cost_usd": 0.0035293,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3748,
+ "completion_tokens": 6309,
+ "generation_id": "gen-1793299834-CpC5e79eSWp0BkTeTeaP",
+ "rep": 2
+}

@@ -1,0 +1,54 @@
+photo,key_confidence,key_name,key_price,model_name,model_price,reason
+17,medium,Hot & Sour Soup,(S) 1.95 (L) 7.95,,,model did not list this item
+17,medium,Egg Flower Soup,(S) 1.95 (L) 7.95,,,model did not list this item
+17,medium,Sliced Beef in Hot & Spicy Gravy,15.95,,,model did not list this item
+17,medium,Soft Tofu Beef,14.95,,,model did not list this item
+17,medium,Stir-fried Beef w/ Cilantro,14.95,,,model did not list this item
+17,medium,Mongolian Beef,14.95,,,model did not list this item
+17,medium,Cumin Beef,14.95,,,model did not list this item
+17,medium,Beef w/ Broccoli,13.95,,,model did not list this item
+17,medium,Beef w/ Pickled Chili,13.95,,,model did not list this item
+17,medium,Beef w/ Mixed Mushroom,15.95,,,model did not list this item
+17,medium,Beef w/ Black Pepper Sauce,14.95,,,model did not list this item
+17,medium,Beef w/ Green Bean,14.95,,,model did not list this item
+17,medium,Beef w/ Snow Peas,15.95,,,model did not list this item
+17,medium,Stir-fried Lamb w/ Green Onion,15.95,,,model did not list this item
+17,medium,Cumin Lamb,15.95,,,model did not list this item
+17,medium,Lamb w/ Pickled Chili,15.95,,,model did not list this item
+17,low,Pork w/ Bamboo Shoots,,,,model did not list this item
+17,low,Smoked Pork Belly w/ Leek,,,,model did not list this item
+17,low,Smoked Pork Belly w/ Wood Ear Fungus and Leek,,,,model did not list this item
+17,low,Pork Belly w/ Preserved Vegetables,,,,model did not list this item
+17,low,Pan Fried Intestines,,,,model did not list this item
+17,low,Intestines in Hot & Spicy Gravy,,,,model did not list this item
+17,low,Intestines w/ Preserved Vegetable,,,,model did not list this item
+17,low,Szechuan Style Pig Feet,,,,model did not list this item
+17,low,House Special Garlic Pork Spareribs,,,,model did not list this item
+17,low,Sweet & Sour Pork Spareribs,,,,model did not list this item
+17,medium,Beef w/ Black Pepper Sauce,9.95,,,model did not list this item
+17,medium,Stir-fried Beef w/ Cilantro,9.95,,,model did not list this item
+17,medium,Mongolian Beef,9.95,,,model did not list this item
+17,medium,Cumin Beef,9.95,,,model did not list this item
+17,medium,Stir-fried Beef w/ Green Onion,9.95,,,model did not list this item
+17,medium,Beef w/ Broccoli,9.95,,,model did not list this item
+17,medium,Stir-fried Lamb w/ Cilantro,9.95,,,model did not list this item
+17,medium,Stir-fried Lamb w/ Green Onion,9.95,,,model did not list this item
+17,medium,Cumin Lamb,9.95,,,model did not list this item
+17,low,Pork w/ Bamboo Shoots,9.95,,,model did not list this item
+17,low,Shredded Pork w/ Hot Garlic Sauce,9.95,,,model did not list this item
+17,low,Sweet & Sour Pork Spareribs,9.95,,,model did not list this item
+17,medium,Stir-fried Lamb w/ Cilantro,15.95,Stir-fried Lamb w/ Cilantro,9.95,price differs
+17,low,Shredded Pork w/ Hot Garlic Sauce,,Shredded Pork w/ Hot Garlic Sauce,9.95,price differs
+17,medium,Stir-fried Beef w/ Green Onion,14.95,Stir-fried Beef with Green Onion,9.95,price differs
+13,medium,Wafer / Masala Papad / Boiled Eggs,,,,model did not list this item
+13,medium,Garlic Toast / Green Salad,,,,model did not list this item
+13,medium,French Fries / Hash Brown (6 pcs),,,,model did not list this item
+13,medium,Cheese Cherry Pineapple Stick,,,,model did not list this item
+13,medium,Onion Rings / Cheese Balls (Schezwan),,,,model did not list this item
+13,medium,Chilly Cheese Toast,,,,model did not list this item
+13,medium,Cutlet & Fries (Veg / Chicken),,,,model did not list this item
+13,medium,Koliwada (Paneer / Prawns),,,,model did not list this item
+13,medium,Mondy's Steak Boti,,,,model did not list this item
+13,medium,Masala Omelette with French Fries,,,,model did not list this item
+13,medium,Kheema Pao / Kheema Gotala,,,,model did not list this item
+13,medium,Extra Sauce,,,,model did not list this item

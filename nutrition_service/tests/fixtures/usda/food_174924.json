@@ -1,0 +1,206 @@
+{
+  "fdcId": 174924,
+  "description": "Bread, white, commercially prepared (includes soft bread crumbs)",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 49,
+        "code": "NC",
+        "description": "Calculated",
+        "foodNutrientSource": {
+          "id": 2,
+          "code": "4",
+          "description": "Calculated or imputed"
+        }
+      },
+      "id": 1898795,
+      "amount": 0.698,
+      "dataPoints": 0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 1,
+        "code": "A",
+        "description": "Analytical",
+        "foodNutrientSource": {
+          "id": 1,
+          "code": "1",
+          "description": "Analytical or derived from analytical"
+        }
+      },
+      "id": 1898852,
+      "amount": 0.0,
+      "dataPoints": 2,
+      "max": 0.0,
+      "min": 0.0
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 95169,
+      "dataPoints": 12,
+      "gramWeight": 29.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "modifier": "slice",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 95175,
+      "gramWeight": 12.0,
+      "sequenceNumber": 7,
+      "amount": 1.0,
+      "modifier": "slice crust not eaten",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 95172,
+      "gramWeight": 35.0,
+      "sequenceNumber": 4,
+      "amount": 1.0,
+      "modifier": "cup, cubes",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 95171,
+      "gramWeight": 45.0,
+      "sequenceNumber": 3,
+      "amount": 1.0,
+      "modifier": "cup, crumbs",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 95176,
+      "gramWeight": 20.0,
+      "sequenceNumber": 8,
+      "amount": 1.0,
+      "modifier": "slice, thin",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 95178,
+      "gramWeight": 15.0,
+      "sequenceNumber": 10,
+      "amount": 1.0,
+      "modifier": "slice, very thin",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 95174,
+      "gramWeight": 25.0,
+      "sequenceNumber": 6,
+      "amount": 1.0,
+      "modifier": "slice",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 95173,
+      "gramWeight": 30.0,
+      "sequenceNumber": 5,
+      "amount": 1.0,
+      "modifier": "slice, large",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 95177,
+      "gramWeight": 9.0,
+      "sequenceNumber": 9,
+      "amount": 1.0,
+      "modifier": "slice thin, crust not eaten",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 95170,
+      "gramWeight": 28.35,
+      "sequenceNumber": 2,
+      "amount": 1.0,
+      "modifier": "oz",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 16091,
+      "proteinValue": 3.9,
+      "fatValue": 8.7,
+      "carbohydrateValue": 4.1,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 22103,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "inputFoods": [],
+  "ndbNumber": 18069,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 18,
+    "code": "1800",
+    "description": "Baked Products"
+  }
+}

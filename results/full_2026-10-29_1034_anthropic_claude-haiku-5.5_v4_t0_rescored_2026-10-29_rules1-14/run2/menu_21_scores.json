@@ -1,0 +1,53 @@
+{
+ "photo": "21",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.875,
+ "expected_items": 8,
+ "other_set_aside": 0,
+ "found_items": 7,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Vegetarian"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 1,
+ "grouping_names": [
+  "Pizza By The Slice -> ['Combo', 'Pepperoni']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 4,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 0.8,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 6,
+   "share_wrong": 0.16666666666666666
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "The photo shows a handwritten 'Happy Hour Specials' board; the left-edge menu and the right-edge sign are not part of it and were ignored. Headline times ('Monday-Friday 4-6pm, Sat & Sun until 6pm') are not items.",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 5.61240333301248,
+ "cost_usd": 0.0007228,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

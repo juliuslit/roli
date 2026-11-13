@@ -1,0 +1,1157 @@
+{
+ "date": "2026-11-08",
+ "seed": 0,
+ "n": 50,
+ "rule": "dish name and section only, as the chain's nutrition sheet prints them; the sheet's bracketed notes removed; no descriptions (Julius, 2026-11-08)",
+ "menus": [
+  {
+   "menu_id": "pizza_express_1",
+   "chain": "Pizza Express",
+   "menu": {
+    "readable": "yes",
+    "problems": "",
+    "items": [
+     {
+      "section": "Breakfast",
+      "category": "food",
+      "name": "The Full Works - scrambled eggs",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Desserts",
+      "category": "food",
+      "name": "Tiramisu",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Pizza Classic",
+      "category": "food",
+      "name": "Smoky BBQ Chicken",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Dips",
+      "category": "food",
+      "name": "Garlic & Herbs dip",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Starters",
+      "category": "food",
+      "name": "Bruschetta Originale",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Al Forno",
+      "category": "food",
+      "name": "Pollo Pesto",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Leggera",
+      "category": "food",
+      "name": "Grand Chicken Caesar Salad",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Starters",
+      "category": "food",
+      "name": "Garlic Bread",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Breakfast",
+      "category": "food",
+      "name": "Blueberries & Mascarpone Pancakes",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Starters",
+      "category": "food",
+      "name": "Cajun Prawns",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Sides",
+      "category": "food",
+      "name": "Polenta Chips",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Breakfast",
+      "category": "food",
+      "name": "Fresh Fruit & Yoghurt Bowl",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     }
+    ]
+   },
+   "answers": [
+    {
+     "index": 0,
+     "sheet_item": "The Full Works - scrambled eggs",
+     "family": "breakfast_eggs",
+     "sat_fat_g_per_plate": "33.0",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "648.1",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 1,
+     "sheet_item": "Tiramisu",
+     "family": "dessert",
+     "sat_fat_g_per_plate": "17.8",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "198.1",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 2,
+     "sheet_item": "Smoky BBQ Chicken",
+     "family": "pizza_neapolitan",
+     "sat_fat_g_per_plate": "10.4",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "447.2",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": "PR01's approved range is Pizza Express pizzas plus the AVPN dough ball"
+    },
+    {
+     "index": 3,
+     "sheet_item": "Garlic & Herbs dip",
+     "family": "dip",
+     "sat_fat_g_per_plate": "0.8",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "30.0",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 4,
+     "sheet_item": "Bruschetta Originale",
+     "family": "vegetable_starter",
+     "sat_fat_g_per_plate": "3.3",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "206.6",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 5,
+     "sheet_item": "Pollo Pesto",
+     "family": "pasta_main",
+     "sat_fat_g_per_plate": "26.3",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "557.5",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 6,
+     "sheet_item": "Grand Chicken Caesar Salad",
+     "family": "leaf_salad_starter",
+     "sat_fat_g_per_plate": "8.8",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "361.8",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 7,
+     "sheet_item": "Garlic Bread (butter)",
+     "family": "side_bread",
+     "sat_fat_g_per_plate": "2.5",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "95.8",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 8,
+     "sheet_item": "Blueberries & Mascarpone Pancakes",
+     "family": "breakfast_pancakes",
+     "sat_fat_g_per_plate": "6.3",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "210.3",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 9,
+     "sheet_item": "Cajun Prawns",
+     "family": "fish_starter",
+     "sat_fat_g_per_plate": "9.4",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "212.5",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 10,
+     "sheet_item": "Polenta Chips",
+     "family": "side_vegetable",
+     "sat_fat_g_per_plate": "4.0",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "202.6",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 11,
+     "sheet_item": "Fresh Fruit & Yoghurt Bowl",
+     "family": "breakfast_cereal",
+     "sat_fat_g_per_plate": "2.0",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "261.8",
+     "source_file": "pizzaexpress_2026-11.csv",
+     "url": "https://content-cdn.pizzaexpress.com/files/lj3txstz/production/13294855200defab10f0dcf4f178a8bae038b910.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    }
+   ]
+  },
+  {
+   "menu_id": "bonefish_grill_1",
+   "chain": "Bonefish Grill",
+   "menu": {
+    "readable": "yes",
+    "problems": "",
+    "items": [
+     {
+      "section": "Perfect Pairings & Chef Inspired Selections",
+      "category": "food",
+      "name": "Grilled Rainbow Trout",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Perfect Pairings & Chef Inspired Selections",
+      "category": "food",
+      "name": "Grilled 9 oz Sirloin",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "From the Sea",
+      "category": "food",
+      "name": "Creamy Tomato Linguine with Chicken",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Starters & Sharing",
+      "category": "food",
+      "name": "Calamari, Appetizer",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Soups & Greens",
+      "category": "food",
+      "name": "Tomato Bisque Soup cup",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Desserts",
+      "category": "food",
+      "name": "Bourbon Brownie",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Kids",
+      "category": "food",
+      "name": "Kids Chicken Bites",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Soups & Greens",
+      "category": "food",
+      "name": "Shaved Brussels Sprouts Side Salad",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     }
+    ]
+   },
+   "answers": [
+    {
+     "index": 0,
+     "sheet_item": "Grilled Rainbow Trout",
+     "family": "fish_main",
+     "sat_fat_g_per_plate": "3.5",
+     "cholesterol_mg_per_plate": "180",
+     "serving_g": "",
+     "source_file": "bonefish_2026-06.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/bonefishgrill/Nutrition/PDFs/Bonefish-Grill-Nutrition-June-2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": "PR02's chain figure rests on Bonefish's stated fish weights"
+    },
+    {
+     "index": 1,
+     "sheet_item": "Grilled 9 oz Sirloin",
+     "family": "meat_main",
+     "sat_fat_g_per_plate": "11",
+     "cholesterol_mg_per_plate": "145",
+     "serving_g": "",
+     "source_file": "bonefish_2026-06.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/bonefishgrill/Nutrition/PDFs/Bonefish-Grill-Nutrition-June-2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 2,
+     "sheet_item": "Creamy Tomato Linguine with Chicken",
+     "family": "pasta_main",
+     "sat_fat_g_per_plate": "33",
+     "cholesterol_mg_per_plate": "295",
+     "serving_g": "",
+     "source_file": "bonefish_2026-06.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/bonefishgrill/Nutrition/PDFs/Bonefish-Grill-Nutrition-June-2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 3,
+     "sheet_item": "Calamari, Appetizer",
+     "family": "fish_starter",
+     "sat_fat_g_per_plate": "11",
+     "cholesterol_mg_per_plate": "665",
+     "serving_g": "",
+     "source_file": "bonefish_2026-06.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/bonefishgrill/Nutrition/PDFs/Bonefish-Grill-Nutrition-June-2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 4,
+     "sheet_item": "Tomato Bisque Soup cup",
+     "family": "soup",
+     "sat_fat_g_per_plate": "12",
+     "cholesterol_mg_per_plate": "50",
+     "serving_g": "",
+     "source_file": "bonefish_2026-06.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/bonefishgrill/Nutrition/PDFs/Bonefish-Grill-Nutrition-June-2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 5,
+     "sheet_item": "Bourbon Brownie",
+     "family": "dessert",
+     "sat_fat_g_per_plate": "63",
+     "cholesterol_mg_per_plate": "450",
+     "serving_g": "",
+     "source_file": "bonefish_2026-06.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/bonefishgrill/Nutrition/PDFs/Bonefish-Grill-Nutrition-June-2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 6,
+     "sheet_item": "Kids Chicken Bites",
+     "family": "kids_dish",
+     "sat_fat_g_per_plate": "2",
+     "cholesterol_mg_per_plate": "65",
+     "serving_g": "",
+     "source_file": "bonefish_2026-06.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/bonefishgrill/Nutrition/PDFs/Bonefish-Grill-Nutrition-June-2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 7,
+     "sheet_item": "Shaved Brussels Sprouts Side Salad",
+     "family": "side_salad",
+     "sat_fat_g_per_plate": "2.5",
+     "cholesterol_mg_per_plate": "10",
+     "serving_g": "",
+     "source_file": "bonefish_2026-06.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/bonefishgrill/Nutrition/PDFs/Bonefish-Grill-Nutrition-June-2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    }
+   ]
+  },
+  {
+   "menu_id": "zizzi_1",
+   "chain": "Zizzi",
+   "menu": {
+    "readable": "yes",
+    "problems": "",
+    "items": [
+     {
+      "section": "Bambini",
+      "category": "food",
+      "name": "Kids Spaghetti Bolognese",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Gelatos",
+      "category": "food",
+      "name": "Vanilla Gelato",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Pasta",
+      "category": "food",
+      "name": "Bolognese Classico",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Signature dishes",
+      "category": "food",
+      "name": "Hot Honey Glazed Duck",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Starters",
+      "category": "food",
+      "name": "Garlic Bread",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Signature dishes",
+      "category": "food",
+      "name": "Mediterranean Sea Bass",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Sides",
+      "category": "food",
+      "name": "Chips",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Aperitivo",
+      "category": "food",
+      "name": "Olives",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     }
+    ]
+   },
+   "answers": [
+    {
+     "index": 0,
+     "sheet_item": "Kids Spaghetti Bolognese",
+     "family": "kids_dish",
+     "sat_fat_g_per_plate": "2",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "150.0",
+     "source_file": "zizzi_2026-09.csv",
+     "url": "https://cdn.sanity.io/files/ysupxjc9/production/abb3546d604fabb82945c2b1291c22949e5dc66e.pdf/ZIZZI-UK-NUTRITION-GUIDE_AUTUMN_SEP2026_V1.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 1,
+     "sheet_item": "Vanilla Gelato",
+     "family": "dessert",
+     "sat_fat_g_per_plate": "1.8",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "36.5",
+     "source_file": "zizzi_2026-09.csv",
+     "url": "https://cdn.sanity.io/files/ysupxjc9/production/abb3546d604fabb82945c2b1291c22949e5dc66e.pdf/ZIZZI-UK-NUTRITION-GUIDE_AUTUMN_SEP2026_V1.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 2,
+     "sheet_item": "Bolognese Classico",
+     "family": "pasta_main",
+     "sat_fat_g_per_plate": "4.3",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "356.8",
+     "source_file": "zizzi_2026-09.csv",
+     "url": "https://cdn.sanity.io/files/ysupxjc9/production/abb3546d604fabb82945c2b1291c22949e5dc66e.pdf/ZIZZI-UK-NUTRITION-GUIDE_AUTUMN_SEP2026_V1.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 3,
+     "sheet_item": "Hot Honey Glazed Duck",
+     "family": "meat_main",
+     "sat_fat_g_per_plate": "14",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "606.6",
+     "source_file": "zizzi_2026-09.csv",
+     "url": "https://cdn.sanity.io/files/ysupxjc9/production/abb3546d604fabb82945c2b1291c22949e5dc66e.pdf/ZIZZI-UK-NUTRITION-GUIDE_AUTUMN_SEP2026_V1.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 4,
+     "sheet_item": "Garlic Bread",
+     "family": "side_bread",
+     "sat_fat_g_per_plate": "3.4",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "238.0",
+     "source_file": "zizzi_2026-09.csv",
+     "url": "https://cdn.sanity.io/files/ysupxjc9/production/abb3546d604fabb82945c2b1291c22949e5dc66e.pdf/ZIZZI-UK-NUTRITION-GUIDE_AUTUMN_SEP2026_V1.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 5,
+     "sheet_item": "Mediterranean Sea Bass",
+     "family": "fish_main",
+     "sat_fat_g_per_plate": "5.2",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "543.4",
+     "source_file": "zizzi_2026-09.csv",
+     "url": "https://cdn.sanity.io/files/ysupxjc9/production/abb3546d604fabb82945c2b1291c22949e5dc66e.pdf/ZIZZI-UK-NUTRITION-GUIDE_AUTUMN_SEP2026_V1.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 6,
+     "sheet_item": "Chips",
+     "family": "fried_potato_side",
+     "sat_fat_g_per_plate": "3.6",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "201.9",
+     "source_file": "zizzi_2026-09.csv",
+     "url": "https://cdn.sanity.io/files/ysupxjc9/production/abb3546d604fabb82945c2b1291c22949e5dc66e.pdf/ZIZZI-UK-NUTRITION-GUIDE_AUTUMN_SEP2026_V1.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 7,
+     "sheet_item": "Olives",
+     "family": "snack_bowl",
+     "sat_fat_g_per_plate": "1.3",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "33.3",
+     "source_file": "zizzi_2026-09.csv",
+     "url": "https://cdn.sanity.io/files/ysupxjc9/production/abb3546d604fabb82945c2b1291c22949e5dc66e.pdf/ZIZZI-UK-NUTRITION-GUIDE_AUTUMN_SEP2026_V1.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    }
+   ]
+  },
+  {
+   "menu_id": "vapiano_1",
+   "chain": "Vapiano",
+   "menu": {
+    "readable": "yes",
+    "problems": "",
+    "items": [
+     {
+      "section": "Pasta recipes",
+      "category": "food",
+      "name": "Pesto basilico",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Pizza",
+      "category": "food",
+      "name": "Verdure",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Autumn/Winter specials",
+      "category": "food",
+      "name": "Pistachio Truffle Dolci",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Kids menu",
+      "category": "food",
+      "name": "Pizza prosciutto e funghi",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Antipasti",
+      "category": "food",
+      "name": "Insalata Mista Della Casa with no dressing",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Pizza",
+      "category": "food",
+      "name": "Pizza Bread Garlic",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Antipasti",
+      "category": "food",
+      "name": "Insalata Mista Piccola",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Antipasti",
+      "category": "food",
+      "name": "Antipasti Caprese",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     }
+    ]
+   },
+   "answers": [
+    {
+     "index": 0,
+     "sheet_item": "Pesto basilico",
+     "family": "pasta_main",
+     "sat_fat_g_per_plate": "2.6",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "220",
+     "source_file": "vapiano_2022-11.csv",
+     "url": "https://ks.vapiano.com/wp-content/uploads/sites/29/2022/11/Vapiano-Nutritionals-steve.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 1,
+     "sheet_item": "Verdure",
+     "family": "pizza_neapolitan",
+     "sat_fat_g_per_plate": "16.1",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "640",
+     "source_file": "vapiano_2022-11.csv",
+     "url": "https://ks.vapiano.com/wp-content/uploads/sites/29/2022/11/Vapiano-Nutritionals-steve.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 2,
+     "sheet_item": "Pistachio Truffle Dolci",
+     "family": "dessert",
+     "sat_fat_g_per_plate": "4.8",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "81",
+     "source_file": "vapiano_2022-11.csv",
+     "url": "https://ks.vapiano.com/wp-content/uploads/sites/29/2022/11/Vapiano-Nutritionals-steve.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 3,
+     "sheet_item": "Pizza prosciutto e funghi (kids)",
+     "family": "kids_dish",
+     "sat_fat_g_per_plate": "6.8",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "450",
+     "source_file": "vapiano_2022-11.csv",
+     "url": "https://ks.vapiano.com/wp-content/uploads/sites/29/2022/11/Vapiano-Nutritionals-steve.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 4,
+     "sheet_item": "Insalata Mista Della Casa with no dressing",
+     "family": "leaf_salad_starter",
+     "sat_fat_g_per_plate": "2.1",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "250",
+     "source_file": "vapiano_2022-11.csv",
+     "url": "https://ks.vapiano.com/wp-content/uploads/sites/29/2022/11/Vapiano-Nutritionals-steve.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 5,
+     "sheet_item": "Pizza Bread Garlic",
+     "family": "side_bread",
+     "sat_fat_g_per_plate": "1.9",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "320",
+     "source_file": "vapiano_2022-11.csv",
+     "url": "https://ks.vapiano.com/wp-content/uploads/sites/29/2022/11/Vapiano-Nutritionals-steve.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 6,
+     "sheet_item": "Insalata Mista Piccola",
+     "family": "side_salad",
+     "sat_fat_g_per_plate": "0.0",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "150",
+     "source_file": "vapiano_2022-11.csv",
+     "url": "https://ks.vapiano.com/wp-content/uploads/sites/29/2022/11/Vapiano-Nutritionals-steve.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 7,
+     "sheet_item": "Antipasti Caprese",
+     "family": "tomato_salad_starter",
+     "sat_fat_g_per_plate": "20.8",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "300",
+     "source_file": "vapiano_2022-11.csv",
+     "url": "https://ks.vapiano.com/wp-content/uploads/sites/29/2022/11/Vapiano-Nutritionals-steve.pdf",
+     "read_on": "2026-11-06",
+     "dependent": "PR05 is built from Pizza Express, Vapiano and Zizzi caprese weights"
+    }
+   ]
+  },
+  {
+   "menu_id": "carrabba_s_italian_grill_1",
+   "chain": "Carrabba's Italian Grill",
+   "menu": {
+    "readable": "yes",
+    "problems": "",
+    "items": [
+     {
+      "section": "Pasta",
+      "category": "food",
+      "name": "Shrimp and Scallop Linguine Alla Vodka",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Seafood",
+      "category": "food",
+      "name": "Salmon Caperi",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Steaks & Chops & Toppings",
+      "category": "food",
+      "name": "Tuscan Grilled Ribeye, 16 oz.",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Appetizers",
+      "category": "food",
+      "name": "Shrimp Scampi",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Appetizers",
+      "category": "food",
+      "name": "Tomato Caprese with Fresh Burrata",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Pasta",
+      "category": "food",
+      "name": "Filet and Shrimp Pasta Toscana",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     }
+    ]
+   },
+   "answers": [
+    {
+     "index": 0,
+     "sheet_item": "Shrimp and Scallop Linguine Alla Vodka",
+     "family": "pasta_main",
+     "sat_fat_g_per_plate": "13",
+     "cholesterol_mg_per_plate": "185",
+     "serving_g": "",
+     "source_file": "carrabbas_2026-09.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/carrabbas/Nutrition-Images/CIG_Nutrition_September_2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 1,
+     "sheet_item": "Salmon Caperi",
+     "family": "fish_main",
+     "sat_fat_g_per_plate": "16",
+     "cholesterol_mg_per_plate": "175",
+     "serving_g": "",
+     "source_file": "carrabbas_2026-09.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/carrabbas/Nutrition-Images/CIG_Nutrition_September_2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 2,
+     "sheet_item": "Tuscan Grilled Ribeye, 16 oz.",
+     "family": "meat_main",
+     "sat_fat_g_per_plate": "18",
+     "cholesterol_mg_per_plate": "265",
+     "serving_g": "",
+     "source_file": "carrabbas_2026-09.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/carrabbas/Nutrition-Images/CIG_Nutrition_September_2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 3,
+     "sheet_item": "Shrimp Scampi",
+     "family": "fish_starter",
+     "sat_fat_g_per_plate": "26",
+     "cholesterol_mg_per_plate": "325",
+     "serving_g": "",
+     "source_file": "carrabbas_2026-09.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/carrabbas/Nutrition-Images/CIG_Nutrition_September_2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 4,
+     "sheet_item": "Tomato Caprese with Fresh Burrata",
+     "family": "tomato_salad_starter",
+     "sat_fat_g_per_plate": "17",
+     "cholesterol_mg_per_plate": "70",
+     "serving_g": "",
+     "source_file": "carrabbas_2026-09.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/carrabbas/Nutrition-Images/CIG_Nutrition_September_2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": "PR05 is built from Pizza Express, Vapiano and Zizzi caprese weights"
+    },
+    {
+     "index": 5,
+     "sheet_item": "Filet and Shrimp Pasta Toscana",
+     "family": "pasta_main",
+     "sat_fat_g_per_plate": "83",
+     "cholesterol_mg_per_plate": "490",
+     "serving_g": "",
+     "source_file": "carrabbas_2026-09.csv",
+     "url": "https://edge.sitecorecloud.io/osirestaurantpartners-piq24hos/media/Project/BBI/carrabbas/Nutrition-Images/CIG_Nutrition_September_2026.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    }
+   ]
+  },
+  {
+   "menu_id": "prezzo_1",
+   "chain": "Prezzo",
+   "menu": {
+    "readable": "yes",
+    "problems": "",
+    "items": [
+     {
+      "section": "Pasta",
+      "category": "food",
+      "name": "Salmon, Tomato & Basil Rigatoni",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Grills",
+      "category": "food",
+      "name": "Truffle Gorgonzola Burger - Chicken",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Sides",
+      "category": "food",
+      "name": "House Fries",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Starters and Sharers",
+      "category": "food",
+      "name": "Garlic Bread With Mozzarella",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Starters and Sharers",
+      "category": "food",
+      "name": "Olives",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     }
+    ]
+   },
+   "answers": [
+    {
+     "index": 0,
+     "sheet_item": "Salmon, Tomato & Basil Rigatoni",
+     "family": "pasta_main",
+     "sat_fat_g_per_plate": "12",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "",
+     "source_file": "prezzo_jan.csv",
+     "url": "https://www.prezzorestaurants.co.uk/media/kwtniylu/website-nutrition-jan-v2.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 1,
+     "sheet_item": "Truffle Gorgonzola Burger - Chicken",
+     "family": "burger",
+     "sat_fat_g_per_plate": "15",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "",
+     "source_file": "prezzo_jan.csv",
+     "url": "https://www.prezzorestaurants.co.uk/media/kwtniylu/website-nutrition-jan-v2.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 2,
+     "sheet_item": "House Fries",
+     "family": "fried_potato_side",
+     "sat_fat_g_per_plate": "1.4",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "",
+     "source_file": "prezzo_jan.csv",
+     "url": "https://www.prezzorestaurants.co.uk/media/kwtniylu/website-nutrition-jan-v2.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 3,
+     "sheet_item": "Garlic Bread With Mozzarella",
+     "family": "side_bread",
+     "sat_fat_g_per_plate": "10",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "",
+     "source_file": "prezzo_jan.csv",
+     "url": "https://www.prezzorestaurants.co.uk/media/kwtniylu/website-nutrition-jan-v2.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 4,
+     "sheet_item": "Olives",
+     "family": "snack_bowl",
+     "sat_fat_g_per_plate": "1.7",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "",
+     "source_file": "prezzo_jan.csv",
+     "url": "https://www.prezzorestaurants.co.uk/media/kwtniylu/website-nutrition-jan-v2.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    }
+   ]
+  },
+  {
+   "menu_id": "wasabi_1",
+   "chain": "Wasabi",
+   "menu": {
+    "readable": "yes",
+    "problems": "",
+    "items": [
+     {
+      "section": "Soup",
+      "category": "food",
+      "name": "Spicy chicken tom yum",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Hot food",
+      "category": "food",
+      "name": "Korean chicken katsu sando",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     },
+     {
+      "section": "Breakfast",
+      "category": "food",
+      "name": "Porridge pot with berry compote",
+      "description": "",
+      "price": "",
+      "tags": [],
+      "belongs_to": ""
+     }
+    ]
+   },
+   "answers": [
+    {
+     "index": 0,
+     "sheet_item": "Spicy chicken tom yum",
+     "family": "soup",
+     "sat_fat_g_per_plate": "17.95",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "641",
+     "source_file": "wasabi_2026-06.csv",
+     "url": "https://www.wasabi.uk.com/wp-content/uploads/2026/06/WAS_Nutritional_Guide-v4020626.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 1,
+     "sheet_item": "Korean chicken katsu sando",
+     "family": "sandwich",
+     "sat_fat_g_per_plate": "1.80",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "225",
+     "source_file": "wasabi_2026-06.csv",
+     "url": "https://www.wasabi.uk.com/wp-content/uploads/2026/06/WAS_Nutritional_Guide-v4020626.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    },
+    {
+     "index": 2,
+     "sheet_item": "Porridge pot with berry compote",
+     "family": "breakfast_cereal",
+     "sat_fat_g_per_plate": "2.95",
+     "cholesterol_mg_per_plate": "",
+     "serving_g": "295",
+     "source_file": "wasabi_2026-06.csv",
+     "url": "https://www.wasabi.uk.com/wp-content/uploads/2026/06/WAS_Nutritional_Guide-v4020626.pdf",
+     "read_on": "2026-11-06",
+     "dependent": ""
+    }
+   ]
+  }
+ ],
+ "runs": {
+  "pizza_express_1": "20261108-211706-f1f26c",
+  "bonefish_grill_1": "20261108-212417-7b567c",
+  "zizzi_1": "20261108-212921-b956b5",
+  "vapiano_1": "20261108-213339-9ab79a",
+  "carrabba_s_italian_grill_1": "20261108-213831-390b85",
+  "prezzo_1": "20261108-214130-8a7afe",
+  "wasabi_1": "20261108-214500-774a9c"
+ },
+ "run_settings": {
+  "daily_budget_usd": "7.50",
+  "daily_search_credits": 500,
+  "per_menu": "unchanged ($0.50, 30 credits)",
+  "leave_one_chain_out": true
+ }
+}

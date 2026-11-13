@@ -1,0 +1,65 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 66,
+ "other_set_aside": 2,
+ "found_items": 66,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 3,
+ "grouping_names": [
+  "parent FRESHLY BAKED JACKETS -> ['Ham and Cheese', 'Beans and Cheese', 'Barbecue Pulled Pork', 'Mediterranean roast vegetables (vegan)']",
+  "Smoked bacon, Sausage, Chorizo, Black pudding, Halloumi, Avocado, 2 Eggs -> ['Smoked bacon', 'Sausage', 'Chorizo', 'Black pudding', 'Halloumi', 'Avocado', '2 Eggs']",
+  "Field mushroom, Tomato, Hash Brown, Beans -> ['Field mushroom', 'Tomato', 'Hash Brown', 'Beans']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 26,
+ "tags_right": 0.8823529411764706,
+ "portion_right": 0.803921568627451,
+ "has_choice_right": 0.8823529411764706,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 35,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 16,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 2,
+   "total": 2,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "Photo is slightly angled and the print is small, so some descriptions may be imperfect. The left page edge is partly covered by a hand, but no item name is cut off. No lines were left out.",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 30.742505166999763,
+ "cost_usd": 0.067836,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 4188,
+ "completion_tokens": 5946,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793378736-ZxXQ1tSEr052JLFQ6jWK"
+}

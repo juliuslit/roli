@@ -1,0 +1,59 @@
+{
+ "photo": "16",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.7857142857142857,
+ "expected_items": 14,
+ "other_set_aside": 0,
+ "found_items": 11,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "POLLO FUNDIDO",
+  "ASADA MIX",
+  "TACOS AL CARBON"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 11,
+ "tags_right": 1.0,
+ "portion_right": 0.9090909090909091,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 2,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 9,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Photo is taken at an angle with glare and the right and left edges are cut off; some item names and prices at the right edge are truncated (e.g. Pollo Fundido and Tacos al Carbon prices, Carne Asada description). Items whose names are cut off were omitted. The 'Chile Verde', 'Chile Colorado', 'Arroz con Pollo' and 'Tortilla Soup' prices are partly obscured.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 5.849383791995933,
+ "cost_usd": 0.0010119,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "reasoning_tokens": null,
+ "generation_id": null,
+ "rep": 1
+}

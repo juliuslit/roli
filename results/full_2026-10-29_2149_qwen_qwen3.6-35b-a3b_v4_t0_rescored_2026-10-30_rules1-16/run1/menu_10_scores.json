@@ -1,0 +1,66 @@
+{
+ "photo": "10",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 157,
+ "other_set_aside": 0,
+ "found_items": 157,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9681528662420382,
+ "price_wrong_names": [
+  "Chicken Cashewnut: price '260-00' vs key '280-00'",
+  "Fish in Pickle Sauce: price '' vs key '310-00'",
+  "Ginger Fish: price '' vs key '310-00'",
+  "Prawn Pakoda: price '' vs key '320-00'",
+  "Fried Prawn: price '' vs key '320-00'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 0.7133757961783439,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9936305732484076,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 147,
+   "share_wrong": 0.006802721088435374
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 1,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 4,
+   "total": 9,
+   "share_wrong": 0.4444444444444444
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The bottom of the 'FISH' section is obscured by glare, making the prices for items from 'Fish in Pickle Sauce' downwards unreadable. The bottom of the 'PRAWN' section is also partially obscured by glare, making prices for 'Prawn Pakoda' and 'Fried Prawn' unreadable.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 85.36172312501003,
+ "cost_usd": 0.0095811,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2625,
+ "completion_tokens": 10442,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793325251-Gj25CeVOY8vn3mwOdnpW",
+ "rep": 1
+}

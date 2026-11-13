@@ -1,0 +1,37 @@
+google/gemini-3.8-flash x v5 x temperature 0: 50 answers, $0.66  [scoring_rules.md interpretations 1-18 (2026-10-30)]
+
+[as_written] passes: False
+  dishes found avg 96.4%  min photo 62%  by run {1: 96.6%, 2: 96.3%}
+  invented by run {1: 8, 2: 7}  cut-off listed by run {1: 13, 2: 14}  prices 98.7%  descriptions 94.3%  format 98.0% (fenced 9)
+  partly caught {1: '6/7', 2: '6/7'}  false alarms {1: 2, 2: 1}  speed 19 s  cost 1.32 c/photo
+  garbled 2  groupings 8  found via joined text 36  tokens in/out avg 2991/2926  reasoning tokens total 0
+    PASS  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  2b cut-off lines listed 0 on both runs
+    PASS  3 prices >=95%
+    PASS  4 descriptions >=90%
+    PASS  6 format >=98%
+    FAIL  7 all partly photos caught, both runs
+    PASS  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+[photo_17_set_aside] passes: False
+  dishes found avg 96.3%  min photo 62%  by run {1: 96.6%, 2: 96.1%}
+  invented by run {1: 5, 2: 5}  cut-off listed by run {1: 7, 2: 8}  prices 99.1%  descriptions 97.1%  format 97.9% (fenced 7)
+  partly caught {1: '5/6', 2: '5/6'}  false alarms {1: 2, 2: 1}  speed 16 s  cost 1.14 c/photo
+  garbled 0  groupings 8  found via joined text 32  tokens in/out avg 2990/2455  reasoning tokens total 0
+    PASS  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  2b cut-off lines listed 0 on both runs
+    PASS  3 prices >=95%
+    PASS  4 descriptions >=90%
+    FAIL  6 format >=98%
+    FAIL  7 all partly photos caught, both runs
+    PASS  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+hosts: Google AI Studio 50 calls, median 145 output tok/s
+
+check list: 48 medium/low key items -> /Users/juliuslitinskas/projects/roli/results/full_2026-11-06_1229_google_gemini-3.8-flash_v5_t0/check_list.csv

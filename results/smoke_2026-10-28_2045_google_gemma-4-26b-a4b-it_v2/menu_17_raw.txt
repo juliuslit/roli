@@ -1,0 +1,1 @@
+{"readable": "no", "problems": "The photo is of a food menu, but it is extremely low resolution, blurry, and difficult to read. Most text is illegible, preventing an accurate transcription of names, descriptions, or prices.", "items": []}

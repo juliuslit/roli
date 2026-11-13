@@ -1,0 +1,660 @@
+[
+ {
+  "ingredient": "chives",
+  "query": "chives raw",
+  "fdc_id": 169994,
+  "description": "Chives, raw",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.146,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 tsp chopped",
+    1.0
+   ],
+   [
+    "1 tbsp chopped",
+    3.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "basil leaves",
+  "query": "basil fresh",
+  "fdc_id": 172232,
+  "description": "Basil, fresh",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.041,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "2 tbsp, chopped",
+    5.3
+   ],
+   [
+    "5 leaves",
+    2.5
+   ],
+   [
+    "0.25 cup leaves, whole",
+    6.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "mint leaves",
+  "query": "spearmint fresh",
+  "fdc_id": 173475,
+  "description": "Spearmint, fresh",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.191,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "2 tbsp",
+    11.4
+   ],
+   [
+    "2 leaves",
+    0.3
+   ]
+  ]
+ },
+ {
+  "ingredient": "parsley",
+  "query": "parsley fresh",
+  "fdc_id": 170416,
+  "description": "Parsley, fresh",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.132,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 cup chopped",
+    60.0
+   ],
+   [
+    "1 tbsp",
+    3.8
+   ],
+   [
+    "10 sprigs",
+    10.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "cilantro",
+  "query": "coriander leaves raw",
+  "fdc_id": 169997,
+  "description": "Coriander (cilantro) leaves, raw",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.014,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "9 sprigs",
+    20.0
+   ],
+   [
+    "0.25 cup",
+    4.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "grated hard cheese (pecorino/parmesan)",
+  "query": "cheese romano",
+  "fdc_id": 171249,
+  "description": "Cheese, romano",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 17.115,
+  "chol_mg_100g": 104.0,
+  "portions": [
+   [
+    "5 package (5 oz)",
+    142.0
+   ],
+   [
+    "1 oz",
+    28.35
+   ]
+  ]
+ },
+ {
+  "ingredient": "parmesan grated",
+  "query": "cheese parmesan grated",
+  "fdc_id": 171247,
+  "description": "Cheese, parmesan, grated",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 15.371,
+  "chol_mg_100g": 86.0,
+  "portions": [
+   [
+    "1 oz",
+    28.35
+   ],
+   [
+    "1 cup",
+    100.0
+   ],
+   [
+    "1 tbsp",
+    5.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "mozzarella (fior di latte)",
+  "query": "cheese mozzarella whole milk",
+  "fdc_id": 170845,
+  "description": "Cheese, mozzarella, whole milk",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 13.9,
+  "chol_mg_100g": 79.0,
+  "portions": [
+   [
+    "1 oz",
+    28.35
+   ],
+   [
+    "1 cup, shredded",
+    112.0
+   ],
+   [
+    "6 slices",
+    170.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "sesame seeds toasted",
+  "query": "seeds sesame roasted toasted",
+  "fdc_id": 170151,
+  "description": "Seeds, sesame seeds, whole, roasted and toasted",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 6.722,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 oz",
+    28.35
+   ]
+  ]
+ },
+ {
+  "ingredient": "tahini",
+  "query": "tahini",
+  "fdc_id": 168604,
+  "description": "Seeds, sesame butter, tahini, type of kernels unspecified",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 7.423,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 tbsp",
+    15.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "olive oil",
+  "query": "oil olive",
+  "fdc_id": 171413,
+  "description": "Oil, olive, salad or cooking",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 13.808,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 tablespoon",
+    13.5
+   ],
+   [
+    "1 tsp",
+    4.5
+   ],
+   [
+    "1 cup",
+    216.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "butter",
+  "query": "butter salted",
+  "fdc_id": 173410,
+  "description": "Butter, salted",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 51.368,
+  "chol_mg_100g": 215.0,
+  "portions": [
+   [
+    "1 pat (1\" sq, 1/3\" high)",
+    5.0
+   ],
+   [
+    "1 stick",
+    113.0
+   ],
+   [
+    "1 cup",
+    227.0
+   ],
+   [
+    "1 tbsp",
+    14.2
+   ]
+  ]
+ },
+ {
+  "ingredient": "fish roe (bottarga proxy)",
+  "query": "fish roe mixed species raw",
+  "fdc_id": 175132,
+  "description": "Fish, roe, mixed species, raw",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 1.456,
+  "chol_mg_100g": 374.0,
+  "portions": [
+   [
+    "1 tbsp",
+    14.0
+   ],
+   [
+    "1 oz",
+    28.35
+   ],
+   [
+    "3 oz",
+    85.0
+   ],
+   [
+    "1 can (8 oz), solids and liquid",
+    227.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "grapes",
+  "query": "grapes red or green raw",
+  "fdc_id": 174683,
+  "description": "Grapes, red or green (European type, such as Thompson seedless), raw",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.054,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 cup",
+    151.0
+   ],
+   [
+    "10 grapes",
+    49.0
+   ],
+   [
+    "1 NLEA serving",
+    126.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "lemon juice",
+  "query": "lemon juice raw",
+  "fdc_id": 167747,
+  "description": "Lemon juice, raw",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.04,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 wedge yields",
+    5.9
+   ],
+   [
+    "1 lemon yields",
+    48.0
+   ],
+   [
+    "1 cup",
+    244.0
+   ],
+   [
+    "1 fl oz",
+    30.5
+   ]
+  ]
+ },
+ {
+  "ingredient": "lemon zest",
+  "query": "lemon peel raw",
+  "fdc_id": 167749,
+  "description": "Lemon peel, raw",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.039,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 tsp",
+    2.0
+   ],
+   [
+    "1 tbsp",
+    6.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "sea salt",
+  "query": "salt table",
+  "fdc_id": 173468,
+  "description": "Salt, table",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.0,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 cup",
+    292.0
+   ],
+   [
+    "1 tsp",
+    6.0
+   ],
+   [
+    "1 tbsp",
+    18.0
+   ],
+   [
+    "1 dash",
+    0.4
+   ]
+  ]
+ },
+ {
+  "ingredient": "black pepper",
+  "query": "spices pepper black",
+  "fdc_id": 170931,
+  "description": "Spices, pepper, black",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 1.392,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 tbsp, ground",
+    6.9
+   ],
+   [
+    "1 dash",
+    0.1
+   ],
+   [
+    "1 tsp, ground",
+    2.3
+   ],
+   [
+    "1 tsp, whole",
+    2.9
+   ]
+  ]
+ },
+ {
+  "ingredient": "red pepper flakes",
+  "query": "spices pepper red cayenne",
+  "fdc_id": 170932,
+  "description": "Spices, pepper, red or cayenne",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 3.26,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 tbsp",
+    5.3
+   ],
+   [
+    "1 tsp",
+    1.8
+   ]
+  ]
+ },
+ {
+  "ingredient": "sourdough croutons",
+  "query": "bread french vienna sourdough",
+  "fdc_id": 172675,
+  "description": "Bread, french or vienna (includes sourdough)",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.529,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 oz",
+    28.35
+   ],
+   [
+    "1 slice",
+    139.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "corn kernels",
+  "query": "corn sweet yellow raw",
+  "fdc_id": 169998,
+  "description": "Corn, sweet, yellow, raw",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.325,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 ear, medium (6-3/4\" to 7-1/2\" long) yields",
+    102.0
+   ],
+   [
+    "1 cup",
+    145.0
+   ],
+   [
+    "1 ear, small (5-1/2\" to 6-1/2\" long)",
+    73.0
+   ],
+   [
+    "1 ear, large (7-3/4\" to 9\" long) yields",
+    143.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "zucchini / summer squash",
+  "query": "squash summer zucchini raw",
+  "fdc_id": 169291,
+  "description": "Squash, summer, zucchini, includes skin, raw",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.084,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 large",
+    323.0
+   ],
+   [
+    "1 medium",
+    196.0
+   ],
+   [
+    "1 slice",
+    9.9
+   ],
+   [
+    "1 small",
+    118.0
+   ],
+   [
+    "1 cup, chopped",
+    124.0
+   ],
+   [
+    "1 cup, sliced",
+    113.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "shishito (green chili proxy)",
+  "query": "peppers hot chili green raw",
+  "fdc_id": 170497,
+  "description": "Peppers, hot chili, green, raw",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.021,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 pepper",
+    45.0
+   ],
+   [
+    "0.5 cup, chopped or diced",
+    75.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "plum (pluot proxy)",
+  "query": "plums raw",
+  "fdc_id": 169949,
+  "description": "Plums, raw",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.017,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 NLEA serving",
+    151.0
+   ],
+   [
+    "1 cup, sliced",
+    165.0
+   ],
+   [
+    "1 fruit (2-1/8\" dia)",
+    66.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "pistachios",
+  "query": "nuts pistachio raw",
+  "fdc_id": 170184,
+  "description": "Nuts, pistachio nuts, raw",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 5.907,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 oz (49 kernels)",
+    28.35
+   ],
+   [
+    "1 cup",
+    123.0
+   ],
+   [
+    "1 kernel",
+    0.7
+   ]
+  ]
+ },
+ {
+  "ingredient": "capers",
+  "query": "capers canned",
+  "fdc_id": 172238,
+  "description": "Capers, canned",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 0.233,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 tbsp, drained",
+    8.6
+   ]
+  ]
+ },
+ {
+  "ingredient": "castelvetrano olives (green olives)",
+  "query": "olives green pickled",
+  "fdc_id": 169096,
+  "description": "Olives, pickled, canned or bottled, green",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 2.029,
+  "chol_mg_100g": 0.0,
+  "portions": [
+   [
+    "1 olive",
+    2.7
+   ]
+  ]
+ },
+ {
+  "ingredient": "egg yolk",
+  "query": "egg yolk raw",
+  "fdc_id": 172184,
+  "description": "Egg, yolk, raw, fresh",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 9.551,
+  "chol_mg_100g": 1085.0,
+  "portions": [
+   [
+    "1 large",
+    17.0
+   ],
+   [
+    "1 cup",
+    243.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "bacon / pancetta proxy",
+  "query": "pork cured bacon cooked",
+  "fdc_id": 167914,
+  "description": "Pork, cured, bacon, cooked, baked",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 14.187,
+  "chol_mg_100g": 107.0,
+  "portions": [
+   [
+    "1 slice cooked",
+    8.1
+   ],
+   [
+    "3 oz",
+    85.0
+   ]
+  ]
+ },
+ {
+  "ingredient": "heavy cream",
+  "query": "cream fluid heavy whipping",
+  "fdc_id": 170859,
+  "description": "Cream, fluid, heavy whipping",
+  "data_type": "SR Legacy",
+  "sat_fat_g_100g": 23.032,
+  "chol_mg_100g": 113.0,
+  "portions": [
+   [
+    "1 cup, whipped",
+    120.0
+   ],
+   [
+    "1 cup, fluid (yields 2 cups whipped)",
+    238.0
+   ],
+   [
+    "1 tbsp",
+    15.0
+   ],
+   [
+    "1 fl oz",
+    29.8
+   ]
+  ]
+ }
+]

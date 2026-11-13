@@ -1,0 +1,63 @@
+{
+ "photo": "06",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8901098901098901,
+ "expected_items": 91,
+ "found_items": 81,
+ "unmatched_expected_names": [
+  "Make your own pizza - standard base with sauce and mozzarella",
+  "Garlic butter",
+  "Garlic oil (vgn)",
+  "Garlic mayo",
+  "Marinara sauce (vgn)",
+  "Sundried tomato (vgn) (contains garlic)",
+  "BBQ sauce (vgn)",
+  "Chilli jam (vgn)",
+  "Chilli oil (vgn)",
+  "Almond pesto (vgn)"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "DIPS"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 0.9753086419753086,
+ "price_wrong_names": [
+  "NDUJA WANNA: price '17' vs key '£17.5'",
+  "THE MOBY: price '17.5' vs key '£17'"
+ ],
+ "descriptions_right": 0.9024390243902439,
+ "descriptions_checked": 41,
+ "tags_right": 0.7901234567901234,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9876543209876543,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 26,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 3,
+   "total": 19,
+   "share_wrong": 0.15789473684210525
+  },
+  "low": {
+   "wrong": 0,
+   "total": 37,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is a two-page spread held by a hand at bottom; some small text and prices are blurred or faint (notably the Spare Parts add-on prices and several small-print tags). Items with unreadable prices are left blank. The 'Sundried tomato (vgn) (contains garlic)' dip and some vegan tags are small; tags transcribed as printed. Low-confidence items flagged.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 27.476989417002187,
+ "cost_usd": 0.0052443,
+ "finish_reason": "stop"
+}

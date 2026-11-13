@@ -1,0 +1,604 @@
+{
+ "model": "qwen/qwen3-vl-30b-a3b-instruct",
+ "prompt_version": "v1",
+ "temperature": 0,
+ "max_answer_tokens": 24000,
+ "deadline_seconds": 300,
+ "thinking": false,
+ "provider_order": [
+  "novita",
+  "siliconflow"
+ ],
+ "repetitions": 2,
+ "partial": "paused by --pause-on-host siliconflow:5 after 40 calls (run 1 complete, run 2 photos 01-15; photo 15 run 2 raw saved, not scored); summary built from per-call score files; Julius: do not resume on SiliconFlow (2026-10-30)",
+ "run_dir": "results/full_2026-10-30_0806_qwen_qwen3-vl-30b-a3b-instruct_v1_t0",
+ "rules": "scoring_rules.md interpretations 1-16 (2026-10-29)",
+ "calls": [
+  {
+   "photo": "01",
+   "rep": 1,
+   "seconds": 300.2254690419941,
+   "cost_usd": 0.00452368,
+   "finish_reason": "deadline",
+   "provider": "SiliconFlow",
+   "error": "",
+   "prompt_tokens": 2251,
+   "completion_tokens": 3204,
+   "generation_id": "gen-1793362012-wa9KdjMAV9kqaVGUN4AT"
+  },
+  {
+   "photo": "02",
+   "rep": 1,
+   "seconds": 137.86295583299943,
+   "cost_usd": 0.0019606,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 2226,
+   "generation_id": "gen-1793362325-iWCbIh9vCp7mZ3VFwpkj"
+  },
+  {
+   "photo": "03",
+   "rep": 1,
+   "seconds": 38.40502158299205,
+   "cost_usd": 0.0014229,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2092,
+   "completion_tokens": 1435,
+   "generation_id": "gen-1793362463-t2yHprSMHeWMwt1DPTJc"
+  },
+  {
+   "photo": "04",
+   "rep": 1,
+   "seconds": 21.969492125004763,
+   "cost_usd": 0.0009036,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 716,
+   "generation_id": "gen-1793362502-MLlNgwU39GFAkHnxIv5b"
+  },
+  {
+   "photo": "05",
+   "rep": 1,
+   "seconds": 180.00833133299602,
+   "cost_usd": 0.0035916,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 4556,
+   "generation_id": "gen-1793362524-KJApNjgwAX99KyD2HeMs"
+  },
+  {
+   "photo": "06",
+   "rep": 1,
+   "seconds": 243.98769974999595,
+   "cost_usd": 0.00556,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 7368,
+   "generation_id": "gen-1793362704-JnrrNwGcejSOL1taL2aZ"
+  },
+  {
+   "photo": "07",
+   "rep": 1,
+   "seconds": 123.45454445801442,
+   "cost_usd": 0.0026158,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 3162,
+   "generation_id": "gen-1793362948-5tafQRkeHpYVBFyEa2rR"
+  },
+  {
+   "photo": "08",
+   "rep": 1,
+   "seconds": 98.75742129201535,
+   "cost_usd": 0.0024114,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 2870,
+   "generation_id": "gen-1793363072-eiqN7aInyRUToDqavzAz"
+  },
+  {
+   "photo": "09",
+   "rep": 1,
+   "seconds": 37.01400970801478,
+   "cost_usd": 0.001199,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 1138,
+   "generation_id": "gen-1793363171-sRROc1UfG5c7UDwBK47K"
+  },
+  {
+   "photo": "10",
+   "rep": 1,
+   "seconds": 300.13843912500306,
+   "cost_usd": 0.0052746,
+   "finish_reason": "deadline",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2251,
+   "completion_tokens": 6892,
+   "generation_id": "gen-1793363208-qPSOh21EIU2erQsTLUjN"
+  },
+  {
+   "photo": "11",
+   "rep": 1,
+   "seconds": 112.0356469170074,
+   "cost_usd": 0.0023022,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 2714,
+   "generation_id": "gen-1793363514-TvN9bSA4OUjrhR065hKM"
+  },
+  {
+   "photo": "12",
+   "rep": 1,
+   "seconds": 132.01477995800087,
+   "cost_usd": 0.0027439,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 3345,
+   "generation_id": "gen-1793363627-dLCQInlApdKnEC4nZRpo"
+  },
+  {
+   "photo": "13",
+   "rep": 1,
+   "seconds": 54.00809749998734,
+   "cost_usd": 0.0014916,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 1556,
+   "generation_id": "gen-1793363759-vG17woYPQYEMNEYx7viz"
+  },
+  {
+   "photo": "14",
+   "rep": 1,
+   "seconds": 55.00158462498803,
+   "cost_usd": 0.0013731,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 1892,
+   "completion_tokens": 1421,
+   "generation_id": "gen-1793363813-6r7Ylgtvum2NbbOkYNwS"
+  },
+  {
+   "photo": "15",
+   "rep": 1,
+   "seconds": 130.93159870800446,
+   "cost_usd": 0.00404848,
+   "finish_reason": "stop",
+   "provider": "SiliconFlow",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 3465,
+   "generation_id": "gen-1793363868-g3ac1FM4Ga89GBpM0300"
+  },
+  {
+   "photo": "16",
+   "rep": 1,
+   "seconds": 56.74247412499972,
+   "cost_usd": 0.001345,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 1692,
+   "completion_tokens": 1438,
+   "generation_id": "gen-1793363999-qBZSxEDNXlTpN5Pou4DC"
+  },
+  {
+   "photo": "17",
+   "rep": 1,
+   "seconds": 300.10162204201333,
+   "cost_usd": 0.0049211,
+   "finish_reason": "deadline",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2251,
+   "completion_tokens": 6387,
+   "generation_id": "gen-1793364055-rZVNLiWfwXy7iPuaRDLC"
+  },
+  {
+   "photo": "18",
+   "rep": 1,
+   "seconds": 54.53829312499147,
+   "cost_usd": 0.00129,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 1268,
+   "generation_id": "gen-1793364362-Hr5qlZlyXteqH2EWsTlD"
+  },
+  {
+   "photo": "19",
+   "rep": 1,
+   "seconds": 93.62302516697673,
+   "cost_usd": 0.0025248,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 3032,
+   "generation_id": "gen-1793366874-7pLbAQW3WiJq3KuTgWxV"
+  },
+  {
+   "photo": "20",
+   "rep": 1,
+   "seconds": 20.96783083397895,
+   "cost_usd": 0.0007951,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 561,
+   "generation_id": "gen-1793366954-yz1sMmydamzZNumD8GEA"
+  },
+  {
+   "photo": "21",
+   "rep": 1,
+   "seconds": 15.305015916994307,
+   "cost_usd": 0.0007125,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 443,
+   "generation_id": "gen-1793366975-XWb30gRY2sVnmlhQJUoD"
+  },
+  {
+   "photo": "22",
+   "rep": 1,
+   "seconds": 11.662777040997753,
+   "cost_usd": 0.00059948,
+   "finish_reason": "stop",
+   "provider": "SiliconFlow",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 16,
+   "generation_id": "gen-1793366990-RmI7mlnOcmomNFAn9ue1"
+  },
+  {
+   "photo": "23",
+   "rep": 1,
+   "seconds": 22.20610787498299,
+   "cost_usd": 0.000905,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 718,
+   "generation_id": "gen-1793367002-0uzjnDMgLLZ5rmOWIcU0"
+  },
+  {
+   "photo": "24",
+   "rep": 1,
+   "seconds": 17.573128042015014,
+   "cost_usd": 0.0007578,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 1892,
+   "completion_tokens": 542,
+   "generation_id": "gen-1793367024-HR1eDAxMRqGx5TF0F3So"
+  },
+  {
+   "photo": "25",
+   "rep": 1,
+   "seconds": 26.289554208982736,
+   "cost_usd": 0.0010086,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 866,
+   "generation_id": "gen-1793367042-eM5j5FzNkpFmowaV0TfG"
+  },
+  {
+   "photo": "01",
+   "rep": 2,
+   "seconds": 133.076731750014,
+   "cost_usd": 0.004243,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 1692,
+   "completion_tokens": 5578,
+   "generation_id": "gen-1793367068-BNgMXIPyDpiUvDhNNTOu"
+  },
+  {
+   "photo": "02",
+   "rep": 2,
+   "seconds": 69.85389629198471,
+   "cost_usd": 0.0019606,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 2226,
+   "generation_id": "gen-1793367202-gfGnrXq5mbTvFD3nc9zk"
+  },
+  {
+   "photo": "03",
+   "rep": 2,
+   "seconds": 39.14191237499472,
+   "cost_usd": 0.0014229,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2092,
+   "completion_tokens": 1435,
+   "generation_id": "gen-1793367271-pkA0S24uvG79uiDW1VYK"
+  },
+  {
+   "photo": "04",
+   "rep": 2,
+   "seconds": 22.581113416992594,
+   "cost_usd": 0.0009036,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 716,
+   "generation_id": "gen-1793367310-q7PIvpPWmz6g3rPgrYzS"
+  },
+  {
+   "photo": "05",
+   "rep": 2,
+   "seconds": 105.29500129201915,
+   "cost_usd": 0.0035279,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 4465,
+   "generation_id": "gen-1793367333-kdRWCn8dNJiDHQXwYvwU"
+  },
+  {
+   "photo": "06",
+   "rep": 2,
+   "seconds": 300.59156704100315,
+   "cost_usd": 0.00575748,
+   "finish_reason": "deadline",
+   "provider": "SiliconFlow",
+   "error": "",
+   "prompt_tokens": 2251,
+   "completion_tokens": 3948,
+   "generation_id": "gen-1793367438-dN7ysX4hRnYbfZpcroFq"
+  },
+  {
+   "photo": "07",
+   "rep": 2,
+   "seconds": 66.89732512499904,
+   "cost_usd": 0.0024513,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 2927,
+   "generation_id": "gen-1793367746-a6h76sS9oKqqRYhgxCVK"
+  },
+  {
+   "photo": "08",
+   "rep": 2,
+   "seconds": 68.17739445899497,
+   "cost_usd": 0.0024114,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 2870,
+   "generation_id": "gen-1793367813-caN9kw8mEFBTz5f7nduN"
+  },
+  {
+   "photo": "09",
+   "rep": 2,
+   "seconds": 27.847956084006,
+   "cost_usd": 0.001199,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 1138,
+   "generation_id": "gen-1793367881-wUy7jP5wRvy6aLiVZZQU"
+  },
+  {
+   "photo": "10",
+   "rep": 2,
+   "seconds": 300.1176692910085,
+   "cost_usd": 0.00418348,
+   "finish_reason": "deadline",
+   "provider": "SiliconFlow",
+   "error": "",
+   "prompt_tokens": 2251,
+   "completion_tokens": 2792,
+   "generation_id": "gen-1793367909-uby4iJI2exytrzzDf9u8"
+  },
+  {
+   "photo": "11",
+   "rep": 2,
+   "seconds": 64.99613887499436,
+   "cost_usd": 0.0023022,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 2714,
+   "generation_id": "gen-1793368216-5ubD3HHZFawnTPzsGIZi"
+  },
+  {
+   "photo": "12",
+   "rep": 2,
+   "seconds": 92.05892145901453,
+   "cost_usd": 0.0027439,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 3345,
+   "generation_id": "gen-1793368281-2c6JQX4RlMZfnGO3sfp5"
+  },
+  {
+   "photo": "13",
+   "rep": 2,
+   "seconds": 41.009148958022706,
+   "cost_usd": 0.001493,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 2012,
+   "completion_tokens": 1558,
+   "generation_id": "gen-1793368373-MeogSDyiFn56A52h0oDU"
+  },
+  {
+   "photo": "14",
+   "rep": 2,
+   "seconds": 37.089818207983626,
+   "cost_usd": 0.0013731,
+   "finish_reason": "stop",
+   "provider": "Novita",
+   "error": "",
+   "prompt_tokens": 1892,
+   "completion_tokens": 1421,
+   "generation_id": "gen-1793368414-Lo7YXCnOLQqdXYxMqjSa"
+  }
+ ],
+ "hosts": {
+  "SiliconFlow": {
+   "median_tokens_per_second": 11,
+   "calls_measured": 5,
+   "calls_total": 5
+  },
+  "Novita": {
+   "median_tokens_per_second": 32,
+   "calls_measured": 34,
+   "calls_total": 34
+  }
+ },
+ "as_written": {
+  "photos_set_aside": [],
+  "dishes_found_avg": 0.7872071983780015,
+  "dishes_found_min_photo": 0.0,
+  "invented_total_by_run": {
+   "1": 27,
+   "2": 15
+  },
+  "prices_right_avg": 0.8751782984545721,
+  "descriptions_right_avg": 0.8001557577328903,
+  "format_right_avg": 0.8717948717948718,
+  "partly_caught_by_run": {
+   "1": "3/7",
+   "2": "1/3"
+  },
+  "false_alarms_by_run": {
+   "1": 0,
+   "2": 0
+  },
+  "seconds_avg": 101.37332089640982,
+  "cost_avg_usd": 0.002365505128205128,
+  "cost_total_usd": 0.0922547,
+  "cut_off_listed_total": 18,
+  "cut_off_listed_by_run": {
+   "1": 10,
+   "2": 8
+  },
+  "other_set_aside_total": 54,
+  "garbled_total": 29,
+  "grouping_total": 6,
+  "joined_found_total": 58,
+  "prompt_tokens_avg": 2021.1025641025642,
+  "completion_tokens_avg": 2524.923076923077,
+  "dishes_found_by_run": {
+   "1": 0.7838062342719512,
+   "2": 0.7932803485673768
+  },
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": false,
+   "2 invented 0 on both runs": false,
+   "2b cut-off lines listed 0 on both runs": false,
+   "3 prices >=95%": false,
+   "4 descriptions >=90%": false,
+   "6 format >=98%": false,
+   "7 all partly photos caught, both runs": false,
+   "7 false alarms <=3 per run": true,
+   "8 speed <60 s avg": false
+  },
+  "passes": false,
+  "unstable_runs_differ_over_5_points": false
+ },
+ "photo_17_set_aside": {
+  "photos_set_aside": [
+   "17"
+  ],
+  "dishes_found_avg": 0.8079231772826857,
+  "dishes_found_min_photo": 0.0,
+  "invented_total_by_run": {
+   "1": 27,
+   "2": 15
+  },
+  "prices_right_avg": 0.8751782984545721,
+  "descriptions_right_avg": 0.8001557577328903,
+  "format_right_avg": 0.8947368421052632,
+  "partly_caught_by_run": {
+   "1": "3/6",
+   "2": "1/3"
+  },
+  "false_alarms_by_run": {
+   "1": 0,
+   "2": 0
+  },
+  "seconds_avg": 96.1436287609992,
+  "cost_avg_usd": 0.0022982526315789473,
+  "cost_total_usd": 0.0873336,
+  "cut_off_listed_total": 18,
+  "cut_off_listed_by_run": {
+   "1": 10,
+   "2": 8
+  },
+  "other_set_aside_total": 54,
+  "garbled_total": 29,
+  "grouping_total": 6,
+  "joined_found_total": 58,
+  "prompt_tokens_avg": 2015.0526315789473,
+  "completion_tokens_avg": 2423.2894736842104,
+  "dishes_found_by_run": {
+   "1": 0.8164648273666159,
+   "2": 0.7932803485673768
+  },
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": false,
+   "2 invented 0 on both runs": false,
+   "2b cut-off lines listed 0 on both runs": false,
+   "3 prices >=95%": false,
+   "4 descriptions >=90%": false,
+   "6 format >=98%": false,
+   "7 all partly photos caught, both runs": false,
+   "7 false alarms <=3 per run": true,
+   "8 speed <60 s avg": false
+  },
+  "passes": false,
+  "unstable_runs_differ_over_5_points": false
+ }
+}

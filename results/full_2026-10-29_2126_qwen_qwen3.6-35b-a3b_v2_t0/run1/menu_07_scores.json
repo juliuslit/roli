@@ -1,0 +1,60 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9347826086956522,
+ "expected_items": 46,
+ "found_items": 43,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream",
+  "Babyccino",
+  "Mixers: Coca Cola/Diet, Lemonade, Tonic/Diet"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Victorian Lemonade, Ginger Beer, Sparkling Elderflower"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 3,
+ "garbled_names": [
+  "with marshmallows & whipped cream ~ Hot Chocolate with marshmallows & whipped cream (71%)",
+  "Babycino ~ Babyccino (89%)",
+  "Coca Cola/Diet, Lemonade, Tonic/Diet ~ Mixers: Coca Cola/Diet, Lemonade, Tonic/Diet (83%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9767441860465116,
+ "price_wrong_names": [
+  "Caramel, Vanilla, Hazelnut: price '0.6' vs key '0.5'"
+ ],
+ "descriptions_right": 0.16666666666666666,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.8837209302325582,
+ "has_choice_right": 0.8604651162790697,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 5,
+   "total": 47,
+   "share_wrong": 0.10638297872340426
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 21.394583291985327,
+ "cost_usd": 0.0029937,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2649,
+ "completion_tokens": 3120,
+ "generation_id": "gen-1793323755-01RPLwr33whxDGnAJmV1"
+}

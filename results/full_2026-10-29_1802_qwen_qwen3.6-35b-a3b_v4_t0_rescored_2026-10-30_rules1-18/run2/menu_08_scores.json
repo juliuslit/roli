@@ -1,0 +1,60 @@
+{
+ "photo": "08",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9736842105263158,
+ "expected_items": 38,
+ "other_set_aside": 0,
+ "found_items": 37,
+ "joined_found": 3,
+ "unmatched_expected_names": [
+  "Bacon"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "add : Bacon ~ Bacon (56%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8918918918918919,
+ "price_wrong_names": [
+  "STICKY TOFFEE PUDDING: price '' vs key '8'",
+  "APPLE & CRUMBLE RHUBARB: price '' vs key '8'",
+  "BISCOFF DOUGHNUTS: price '' vs key '8'",
+  "CHOCOLATE BROWNIE: price '' vs key '8'"
+ ],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 27,
+ "tags_right": 0.5675675675675675,
+ "portion_right": 0.972972972972973,
+ "has_choice_right": 0.972972972972973,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 5,
+   "total": 38,
+   "share_wrong": 0.13157894736842105
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 81.44717716699233,
+ "cost_usd": 0.003028,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 2597,
+ "completion_tokens": 2914,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793314524-QXddPBUYxDSQi5cAFkck",
+ "rep": 2
+}

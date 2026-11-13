@@ -1,0 +1,9 @@
+{"readable": "partly", "problems": "The photo is cropped at the top and right edges: the 'HOT SANDWICHES' heading is cut off, and the prices for several rows (Best Beef, Beef Supreme, Beef, Bacon & Cheese, Beef & Cheddar, Beef, Bac. & Cheddar, French Dip) are truncated at the right edge, so only partial digits are visible. Some rows also show a size column header 'REG' with partially hidden prices. The 'W/CHEDDAR' column at the far right appears to be an add-on column with prices partly visible.", "items": [
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEST BEEF", "description": "", "price": "", "tags": "", "portion": "REG", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF SUPREME", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BACON & CHEESE", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF & CHEDDAR", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BAC. & CHEDDAR", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "FRENCH DIP", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "add-on", "name": "W/CHEDDAR", "description": "", "price": "79", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "section: HOT SANDWICHES", "confidence": "low"}
+]}

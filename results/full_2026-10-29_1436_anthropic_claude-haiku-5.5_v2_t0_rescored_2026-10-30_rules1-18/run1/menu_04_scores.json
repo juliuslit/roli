@@ -1,0 +1,58 @@
+{
+ "photo": "04",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 7,
+ "other_set_aside": 0,
+ "found_items": 7,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8571428571428571,
+ "price_wrong_names": [
+  "per person: price '90' vs key '45'"
+ ],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 4,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 3,
+   "share_wrong": 0.3333333333333333
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The main printed menu (SF Restaurant Week) is readable, but a second menu behind it is upside down and partially cut off at the top edge, and wine lists at the right edge are only partly visible. Those were not transcribed. The prix fixe price line reads '90 per person / 45 optional wine pairing', which is an 'other' line, and the 'Taleggio Scarpinocc' and 'Strozzapreti' lines are close together and were parsed as separate courses with wine pairings in the descriptions.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 4.591553333011689,
+ "cost_usd": 0.0007893,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3518,
+ "completion_tokens": 875,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793299023-pg75VJjvgDBqw8xwI0QX",
+ "rep": 1
+}

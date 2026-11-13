@@ -1,0 +1,110 @@
+{
+ "as_written": {
+  "photos_set_aside": [],
+  "dishes_found_avg": 0.9096437424561536,
+  "dishes_found_min_photo": 0.0,
+  "invented_total_by_run": {
+   "1": 25,
+   "2": 21
+  },
+  "prices_right_avg": 0.8887035154580002,
+  "descriptions_right_avg": 0.8199650646739268,
+  "format_right_avg": 0.96,
+  "partly_caught_by_run": {
+   "1": "5/7",
+   "2": "5/7"
+  },
+  "false_alarms_by_run": {
+   "1": 1,
+   "2": 1
+  },
+  "seconds_avg": 26.626816160003074,
+  "cost_avg_usd": 0.00319869,
+  "cost_total_usd": 0.1599345,
+  "cut_off_listed_total": 19,
+  "cut_off_listed_by_run": {
+   "1": 10,
+   "2": 9
+  },
+  "other_set_aside_total": 30,
+  "garbled_total": 26,
+  "grouping_total": 6,
+  "joined_found_total": 35,
+  "prompt_tokens_avg": 2589.04,
+  "completion_tokens_avg": 3345.9,
+  "reasoning_tokens_total": 0,
+  "dishes_found_by_run": {
+   "1": 0.9100480942019687,
+   "2": 0.9092393907103384
+  },
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": false,
+   "2 invented 0 on both runs": false,
+   "2b cut-off lines listed 0 on both runs": false,
+   "3 prices >=95%": false,
+   "4 descriptions >=90%": false,
+   "6 format >=98%": false,
+   "7 all partly photos caught, both runs": false,
+   "7 false alarms <=3 per run": true,
+   "8 speed <60 s avg": true
+  },
+  "passes": false,
+  "unstable_runs_differ_over_5_points": false
+ },
+ "photo_17_set_aside": {
+  "photos_set_aside": [
+   "17"
+  ],
+  "dishes_found_avg": 0.9475455650584933,
+  "dishes_found_min_photo": 0.4166666666666667,
+  "invented_total_by_run": {
+   "1": 25,
+   "2": 21
+  },
+  "prices_right_avg": 0.8887035154580002,
+  "descriptions_right_avg": 0.8199650646739268,
+  "format_right_avg": 1.0,
+  "partly_caught_by_run": {
+   "1": "5/6",
+   "2": "5/6"
+  },
+  "false_alarms_by_run": {
+   "1": 1,
+   "2": 1
+  },
+  "seconds_avg": 22.709226138877664,
+  "cost_avg_usd": 0.0024255645833333333,
+  "cost_total_usd": 0.1164271,
+  "cut_off_listed_total": 19,
+  "cut_off_listed_by_run": {
+   "1": 10,
+   "2": 9
+  },
+  "other_set_aside_total": 30,
+  "garbled_total": 26,
+  "grouping_total": 6,
+  "joined_found_total": 35,
+  "prompt_tokens_avg": 2599.875,
+  "completion_tokens_avg": 2485.3125,
+  "reasoning_tokens_total": 0,
+  "dishes_found_by_run": {
+   "1": 0.9479667647937174,
+   "2": 0.9471243653232692
+  },
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": false,
+   "2 invented 0 on both runs": false,
+   "2b cut-off lines listed 0 on both runs": false,
+   "3 prices >=95%": false,
+   "4 descriptions >=90%": false,
+   "6 format >=98%": true,
+   "7 all partly photos caught, both runs": false,
+   "7 false alarms <=3 per run": true,
+   "8 speed <60 s avg": true
+  },
+  "passes": false,
+  "unstable_runs_differ_over_5_points": false
+ }
+}

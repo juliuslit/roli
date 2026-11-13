@@ -1,0 +1,60 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 64,
+ "other_set_aside": 0,
+ "found_items": 64,
+ "joined_found": 2,
+ "unmatched_expected_names": [],
+ "invented": 3,
+ "invented_names": [
+  "ULTIMATE BREAKFAST SANDWICH 3 FILLINGS",
+  "shot of spirulina",
+  "scoop of vegan protein"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 2,
+ "grouping_names": [
+  "Smoked bacon, Sausage, Chorizo, Black pudding, Halloumi, Avocado, 2 Eggs -> ['Sausage', 'Chorizo', 'Black pudding', 'Halloumi', 'Avocado', '2 Eggs']",
+  "Field mushroom, Tomato, Hash Brown, Beans -> ['Field mushroom', 'Tomato', 'Hash Brown', 'Beans']"
+ ],
+ "prices_right": 0.9629629629629629,
+ "price_wrong_names": [
+  "ULTIMATE BREAKFAST SANDWICH 1 FILLING: price '5.50' vs key '1 filling 5.50 / 2 fillings 6.50 / 3 fillings 7.50'",
+  "ULTIMATE BREAKFAST SANDWICH 2 FILLINGS: price '6.50' vs key '2.00 each'"
+ ],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 28,
+ "tags_right": 0.8703703703703703,
+ "portion_right": 0.7777777777777778,
+ "has_choice_right": 0.8333333333333334,
+ "belongs_to_right": 0.6666666666666666,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 7,
+   "total": 59,
+   "share_wrong": 0.11864406779661017
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 25.640684124984546,
+ "cost_usd": 0.019737,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 2546,
+ "completion_tokens": 4754,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793370152-af5QdQKC68nx2U4lVGz9"
+}

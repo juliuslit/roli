@@ -1,0 +1,12 @@
+{"readable": "yes", "problems": "", "items": [
+{"section": "", "category": "food", "name": "Crudo of swordfish", "description": "Roasted peppers, fetta, lemon pangratta", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Taste of the sea", "category": "food", "name": "Ocean trout/tuna poke salad", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "high"},
+{"section": "Taste of the sea", "category": "food", "name": "Crumbed whiting", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Taste of the sea", "category": "food", "name": "Battered oysters", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Taste of the sea", "category": "food", "name": "Chilled Hoolookaba prawns", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Fish of the day", "category": "food", "name": "Ocean trout", "description": "Watermelon, fetta, mint, almond, salsa verde", "price": "37", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Fish of the day", "category": "food", "name": "North Qld barramundi", "description": "Watermelon, fetta, mint, almond, salsa verde", "price": "38", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Fish of the day", "category": "food", "name": "Cobia", "description": "Watermelon, fetta, mint, almond, salsa verde", "price": "39", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Fish of the day", "category": "food", "name": "Snapper", "description": "Watermelon, fetta, mint, almond, salsa verde", "price": "39", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "add-on", "name": "Salad", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"}
+]}

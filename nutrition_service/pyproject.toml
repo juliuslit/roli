@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "roli-nutrition"
+version = "0.1.0"
+description = "Saturated fat and cholesterol for one USDA food, retrieved and checked by plain code."
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.27,<1",
+    "pydantic>=2.5,<3",
+]
+
+[project.optional-dependencies]
+# Phase 1B: the MCP wrapper. Not installed in the LangGraph environment.
+mcp = [
+    "mcp>=2,<3",
+    "uvicorn>=0.30,<1",
+    "python-dotenv>=1,<2",
+]
+# Tests and local scripts.
+dev = [
+    "pytest>=8,<9",
+    "python-dotenv>=1,<2",
+]
+
+[tool.setuptools.packages.find]
+include = ["roli_nutrition*"]

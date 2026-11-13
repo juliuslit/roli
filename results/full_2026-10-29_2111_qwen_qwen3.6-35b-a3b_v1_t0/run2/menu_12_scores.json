@@ -1,0 +1,61 @@
+{
+ "photo": "12",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9743589743589743,
+ "expected_items": 39,
+ "found_items": 38,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Sun Dried Tomatoes, Smashed Avocado, Olives & Feta"
+ ],
+ "invented": 10,
+ "invented_names": [
+  "JACKET POTATOES (GF)",
+  "SANDWICHES",
+  "WRAPS",
+  "TOASTIES",
+  "PANINIS",
+  "Cheese Sandwich",
+  "Cheese & Ham Sandwich",
+  "Cucumber & Hummus Sandwich (VE)",
+  "Cheese & Beans",
+  "Tuna Mayo"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.7777777777777778,
+ "descriptions_checked": 9,
+ "tags_right": 0.8421052631578947,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9473684210526315,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 10,
+   "total": 48,
+   "share_wrong": 0.20833333333333334
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 21.968300749984337,
+ "cost_usd": 0.0035781,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2031,
+ "completion_tokens": 3838,
+ "generation_id": "gen-1793323386-VdUkSMXXosE9QxkTtePm"
+}

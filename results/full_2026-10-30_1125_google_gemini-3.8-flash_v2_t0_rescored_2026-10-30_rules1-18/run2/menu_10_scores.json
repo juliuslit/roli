@@ -1,0 +1,80 @@
+{
+ "photo": "10",
+ "format_right": 1,
+ "format_reason": "code fence removed (interpretation 18)",
+ "fenced": 1,
+ "check_list": [
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Diced Fish (Spicy)",
+   "key_price": "",
+   "model_name": "Diced Fish (Spicy)",
+   "model_price": "310-00",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Mandarin Fish",
+   "key_price": "",
+   "model_name": "Mandarin Fish",
+   "model_price": "310-00",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 157,
+ "other_set_aside": 0,
+ "found_items": 157,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 0.8407643312101911,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 151,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 5,
+   "share_wrong": 0.2
+  },
+  "low": {
+   "wrong": 1,
+   "total": 1,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Glare reflects on the lower right area of FISH section making prices hard to see, and on the lower part of PRAWN section. A sliver of another menu or text is visible on the far left.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 55.21831962498254,
+ "cost_usd": 0.04227825,
+ "finish_reason": "stop",
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 2536,
+ "completion_tokens": 10767,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793374498-YtIrmBfbQOrLWbFtOpIj",
+ "rep": 2
+}

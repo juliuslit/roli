@@ -1,0 +1,21 @@
+# Secrets: never part of the build context.
+.env
+.env.*
+*.env
+!.env.example
+
+# Local environments and caches
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+*.egg-info
+
+# Not needed in the image
+tests
+scripts
+*.md
+test_report_*.txt
+.dockerignore
+Dockerfile
+.DS_Store

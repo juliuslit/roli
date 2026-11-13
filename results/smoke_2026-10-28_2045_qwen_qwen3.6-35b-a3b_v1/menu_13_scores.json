@@ -1,0 +1,167 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Wafer / Masala Papad / Boiled Eggs",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Garlic Toast / Green Salad",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "French Fries / Hash Brown (6 pcs)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Cheese Cherry Pineapple Stick",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Onion Rings / Cheese Balls (Schezwan)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Chilly Cheese Toast",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Cutlet & Fries (Veg / Chicken)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Koliwada (Paneer / Prawns)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Mondy's Steak Boti",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Masala Omelette with French Fries",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Kheema Pao / Kheema Gotala",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Extra Sauce",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  }
+ ],
+ "dishes_found": 0.4166666666666667,
+ "expected_items": 24,
+ "found_items": 5,
+ "unmatched_expected_names": [
+  "A.T.M. (Any Time Meal)",
+  "Funghi Con Crema",
+  "Vegetable Au Gratin",
+  "Malfatti Indiana",
+  "Amalfi",
+  "Brochettes de Legumes",
+  "Roast Chicken"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 7,
+ "cut_off_names": [
+  "Achari Gobi Tikka / Baby Corn Tk",
+  "Paneer Tikka / Malai / Achari / Sk",
+  "Chicken Tikka / Malai / Resh",
+  "Chicken Sheek / Achari / Tay",
+  "Fish Tikka / Achari / Kalami",
+  "King Prawns Tikka / Harya",
+  "Tandoor Naan / Butter R"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 0.2,
+ "portion_right": 1.0,
+ "has_choice_right": 0.8,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 6,
+   "share_wrong": 0.16666666666666666
+  },
+  "medium": {
+   "wrong": 6,
+   "total": 6,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The image is dominated by salt and pepper shakers in the foreground, which significantly obscure the majority of the menu items. The left section is mostly unreadable. The top right section is visible but cut off at the edges. Only the bottom right sections are fully readable.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 28.631724874998326,
+ "cost_usd": 0.0012823,
+ "finish_reason": "stop"
+}

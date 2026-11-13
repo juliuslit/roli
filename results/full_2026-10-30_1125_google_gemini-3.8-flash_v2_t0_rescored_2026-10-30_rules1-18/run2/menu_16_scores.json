@@ -1,0 +1,69 @@
+{
+ "photo": "16",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [
+  {
+   "photo": "16",
+   "key_confidence": "low",
+   "key_name": "POLLO FUNDIDO",
+   "key_price": "",
+   "model_name": "POLLO FUNDIDO",
+   "model_price": "1",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 14,
+ "other_set_aside": 0,
+ "found_items": 14,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 2,
+ "cut_off_names": [
+  "CHILE COLORADO",
+  "ROZ CON POLLO"
+ ],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 14,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 12,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 3,
+   "total": 4,
+   "share_wrong": 0.75
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Left and right margins are slightly cropped, cutting off prefixes of some item names on the left (e.g. ARROZ CON POLLO) and suffixes of some descriptions/prices on the right (e.g. TACOS AL CARBON).",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 9.354308125009993,
+ "cost_usd": 0.006828,
+ "finish_reason": "stop",
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 2544,
+ "completion_tokens": 1312,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793374625-SI50Er93rkLO2a2D1NvX",
+ "rep": 2
+}

@@ -1,0 +1,71 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9761904761904762,
+ "expected_items": 42,
+ "other_set_aside": 2,
+ "found_items": 41,
+ "joined_found": 5,
+ "unmatched_expected_names": [
+  "Dylan"
+ ],
+ "invented": 5,
+ "invented_names": [
+  "Humboldt Grassfed Beef",
+  "The works",
+  "Jalapeno + BBQ sauce",
+  "Brie Boat Burger",
+  "the works"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Dylau ~ Dylan (80%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8780487804878049,
+ "price_wrong_names": [
+  "add cheese: price '0.75' vs key '.75'",
+  "Cheese Burger: price '' vs key '11.50'",
+  "Pastrami Reuben: price '16.00' vs key '16.50'",
+  "Oysters: price '' vs key '3 for 8.50 / 6 for 14.50 / 12 for 25.50'",
+  "The works: price '' vs key '16.50'"
+ ],
+ "descriptions_right": 0.22727272727272727,
+ "descriptions_checked": 22,
+ "tags_right": 0.8780487804878049,
+ "portion_right": 0.975609756097561,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 9,
+   "total": 43,
+   "share_wrong": 0.20930232558139536
+  },
+  "medium": {
+   "wrong": 2,
+   "total": 4,
+   "share_wrong": 0.5
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The bottom right corner of the menu is heavily obscured by glare and a reflection of a person taking the photo. The prices and names for the Desserts section are partially unreadable. The 'From The Sea' section is also partially obscured by glare.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 118.01230149998446,
+ "cost_usd": 0.0035638,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 2597,
+ "completion_tokens": 3478,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793315287-Ejmq7ZR5ndbAlolbDe3N",
+ "rep": 2
+}

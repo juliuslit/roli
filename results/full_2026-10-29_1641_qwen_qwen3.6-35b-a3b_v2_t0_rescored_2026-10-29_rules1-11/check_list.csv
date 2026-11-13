@@ -1,0 +1,12 @@
+photo,key_confidence,key_name,key_price,model_name,model_price,reason
+16,low,POLLO FUNDIDO,,POLLO FUNDIDO,17,price differs
+24,low,French Dip w/Cheddar,,W/CHEDDAR,7 9,name differs (52% similar)
+24,low,"Beef, Bac. & Cheddar",,"BEEF, BAC. & CHEDDAR",7 8,price differs
+10,low,Diced Fish (Spicy),,Diced Fish (Spicy),310-00,price differs
+10,low,Mandarin Fish,,Mandarin Fish,310-00,price differs
+10,low,Sichuan Fish,,Sichuan Fish,310-00,price differs
+10,low,Apollo Fish,,Apollo Fish,310-00,price differs
+10,low,Pepper Fish,,Pepper Fish,310-00,price differs
+16,low,POLLO FUNDIDO,,POLLO FUNDIDO,17,price differs
+24,low,French Dip w/Cheddar,,W/CHEDDAR,7 9,name differs (52% similar)
+24,low,"Beef, Bac. & Cheddar",,"BEEF, BAC. & CHEDDAR",7 8,price differs

@@ -1,0 +1,6 @@
+{"readable": "partly", "problems": "The photo is very small and low resolution for a dense bilingual menu. Most item names and prices are too small to read reliably, and the top-right sections (Szechuan Hot & Spicy Dried Pot, Beef & Lamb, Pork) are blurred. The left edge of the lower menu is cut off, so some names and prices are hidden. The photo also shows glare and creases. I only listed the few items I could read clearly. Many other items in every section are not transcribed.", "items": [
+{"section": "RICE DISHES", "category": "food", "name": "Fried Rice", "description": "", "price": "10.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "RICE DISHES", "category": "food", "name": "Combination Fried Rice", "description": "", "price": "11.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "RICE DISHES", "category": "food", "name": "Steamed Rice", "description": "", "price": "1.00", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "DESSERT", "category": "food", "name": "Strawberry Ice Cream", "description": "", "price": "3.99", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"}
+]}

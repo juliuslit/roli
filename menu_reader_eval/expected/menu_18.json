@@ -1,0 +1,202 @@
+{
+ "file": "menu_18_little_saint_printed_stand_dim.jpg",
+ "telegram_file": "telegram_1280/menu_18_little_saint_printed_stand_dim.jpg",
+ "expected": {
+  "readable": "yes",
+  "problems": "",
+  "items": [
+   {
+    "section": "SALADS",
+    "category": "food",
+    "name": "QUINOA",
+    "description": "with sweet corn, stone fruit, almonds and ginger vinaigrette",
+    "price": "7/13",
+    "tags": "",
+    "portion": "two sizes (7/13)",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SALADS",
+    "category": "food",
+    "name": "KALE",
+    "description": "with apple, tahini, roasted grapes and spicy pecans",
+    "price": "7/13",
+    "tags": "",
+    "portion": "two sizes (7/13)",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SALADS",
+    "category": "food",
+    "name": "TOMATO & CUCUMBER PANZANELLA",
+    "description": "with balsamic vinaigrette",
+    "price": "7/13",
+    "tags": "",
+    "portion": "two sizes (7/13)",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SALADS",
+    "category": "food",
+    "name": "ORCHIETTE",
+    "description": "with melon, mint, and kalamata olives",
+    "price": "7/13",
+    "tags": "",
+    "portion": "two sizes (7/13)",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SALADS",
+    "category": "food",
+    "name": "CHICKPEA AND ROMANO BEANS",
+    "description": "with romesco and almonds",
+    "price": "7/13",
+    "tags": "",
+    "portion": "two sizes (7/13)",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "DAILY BOWL",
+    "category": "food",
+    "name": "BROWN RICE",
+    "description": "with grilled corn, marinated greens, sumac gomasio, and miso dressing",
+    "price": "17",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SOUP OF THE DAY",
+    "category": "food",
+    "name": "SOUP OF THE DAY",
+    "description": "",
+    "price": "12",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SIDES",
+    "category": "food",
+    "name": "QUAIL AND CONDOR LEVAIN",
+    "description": "",
+    "price": "10",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SIDES",
+    "category": "add-on",
+    "name": "HOT SAUCE",
+    "description": "",
+    "price": "1",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SIDES",
+    "category": "add-on",
+    "name": "ZHOUG",
+    "description": "",
+    "price": "1",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SWEETS",
+    "category": "food",
+    "name": "CARROT CAKE",
+    "description": "with ginger and walnut",
+    "price": "8",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SWEETS",
+    "category": "food",
+    "name": "STONE FRUIT AND FRANGIPANE GALETTE",
+    "description": "",
+    "price": "6/12/35",
+    "tags": "",
+    "portion": "three sizes (6/12/35)",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SWEETS",
+    "category": "food",
+    "name": "CHOCOLATE AND HAZELNUT TART",
+    "description": "",
+    "price": "12",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SWEETS",
+    "category": "food",
+    "name": "GF CHOCOLATE CHIP COOKIE",
+    "description": "with peanut praline",
+    "price": "3.5",
+    "tags": "GF",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "WINES BY THE GLASS",
+    "category": "drink",
+    "name": "THE WHITE",
+    "description": "Chardonnay++, Monte Rio Cellars, 'Skull White'",
+    "price": "10",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "WINES BY THE GLASS",
+    "category": "drink",
+    "name": "THE ORANGE",
+    "description": "Trousseau Gris, Two Shepherds, 'Fanucchi'",
+    "price": "15",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "WINES BY THE GLASS",
+    "category": "drink",
+    "name": "THE RED",
+    "description": "Pais, Louis-Antoine Luyt, Chile",
+    "price": "14",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   }
+  ]
+ },
+ "scoring_hints": {
+  "cut_off_lines_left_out": [],
+  "low_confidence_items": [],
+  "medium_confidence_items": []
+ }
+}

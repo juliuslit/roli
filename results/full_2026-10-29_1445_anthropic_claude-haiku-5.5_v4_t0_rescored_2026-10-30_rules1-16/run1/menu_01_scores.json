@@ -1,0 +1,57 @@
+{
+ "photo": "01",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 71,
+ "other_set_aside": 0,
+ "found_items": 71,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9859154929577465,
+ "price_wrong_names": [
+  "Espresso: price '4.50' vs key '4.00'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 0.971830985915493,
+ "has_choice_right": 0.9859154929577465,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 14,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 57,
+   "share_wrong": 0.017543859649122806
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo taken at an angle with glare on the paper edges; bottom small print (addresses, footnotes) ignored. Some very small add-on lines and the bottom-right beverage column are dense and slightly blurred; prices for small-type items are less certain. Wine/aperitif and cocktail sub-lines in the bottom-left aperitif column are tiny and some prices may be imprecise.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 20.79183170897886,
+ "cost_usd": 0.0038104,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3334,
+ "completion_tokens": 6954,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793299523-lFJgIVN4f8eFU2WcaLjE",
+ "rep": 1
+}

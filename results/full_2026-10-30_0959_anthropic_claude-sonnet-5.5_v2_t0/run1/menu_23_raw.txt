@@ -1,0 +1,11 @@
+{"readable": "partly", "problems": "Glare on the blackboard partly covers the middle of the board, around the Taste of the Sea items. No prices are printed for the crudo or the Taste of the Sea items. The 'Barramundi' price looks like 38 but is slightly unclear. The last lines (watermelon, fetta, mint, almond, salsa verde, and SALAD) have no price. They may be a separate salad item, so I did not list them as a dish.", "items": [
+{"section": "", "category": "food", "name": "CRUDO OF SWORDFISH", "description": "ROASTED PEPPERS, FETTA LEMON PANGRATTA", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "OCEAN TROUT / TUNA POKE SALAD", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "medium"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "CRUMBED WHITING", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "BATTERED OYSTERS", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "CHILLED MOOLOOLABA PRAWNS", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "OCEAN TROUT", "description": "", "price": "37", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "NORTH QLD BARAMUNDI", "description": "", "price": "38", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "COBIA", "description": "", "price": "39", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "SNAPPER", "description": "", "price": "39", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"}
+]}

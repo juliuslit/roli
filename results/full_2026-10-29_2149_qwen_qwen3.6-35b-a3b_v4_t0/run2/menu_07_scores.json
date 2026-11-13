@@ -1,0 +1,57 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9782608695652174,
+ "expected_items": 46,
+ "other_set_aside": 2,
+ "found_items": 45,
+ "joined_found": 2,
+ "unmatched_expected_names": [
+  "Babyccino"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Victorian Lemonade, Ginger Beer, Sparkling Elderflower"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Babycino ~ Babyccino (89%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9777777777777777,
+ "price_wrong_names": [
+  "Caramel, Vanilla, Hazelnut: price '0.6' vs key '0.5'"
+ ],
+ "descriptions_right": 0.16666666666666666,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.8888888888888888,
+ "has_choice_right": 0.8444444444444444,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 3,
+   "total": 47,
+   "share_wrong": 0.06382978723404255
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 18.01129912500619,
+ "cost_usd": 0.0030113,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2825,
+ "completion_tokens": 3120,
+ "generation_id": "gen-1793325634-Dn3TOrsv0mxRZMGnc0tn"
+}

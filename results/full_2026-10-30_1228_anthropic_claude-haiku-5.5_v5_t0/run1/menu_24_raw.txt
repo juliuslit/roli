@@ -1,0 +1,9 @@
+{"readable": "partly", "problems": "Right edge cut off: prices for BEST BEEF, BEEF SUPREME and BEEF, BACON & CHEESE are truncated, so their prices are partly hidden. Top edge cut off: 'HOT SANDWICHES' heading partly hidden. Left and right prices shown for BEEF & CHEDDAR, BEEF, BAC. & CHEDDAR visible but right digits may be cut off. Lines with names fully printed are included; prices cut off are left blank or marked low confidence.", "items": [
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEST BEEF", "description": "", "price": "6 REG / 7", "tags": "", "portion": "REG", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF SUPREME", "description": "", "price": "7 4", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BACON & CHEESE", "description": "", "price": "7 8", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF & CHEDDAR", "description": "", "price": "7 3", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BAC. & CHEDDAR", "description": "", "price": "7 8", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "FRENCH DIP", "description": "", "price": "7 3 5", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "add-on", "name": "W/CHEDDAR", "description": "", "price": "7 9", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "FRENCH DIP", "confidence": "medium"}
+]}

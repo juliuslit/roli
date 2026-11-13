@@ -1,0 +1,25 @@
+Checkpoint 3I test report (updated 2026-11-06, evening, after the second table rebuild)
+
+Agent suite (roli_agent/tests, root .venv, LANGSMITH_TRACING=false):
+  .venv/bin/python -m pytest -q
+  519 passed, 4 skipped (the 4 skips need live keys)   [FNDDS: 518; chain sheets: 515; first 3I build: 512; 3H: 493]
+
+Library suite (nutrition_service/tests, its own venv): 337 passed on the first 3I build; the library was not touched by the second rebuild and was not rerun.
+
+New or changed in the second rebuild (tests/test_3i.py, 22 tests):
+  test_single_source_rows_run_and_unsourced_rows_do_not                         status_for(0/1/2) and a single_source row passing for_dish_type
+  test_a_stated_weight_in_a_chain_sheet_item_name_feeds_the_key_share_...       "Grilled Atlantic Salmon 7.5 oz" -> key share; two-protein names left out; sashimi weight = raw fish
+  test_the_live_table_tries_fish_mains_and_crudo_again                           the seafood chalkboard's 9 dishes selected, none excluded under 12.16.8
+  test_the_usda_survey_route_does_not_portion_a_family_whose_row_is_unsourced    now on a copy of the table with PR02 set back to unsourced
+  test_dishes_of_an_unsourced_family_are_not_tried_and_count_as_unsized          now with selection.RULES set back (PR02, PR03 unsourced)
+  table assertions: unsourced set {PR06, PR08}; PR02 211-317 with USDA 2706241 and Bonefish; PR03 82-113 sashimi; PR05 Zizzi and Vapiano
+Updated elsewhere: test_3d_tags_cards (unsourced set, crudo card), test_mvp_local (PR12 78.3 g; fish main portioned again), test_recipes_2d (PR05 runs, PR06 not),
+test_mvp (toy fixture docstring: the three rows stay pinned to the 3H state so table changes never move the toy expectations).
+
+12.16.8a (FNDDS portions), added the same evening (tests/test_3i.py, 25 tests):
+  test_only_whole_dish_fillet_or_restaurant_portions_qualify                     the portion rule: cups, slices, pieces, the default and extra-large pizzas never; size words only for item families
+  test_the_fndds_figure_fits_only_the_key_the_row_needs_and_is_converted_...     fillet -> raw by USDA 2706241; a fillet is not a plate; sources_disagree at more than a third; chain figure kept beside
+  test_the_table_carries_both_figures_and_the_fndds_range_where_fndds_gives_...  PR02 from FNDDS with 211-317 beside it; PR03/PR05 chain; PR06/PR08 record only; PR15 recorded only; disagree set {PR04, PR16, PR17, PR18}
+Status assertions widened to sources_disagree in test_3i and test_recipes_2d; PR12 figures in test_mvp_local now 76.0-166.0 (FNDDS fries orders).
+
+After the reruns (2026-11-07): test_a_section_heading_that_lists_several_kinds_does_not_decide_the_kind (Pizzaface salads typed as dips by a compound heading; fixed in portions.section_lists_kinds).

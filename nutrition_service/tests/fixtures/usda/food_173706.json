@@ -1,0 +1,147 @@
+{
+  "fdcId": 173706,
+  "description": "Fish, tuna, fresh, bluefin, raw",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "id": 1800024,
+      "amount": 1.257,
+      "dataPoints": 0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "id": 1800023,
+      "amount": 38.0,
+      "dataPoints": 3
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 93147,
+      "gramWeight": 85.0,
+      "sequenceNumber": 1,
+      "amount": 3.0,
+      "modifier": "oz",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "scientificName": "Thunnus thynnus (L.)",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 3343051,
+      "value": "http://purl.obolibrary.org/obo/NCBITaxon_8237",
+      "name": "NCBI Taxon",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3343052,
+      "value": "http://purl.obolibrary.org/obo/NCBITaxon_33208",
+      "name": "NCBI Taxon Parent",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3343053,
+      "value": "Thunnus thynnus",
+      "name": "Scientific Name",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3343054,
+      "value": "http://purl.obolibrary.org/obo/FOODON_03308443",
+      "name": "FoodOn Ontology ID #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3343055,
+      "value": "bluefin tuna (raw)",
+      "name": "FoodOn Ontology Name #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3343056,
+      "value": "http://purl.obolibrary.org/obo/FOODON_00001248",
+      "name": "Ontology ID For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3343057,
+      "value": "fish food product",
+      "name": "Ontology Name For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    }
+  ],
+  "nutrientConversionFactors": [
+    {
+      "id": 15417,
+      "proteinValue": 4.27,
+      "fatValue": 9.02,
+      "carbohydrateValue": 3.87,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 21145,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "inputFoods": [],
+  "ndbNumber": 15117,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 15,
+    "code": "1500",
+    "description": "Finfish and Shellfish Products"
+  }
+}

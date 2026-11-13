@@ -1,0 +1,69 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.8536585365853658,
+ "expected_items": 41,
+ "other_set_aside": 0,
+ "found_items": 35,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Other Delicious Bakery Pies",
+  "No. 1",
+  "No. 2",
+  "No. 3",
+  "No. 4",
+  "No. 5"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8571428571428571,
+ "price_wrong_names": [
+  "Grilled Cheese: price '15' vs key ''",
+  "Chicken Salad: price '35' vs key '25c'",
+  "Grillburger: price '35' vs key '25c'",
+  "Waffles: price '30' vs key '20c'",
+  "Ham: price '30' vs key '20c'"
+ ],
+ "descriptions_right": 0.5882352941176471,
+ "descriptions_checked": 17,
+ "tags_right": 1.0,
+ "portion_right": 0.9714285714285714,
+ "has_choice_right": 0.9714285714285714,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 0,
+   "total": 2,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 5,
+   "total": 33,
+   "share_wrong": 0.15151515151515152
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is photographed at a steep angle and the small print is faint and blurry, so many item names and prices are hard to read with confidence. Some description lines and portion details could not be read reliably and were left blank or marked low confidence. Items I could not read at all were omitted.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 10.572760749986628,
+ "cost_usd": 0.001908,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2700,
+ "completion_tokens": 3276,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793298947-EPN4JDiWXeXlb5t5IbBi",
+ "rep": 2
+}

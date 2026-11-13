@@ -1,0 +1,81 @@
+{
+ "model": "anthropic/claude-haiku-5.5",
+ "prompt": "v1",
+ "photos": [
+  "06",
+  "17",
+  "13"
+ ],
+ "calls": [
+  {
+   "photo": "06",
+   "model": "anthropic/claude-haiku-5.5",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_06_pizzaface_uk_printed_spread.jpg",
+   "photo_size": [
+    1280,
+    964
+   ],
+   "seconds": 28.75377679200028,
+   "prompt_tokens": 2700,
+   "completion_tokens": 9767,
+   "cost_usd": 0.0051535,
+   "provider": "Google",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793190284-C8TpLc85ykgWj5WIGKur",
+   "error": ""
+  },
+  {
+   "photo": "17",
+   "model": "anthropic/claude-haiku-5.5",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_17_duck_house_takeout_printed_wall.jpg",
+   "photo_size": [
+    719,
+    1280
+   ],
+   "seconds": 12.222239208000246,
+   "prompt_tokens": 2286,
+   "completion_tokens": 3722,
+   "cost_usd": 0.0020896,
+   "provider": "Google",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793190326-kBJNRUBe4Utd9HnNuqgp",
+   "error": ""
+  },
+  {
+   "photo": "13",
+   "model": "anthropic/claude-haiku-5.5",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_13_hard_obstructed_cafe_mondegar.jpg",
+   "photo_size": [
+    960,
+    1280
+   ],
+   "seconds": 6.14918174999184,
+   "prompt_tokens": 2700,
+   "completion_tokens": 1438,
+   "cost_usd": 0.000989,
+   "provider": "Google",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793190345-AhkThvjehm6YRqBmXyxG",
+   "error": ""
+  }
+ ],
+ "answers": 3,
+ "dishes_found_avg": 0.5112423037954953,
+ "dishes_found_min": 0.22695035460992907,
+ "invented_total": 7,
+ "cut_off_listed_total": 6,
+ "prices_right_avg": 0.8461934156378601,
+ "descriptions_right_avg": 0.8780487804878049,
+ "tags_right_avg": 0.6422839506172839,
+ "portion_right_avg": 1.0,
+ "has_choice_right_avg": 0.9958847736625515,
+ "belongs_to_right_avg": 0.0,
+ "format_right_avg": 1.0,
+ "bad_photos_caught": 2,
+ "bad_photos_total": 2,
+ "false_alarms": 1,
+ "check_list_items": 53
+}

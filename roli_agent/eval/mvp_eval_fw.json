@@ -1,0 +1,531 @@
+{
+ "date": "2026-11-03",
+ "runs": [
+  {
+   "photo": "menu_test_set/telegram_1280/menu_03_own_IMG_5185.jpg",
+   "repeat": 1,
+   "run_id": "20261104-010950-f71751",
+   "status": "done",
+   "seconds": 523.3,
+   "timings": {
+    "read_menu": 9.5,
+    "estimate_dishes": 513.6,
+    "compare_and_rank": 0.003,
+    "total": 523.2
+   },
+   "totals": {
+    "dishes_on_menu": 19,
+    "dishes_evaluated": 16,
+    "dishes_ranked": 5,
+    "dishes_unranked": 11,
+    "dishes_no_recipes": 1,
+    "dishes_error": 0,
+    "dishes_not_evaluated": 2,
+    "search_credits": 0,
+    "llm_calls": 135,
+    "llm_cost_usd": "0.3341355 (dish calls; the menu-reading call is not metered)",
+    "usda_http_requests": 711,
+    "pages_fetched": 204,
+    "rate_limit_waits": 127,
+    "rate_limit_retries": 0
+   },
+   "ranking": [
+    [
+     1,
+     "BLUEFIN CRUDO",
+     "0.467258",
+     "1.557587207117042114266604617",
+     "close_call"
+    ],
+    [
+     2,
+     "HEIRLOOM TOMATOES",
+     "0.444241",
+     "2.063354007905958052538899555",
+     "tentative"
+    ],
+    [
+     3,
+     "LITTLE GEM LETTUCES",
+     "4.429129",
+     "8.636524",
+     "close_call"
+    ],
+    [
+     4,
+     "KING SALMON",
+     "4.110360",
+     "14.88647293122410767182878319",
+     "close_call"
+    ],
+    [
+     5,
+     "MARGHERITA",
+     "8.895915",
+     "27.622181",
+     "well_supported"
+    ]
+   ],
+   "unranked": [
+    [
+     "POLE BEANS",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "KOSHIHIKARI ARANCINI",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "PUTTANESCA",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (foodnetwork.com: pizza dough (missing_fdc_id), baby"
+    ],
+    [
+     "SALSICCIA BIANCA",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (tasteofhome.com: broccoli rabe (preparation_unresol"
+    ],
+    [
+     "CORN CAPPELLETTI",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (tastingtable.com: ricotta salata (preparation_unres"
+    ],
+    [
+     "SAFFRON SOPRESE",
+     "the estimate has no upper bound: 3 of 3 recipes have no upper bound (honestcooking.com: mussels escabeche (preparation_u"
+    ],
+    [
+     "ORECCHIETTE",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (bakedbree.com: chanterelle (preparation_unresolved)"
+    ],
+    [
+     "DUCK TRIANGOLI",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "TALEGGIO SCARPINOCC",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "PAPPARDELLE",
+     "the estimate has no upper bound: 3 of 3 recipes have no upper bound (aflavorjournal.com: strips bacon (preparation_unres"
+    ],
+    [
+     "PORK CHOP",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (inspiredtaste.net: smoked paprika (preparation_unre"
+    ]
+   ],
+   "errors": [],
+   "recommendation": "Lowest saturated fat on this menu, by our estimate: 1) Bluefin Crudo (about 0.5-1.6 g saturated fat per plate, close call); 2) Heirloom Tomatoes (about 0.4-2.1 g saturated fat per plate, tentative); 3) Little Gem Lettuces (about 4.4-8.6 g saturated fat per plate, close call). Bluefin Crudo carries about 17-115 mg cholesterol. Figures are modeled from published recipes and typical restaurant portions, not this kitchen's own numbers. 12 of 17 dishes could not be estimated.",
+   "words": 75,
+   "menu_items": 19,
+   "dish_status": {
+    "TODAY'S RICOTTA": [
+     "no_recipes",
+     "vegetable_starter",
+     0,
+     0,
+     10.8
+    ],
+    "BLUEFIN CRUDO": [
+     "evaluated",
+     "crudo_starter",
+     4,
+     6,
+     84.3
+    ],
+    "POLE BEANS": [
+     "evaluated",
+     "vegetable_starter",
+     4,
+     0,
+     84.9
+    ],
+    "LITTLE GEM LETTUCES": [
+     "evaluated",
+     "leaf_salad_starter",
+     3,
+     1,
+     73.3
+    ],
+    "KOSHIHIKARI ARANCINI": [
+     "evaluated",
+     "vegetable_starter",
+     4,
+     0,
+     116.3
+    ],
+    "HEIRLOOM TOMATOES": [
+     "evaluated",
+     "tomato_salad_starter",
+     3,
+     4,
+     120.3
+    ],
+    "PUTTANESCA": [
+     "evaluated",
+     "pizza_neapolitan",
+     4,
+     2,
+     105.1
+    ],
+    "SALSICCIA BIANCA": [
+     "evaluated",
+     "pizza_neapolitan",
+     4,
+     2,
+     74.1
+    ],
+    "MARGHERITA": [
+     "evaluated",
+     "pizza_neapolitan",
+     4,
+     6,
+     76.5
+    ],
+    "CORN CAPPELLETTI": [
+     "evaluated",
+     "pasta_main",
+     2,
+     2,
+     57.5
+    ],
+    "SAFFRON SOPRESE": [
+     "evaluated",
+     "pasta_main",
+     3,
+     5,
+     73.9
+    ],
+    "ORECCHIETTE": [
+     "evaluated",
+     "pasta_main",
+     4,
+     8,
+     63.3
+    ],
+    "DUCK TRIANGOLI": [
+     "evaluated",
+     "pasta_main",
+     1,
+     0,
+     109.6
+    ],
+    "TALEGGIO SCARPINOCC": [
+     "evaluated",
+     "pasta_main",
+     4,
+     0,
+     100.0
+    ],
+    "PAPPARDELLE": [
+     "evaluated",
+     "pasta_main",
+     4,
+     6,
+     90.1
+    ],
+    "KING SALMON": [
+     "evaluated",
+     "fish_main",
+     4,
+     8,
+     79.0
+    ],
+    "PORK CHOP": [
+     "evaluated",
+     "meat_main",
+     4,
+     8,
+     87.5
+    ],
+    "JOSEY BAKER SOURDOUGH": [
+     "not_evaluated",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "FLOUR+WATER PASTA COOKBOOK": [
+     "not_evaluated",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ]
+   }
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_03_own_IMG_5185.jpg",
+   "repeat": 2,
+   "run_id": "20261104-011834-5c26e5",
+   "status": "done",
+   "seconds": 147.6,
+   "timings": {
+    "read_menu": 9.4,
+    "estimate_dishes": 138.2,
+    "compare_and_rank": 0.002,
+    "total": 147.5
+   },
+   "totals": {
+    "dishes_on_menu": 19,
+    "dishes_evaluated": 16,
+    "dishes_ranked": 5,
+    "dishes_unranked": 11,
+    "dishes_no_recipes": 1,
+    "dishes_error": 0,
+    "dishes_not_evaluated": 2,
+    "search_credits": 0,
+    "llm_calls": 40,
+    "llm_cost_usd": "0.058524 (dish calls; the menu-reading call is not metered)",
+    "usda_http_requests": 10,
+    "pages_fetched": 204,
+    "rate_limit_waits": 180,
+    "rate_limit_retries": 0
+   },
+   "ranking": [
+    [
+     1,
+     "BLUEFIN CRUDO",
+     "0.467258",
+     "1.557587207117042114266604617",
+     "close_call"
+    ],
+    [
+     2,
+     "HEIRLOOM TOMATOES",
+     "0.444241",
+     "2.063354007905958052538899555",
+     "tentative"
+    ],
+    [
+     3,
+     "LITTLE GEM LETTUCES",
+     "4.429129",
+     "8.636524",
+     "close_call"
+    ],
+    [
+     4,
+     "KING SALMON",
+     "4.110360",
+     "14.88647293122410767182878319",
+     "close_call"
+    ],
+    [
+     5,
+     "MARGHERITA",
+     "8.904155",
+     "27.622181",
+     "well_supported"
+    ]
+   ],
+   "unranked": [
+    [
+     "POLE BEANS",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "KOSHIHIKARI ARANCINI",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "PUTTANESCA",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (foodnetwork.com: pizza dough (missing_fdc_id), baby"
+    ],
+    [
+     "SALSICCIA BIANCA",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (tasteofhome.com: broccoli rabe (preparation_unresol"
+    ],
+    [
+     "CORN CAPPELLETTI",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (tastingtable.com: ricotta salata (preparation_unres"
+    ],
+    [
+     "SAFFRON SOPRESE",
+     "the estimate has no upper bound: 3 of 3 recipes have no upper bound (honestcooking.com: mussels escabeche (preparation_u"
+    ],
+    [
+     "ORECCHIETTE",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (bakedbree.com: chanterelle (preparation_unresolved)"
+    ],
+    [
+     "DUCK TRIANGOLI",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "TALEGGIO SCARPINOCC",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "PAPPARDELLE",
+     "the estimate has no upper bound: 3 of 3 recipes have no upper bound (aflavorjournal.com: strips bacon (preparation_unres"
+    ],
+    [
+     "PORK CHOP",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (inspiredtaste.net: smoked paprika (preparation_unre"
+    ]
+   ],
+   "errors": [],
+   "recommendation": "Lowest saturated fat on this menu, by our estimate: 1) Bluefin Crudo (about 0.5-1.6 g saturated fat per plate, close call); 2) Heirloom Tomatoes (about 0.4-2.1 g saturated fat per plate, tentative); 3) Little Gem Lettuces (about 4.4-8.6 g saturated fat per plate, close call). Bluefin Crudo carries about 17-115 mg cholesterol. Figures are modeled from published recipes and typical restaurant portions, not this kitchen's own numbers. 12 of 17 dishes could not be estimated.",
+   "words": 75,
+   "menu_items": 19,
+   "dish_status": {
+    "TODAY'S RICOTTA": [
+     "no_recipes",
+     "vegetable_starter",
+     0,
+     0,
+     9.7
+    ],
+    "BLUEFIN CRUDO": [
+     "evaluated",
+     "crudo_starter",
+     4,
+     6,
+     10.3
+    ],
+    "POLE BEANS": [
+     "evaluated",
+     "vegetable_starter",
+     4,
+     0,
+     8.0
+    ],
+    "LITTLE GEM LETTUCES": [
+     "evaluated",
+     "leaf_salad_starter",
+     3,
+     1,
+     4.0
+    ],
+    "KOSHIHIKARI ARANCINI": [
+     "evaluated",
+     "vegetable_starter",
+     4,
+     0,
+     9.4
+    ],
+    "HEIRLOOM TOMATOES": [
+     "evaluated",
+     "tomato_salad_starter",
+     3,
+     4,
+     65.4
+    ],
+    "PUTTANESCA": [
+     "evaluated",
+     "pizza_neapolitan",
+     4,
+     2,
+     20.7
+    ],
+    "SALSICCIA BIANCA": [
+     "evaluated",
+     "pizza_neapolitan",
+     4,
+     2,
+     47.8
+    ],
+    "MARGHERITA": [
+     "evaluated",
+     "pizza_neapolitan",
+     4,
+     6,
+     30.6
+    ],
+    "CORN CAPPELLETTI": [
+     "evaluated",
+     "pasta_main",
+     2,
+     2,
+     10.3
+    ],
+    "SAFFRON SOPRESE": [
+     "evaluated",
+     "pasta_main",
+     3,
+     5,
+     10.5
+    ],
+    "ORECCHIETTE": [
+     "evaluated",
+     "pasta_main",
+     4,
+     8,
+     8.5
+    ],
+    "DUCK TRIANGOLI": [
+     "evaluated",
+     "pasta_main",
+     1,
+     0,
+     21.9
+    ],
+    "TALEGGIO SCARPINOCC": [
+     "evaluated",
+     "pasta_main",
+     4,
+     0,
+     53.0
+    ],
+    "PAPPARDELLE": [
+     "evaluated",
+     "pasta_main",
+     4,
+     6,
+     26.0
+    ],
+    "KING SALMON": [
+     "evaluated",
+     "fish_main",
+     4,
+     8,
+     35.0
+    ],
+    "PORK CHOP": [
+     "evaluated",
+     "meat_main",
+     4,
+     8,
+     30.0
+    ],
+    "JOSEY BAKER SOURDOUGH": [
+     "not_evaluated",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "FLOUR+WATER PASTA COOKBOOK": [
+     "not_evaluated",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ]
+   }
+  }
+ ],
+ "consistency": [
+  {
+   "photo": "menu_test_set/telegram_1280/menu_03_own_IMG_5185.jpg",
+   "same_order": true,
+   "same_top3": true,
+   "orders": [
+    [
+     "BLUEFIN CRUDO",
+     "HEIRLOOM TOMATOES",
+     "LITTLE GEM LETTUCES",
+     "KING SALMON",
+     "MARGHERITA"
+    ],
+    [
+     "BLUEFIN CRUDO",
+     "HEIRLOOM TOMATOES",
+     "LITTLE GEM LETTUCES",
+     "KING SALMON",
+     "MARGHERITA"
+    ]
+   ],
+   "same_recommendation": true
+  }
+ ]
+}

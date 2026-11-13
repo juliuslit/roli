@@ -1,0 +1,63 @@
+{
+ "photo": "21",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.625,
+ "expected_items": 8,
+ "found_items": 5,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Wood Fire Oysters",
+  "Meatballs (3)",
+  "Mini Gyros (2)"
+ ],
+ "invented": 2,
+ "invented_names": [
+  "Pesto",
+  "BBQ"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 2,
+ "garbled_names": [
+  "Meatballs ~ Meatballs (3) (82%)",
+  "Mini Gyros ~ Mini Gyros (2) (83%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 1,
+ "tags_right": 0.8,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 4,
+   "total": 8,
+   "share_wrong": 0.5
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 1,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "Partial menus visible at the left and right edges (prices and a gyro photo) are cut off and were ignored; the Happy Hour sign is partly hidden at the right edge. Only the central Happy Hour Specials board was transcribed.",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 5.232861791999312,
+ "cost_usd": 0.0006935,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

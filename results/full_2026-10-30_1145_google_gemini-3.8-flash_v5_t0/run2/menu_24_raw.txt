@@ -1,0 +1,9 @@
+{"readable": "partly", "problems": "Right side cut off, prices potentially missing last digits or regular/large columns cut off; bottom cut off: lines below French Dip partially visible/cut off.", "items": [
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEST BEEF", "description": "", "price": "674", "portion": "REG", "tags": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF SUPREME", "description": "", "price": "744", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BACON & CHEESE", "description": "", "price": "784", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF & CHEDDAR", "description": "", "price": "73", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BAC. & CHEDDAR", "description": "", "price": "78", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "FRENCH DIP", "description": "", "price": "735", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "FRENCH DIP W/CHEDDAR", "description": "", "price": "79", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"}
+]}

@@ -1,0 +1,77 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.4166666666666667,
+ "expected_items": 24,
+ "other_set_aside": 0,
+ "found_items": 10,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Malfatti Indiana",
+  "Amalfi",
+  "Wafer / Masala Papad / Boiled Eggs",
+  "Garlic Toast / Green Salad",
+  "French Fries / Hash Brown (6 pcs)",
+  "Cheese Cherry Pineapple Stick",
+  "Onion Rings / Cheese Balls (Schezwan)",
+  "Chilly Cheese Toast",
+  "Cutlet & Fries (Veg / Chicken)",
+  "Koliwada (Paneer / Prawns)",
+  "Mondy's Steak Boti",
+  "Masala Omelette with French Fries",
+  "Kheema Pao / Kheema Gotala",
+  "Extra Sauce"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Malai Kofta"
+ ],
+ "cut_off_listed": 8,
+ "cut_off_names": [
+  "Achari Gobi Tikka / Baby Corn Tikka",
+  "Paneer Tikka / Malai / Achari / Schezwan",
+  "Chicken Tikka / Malai / Reshmi",
+  "Chicken Sheek / Achari / Tandoori",
+  "Fish Tikka / Achari / Kalimirch",
+  "King Prawns Tikka / Haryali",
+  "Tandoor Naan / Butter Naan",
+  "Pollo Alla Pepe"
+ ],
+ "garbled": 1,
+ "garbled_names": [
+  "Anjali ~ Amalfi (50%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.4,
+ "descriptions_checked": 5,
+ "tags_right": 0.2,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 10,
+   "total": 20,
+   "share_wrong": 0.5
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The photo is taken at an angle and the menu is partially obscured by salt and pepper shakers. The left column (Continental Menu) is readable but rotated 90 degrees. The right column (Tandoor Menu) is partially readable. Several items on the right are cut off by the edge of the photo or obscured by glare/shadows. Prices are visible for some items but not all.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 11.479672666988336,
+ "cost_usd": 0.0017954,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2825,
+ "completion_tokens": 1769,
+ "generation_id": "gen-1793325383-AAviMnMlKhvzjB0aAv2N"
+}

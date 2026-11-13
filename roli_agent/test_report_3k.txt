@@ -1,0 +1,20 @@
+........................................................................ [ 12%]
+........................................................................ [ 25%]
+........................................................................ [ 38%]
+..................................................ssss.................. [ 51%]
+........................................................................ [ 63%]
+........................................................................ [ 76%]
+........................................................................ [ 89%]
+...........................................................              [100%]
+=============================== warnings summary ===============================
+.venv/lib/python3.13/site-packages/_pytest/assertion/rewrite.py:185
+  /Users/juliuslitinskas/projects/roli/.venv/lib/python3.13/site-packages/_pytest/assertion/rewrite.py:185: DeprecationWarning: langsmith.wrappers._openai_agents is deprecated and has been moved to langsmith.integrations.openai_agents_sdk. Please update your imports.
+    exec(co, module.__dict__)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ============================
+SKIPPED [1] roli_agent/tests/test_live.py:34: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:41: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:48: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:55: set ROLI_LIVE_TESTS=1 for live calls
+559 passed, 4 skipped, 1 warning in 8.81s

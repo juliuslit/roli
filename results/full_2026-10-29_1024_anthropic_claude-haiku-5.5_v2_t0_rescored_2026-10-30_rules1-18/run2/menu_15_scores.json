@@ -1,0 +1,59 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 42,
+ "other_set_aside": 1,
+ "found_items": 42,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9523809523809523,
+ "price_wrong_names": [
+  "Solaraide (Lemonade + Tea): price '4 / 4.50' vs key '4'",
+  "Lost Coast Root Beer: price '2.50' vs key '4.50'"
+ ],
+ "descriptions_right": 0.6521739130434783,
+ "descriptions_checked": 23,
+ "tags_right": 0.8809523809523809,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 35,
+   "share_wrong": 0.02857142857142857
+  },
+  "low": {
+   "wrong": 1,
+   "total": 7,
+   "share_wrong": 0.14285714285714285
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Photo is a chalkboard menu with glare, reflections and a shadow across the middle and lower sections; some prices and descriptions are faint or partly hidden. A reflection of a person covers part of the lower-left area. Items with doubtful prices are marked low confidence. Items whose names were not clearly legible were omitted.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 17.105438124999637,
+ "cost_usd": 0.0025378,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "reasoning_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

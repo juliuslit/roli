@@ -1,0 +1,66 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 42,
+ "other_set_aside": 2,
+ "found_items": 42,
+ "joined_found": 4,
+ "unmatched_expected_names": [],
+ "invented": 7,
+ "invented_names": [
+  "Humboldt Grassfed Beef",
+  "The Works",
+  "3",
+  "6",
+  "12",
+  "The Works",
+  "Sauerkraut"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9523809523809523,
+ "price_wrong_names": [
+  "Cheese Burger: price '13' vs key '11.50'",
+  "Humboldt Bay: price '' vs key '3 for 8.50 / 6 for 14.50 / 12 for 25.50'"
+ ],
+ "descriptions_right": 0.34782608695652173,
+ "descriptions_checked": 23,
+ "tags_right": 0.8809523809523809,
+ "portion_right": 0.9761904761904762,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 9,
+   "total": 41,
+   "share_wrong": 0.21951219512195122
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 8,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The middle section of the menu is obscured by a strong glare and reflection, making the 'Chicken Sandwiches' and 'From The Sea' sections difficult to read. Some prices and descriptions in the 'Burgers' section are also partially obscured by the glare.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 14.970097207988147,
+ "cost_usd": 0.0033897,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2649,
+ "completion_tokens": 3560,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793323905-jGqldzJI3phdt0XXxU3p",
+ "rep": 1
+}

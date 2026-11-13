@@ -1,0 +1,73 @@
+{
+ "photo": "24",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "Beef, Bac. & Cheddar",
+   "key_price": "",
+   "model_name": "BEEF, BAC. & CHEDDAR",
+   "model_price": "784",
+   "reason": "price differs"
+  },
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "French Dip w/Cheddar",
+   "key_price": "",
+   "model_name": "FRENCH DIP W/CHEDDAR",
+   "model_price": "794",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 7,
+ "other_set_aside": 0,
+ "found_items": 7,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 6,
+   "share_wrong": 0.16666666666666666
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 1,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The top line of the menu is cut off, so the full section heading is not visible. The last item 'FRENCH DIP' has two prices printed (735 and 79), but the label for the second price is partially obscured by glare.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 3.8417644159926567,
+ "cost_usd": 0.0006107,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2705,
+ "completion_tokens": 554,
+ "generation_id": "gen-1793325902-0GhhYLp4HxuqigOql6Ba"
+}

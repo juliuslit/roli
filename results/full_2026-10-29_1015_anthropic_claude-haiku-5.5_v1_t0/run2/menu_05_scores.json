@@ -1,0 +1,59 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8653846153846154,
+ "expected_items": 52,
+ "found_items": 45,
+ "unmatched_expected_names": [
+  "ULTIMATE BREAKFAST SANDWICH - 1 FILLING",
+  "ULTIMATE BREAKFAST SANDWICH - 2 FILLINGS",
+  "ULTIMATE BREAKFAST SANDWICH - 3 FILLINGS",
+  "EXTRAS: Smoked bacon, Sausage, Chorizo, Black pudding, Halloumi, Avocado, 2 Eggs",
+  "EXTRAS: Field mushroom, Tomato, Hash Brown, Beans",
+  "SAVOURY PASTRIES",
+  "DAILY SPECIAL (PLEASE ASK)"
+ ],
+ "invented": 5,
+ "invented_names": [
+  "ULTIMATE BREAKFAST SANDWICH",
+  "SAVOURY PASTRIES FROM",
+  "Smoked bacon",
+  "Sausage, Chorizo, Black pudding, Halloumi, Avocado, 2 Eggs",
+  "Field mushroom, Tomato, Hash Brown, Beans"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9259259259259259,
+ "descriptions_checked": 27,
+ "tags_right": 0.8444444444444444,
+ "portion_right": 0.7555555555555555,
+ "has_choice_right": 0.8888888888888888,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 41,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 5,
+   "total": 9,
+   "share_wrong": 0.5555555555555556
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 19.490503875014838,
+ "cost_usd": 0.0033485,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": ""
+}

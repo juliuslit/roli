@@ -1,0 +1,68 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9565217391304348,
+ "expected_items": 46,
+ "other_set_aside": 0,
+ "found_items": 44,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream",
+  "Babyccino"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Victorian Lemonade, Ginger Beer, Sparkling Elderflower"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Babyocino ~ Babyccino (89%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.7954545454545454,
+ "price_wrong_names": [
+  "Mug: price '1.5' vs key '2.5'",
+  "Pot for 1: price '2.5' vs key '3.0'",
+  "Pot for 2: price '3.0' vs key '4.2'",
+  "Lemon & Ginger / Mint: price '4.2' vs key '2.7'",
+  "Caramel, Vanilla, Hazelnut: price '2.7' vs key '0.5'",
+  "Oat milk: price '0.6' vs key 'no charge'",
+  "Soya milk: price '0.6' vs key 'no charge'",
+  "Coconut milk: price '0.6' vs key 'no charge'",
+  "Kombucha: price '2' vs key '4.95'"
+ ],
+ "descriptions_right": 0.5,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.8863636363636364,
+ "has_choice_right": 0.8409090909090909,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 11,
+   "total": 46,
+   "share_wrong": 0.2391304347826087
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 18.3300633750041,
+ "cost_usd": 0.0028162,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 3124,
+ "completion_tokens": 2958,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793376689-MzpYmOfU4610cbRtVD3p"
+}

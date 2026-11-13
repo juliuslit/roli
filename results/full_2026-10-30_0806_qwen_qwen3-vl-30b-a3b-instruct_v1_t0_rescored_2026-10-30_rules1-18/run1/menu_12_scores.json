@@ -1,0 +1,73 @@
+{
+ "photo": "12",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 44,
+ "other_set_aside": 2,
+ "found_items": 44,
+ "joined_found": 2,
+ "unmatched_expected_names": [],
+ "invented": 5,
+ "invented_names": [
+  "SANDWICHES",
+  "TOASTIES",
+  "PANINIS",
+  "CHILDREN'S",
+  "SIDES"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.7727272727272727,
+ "price_wrong_names": [
+  "Ham sandwich: price '' vs key '3.50'",
+  "Cheese Sandwich: price '' vs key '3.50'",
+  "Cheese & Ham Sandwich: price '' vs key '3.50'",
+  "Cucumber & Hummus Sandwich (VE): price '' vs key '3.50'",
+  "Fish Fingers & Chips: price '' vs key '7.50'",
+  "Mozarella Pesto: price '' vs key '6.50'",
+  "Cheese & Beans: price '' vs key '6.50'",
+  "Tuna Mayo: price '' vs key '6.50'",
+  "Crispy Chicken, Shredded Red Cabbage, Salad, Sweet Chilli & Mayo: price '' vs key '7.85'",
+  "Pulled Pork, Shredded Red Cabbage, Salad, Cheddar Cheese & Mayo: price '' vs key '7.85'"
+ ],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 7,
+ "tags_right": 0.8636363636363636,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.5,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 5,
+   "total": 39,
+   "share_wrong": 0.1282051282051282
+  },
+  "medium": {
+   "wrong": 10,
+   "total": 10,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 132.01477995800087,
+ "cost_usd": 0.0027439,
+ "finish_reason": "stop",
+ "provider": "Novita",
+ "error": "",
+ "prompt_tokens": 2012,
+ "completion_tokens": 3345,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793363627-dLCQInlApdKnEC4nZRpo",
+ "rep": 1
+}

@@ -1,0 +1,41 @@
+ingredient_text,menu_context,preparation_hint,expected_pattern,accepted_proxy_pattern,notes
+bottarga di muggine,BLUEFIN CRUDO,as_used,,"^Fish, (roe, mixed species|caviar)",cured grey-mullet roe; USDA has no bottarga; roe is a composition proxy (cholesterol-rich); unresolved also acceptable
+mirin,,as_used,,"^(Alcoholic beverage, (rice|wine)|Sugars)",sweet rice wine; no USDA record; sake or cooking wine proxy has near-zero effect on both nutrients
+guanciale,PASTA,cooked,,"^Pork, cured, (bacon|salt pork)",cured pork jowl; bacon is the closest cured-pork proxy; saturated fat consequential
+pancetta,PASTA,cooked,,"^Pork, cured, bacon",
+prosciutto,,as_used,,"^Pork, cured, ham",USDA names a prosciutto record under cured ham (uncertain exact wording); any cured ham accepted
+'nduja,PIZZA,as_used,,"^(Sausage|Pork sausage|Pork, cured)",spreadable spicy pork sausage
+speck,,as_used,,"^Pork, cured, (ham|bacon)",smoked cured ham
+bresaola,,as_used,,"^Beef, cured, (dried|breakfast|pastrami)",air-dried beef
+lardo,,as_used,,"^(Pork, cured, salt pork|Pork, fresh, backfat|Lard)",cured pork back fat; all three proxies are nearly pure fat
+pecorino romano,,as_used,"^Cheese, romano",,direct record exists
+pecorino sardo,LITTLE GEM LETTUCES,as_used,,"^Cheese, (romano|parmesan)",
+grana padano,,as_used,,"^Cheese, parmesan",
+caciocavallo,PIZZA,as_used,,"^Cheese, (provolone|mozzarella)",stretched-curd cheese; provolone closest
+burrata,,as_used,,"^Cheese, mozzarella",mozzarella shell with cream; mozzarella understates fat
+stracciatella,,as_used,,"^(Cheese, mozzarella|Cream)",shredded mozzarella in cream
+taleggio,,as_used,,"^Cheese, (brie|camembert|limburger|fontina)",washed-rind soft cheese
+fontina,,as_used,"^Cheese, fontina",,direct record exists
+ricotta salata,,as_used,,"^Cheese, (ricotta|feta)",salted pressed ricotta
+gorgonzola,,as_used,,"^Cheese, blue",
+mascarpone,,as_used,,"^(Cheese, cream|Cream, (fluid, )?heavy)",
+crème fraîche,,as_used,,"^(Cream, sour|Sour cream|Cream, (fluid, )?heavy)",
+egg yolk,,raw,"^Egg, yolk, raw",,direct record exists
+duck fat,,as_used,"^Fat, duck",,direct record exists
+chicken livers,,raw,"^Chicken, liver, all classes, raw",,direct record exists
+colatura di alici,,as_used,,"^(Fish sauce|Sauce, fish|Fish, anchovy)",anchovy drippings; fish sauce is the composition proxy
+salt cod,,as_used,"^Fish, cod, Atlantic, dried and salted",,direct record exists
+octopus,,raw,"^Mollusks, octopus, common, raw",,direct record exists
+squid ink,,as_used,,"^Mollusks, squid",no USDA record; unresolved is the honest answer
+anchovy fillets,,as_used,"^(Fish, anchovy, european, canned in oil|Anchovies, canned in olive oil)",,
+shrimp,,raw,"^Crustaceans, shrimp, .*raw",,
+scallops,,raw,"^Mollusks, scallop, .*raw",,
+lamb loin,,raw,"^Lamb, .*loin.*raw",,
+foie gras,,as_used,,"^(Pate, goose liver|Goose, liver|Pate, liver)",
+whole milk ricotta,,as_used,"^Cheese, ricotta, whole milk",,
+heavy cream,,as_used,"^Cream, (fluid, heavy whipping|heavy)",,
+coconut milk,,as_used,"^Nuts, coconut milk",,
+ghee,,as_used,,"^Butter(, oil, anhydrous| oil, anhydrous|, clarified)",USDA's anhydrous butter oil is ghee
+chorizo,,cooked,"^(Chorizo|Sausage, (pork, )?chorizo)",,
+beef tallow,,as_used,"^Beef, tallow|^Fat, beef tallow",,
+bone marrow,,cooked,,"^Beef, variety meats",no clear USDA record; unresolved acceptable

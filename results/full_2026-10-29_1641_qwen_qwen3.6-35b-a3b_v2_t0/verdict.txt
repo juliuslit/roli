@@ -1,0 +1,33 @@
+qwen/qwen3.6-35b-a3b x v2 x temperature 0: 50 answers, $0.13  [scoring_rules.md interpretations 1-9 (2026-10-29)]
+
+[as_written] passes: False  UNSTABLE (runs differ >5 points)
+  dishes found avg 80.4%  min photo 0%  by run {1: 76.5%, 2: 84.2%}
+  invented by run {1: 45, 2: 44}  prices 91.4%  descriptions 75.0%  format 88.0%
+  partly caught {1: '4/7', 2: '5/7'}  false alarms {1: 1, 2: 1}  speed 97 s  cost 0.26 c/photo
+  garbled 33  groupings 9  found via joined text 11  tokens in/out avg 2455/2352
+    FAIL  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  3 prices >=95%
+    FAIL  4 descriptions >=90%
+    FAIL  6 format >=98%
+    FAIL  7 all partly photos caught, both runs
+    PASS  7 false alarms <=3 per run
+    FAIL  8 speed <60 s avg
+
+[photo_17_set_aside] passes: False  UNSTABLE (runs differ >5 points)
+  dishes found avg 83.7%  min photo 0%  by run {1: 79.7%, 2: 87.7%}
+  invented by run {1: 45, 2: 44}  prices 91.4%  descriptions 75.0%  format 91.7%
+  partly caught {1: '4/6', 2: '5/6'}  false alarms {1: 1, 2: 1}  speed 88 s  cost 0.25 c/photo
+  garbled 33  groupings 9  found via joined text 11  tokens in/out avg 2447/2296
+    FAIL  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  3 prices >=95%
+    FAIL  4 descriptions >=90%
+    FAIL  6 format >=98%
+    FAIL  7 all partly photos caught, both runs
+    PASS  7 false alarms <=3 per run
+    FAIL  8 speed <60 s avg
+
+check list: 9 medium/low key items -> /Users/juliuslitinskas/projects/roli/results/full_2026-10-29_1641_qwen_qwen3.6-35b-a3b_v2_t0/check_list.csv

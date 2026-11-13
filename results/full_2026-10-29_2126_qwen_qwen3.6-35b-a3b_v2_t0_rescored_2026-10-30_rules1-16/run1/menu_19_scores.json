@@ -1,0 +1,89 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.926829268292683,
+ "expected_items": 41,
+ "other_set_aside": 6,
+ "found_items": 38,
+ "joined_found": 2,
+ "unmatched_expected_names": [
+  "Shoestring Potatoes (Order)",
+  "Icebox Chocolate",
+  "Pimento Cheese"
+ ],
+ "invented": 4,
+ "invented_names": [
+  "DESSERT SPECIALS",
+  "OUR HOMEMADE PIE",
+  "SANDWICHES",
+  "OUR DELICIOUS HAMBURGER with MELTED CHEESE"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 2,
+ "garbled_names": [
+  "Shredding Potatoes (Chips) ~ Shoestring Potatoes (Order) (64%)",
+  "FONTINOT CHEESE ~ Pimento Cheese (53%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.4473684210526316,
+ "price_wrong_names": [
+  "OUR SPECIAL BLEND COFFEE: price '.05' vs key '5c'",
+  "Doughnuts (Two): price '.10' vs key '5c'",
+  "Coffee, Our Special Blend: price '.05' vs key '5c'",
+  "Iced Tea: price '.05' vs key '5c'",
+  "Coca-Cola: price '.05' vs key '5c'",
+  "Buttermilk: price '.05' vs key '5c'",
+  "Fruit Juices: price '.15' vs key '10c'",
+  "HALF MOON PEACH: price '' vs key '10c'",
+  "HALF MOON APPLE: price '' vs key '10c'",
+  "BACON AND EGG: price '.20' vs key '30c'",
+  "FRIED HAM: price '.20' vs key '25c'",
+  "GRILLED CHEESE: price '.20' vs key ''",
+  "GRILLBURGER: price '.30' vs key '25c'",
+  "HAMBURGER STEAK PLATE: price '.50' vs key '55c'",
+  "No. 1: price '.20' vs key '35c'",
+  "No. 2: price '.25' vs key '35c'",
+  "No. 3: price '.40' vs key '45c'",
+  "No. 4: price '.60' vs key '45c'",
+  "OTHER DELICIOUS BAKERY PIE: price '' vs key '10c'",
+  "OUR SPECIAL: price '' vs key '65c'",
+  "BACON & TOMATO: price '.20' vs key '25c'"
+ ],
+ "descriptions_right": 0.05,
+ "descriptions_checked": 20,
+ "tags_right": 1.0,
+ "portion_right": 0.7894736842105263,
+ "has_choice_right": 0.8421052631578947,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 23,
+   "total": 39,
+   "share_wrong": 0.5897435897435898
+  },
+  "low": {
+   "wrong": 4,
+   "total": 5,
+   "share_wrong": 0.8
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is a tri-fold layout. The left column is fully readable. The middle column is readable but the text is small and slightly faded. The right column is significantly faded and blurry, making the 'BREAKFAST SUGGESTIONS' section and the 'TO OUR FRIENDS AND CUSTOMERS' note difficult to read accurately. I have transcribed the left and middle columns with high confidence. The right column items are listed with low confidence due to fading.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 28.184381500002928,
+ "cost_usd": 0.0036939,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2649,
+ "completion_tokens": 3898,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793324032-maYsRYN0HYXY5Pzzpxzi",
+ "rep": 1
+}

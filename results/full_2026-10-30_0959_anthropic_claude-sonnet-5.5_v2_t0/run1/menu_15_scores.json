@@ -1,0 +1,69 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9523809523809523,
+ "expected_items": 42,
+ "other_set_aside": 0,
+ "found_items": 40,
+ "joined_found": 3,
+ "unmatched_expected_names": [
+  "Dylan",
+  "Oysters - Humboldt Bay"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Oysters"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Dylau ~ Dylan (80%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.975,
+ "price_wrong_names": [
+  "BLT: price '15.50' vs key '11.50'"
+ ],
+ "descriptions_right": 0.6190476190476191,
+ "descriptions_checked": 21,
+ "tags_right": 0.925,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 14,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 18,
+   "share_wrong": 0.05555555555555555
+  },
+  "low": {
+   "wrong": 2,
+   "total": 10,
+   "share_wrong": 0.2
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Glare and reflections cover the middle of the board, including the Aloha Burger, Ortega Burger, Big Foot Burger, Aloha chicken sandwich and Brie sandwich areas, so some prices and descriptions are hard to read. The price of the Cheese Burger is unclear. Some prices in the Plant Based section are hard to match to the right item. A few handwritten words are blurry.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 18.908558083989192,
+ "cost_usd": 0.0454,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3520,
+ "completion_tokens": 3836,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793368987-KlkXRcvPsborb4GcngGL"
+}

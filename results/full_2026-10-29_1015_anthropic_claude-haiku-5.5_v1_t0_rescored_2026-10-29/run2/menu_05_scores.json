@@ -1,0 +1,62 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9508196721311475,
+ "expected_items": 61,
+ "found_items": 58,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Add chorizo",
+  "Add smoked streaky bacon or poached eggs",
+  "DAILY SPECIAL (PLEASE ASK)"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 2,
+ "grouping_names": [
+  "Sausage, Chorizo, Black pudding, Halloumi, Avocado, 2 Eggs -> ['Sausage', 'Chorizo', 'Black pudding', 'Halloumi', 'Avocado', '2 Eggs']",
+  "Field mushroom, Tomato, Hash Brown, Beans -> ['Field mushroom', 'Tomato', 'Hash Brown', 'Beans']"
+ ],
+ "prices_right": 0.9791666666666666,
+ "price_wrong_names": [
+  "ULTIMATE BREAKFAST SANDWICH: price '' vs key '1 filling 5.50 / 2 fillings 6.50 / 3 fillings 7.50'"
+ ],
+ "descriptions_right": 0.9310344827586207,
+ "descriptions_checked": 29,
+ "tags_right": 0.8541666666666666,
+ "portion_right": 0.7708333333333334,
+ "has_choice_right": 0.8958333333333334,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 41,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 3,
+   "total": 9,
+   "share_wrong": 0.3333333333333333
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 19.490503875014838,
+ "cost_usd": 0.0033485,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

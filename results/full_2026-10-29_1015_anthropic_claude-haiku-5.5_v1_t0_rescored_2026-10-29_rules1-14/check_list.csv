@@ -1,0 +1,23 @@
+photo,key_confidence,key_name,key_price,model_name,model_price,reason
+10,low,Diced Fish (Spicy),,Diced Fish (Spicy),310,price differs
+10,low,Mandarin Fish,,Mandarin Fish,310,price differs
+10,low,Sichuan Fish,,Sichuan Fish,310,price differs
+10,low,Apollo Fish,,Apollo Fish,310,price differs
+10,low,Pepper Fish,,Pepper Fish,310,price differs
+15,medium,Ortega Burger,12.50,Ortega Burger,13.50,price differs
+17,medium,Stir-fried Beef w/ Cilantro,14.95,Stir-fried Beef with Bell Pepper,9.95,name differs (69% similar)
+17,medium,Stir-fried Beef w/ Green Onion,14.95,Stir-fried Beef with Green Onion,9.95,price differs
+17,medium,Cumin Beef,14.95,Cumin Beef,9.95,price differs
+17,medium,Beef w/ Broccoli,13.95,Beef with Broccoli,9.95,price differs
+17,medium,Beef w/ Black Pepper Sauce,14.95,Beef with Black Pepper Sauce,9.95,price differs
+17,medium,Stir-fried Lamb w/ Cilantro,15.95,Stir-fried Lamb with Cilantro,9.95,price differs
+17,medium,Stir-fried Lamb w/ Green Onion,15.95,Stir-fried Lamb with Green Onion,9.95,price differs
+17,medium,Cumin Lamb,15.95,Cumin Lamb,9.95,price differs
+24,low,French Dip w/Cheddar,,W/CHEDDAR,79,price differs
+10,low,Diced Fish (Spicy),,Diced Fish (Spicy),310-00,price differs
+10,low,Mandarin Fish,,Mandarin Fish,310-00,price differs
+10,low,Sichuan Fish,,Sichuan Fish,310-00,price differs
+10,low,Apollo Fish,,Apollo Fish,310-00,price differs
+10,low,Pepper Fish,,Pepper Fish,310-00,price differs
+24,low,"Beef, Bac. & Cheddar",,"BEEF, BAC. & CHEDDAR",78,price differs
+24,low,French Dip w/Cheddar,,W/CHEDDAR,79,price differs

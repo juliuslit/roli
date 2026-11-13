@@ -1,0 +1,63 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9782608695652174,
+ "expected_items": 46,
+ "other_set_aside": 0,
+ "found_items": 45,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Victorian Lemonade, Ginger Beer, Sparkling Elderflower"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8,
+ "price_wrong_names": [
+  "Macchiato/Cortado: price '3.3/3.5' vs key '3.2/3.5'",
+  "Babyccino: price '4' vs key '1.5'",
+  "Mug: price '1.5' vs key '2.5'",
+  "Pot for 1: price '2.5' vs key '3.0'",
+  "Pot for 2: price '3.0' vs key '4.2'",
+  "Lemon & Ginger / Mint: price '4.2' vs key '2.7'",
+  "Caramel, Vanilla, Hazelnut: price '2.7' vs key '0.5'",
+  "Oat milk: price '0.6' vs key 'no charge'",
+  "Kombucha: price '2' vs key '4.95'"
+ ],
+ "descriptions_right": 0.5,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.8888888888888888,
+ "has_choice_right": 0.7777777777777778,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 10,
+   "total": 46,
+   "share_wrong": 0.21739130434782608
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 21.294702416984364,
+ "cost_usd": 0.003246,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2031,
+ "completion_tokens": 3469,
+ "generation_id": "gen-1793323248-tAMDXipJtC0V62FYMul5",
+ "rep": 2
+}

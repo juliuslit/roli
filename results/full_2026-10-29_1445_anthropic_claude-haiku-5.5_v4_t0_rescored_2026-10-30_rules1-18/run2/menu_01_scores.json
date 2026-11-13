@@ -1,0 +1,66 @@
+{
+ "photo": "01",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 71,
+ "other_set_aside": 0,
+ "found_items": 71,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 1,
+ "invented_names": [
+  "Yuzu Lime"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.971830985915493,
+ "price_wrong_names": [
+  "Espresso: price '' vs key '4.00'",
+  "Badger Sparkling: price '7.00' vs key '6.00'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 0.971830985915493,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 22,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 2,
+   "total": 47,
+   "share_wrong": 0.0425531914893617
+  },
+  "low": {
+   "wrong": 1,
+   "total": 3,
+   "share_wrong": 0.3333333333333333
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "The photo is taken at an angle against a reflective background; small print in the bottom drinks section is tiny and slightly blurred, so some drink names and prices there are low confidence. Lines at the very bottom (footer notes) were ignored.",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 20.301366542000324,
+ "cost_usd": 0.0038174,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3334,
+ "completion_tokens": 6968,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793299792-Ms9SV9CVi2001IS7bwFh",
+ "rep": 2
+}

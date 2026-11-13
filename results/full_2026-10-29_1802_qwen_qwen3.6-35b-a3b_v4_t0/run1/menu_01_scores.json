@@ -1,0 +1,69 @@
+{
+ "photo": "01",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9014084507042254,
+ "expected_items": 71,
+ "found_items": 64,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Chicken for two roasted in the wood-fired brick oven; warm bread salad with scallions, garlic, bitter greens, dried currants, and pine nuts",
+  "Suze",
+  "Suze and tonic",
+  "Badger Sparkling Yuzu Lime",
+  "Fort Point KSA – Kölsch Style Ale",
+  "Coffee",
+  "Heirloom White Peony Tea"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Yuzu Lime"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 7,
+ "garbled_names": [
+  "Chicken for two roasted in the wood-fired brick oven; warm bread salad with scallions, garlic, butter greens, dried currants, and pine nuts 75.00 (approximately 75 minutes) ~ Chicken for two roasted in the wood-fired brick oven; warm bread salad with scallions, garlic, bitter greens, dried currants, and pine nuts (81%)",
+  "Suez ~ Suze (50%)",
+  "Suez and tonic ~ Suze and tonic (86%)",
+  "Badger Sparkling ~ Badger Sparkling Yuzu Lime (62%)",
+  "Fort Point Kolsch - Kolsch Style Ale ~ Fort Point KSA – Kölsch Style Ale (85%)",
+  "Caffè ~ Coffee (50%)",
+  "Herizian White Peony Tea ~ Heirloom White Peony Tea (75%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.96875,
+ "price_wrong_names": [
+  "Shelburne Farms cheddar cheese: price 'add 5.00' vs key '3.00'",
+  "Caffè Latte: price '7.00' vs key '6.50'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 0.96875,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 10,
+   "total": 72,
+   "share_wrong": 0.1388888888888889
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 180.2261272079777,
+ "cost_usd": 0.00509075,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 2505,
+ "completion_tokens": 5095,
+ "generation_id": "gen-1793311375-kDH2Ws3nygugGZ0urNAy"
+}

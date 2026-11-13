@@ -1,0 +1,88 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.375,
+ "expected_items": 24,
+ "other_set_aside": 0,
+ "found_items": 9,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Malfatti Indiana",
+  "Amalfi",
+  "Brochettes de Legumes",
+  "Wafer / Masala Papad / Boiled Eggs",
+  "Garlic Toast / Green Salad",
+  "French Fries / Hash Brown (6 pcs)",
+  "Cheese Cherry Pineapple Stick",
+  "Onion Rings / Cheese Balls (Schezwan)",
+  "Chilly Cheese Toast",
+  "Cutlet & Fries (Veg / Chicken)",
+  "Koliwada (Paneer / Prawns)",
+  "Mondy's Steak Boti",
+  "Masala Omelette with French Fries",
+  "Kheema Pao / Kheema Gotala",
+  "Extra Sauce"
+ ],
+ "invented": 3,
+ "invented_names": [
+  "CHICKEN / POLLO",
+  "VEGETARIAN",
+  "NON - VEGETARIAN"
+ ],
+ "cut_off_listed": 8,
+ "cut_off_names": [
+  "Achari Gobi Tikka / Baby Corn Tikka",
+  "Paneer Tikka / Malai / Achari / Sh",
+  "Chicken Tikka / Malai / Resh",
+  "Chicken Sheek / Achari / Tan",
+  "Fish Tikka / Achari / Kalami",
+  "King Prawns Tikka / Harya",
+  "Tandoor Naan / Butter R",
+  "Butter Naan / Garlic / May"
+ ],
+ "garbled": 2,
+ "garbled_names": [
+  "Malai Indiana ~ Malfatti Indiana (81%)",
+  "Brocketeries de Legumes ~ Brochettes de Legumes (83%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.5555555555555556,
+ "price_wrong_names": [
+  "Funghi Con Crema: price '' vs key '530'",
+  "Roast Chicken: price '' vs key '590'",
+  "Vegetable Au Grain: price '' vs key '530'",
+  "A.M. (Any Time Meal): price '' vs key '530'"
+ ],
+ "descriptions_right": 0.25,
+ "descriptions_checked": 4,
+ "tags_right": 0.2222222222222222,
+ "portion_right": 1.0,
+ "has_choice_right": 0.8888888888888888,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 17,
+   "total": 22,
+   "share_wrong": 0.7727272727272727
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is partially obscured by two salt and pepper shakers in the foreground. The left column (Continental Menu) is heavily blocked, making most of the Vegetarian section unreadable. The right column (Tandoor Menu) is partially visible but the prices are completely illegible due to blur and glare. The bottom of the menu is cut off.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 62.74960862498847,
+ "cost_usd": 0.0019963,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 2597,
+ "completion_tokens": 1828,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793312717-uoUGB6l5Y2jpDmeL6WAN",
+ "rep": 1
+}

@@ -1,0 +1,93 @@
+{
+ "photo": "06",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.5714285714285714,
+ "expected_items": 91,
+ "found_items": 52,
+ "unmatched_expected_names": [
+  "Make your own pizza - standard base with sauce and mozzarella",
+  "Chorizo",
+  "Pepperoni",
+  "Truffle oil",
+  "Anchovies",
+  "Vegan sour cream",
+  "Vegan sausage*",
+  "Vegan Nduja",
+  "Vegan pepperoni*",
+  "Artichokes",
+  "Beetroot 'pepperoni'",
+  "Caramelised onions",
+  "Field Mushrooms",
+  "Mixed wild mushrooms",
+  "Spinach",
+  "Sun-dried tomatoes",
+  "Peppers",
+  "Pineapple",
+  "Almonds",
+  "Red onions",
+  "Rocket",
+  "Basil",
+  "Chipotle chilli",
+  "Fresh & dried chillies",
+  "Ghost chilli",
+  "Garlic",
+  "Oregano",
+  "Rosemary",
+  "KIDS MEAL",
+  "OLIVES vgn",
+  "Garlic butter",
+  "Garlic oil (vgn)",
+  "Garlic mayo",
+  "Marinara sauce (vgn)",
+  "Sundried tomato (vgn) (contains garlic)",
+  "BBQ sauce (vgn)",
+  "Chilli jam (vgn)",
+  "Chilli oil (vgn)",
+  "Almond pesto (vgn)"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "DIPS"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 0.9423076923076923,
+ "price_wrong_names": [
+  "NDUJA WANNA: price '17' vs key '£17.5'",
+  "THE MOBY: price '17.5' vs key '£17'",
+  "OLIVES: price '4' vs key '£1.15 each'"
+ ],
+ "descriptions_right": 0.8461538461538461,
+ "descriptions_checked": 39,
+ "tags_right": 0.7115384615384616,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9807692307692307,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 11,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 2,
+   "total": 29,
+   "share_wrong": 0.06896551724137931
+  },
+  "low": {
+   "wrong": 2,
+   "total": 13,
+   "share_wrong": 0.15384615384615385
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is a two-page open menu held by a hand at the bottom; the bottom edge of the left page and some small print are partly obscured or small. Several prices are small or ambiguous (e.g. Garlic Bread with Cheese, Fumo, Matto, Moby). Items with prices printed far from names were matched by proximity. Some price cells are uncertain and marked low confidence. Several items in the bottom-right 'Starters, Salads, Sides, Dips' area and the Dips list have no individual prices, so price is blank where not printed.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 19.918325791993993,
+ "cost_usd": 0.003689,
+ "finish_reason": "stop"
+}

@@ -1,0 +1,79 @@
+{
+ "photo": "24",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "Beef, Bac. & Cheddar",
+   "key_price": "",
+   "model_name": "BEEF, BAC. & CHEDDAR",
+   "model_price": "7 8",
+   "reason": "price differs"
+  },
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "French Dip w/Cheddar",
+   "key_price": "",
+   "model_name": "W/CHEDDAR",
+   "model_price": "7 9",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 7,
+ "other_set_aside": 0,
+ "found_items": 7,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.4,
+ "price_wrong_names": [
+  "BEEF SUPREME: price '7 4' vs key '7.44'",
+  "BEEF, BACON & CHEESE: price '7 8' vs key '7.84'",
+  "BEEF & CHEDDAR: price '7 3' vs key '7.34'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 3,
+   "total": 4,
+   "share_wrong": 0.75
+  },
+  "low": {
+   "wrong": 2,
+   "total": 3,
+   "share_wrong": 0.6666666666666666
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Right edge cut off: prices for BEST BEEF, BEEF SUPREME, BEEF, BACON & CHEESE are truncated; 'HOT SANDWICHES' heading cut off at top. Lines with prices cut off were still included with the visible digits, confidence medium/low. Price cells for BEEF & CHEDDAR, BEEF, BAC. & CHEDDAR, FRENCH DIP are visible. 'REG' column header is not an item.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 3.9535532500012778,
+ "cost_usd": 0.0008202,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 4002,
+ "completion_tokens": 840,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793378266-aZfdOjb611EupulQOhbv"
+}

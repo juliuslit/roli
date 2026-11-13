@@ -1,0 +1,31 @@
+anthropic/claude-haiku-5.5 x v1 x temperature 0: 3 answers, $0.01
+
+[as_written] passes: False
+  dishes found avg 66.3%  min photo 21%  by run {1: 66.3%}
+  invented by run {1: 12}  prices 71.0%  descriptions 60.1%  format 100.0%
+  partly caught {1: '2/2'}  false alarms {1: 1}  speed 18 s  cost 0.29 c/photo
+    FAIL  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  3 prices >=95%
+    FAIL  4 descriptions >=90%
+    PASS  6 format >=98%
+    PASS  7 all partly photos caught, both runs
+    PASS  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+[photo_17_set_aside] passes: False
+  dishes found avg 88.7%  min photo 86%  by run {1: 88.7%}
+  invented by run {1: 2}  prices 95.5%  descriptions 60.1%  format 100.0%
+  partly caught {1: '1/1'}  false alarms {1: 1}  speed 20 s  cost 0.32 c/photo
+    FAIL  1 dishes found >=95% avg
+    PASS  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    PASS  3 prices >=95%
+    FAIL  4 descriptions >=90%
+    PASS  6 format >=98%
+    PASS  7 all partly photos caught, both runs
+    PASS  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+check list: 53 medium/low key items -> /Users/juliuslitinskas/projects/roli/results/full_2026-10-29_1014_anthropic_claude-haiku-5.5_v1_t0/check_list.csv

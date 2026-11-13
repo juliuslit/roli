@@ -1,0 +1,302 @@
+{
+ "file": "menu_13_hard_obstructed_cafe_mondegar.jpg",
+ "telegram_file": "telegram_1280/menu_13_hard_obstructed_cafe_mondegar.jpg",
+ "expected": {
+  "readable": "partly",
+  "problems": "two shakers cover the centre; most of the sheet is out of focus; right edge cut off so lite bites and tandoor prices are missing; one column is printed sideways",
+  "items": [
+   {
+    "section": "CONTINENTAL MENU - VEGETARIAN",
+    "category": "food",
+    "name": "A.T.M. (Any Time Meal)",
+    "description": "Seasonal Vegetables in a Creamy Cheese White Wine Sauce with Buttered Yellow Rice",
+    "price": "530",
+    "tags": "VEGETARIAN",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "CONTINENTAL MENU - VEGETARIAN",
+    "category": "food",
+    "name": "Funghi Con Crema",
+    "description": "Julienne's of Bell Peppers & Mushroom in a Creamy Cheese Wine Sauce with Buttered Rice",
+    "price": "530",
+    "tags": "VEGETARIAN",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "CONTINENTAL MENU - VEGETARIAN",
+    "category": "food",
+    "name": "Vegetable Au Gratin",
+    "description": "Baked Dish of Mix. Veg. & Pineapple with Rice",
+    "price": "530",
+    "tags": "VEGETARIAN",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "CONTINENTAL MENU - VEGETARIAN",
+    "category": "food",
+    "name": "Malfatti Indiana",
+    "description": "Spinach, Paneer & Cottage Cheese Dumplings with Herbs topped with Italian Cheese Sauce",
+    "price": "530",
+    "tags": "VEGETARIAN",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "CONTINENTAL MENU - VEGETARIAN",
+    "category": "food",
+    "name": "Amalfi",
+    "description": "Baked Pancake Stuffed with Spinach, Corn, Mushroom, Cheese and Herbs topped with Italian Bechamel Sauce",
+    "price": "530",
+    "tags": "VEGETARIAN",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "CONTINENTAL MENU - VEGETARIAN",
+    "category": "food",
+    "name": "Brochettes de Legumes",
+    "description": "Cubes of Paneer, Bell Peppers, Pineapple & Mushrooms in Paprika, Herb flavoured Tomato Sauce with Yellow Buttered Rice",
+    "price": "530",
+    "tags": "VEGETARIAN",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "CONTINENTAL MENU - CHICKEN / POLLO",
+    "category": "food",
+    "name": "Roast Chicken",
+    "description": "In demi - glazed Sauce served with Fries & Garlic bread",
+    "price": "590",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "food",
+    "name": "Wafer / Masala Papad / Boiled Eggs",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "yes",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "food",
+    "name": "Garlic Toast / Green Salad",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "yes",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "food",
+    "name": "French Fries / Hash Brown (6 pcs)",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "6 pcs (hash brown)",
+    "has_choice": "yes",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "food",
+    "name": "Cheese Cherry Pineapple Stick",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "food",
+    "name": "Onion Rings / Cheese Balls (Schezwan)",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "yes",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "food",
+    "name": "Chilly Cheese Toast",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "food",
+    "name": "Cutlet & Fries (Veg / Chicken)",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "yes",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "food",
+    "name": "Koliwada (Paneer / Prawns)",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "yes",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "food",
+    "name": "Mondy's Steak Boti",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "food",
+    "name": "Masala Omelette with French Fries",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "food",
+    "name": "Kheema Pao / Kheema Gotala",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "yes",
+    "belongs_to": ""
+   },
+   {
+    "section": "LITE BITES",
+    "category": "add-on",
+    "name": "Extra Sauce",
+    "description": "Schezwan / Garlic / ...",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TANDOOR MENU - VEGETARIAN",
+    "category": "food",
+    "name": "Aloo Tikka / Mushroom Tikka",
+    "description": "",
+    "price": "",
+    "tags": "VEGETARIAN",
+    "portion": "",
+    "has_choice": "yes",
+    "belongs_to": ""
+   },
+   {
+    "section": "TANDOOR MENU - VEGETARIAN",
+    "category": "food",
+    "name": "Mixed Tandoor Platter",
+    "description": "",
+    "price": "",
+    "tags": "VEGETARIAN",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TANDOOR MENU - NON - VEGETARIAN",
+    "category": "food",
+    "name": "Chicken Tandoori (Half / Full)",
+    "description": "",
+    "price": "",
+    "tags": "NON-VEGETARIAN",
+    "portion": "half / full",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TANDOOR MENU - NON - VEGETARIAN",
+    "category": "food",
+    "name": "Mixed Tandoor Platter",
+    "description": "",
+    "price": "",
+    "tags": "NON-VEGETARIAN",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "ACCOMPANIMENTS",
+    "category": "food",
+    "name": "Tandoor Roti",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   }
+  ]
+ },
+ "scoring_hints": {
+  "cut_off_lines_left_out": [
+   "Pollo Alla Pepe / Fr...",
+   "Achari Gobi Tikka / Baby Corn Ti...",
+   "Paneer Tikka / Malai / Achari / S...",
+   "Chicken Tikka / Malai / Reshm...",
+   "Chicken Sheek / Achari / Tang...",
+   "Fish Tikka / Achari / Kalami...",
+   "King Prawns Tikka / Harya...",
+   "Tandoor Naan / Butter N...",
+   "Butter Naan / Garlic N..."
+  ],
+  "low_confidence_items": [],
+  "medium_confidence_items": [
+   "Wafer / Masala Papad / Boiled Eggs",
+   "Garlic Toast / Green Salad",
+   "French Fries / Hash Brown (6 pcs)",
+   "Cheese Cherry Pineapple Stick",
+   "Onion Rings / Cheese Balls (Schezwan)",
+   "Chilly Cheese Toast",
+   "Cutlet & Fries (Veg / Chicken)",
+   "Koliwada (Paneer / Prawns)",
+   "Mondy's Steak Boti",
+   "Masala Omelette with French Fries",
+   "Kheema Pao / Kheema Gotala",
+   "Extra Sauce"
+  ]
+ }
+}

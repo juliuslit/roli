@@ -1,0 +1,63 @@
+{
+ "photo": "01",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 71,
+ "other_set_aside": 0,
+ "found_items": 71,
+ "joined_found": 12,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9859154929577465,
+ "price_wrong_names": [
+  "Mocha Latte: price '7.50' vs key '7.00'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 0.971830985915493,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 4,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 66,
+   "share_wrong": 0.015151515151515152
+  },
+  "low": {
+   "wrong": 0,
+   "total": 1,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo has glare and a skewed angle; the small print in the drinks columns is hard to read, so some prices are doubtful. The first-section lines have no printed headings. No lines were left out, but the drink prices for Yuzu Lime and a few others are small and need checking.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 29.73363783399691,
+ "cost_usd": 0.069098,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3774,
+ "completion_tokens": 6155,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793378281-iehbGs1JdDeJ3nMpqAFZ"
+}

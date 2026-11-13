@@ -1,0 +1,73 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8048780487804879,
+ "expected_items": 41,
+ "other_set_aside": 0,
+ "found_items": 33,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Shoestring Potatoes (Order)",
+  "Coca-Cola",
+  "Icebox Chocolate",
+  "Half Moon Peach",
+  "Half Moon Apple",
+  "Other Delicious Bakery Pies",
+  "Mid-Nite Special",
+  "Grillburger"
+ ],
+ "invented": 2,
+ "invented_names": [
+  "OUR HOMEMADE PIE",
+  "OUR DELICIOUS HAMBURGER with MELTED CHEESE"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 3,
+ "garbled_names": [
+  "Shredded Potatoes (Chips) ~ Shoestring Potatoes (Order) (52%)",
+  "Cocoa ~ Coca-Cola (56%)",
+  "BACON-NITE SPECIAL ~ Mid-Nite Special (72%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.7878787878787878,
+ "price_wrong_names": [
+  "BACON-TOMATO: price '20c' vs key '25c'",
+  "BACON AND EGG: price '25c' vs key '30c'",
+  "GRILLED CHEESE: price '20c' vs key ''",
+  "HAMBURGER STEAK PLATE: price '50c' vs key '55c'",
+  "No. 1: price '30c' vs key '35c'",
+  "No. 3: price '40c' vs key '45c'",
+  "OUR SPECIAL STEAK PLATE: price '' vs key '65c'"
+ ],
+ "descriptions_right": 0.0,
+ "descriptions_checked": 17,
+ "tags_right": 1.0,
+ "portion_right": 0.7878787878787878,
+ "has_choice_right": 0.8484848484848485,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 12,
+   "total": 38,
+   "share_wrong": 0.3157894736842105
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is a vintage printed sign. While the main headings and prices are legible, the descriptions for many items (especially in the Sandwiches and Breakfast sections) are printed in very small, faint text that is difficult to read with certainty. Some prices are also faint. I have transcribed the clear items and left the descriptions blank where the text is illegible to avoid guessing.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 18.80824958300218,
+ "cost_usd": 0.0032289,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2031,
+ "completion_tokens": 3362,
+ "generation_id": "gen-1793323066-pI6iZrvzruJz4jgxBTcR",
+ "rep": 1
+}

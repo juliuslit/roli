@@ -1,0 +1,70 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8571428571428571,
+ "expected_items": 42,
+ "other_set_aside": 0,
+ "found_items": 36,
+ "joined_found": 3,
+ "unmatched_expected_names": [
+  "Ortega Burger",
+  "Aloha Burger",
+  "Big Foot Burger",
+  "Aloha",
+  "Brie",
+  "Oysters - Humboldt Bay"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Oysters"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8611111111111112,
+ "price_wrong_names": [
+  "Veggie Burger: price '' vs key '11.50'",
+  "Veggie Dog: price '' vs key '7.50'",
+  "Tempeh Reuben: price '' vs key '16.00'",
+  "BLT: price '7.50' vs key '11.50'",
+  "Pastrami Reuben: price '16' vs key '16.50'"
+ ],
+ "descriptions_right": 0.7777777777777778,
+ "descriptions_checked": 18,
+ "tags_right": 0.9444444444444444,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 3,
+   "total": 32,
+   "share_wrong": 0.09375
+  },
+  "low": {
+   "wrong": 3,
+   "total": 5,
+   "share_wrong": 0.6
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Glare and reflections cover the middle of the board, including the Aloha and Brie chicken sandwiches, the Ortega, Aloha and Big Foot burgers, and parts of the Oysters and Plant Based areas. Several prices are partly hidden or hard to read, and some handwriting is hard to read. The Plant Based prices are ambiguous: $11.50 is printed by the heading, and $7.50 and $16.00 are printed near the Veggie Dog and Tempeh Reuben. The Veggie Burger and Tempeh Reuben prices could not be matched with certainty. The Sides prices are partly obscured by reflections. The Cheese Burger price is partly hidden.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 18.347267791978084,
+ "cost_usd": 0.04269,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3520,
+ "completion_tokens": 3565,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793369353-hZ5N1qUpl9uK8qiOMKUw",
+ "rep": 2
+}

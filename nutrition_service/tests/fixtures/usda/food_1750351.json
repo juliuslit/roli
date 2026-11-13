@@ -1,0 +1,355 @@
+{
+  "fdcId": 1750351,
+  "description": "Oil, olive, extra light",
+  "publicationDate": "4/28/2021",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 1,
+        "code": "A",
+        "description": "Analytical",
+        "foodNutrientSource": {
+          "id": 1,
+          "code": "1",
+          "description": "Analytical or derived from analytical"
+        }
+      },
+      "id": 21114983,
+      "amount": 15.82,
+      "dataPoints": 8,
+      "max": 18.13,
+      "min": 14.3,
+      "median": 15.56,
+      "minYearAcquired": 2020,
+      "nutrientAnalysisDetails": [
+        {
+          "subSampleId": 1755849,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 1750599,
+              "purchaseDate": "5/28/2020",
+              "storeCity": "(Online Purchase)",
+              "storeState": "MD",
+              "packerCity": "Lyndhurst",
+              "packerState": "NJ"
+            }
+          ],
+          "amount": 15.58,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 1755880,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 1750601,
+              "purchaseDate": "5/28/2020",
+              "storeCity": "(Online Purchase)",
+              "storeState": "MD",
+              "packerCity": "Dallas",
+              "packerState": "TX"
+            }
+          ],
+          "amount": 14.71,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 1755978,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 1750603,
+              "purchaseDate": "5/28/2020",
+              "storeCity": "(Online Purchase)",
+              "storeState": "MD",
+              "packerCity": "Seattle",
+              "packerState": "WA"
+            }
+          ],
+          "amount": 15.53,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 1756049,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 1750605,
+              "purchaseDate": "5/28/2020",
+              "storeCity": "(Online Purchase)",
+              "storeState": "MD",
+              "packerCity": "Baltimore",
+              "packerState": "MD"
+            }
+          ],
+          "amount": 14.295,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 1756118,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 1750607,
+              "purchaseDate": "5/29/2020",
+              "storeCity": "(Online Purchase)",
+              "storeState": "MD",
+              "packerCity": "Dallas",
+              "packerState": "TX"
+            }
+          ],
+          "amount": 18.13,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 1756236,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 1750609,
+              "purchaseDate": "5/29/2020",
+              "storeCity": "(Online Purchase)",
+              "storeState": "MD",
+              "packerCity": "Minneapolis",
+              "packerState": "MN"
+            }
+          ],
+          "amount": 15.6,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 1756317,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 1750611,
+              "purchaseDate": "6/1/2020",
+              "storeCity": "(Online Purchase)",
+              "storeState": "MD",
+              "packerCity": "Bentonville",
+              "packerState": "AR"
+            }
+          ],
+          "amount": 17.21,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 1756385,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 1750613,
+              "purchaseDate": "6/2/2020",
+              "storeCity": "Columbia",
+              "storeState": "MD",
+              "packerCity": " Eden Prairie",
+              "packerState": "MN"
+            }
+          ],
+          "amount": 15.5,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        }
+      ]
+    }
+  ],
+  "dataType": "Foundation",
+  "foodClass": "FinalFood",
+  "inputFoods": [
+    {
+      "id": 103482,
+      "foodDescription": "OIL, OLIVE, EXTRA LIGHT",
+      "inputFood": {
+        "fdcId": 1750614,
+        "description": "OIL, OLIVE, EXTRA LIGHT",
+        "publicationDate": "4/23/2021",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 103488,
+      "foodDescription": "OIL, OLIVE, EXTRA LIGHT",
+      "inputFood": {
+        "fdcId": 1750610,
+        "description": "OIL, OLIVE, EXTRA LIGHT",
+        "publicationDate": "4/23/2021",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 103491,
+      "foodDescription": "OIL, OLIVE, EXTRA LIGHT",
+      "inputFood": {
+        "fdcId": 1750612,
+        "description": "OIL, OLIVE, EXTRA LIGHT",
+        "publicationDate": "4/23/2021",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 103507,
+      "foodDescription": "OIL, OLIVE, EXTRA LIGHT",
+      "inputFood": {
+        "fdcId": 1750600,
+        "description": "OIL, OLIVE, EXTRA LIGHT",
+        "publicationDate": "4/23/2021",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 103514,
+      "foodDescription": "OIL, OLIVE, EXTRA LIGHT",
+      "inputFood": {
+        "fdcId": 1750606,
+        "description": "OIL, OLIVE, EXTRA LIGHT",
+        "publicationDate": "4/23/2021",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 103517,
+      "foodDescription": "OIL, OLIVE, EXTRA LIGHT",
+      "inputFood": {
+        "fdcId": 1750608,
+        "description": "OIL, OLIVE, EXTRA LIGHT",
+        "publicationDate": "4/23/2021",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 103520,
+      "foodDescription": "OIL, OLIVE, EXTRA LIGHT",
+      "inputFood": {
+        "fdcId": 1750602,
+        "description": "OIL, OLIVE, EXTRA LIGHT",
+        "publicationDate": "4/23/2021",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    },
+    {
+      "id": 103523,
+      "foodDescription": "OIL, OLIVE, EXTRA LIGHT",
+      "inputFood": {
+        "fdcId": 1750604,
+        "description": "OIL, OLIVE, EXTRA LIGHT",
+        "publicationDate": "4/23/2021",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 4,
+          "code": "0400",
+          "description": "Fats and Oils"
+        }
+      }
+    }
+  ],
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 22778,
+      "proteinValue": 4.0,
+      "fatValue": 8.84,
+      "carbohydrateValue": 4.0,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    }
+  ],
+  "ndbNumber": 100258,
+  "isHistoricalReference": false,
+  "foodCategory": {
+    "id": 4,
+    "code": "0400",
+    "description": "Fats and Oils"
+  }
+}

@@ -1,0 +1,90 @@
+{
+"readable": "yes",
+"problems": "",
+"items": [
+{
+"section": "",
+"category": "food",
+"name": "Little Lou",
+"description": "griddled onion burger, sauce, pickles, american",
+"price": "6",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "food",
+"name": "BIG Lou",
+"description": "double griddled onion burger, sauce, pickles, american",
+"price": "9",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "food",
+"name": "City Lou",
+"description": "burger, american, pickles, lettuce, early girl tomatoes, onion",
+"price": "7",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "food",
+"name": "KIDS",
+"description": "burger, american cheese",
+"price": "5",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "food",
+"name": "IMPOSSIBLE",
+"description": "vegan patty, american pickles, lettuce, tomato, sauce, onion",
+"price": "9",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "food",
+"name": "FRENCH FRIES",
+"description": "",
+"price": "4",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "",
+"category": "other",
+"name": "COMING SOON... MILKSHAKES",
+"description": "",
+"price": "",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+}
+]
+}

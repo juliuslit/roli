@@ -1,0 +1,78 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9024390243902439,
+ "expected_items": 41,
+ "other_set_aside": 8,
+ "found_items": 37,
+ "joined_found": 3,
+ "unmatched_expected_names": [
+  "Shoestring Potatoes (Order)",
+  "Coca-Cola",
+  "Mid-Nite Special",
+  "Grillburger"
+ ],
+ "invented": 2,
+ "invented_names": [
+  "FUDGE CHOCOLATE",
+  "OUR DELICIOUS HAMBURGER with MELTED CHEESE"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 4,
+ "garbled_names": [
+  "Shredded Potatoes (Chips) ~ Shoestring Potatoes (Order) (52%)",
+  "Cocoa ~ Coca-Cola (56%)",
+  "BIG NITE SPECIAL ~ Mid-Nite Special (88%)",
+  "GRILLED BURGER ~ Grillburger (79%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.6486486486486487,
+ "price_wrong_names": [
+  "BACON AND EGG: price '25c' vs key '30c'",
+  "GRILLED CHEESE: price '20c' vs key ''",
+  "HALF MOON PEACH: price '' vs key '10c'",
+  "HALF MOON APPLE: price '' vs key '10c'",
+  "OTHER DELICIOUS BAKERY PIES: price '' vs key '10c'",
+  "HAMBURGER STEAK PLATE: price '50c' vs key '55c'",
+  "No. 1: price '20c' vs key '35c'",
+  "No. 2: price '25c' vs key '35c'",
+  "No. 3: price '40c' vs key '45c'",
+  "No. 4: price '40c' vs key '45c'",
+  "BACON & TOMATO: price '20c' vs key '25c'",
+  "OUR SPECIAL STEAK PLATE: price '50c' vs key '65c'",
+  "OUR HOMEMADE PIES: price '' vs key '10c'"
+ ],
+ "descriptions_right": 0.15,
+ "descriptions_checked": 20,
+ "tags_right": 1.0,
+ "portion_right": 0.8108108108108109,
+ "has_choice_right": 0.8648648648648649,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 19,
+   "total": 43,
+   "share_wrong": 0.4418604651162791
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is a tri-fold layout. The left panel is fully readable. The middle panel is readable but slightly angled. The right panel is readable but the text is smaller and slightly less sharp. No lines are cut off by the edge of the photo.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 26.979335832991637,
+ "cost_usd": 0.0033724,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 3124,
+ "completion_tokens": 3488,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793377630-8V5NQOd6QOpyUnhnagjp"
+}

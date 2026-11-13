@@ -1,0 +1,50 @@
+{
+ "photo": "03",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 18,
+ "found_items": 18,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 1,
+ "invented_names": [
+  "FLOUR+WATER PASTA COOKBOOK"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 18,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 19,
+   "share_wrong": 0.05263157894736842
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "The menu is a printed card photographed at an angle; small descriptive text is faint but readable. Other menus (drinks, beer list) are partly visible at the edges and were ignored.",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 7.124603333999403,
+ "cost_usd": 0.0013784,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3794,
+ "completion_tokens": 1998,
+ "generation_id": "gen-1793299553-6fn1Y7Sv0LgwXwe9LqbO",
+ "rep": 1
+}

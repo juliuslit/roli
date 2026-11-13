@@ -1,0 +1,33 @@
+anthropic/claude-haiku-5.5 x v2 x temperature 0: 50 answers, $0.10  [scoring_rules.md interpretations 1-9 (2026-10-29)]
+
+[as_written] passes: False
+  dishes found avg 85.2%  min photo 0%  by run {1: 83.5%, 2: 86.9%}
+  invented by run {1: 37, 2: 11}  prices 90.6%  descriptions 87.8%  format 100.0%
+  partly caught {1: '6/7', 2: '7/7'}  false alarms {1: 3, 2: 4}  speed 11 s  cost 0.19 c/photo
+  garbled 23  groupings 10  found via joined text 22  tokens in/out avg 3444/3184
+    FAIL  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  3 prices >=95%
+    FAIL  4 descriptions >=90%
+    PASS  6 format >=98%
+    FAIL  7 all partly photos caught, both runs
+    FAIL  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+[photo_17_set_aside] passes: False
+  dishes found avg 88.3%  min photo 0%  by run {1: 86.5%, 2: 90.2%}
+  invented by run {1: 36, 2: 11}  prices 92.2%  descriptions 90.3%  format 100.0%
+  partly caught {1: '5/6', 2: '6/6'}  false alarms {1: 3, 2: 4}  speed 11 s  cost 0.19 c/photo
+  garbled 15  groupings 9  found via joined text 20  tokens in/out avg 3459/3203
+    FAIL  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  3 prices >=95%
+    PASS  4 descriptions >=90%
+    PASS  6 format >=98%
+    FAIL  7 all partly photos caught, both runs
+    FAIL  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+check list: 14 medium/low key items -> /Users/juliuslitinskas/projects/roli/results/full_2026-10-29_1436_anthropic_claude-haiku-5.5_v2_t0/check_list.csv

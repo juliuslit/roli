@@ -1,0 +1,59 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "code fence removed (interpretation 18)",
+ "fenced": 1,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 41,
+ "other_set_aside": 0,
+ "found_items": 41,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9512195121951219,
+ "price_wrong_names": [
+  "GRILLED CHEESE: price '15c' vs key ''",
+  "No. 2: price '40c' vs key '35c'"
+ ],
+ "descriptions_right": 0.8181818181818182,
+ "descriptions_checked": 22,
+ "tags_right": 1.0,
+ "portion_right": 0.8536585365853658,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 34,
+   "share_wrong": 0.029411764705882353
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 7,
+   "share_wrong": 0.14285714285714285
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The photo is taken from a distance, making small text faint and low resolution.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 17.81457429099828,
+ "cost_usd": 0.0131925,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 2975,
+ "completion_tokens": 2923,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793987047-BpK4rJUWWnM8NbLnrrcy"
+}

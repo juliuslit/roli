@@ -1,0 +1,77 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.3333333333333333,
+ "expected_items": 24,
+ "found_items": 8,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Amalfi",
+  "Wafer / Masala Papad / Boiled Eggs",
+  "Garlic Toast / Green Salad",
+  "French Fries / Hash Brown (6 pcs)",
+  "Cheese Cherry Pineapple Stick",
+  "Onion Rings / Cheese Balls (Schezwan)",
+  "Chilly Cheese Toast",
+  "Cutlet & Fries (Veg / Chicken)",
+  "Koliwada (Paneer / Prawns)",
+  "Mondy's Steak Boti",
+  "Masala Omelette with French Fries",
+  "Kheema Pao / Kheema Gotala",
+  "Extra Sauce",
+  "Chicken Tandoori (Half / Full)",
+  "Mixed Tandoor Platter",
+  "Tandoor Roti"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 2,
+ "cut_off_names": [
+  "Achari Gobi Tikka / Baby Corn Tikka",
+  "Paneer Tikka / Malai / Achari"
+ ],
+ "garbled": 1,
+ "garbled_names": [
+  "Amain ~ Amalfi (50%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.875,
+ "price_wrong_names": [
+  "Roast Chicken: price '' vs key '590'"
+ ],
+ "descriptions_right": 0.3333333333333333,
+ "descriptions_checked": 6,
+ "tags_right": 0.125,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 4,
+   "share_wrong": 0.25
+  },
+  "low": {
+   "wrong": 3,
+   "total": 7,
+   "share_wrong": 0.42857142857142855
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The photo shows a table with two salt/pepper shakers covering part of the menu. Only the lower-left continental menu column and parts of the right-hand tandoor and yellow sections are visible; much of the menu is hidden behind the shakers or cut off at the edges, and the small print is hard to read. Only items whose names are clearly legible are listed; the rest is omitted.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 7.062102666997816,
+ "cost_usd": 0.00093,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2700,
+ "completion_tokens": 1320,
+ "generation_id": "gen-1793298620-10z1llEixwfxQCltAq0V"
+}

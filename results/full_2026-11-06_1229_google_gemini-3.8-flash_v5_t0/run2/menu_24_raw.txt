@@ -1,0 +1,9 @@
+{"readable": "partly", "problems": "Right side cut off, prices cut off, and bottom/top partially cut off", "items": [
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEST BEEF", "description": "", "price": "6 74", "tags": "", "portion": "REG", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF SUPREME", "description": "", "price": "7 44", "tags": "", "portion": "", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BACON & CHEESE", "description": "", "price": "7 84", "tags": "", "portion": "", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF & CHEDDAR", "description": "", "price": "7 3", "tags": "", "portion": "", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BAC. & CHEDDAR", "description": "", "price": "7 8", "tags": "", "portion": "", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "FRENCH DIP", "description": "", "price": "7 35", "tags": "", "portion": "", "confidence": "high"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "W/CHEDDAR", "description": "", "price": "7 9", "tags": "", "portion": "", "confidence": "medium"}
+]}

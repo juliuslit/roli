@@ -1,0 +1,158 @@
+{
+  "fdcId": 790577,
+  "description": "Onions, red, raw",
+  "publicationDate": "4/1/2020",
+  "foodNutrients": [],
+  "foodPortions": [
+    {
+      "id": 234609,
+      "dataPoints": 30,
+      "gramWeight": 197.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "modifier": "Edible",
+      "minDateAcquired": "11/26/2019",
+      "measureUnit": {
+        "id": 1120,
+        "name": "Onion",
+        "abbreviation": "Onion"
+      },
+      "minYearAcquired": 2019
+    },
+    {
+      "id": 312813,
+      "dataPoints": 0,
+      "gramWeight": 85.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "measureUnit": {
+        "id": 1121,
+        "name": "RACC",
+        "abbreviation": "RACC"
+      }
+    }
+  ],
+  "dataType": "Foundation",
+  "foodClass": "FinalFood",
+  "scientificName": "Allium cepa",
+  "inputFoods": [
+    {
+      "id": 78253,
+      "foodDescription": "ONIONS, RED",
+      "inputFood": {
+        "fdcId": 790555,
+        "description": "ONIONS, RED",
+        "publicationDate": "4/1/2020",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 78254,
+      "foodDescription": "ONIONS, RED",
+      "inputFood": {
+        "fdcId": 790566,
+        "description": "ONIONS, RED",
+        "publicationDate": "4/1/2020",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 78250,
+      "foodDescription": "ONIONS, RED",
+      "inputFood": {
+        "fdcId": 790520,
+        "description": "ONIONS, RED",
+        "publicationDate": "4/1/2020",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 78252,
+      "foodDescription": "ONIONS, RED",
+      "inputFood": {
+        "fdcId": 790543,
+        "description": "ONIONS, RED",
+        "publicationDate": "4/1/2020",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 78251,
+      "foodDescription": "ONIONS, RED",
+      "inputFood": {
+        "fdcId": 790531,
+        "description": "ONIONS, RED",
+        "publicationDate": "4/1/2020",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 78249,
+      "foodDescription": "ONIONS, RED",
+      "inputFood": {
+        "fdcId": 790509,
+        "description": "ONIONS, RED",
+        "publicationDate": "4/1/2020",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    }
+  ],
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [],
+  "ndbNumber": 100252,
+  "isHistoricalReference": false,
+  "foodCategory": {
+    "id": 11,
+    "code": "1100",
+    "description": "Vegetables and Vegetable Products"
+  }
+}

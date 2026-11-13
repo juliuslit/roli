@@ -1,0 +1,26 @@
+file,expected_readable,items,cut_off_lines_left_out,medium_confidence_items,low_confidence_items
+menu_01_own_zuni_cafe_sf.JPG,yes,71,,,
+menu_02_own_IMG_5181.jpg,partly,22,,,
+menu_03_own_IMG_5185.jpg,yes,19,,,
+menu_04_own_IMG_5186.jpg,yes,8,,,
+menu_05_ren_kitchen_uk_printed_long.jpg,yes,68,,,
+menu_06_pizzaface_uk_printed_spread.jpg,yes,91,,,
+menu_07_cafe_rust_uk_printed_kraft.jpg,yes,46,,,
+menu_08_greyhound_pub_uk_printed.jpg,yes,38,,,
+menu_09_the_shed_breakfast_uk_printed.jpg,yes,15,,,
+menu_10_alexs_kitchen_indochinese_dense.jpg,partly,157,,,Diced Fish (Spicy); Mandarin Fish; Sichuan Fish; Apollo Fish; Pepper Fish
+menu_11_mothers_tacos_us_printed_dense.jpg,yes,31,,,
+menu_12_hard_shadow_dyke_road_cafe.jpg,yes,46,,,
+menu_13_hard_obstructed_cafe_mondegar.jpg,partly,24,Pollo Alla Pepe / Fr...; Achari Gobi Tikka / Baby Corn Ti...; Paneer Tikka / Malai / Achari / S...; Chicken Tikka / Malai / Reshm...; Chicken Sheek / Achari / Tang...; Fish Tikka / Achari / Kalami...; King Prawns Tikka / Harya...; Tandoor Naan / Butter N...; Butter Naan / Garlic N...,Wafer / Masala Papad / Boiled Eggs; Garlic Toast / Green Salad; French Fries / Hash Brown (6 pcs); Cheese Cherry Pineapple Stick; Onion Rings / Cheese Balls (Schezwan); Chilly Cheese Toast; Cutlet & Fries (Veg / Chicken); Koliwada (Paneer / Prawns); Mondy's Steak Boti; Masala Omelette with French Fries; Kheema Pao / Kheema Gotala; Extra Sauce,
+menu_14_hard_dim_gaggan_tasting.jpg,yes,17,,,
+menu_15_hard_glare_peg_house_chalkboard.jpg,partly,44,,Ortega Burger; Aloha Burger; Brie,Aloha
+menu_16_mi_pueblo_us_printed_dense.jpg,partly,14,...HILE COLORADO (Chile Colorado); ...ROZ CON POLLO (Arroz con Pollo),,POLLO FUNDIDO; TACOS AL CARBON
+menu_17_duck_house_takeout_printed_wall.jpg,partly,183,...occoli w/ Garlic Sauce; ...uliflower w/ Black Bean Sauce; ...r-fried Shredded Potato; ...ceed A Choy w/ Dried Fish & Black Bean Sauce; ...oy (A Choy); ...Pea with Garlic Sauce; ...Pea Leaf with Garlic Sauce,Hot & Sour Soup; Egg Flower Soup; Sliced Beef in Hot & Spicy Gravy; Soft Tofu Beef; Stir-fried Beef w/ Cilantro; Stir-fried Beef w/ Green Onion; Mongolian Beef; Cumin Beef; Beef w/ Broccoli; Beef w/ Pickled Chili; Beef w/ Mixed Mushroom; Beef w/ Black Pepper Sauce; Beef w/ Green Bean; Beef w/ Snow Peas; Stir-fried Lamb w/ Cilantro; Stir-fried Lamb w/ Green Onion; Cumin Lamb; Lamb w/ Pickled Chili,Pork w/ Bamboo Shoots; Shredded Pork w/ Hot Garlic Sauce; Smoked Pork Belly w/ Leek; Smoked Pork Belly w/ Wood Ear Fungus and Leek; Pork Belly w/ Preserved Vegetables; Pan Fried Intestines; Intestines in Hot & Spicy Gravy; Intestines w/ Preserved Vegetable; Szechuan Style Pig Feet; House Special Garlic Pork Spareribs; Sweet & Sour Pork Spareribs
+menu_18_little_saint_printed_stand_dim.jpg,yes,17,,,
+menu_19_dwarf_grill_printed_card.jpg,yes,41,,,
+menu_20_little_lous_handwritten_kraft.jpg,yes,7,,,
+menu_21_the_block_handwritten_whiteboard.jpg,yes,8,,,
+menu_22_woodford_store_chalkboard.jpg,yes,7,,,
+menu_23_en_boardwalk_bistro_chalkboard.jpg,yes,10,,,
+menu_24_hard_partial_mr_bs_menu_board.jpg,partly,7,,,"Beef, Bac. & Cheddar; French Dip w/Cheddar"
+menu_25_hot_dougs_specials_board_printed.jpg,yes,10,,,

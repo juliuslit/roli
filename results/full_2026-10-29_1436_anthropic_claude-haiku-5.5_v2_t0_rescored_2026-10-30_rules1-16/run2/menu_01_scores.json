@@ -1,0 +1,62 @@
+{
+ "photo": "01",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 71,
+ "other_set_aside": 0,
+ "found_items": 71,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 1,
+ "invented_names": [
+  "Yuzu Lime"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 0.9577464788732394,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 13,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 55,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 1,
+   "total": 4,
+   "share_wrong": 0.25
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is shot at an angle with glare and a reflective background; the small print in the lower drinks section and the add-on row is faint. Some drink names and prices in the APERITIF and BEER columns are hard to read and may contain errors.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 22.412974500010023,
+ "cost_usd": 0.0038069,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3104,
+ "completion_tokens": 6993,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793299256-USrvZA6Xy5ZjXmwWfmgK",
+ "rep": 2
+}

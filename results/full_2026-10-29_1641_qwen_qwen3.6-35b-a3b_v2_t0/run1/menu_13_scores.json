@@ -1,0 +1,83 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.2916666666666667,
+ "expected_items": 24,
+ "found_items": 7,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "A.T.M. (Any Time Meal)",
+  "Malfatti Indiana",
+  "Amalfi",
+  "Wafer / Masala Papad / Boiled Eggs",
+  "Garlic Toast / Green Salad",
+  "French Fries / Hash Brown (6 pcs)",
+  "Cheese Cherry Pineapple Stick",
+  "Onion Rings / Cheese Balls (Schezwan)",
+  "Chilly Cheese Toast",
+  "Cutlet & Fries (Veg / Chicken)",
+  "Koliwada (Paneer / Prawns)",
+  "Mondy's Steak Boti",
+  "Masala Omelette with French Fries",
+  "Kheema Pao / Kheema Gotala",
+  "Extra Sauce",
+  "Aloo Tikka / Mushroom Tikka",
+  "Mixed Tandoor Platter"
+ ],
+ "invented": 3,
+ "invented_names": [
+  "Chicken Tikka / Malai / Achari / Sheek",
+  "Chicken Sheek / Achari / Tandoori",
+  "King Prawns / Haryali"
+ ],
+ "cut_off_listed": 3,
+ "cut_off_names": [
+  "Chicken Tikka / Malai / Reshmi",
+  "Fish Tikka / Achari / Kalami",
+  "Tandoor Naan / Butter Naan"
+ ],
+ "garbled": 3,
+ "garbled_names": [
+  "A.M. (Any Time Meal) ~ A.T.M. (Any Time Meal) (89%)",
+  "Malai Indiana ~ Malfatti Indiana (81%)",
+  "Anjali ~ Amalfi (50%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.0,
+ "descriptions_checked": 4,
+ "tags_right": 0.2857142857142857,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 3,
+   "total": 10,
+   "share_wrong": 0.3
+  },
+  "medium": {
+   "wrong": 6,
+   "total": 6,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is partially obscured by two salt and pepper shakers in the foreground. The left column (Continental Menu) is mostly readable but the bottom items are cut off. The right column (Tandoor Menu) is partially readable, with the top section (Starters) and bottom section (Accompaniments) partially cut off or obscured. Prices are visible but some are faint.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 68.67139550001593,
+ "cost_usd": 0.00159585,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 2421,
+ "completion_tokens": 1425,
+ "generation_id": "gen-1793308243-Nda29gJoWsNLkdd5ytjS"
+}

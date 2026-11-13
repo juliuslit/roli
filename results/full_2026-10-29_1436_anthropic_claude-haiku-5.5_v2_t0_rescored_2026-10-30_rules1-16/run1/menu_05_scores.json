@@ -1,0 +1,65 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9375,
+ "expected_items": 64,
+ "other_set_aside": 2,
+ "found_items": 60,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Ham and Cheese",
+  "Beans and Cheese",
+  "Barbecue Pulled Pork",
+  "Mediterranean roast vegetables (vegan)"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 2,
+ "grouping_names": [
+  "Smoked bacon, Sausage, Chorizo, Black pudding, Halloumi, Avocado, 2 Eggs -> ['Smoked bacon', 'Sausage', 'Chorizo', 'Black pudding', 'Halloumi', 'Avocado', '2 Eggs']",
+  "Field mushroom, Tomato, Hash Brown, Beans -> ['Field mushroom', 'Tomato', 'Hash Brown', 'Beans']"
+ ],
+ "prices_right": 0.9795918367346939,
+ "price_wrong_names": [
+  "ULTIMATE BREAKFAST SANDWICH: price '5.50 1 filling / 6.50 2 fillings / 7.50 3 fillings' vs key '1 filling 5.50 / 2 fillings 6.50 / 3 fillings 7.50'"
+ ],
+ "descriptions_right": 0.9642857142857143,
+ "descriptions_checked": 28,
+ "tags_right": 0.8163265306122449,
+ "portion_right": 0.7959183673469388,
+ "has_choice_right": 0.8979591836734694,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 41,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 3,
+   "total": 10,
+   "share_wrong": 0.3
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 17.989822625007946,
+ "cost_usd": 0.0034808,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3518,
+ "completion_tokens": 6258,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793299027-gFy1bjurVvnPRFWjbZLx",
+ "rep": 1
+}

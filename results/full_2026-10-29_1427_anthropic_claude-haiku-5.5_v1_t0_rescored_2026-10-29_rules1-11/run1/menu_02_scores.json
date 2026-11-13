@@ -1,0 +1,57 @@
+{
+ "photo": "02",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9545454545454546,
+ "expected_items": 22,
+ "found_items": 21,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Chicken for two roasted in the wood-fired brick oven; warm bread salad with scallions, garlic, bitter greens, dried currants, and pine nuts"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Chicken for two roasted in the wood-fired brick oven"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 15,
+   "share_wrong": 0.06666666666666667
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 7,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The bottom of the menu is cut off: the APERITIF, JUICE & SODA, WATER and COFFEE, TEA & COCOA sections are only partly visible and their items cannot be read, so they are not listed. The add-on row under the hamburger is small and partly unclear, so its prices are marked medium confidence. Superscript symbols after some names (e.g. 'Zuni Caesar salad', 'Yellowfin tuna', 'aïoli') are printed as footnote markers and are kept as they appear where clearly legible.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 8.847485666978173,
+ "cost_usd": 0.001584,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2700,
+ "completion_tokens": 2628,
+ "generation_id": "gen-1793298462-sn0S3HjEl80TfaJrGIBI",
+ "rep": 1
+}

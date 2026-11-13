@@ -1,0 +1,80 @@
+{
+  "fdcId": 171826,
+  "description": "Sauce, tartar, ready-to-serve",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 40,
+        "code": "FLC",
+        "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Claim on label/serving",
+        "foodNutrientSource": {
+          "id": 2,
+          "code": "4",
+          "description": "Calculated or imputed"
+        }
+      },
+      "id": 1644185,
+      "amount": 3.333,
+      "dataPoints": 0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 40,
+        "code": "FLC",
+        "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Claim on label/serving",
+        "foodNutrientSource": {
+          "id": 2,
+          "code": "4",
+          "description": "Calculated or imputed"
+        }
+      },
+      "id": 1644184,
+      "amount": 7.0,
+      "dataPoints": 0
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 89429,
+      "gramWeight": 30.0,
+      "sequenceNumber": 1,
+      "amount": 2.0,
+      "modifier": "tablespoons",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [],
+  "inputFoods": [],
+  "ndbNumber": 27049,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 6,
+    "code": "0600",
+    "description": "Soups, Sauces, and Gravies"
+  }
+}

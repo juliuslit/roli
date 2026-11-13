@@ -1,0 +1,62 @@
+{
+ "photo": "16",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 14,
+ "other_set_aside": 0,
+ "found_items": 14,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 2,
+ "cut_off_names": [
+  "CHILE COLORADO",
+  "ARROZ CON POLLO"
+ ],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9285714285714286,
+ "descriptions_checked": 14,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 10,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 3,
+   "share_wrong": 0.3333333333333333
+  },
+  "low": {
+   "wrong": 1,
+   "total": 3,
+   "share_wrong": 0.3333333333333333
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Left and right edges of the menu are cut off: 'CHILE VERDE' and 'CHILE COLORADO' and 'ARROZ CON POLLO' names are partly hidden at the left edge, and some right-column descriptions (Pollo Fundido, Tacos al Carbon) are cut off at the right edge. Items with cut-off names or descriptions are listed with reduced confidence where the name is readable. Section heading 'ENTREES' applies to all items; the bottom footer text is ignored.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 8.123483416973613,
+ "cost_usd": 0.0012011,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2286,
+ "completion_tokens": 1945,
+ "generation_id": "gen-1793298919-g9kyGzQLk6cn9xlviiZC",
+ "rep": 2
+}

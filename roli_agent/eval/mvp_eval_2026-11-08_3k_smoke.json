@@ -1,0 +1,422 @@
+{
+ "date": "2026-11-08",
+ "runs": [
+  {
+   "photo": "menu_test_set/telegram_1280/menu_03_own_IMG_5185.jpg",
+   "repeat": 1,
+   "run_id": "20261108-182826-6f5d42",
+   "status": "done",
+   "seconds": 316.5,
+   "timings": {
+    "read_menu": 0.0,
+    "estimate_dishes": 315.6,
+    "compare_and_rank": 0.011,
+    "total": 316.4
+   },
+   "totals": {
+    "dishes_on_menu": 19,
+    "dishes_candidates": 18,
+    "dishes_selected": 18,
+    "dishes_evaluated": 15,
+    "dishes_ranked": 8,
+    "dishes_unranked": 8,
+    "dishes_no_recipes": 2,
+    "dishes_error": 0,
+    "dishes_excluded": 1,
+    "dishes_skipped": 0,
+    "dishes_budget_stopped": 0,
+    "search_credits": 9,
+    "llm_calls": 84,
+    "llm_cost_usd": "0.263854",
+    "llm_cost_usd_actual": "0.263854",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 8,
+    "pages_fetched": 216,
+    "rate_limit_waits": 63,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 1,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.263854",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.263854",
+    "model_calls": 84,
+    "model_calls_priced_by_provider": 84,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 109550,
+    "completion_tokens": 48451,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 9,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "3.2293",
+     "search_credits": 215,
+     "runs": 38
+    },
+    "daily_after_this_run": {
+     "model_usd": "3.4931",
+     "search_credits": 224
+    },
+    "interruptions": [],
+    "topups": 9
+   },
+   "ranking": [
+    [
+     1,
+     "HEIRLOOM TOMATOES",
+     "1.770535",
+     "3.298624",
+     "close_call"
+    ],
+    [
+     2,
+     "BLUEFIN CRUDO",
+     "0.828445",
+     "11.30856355555555555555555556",
+     "close_call"
+    ],
+    [
+     3,
+     "TODAY'S RICOTTA",
+     "2.095875",
+     "18.931419",
+     "close_call"
+    ],
+    [
+     4,
+     "LITTLE GEM LETTUCES",
+     "4.317296",
+     "20.899005",
+     "close_call"
+    ],
+    [
+     5,
+     "KING SALMON",
+     "6.209218",
+     "20.463830",
+     "close_call"
+    ],
+    [
+     6,
+     "PORK CHOP",
+     "7.512585",
+     "27.924470",
+     "close_call"
+    ],
+    [
+     7,
+     "CORN CAPPELLETTI",
+     "3.547177",
+     "23.254690",
+     "close_call"
+    ],
+    [
+     8,
+     "KOSHIHIKARI ARANCINI",
+     "1.059901",
+     "30.394617",
+     "well_supported"
+    ]
+   ],
+   "unranked": [
+    [
+     "POLE BEANS",
+     "the estimate has no upper bound: 2 of 2 recipes have no upper bound (notquitenigella.com: miso bagna cauda (missing_gram"
+    ],
+    [
+     "PUTTANESCA",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (cilantroparsley.com: store bought pizza dough (miss"
+    ],
+    [
+     "MARGHERITA",
+     "the estimate has no upper bound: 3 of 4 recipes have no upper bound (life-in-the-lofthouse.com: for my best pizza dough "
+    ],
+    [
+     "ORECCHIETTE",
+     "the estimate has no upper bound: 3 of 3 recipes have no upper bound (aboutamom.com: chanterelle (missing_grams), wasabi "
+    ],
+    [
+     "DUCK TRIANGOLI",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "TALEGGIO SCARPINOCC",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (qbcucina.com: aceto balsamico (missing_grams))"
+    ],
+    [
+     "PAPPARDELLE",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (theyellowtable.com: lamb merguez ragu (missing_gram"
+    ],
+    [
+     "SALSICCIA BIANCA",
+     "our estimate disagrees with published figures for this kind of dish"
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "saved",
+   "errors": [],
+   "recommendation": "Among the 8 dishes I could estimate (18 tried; 10 had no usable estimate), lowest saturated fat first: 1) Heirloom Tomatoes, most plates about 1.9-3.1 g saturated fat per plate; 2) Bluefin Crudo, most plates 1.1-12 g; 3) Today'S Ricotta, most plates 3.1-11 g. These ranges overlap, so treat the order as a toss-up. Heirloom Tomatoes has no cholesterol in its ingredients. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 8,
+    "remaining_before": 3592,
+    "remaining_after": 3586,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 725,
+    "store_misses": 6,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-08T18:28:26+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-08T18:28:26+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-08T18:28:26+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 1
+   },
+   "flags": [
+    {
+     "recorded_at": "2026-11-08T18:33:43+00:00",
+     "status": "open",
+     "run": "20261108-182826-6f5d42",
+     "menu": "menu_03_own_IMG_5185.jpg",
+     "dish": "SALSICCIA BIANCA",
+     "dish_type": "pizza_neapolitan",
+     "card": "PR01",
+     "comparison": "per_plate",
+     "roli_middle": "42.196",
+     "published_low": "2.5",
+     "published_high": "21.2",
+     "direction": "above",
+     "independent_figures": 8,
+     "top_contributors": [
+      {
+       "line": "caciocavallo",
+       "sat_fat_g": "13.44",
+       "share_of_middle": "0.31"
+      },
+      {
+       "line": "butter",
+       "sat_fat_g": "10.34",
+       "share_of_middle": "0.24"
+      },
+      {
+       "line": "cooked italian sausage",
+       "sat_fat_g": "5.93",
+       "share_of_middle": "0.14"
+      }
+     ]
+    }
+   ],
+   "words": 73,
+   "menu_items": 19,
+   "dish_status": {
+    "TODAY'S RICOTTA": [
+     "evaluated",
+     "vegetable_starter",
+     4,
+     4,
+     28.9
+    ],
+    "BLUEFIN CRUDO": [
+     "evaluated",
+     "crudo_starter",
+     4,
+     6,
+     15.9
+    ],
+    "POLE BEANS": [
+     "evaluated",
+     "vegetable_starter",
+     5,
+     3,
+     68.6
+    ],
+    "LITTLE GEM LETTUCES": [
+     "evaluated",
+     "leaf_salad_starter",
+     6,
+     5,
+     118.9
+    ],
+    "KOSHIHIKARI ARANCINI": [
+     "evaluated",
+     "vegetable_starter",
+     6,
+     8,
+     53.5
+    ],
+    "HEIRLOOM TOMATOES": [
+     "evaluated",
+     "tomato_salad_starter",
+     4,
+     4,
+     78.2
+    ],
+    "PUTTANESCA": [
+     "evaluated",
+     "pizza_neapolitan",
+     4,
+     6,
+     58.5
+    ],
+    "SALSICCIA BIANCA": [
+     "flagged",
+     "pizza_neapolitan",
+     5,
+     8,
+     57.7
+    ],
+    "MARGHERITA": [
+     "evaluated",
+     "pizza_neapolitan",
+     4,
+     6,
+     14.9
+    ],
+    "CORN CAPPELLETTI": [
+     "evaluated",
+     "pasta_main",
+     2,
+     2,
+     37.2
+    ],
+    "SAFFRON SOPRESE": [
+     "no_recipes",
+     "pasta_main",
+     0,
+     0,
+     50.8
+    ],
+    "ORECCHIETTE": [
+     "evaluated",
+     "pasta_main",
+     5,
+     5,
+     22.0
+    ],
+    "DUCK TRIANGOLI": [
+     "evaluated",
+     "pasta_main",
+     1,
+     0,
+     65.2
+    ],
+    "TALEGGIO SCARPINOCC": [
+     "evaluated",
+     "pasta_main",
+     6,
+     2,
+     68.9
+    ],
+    "PAPPARDELLE": [
+     "evaluated",
+     "pasta_main",
+     8,
+     4,
+     108.9
+    ],
+    "KING SALMON": [
+     "evaluated",
+     "fish_main",
+     4,
+     8,
+     50.1
+    ],
+    "PORK CHOP": [
+     "evaluated",
+     "meat_main",
+     5,
+     8,
+     14.8
+    ],
+    "JOSEY BAKER SOURDOUGH": [
+     "no_recipes",
+     "side_bread",
+     0,
+     0,
+     0.1
+    ],
+    "FLOUR+WATER PASTA COOKBOOK": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "HEIRLOOM TOMATOES",
+     "1.770535",
+     "3.298624",
+     "0.000000",
+     "0.000000",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "BLUEFIN CRUDO",
+     "0.828445",
+     "11.30856355555555555555555556",
+     "31.160000",
+     "116.270000",
+     "close_call",
+     "bottarga (external evidence)"
+    ],
+    [
+     3,
+     "TODAY'S RICOTTA",
+     "2.095875",
+     "18.931419",
+     "12.952100",
+     "90.260741",
+     "close_call",
+     null
+    ]
+   ]
+  }
+ ],
+ "consistency": []
+}

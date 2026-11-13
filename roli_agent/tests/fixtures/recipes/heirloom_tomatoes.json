@@ -1,0 +1,1298 @@
+{
+ "menu_item": {
+  "name": "HEIRLOOM TOMATOES",
+  "description": "pluot, shiso, genovese basil, sourdough",
+  "section": "TO START",
+  "restaurant": ""
+ },
+ "queries": {
+  "open": "heirloom tomatoes recipe",
+  "structured_hosts": "heirloom tomatoes recipe pluot"
+ },
+ "stats": {
+  "searches": 2,
+  "search_credits": 2,
+  "hits_open": 10,
+  "hits_structured": 10,
+  "hits_after_url_dedup": 18,
+  "hits_in_both_modes": 0,
+  "blocked_hosts_skipped": 2,
+  "fetched": 12,
+  "fetch_ok": 10,
+  "fetch_from_cache": 10,
+  "robots_disallowed": 0,
+  "rate_limited": 0,
+  "http_errors": 2,
+  "extracted": 4,
+  "extracted_by": {
+   "none": 6,
+   "recipe_scrapers": 4
+  },
+  "content_duplicates": 0,
+  "distinct_recipes": 4,
+  "with_servings": 3,
+  "pct_lines_quantified": 47.5,
+  "pct_lines_grams_known": 5.1,
+  "recipes_with_all_lines_quantified": 1,
+  "seconds": 0.8
+ },
+ "recipes": [
+  {
+   "url": "https://cookingchew.com/heirloom-tomato-recipes.html",
+   "canonical_url": "https://cookingchew.com/heirloom-tomato-recipes.html",
+   "host": "cookingchew.com",
+   "title": "21 Heirloom Tomato Recipes",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:37+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "",
+   "servings": null,
+   "servings_note": "no yield stated",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "Heirloom Tomato Flatbread with Fried Basil",
+    "Heirloom Tomato Salad",
+    "Yellow Tomato Gazpacho Recipe: The Perfect Cold Soup for Summer",
+    "Heirloom Tomato and Feta Salad",
+    "Heirloom Tomato Salad w/ Homemade Croutons",
+    "Roasted Tomato & Pumpkin Seed Pesto Toasts",
+    "Best Heirloom Tomato Sauce Recipe",
+    "Bruschetta with Heirloom Tomatoes (Olives and Basil)",
+    "Heirloom Tomato Pie Recipe",
+    "Tabbouleh with Heirloom Tomatoes and Zucchini",
+    "Heirloom BLT Salad (with Coconut Bacon!)",
+    "Mathilde's Tomato Tart",
+    "Heirloom Tomato Stuffed Portobello Mushrooms with Simple Rarebit",
+    "Fresh Heirloom Tomato Soup with Cream",
+    "Heirloom Tomato Cornbread with Cheddar Cheese",
+    "Rustic Heirloom Tomato Pizza",
+    "Roasted Heirloom Tomatoes with Cod and Chorizo",
+    "Burrata Caprese Waffles",
+    "Roasted Cherry Tomato and Burrata Pasta",
+    "Baked Parmesan Basil Heirloom Tomatoes"
+   ],
+   "cooking_verbs": [],
+   "ingredients": [
+    {
+     "line": "Heirloom Tomato Flatbread with Fried Basil",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "heirloom tomato flatbread with fried basil",
+     "preparation_words": [],
+     "preparation_hint": "cooked",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Heirloom Tomato Salad",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "heirloom tomato salad",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Yellow Tomato Gazpacho Recipe: The Perfect Cold Soup for Summer",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "yellow tomato gazpacho recipe: the perfect cold soup for summer",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Heirloom Tomato and Feta Salad",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "heirloom tomato and feta salad",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Heirloom Tomato Salad w/ Homemade Croutons",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "heirloom tomato salad w/ homemade croutons",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Roasted Tomato & Pumpkin Seed Pesto Toasts",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "roasted tomato & pumpkin seed pesto toasts",
+     "preparation_words": [],
+     "preparation_hint": "cooked",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Best Heirloom Tomato Sauce Recipe",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "best heirloom tomato sauce recipe",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Bruschetta with Heirloom Tomatoes (Olives and Basil)",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "bruschetta with heirloom tomatoes",
+     "preparation_words": [
+      "Olives and Basil"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Heirloom Tomato Pie Recipe",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "heirloom tomato pie recipe",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Tabbouleh with Heirloom Tomatoes and Zucchini",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "tabbouleh with heirloom tomatoes and zucchini",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Heirloom BLT Salad (with Coconut Bacon!)",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "heirloom blt salad",
+     "preparation_words": [
+      "with Coconut Bacon!"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Mathilde's Tomato Tart",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "mathilde's tomato tart",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Heirloom Tomato Stuffed Portobello Mushrooms with Simple Rarebit",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "heirloom tomato stuffed portobello mushrooms with simple rarebit",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Fresh Heirloom Tomato Soup with Cream",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "fresh heirloom tomato soup with cream",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Heirloom Tomato Cornbread with Cheddar Cheese",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "heirloom tomato cornbread with cheddar cheese",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Rustic Heirloom Tomato Pizza",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "rustic heirloom tomato pizza",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Roasted Heirloom Tomatoes with Cod and Chorizo",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "roasted heirloom tomatoes with cod and chorizo",
+     "preparation_words": [],
+     "preparation_hint": "cooked",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Burrata Caprese Waffles",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "burrata caprese waffles",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Roasted Cherry Tomato and Burrata Pasta",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "roasted cherry tomato and burrata pasta",
+     "preparation_words": [],
+     "preparation_hint": "cooked",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Baked Parmesan Basil Heirloom Tomatoes",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "baked parmesan basil heirloom tomatoes",
+     "preparation_words": [],
+     "preparation_hint": "cooked",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    }
+   ],
+   "content_hash": "63aa9e04248bd8bd",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.thesophisticatedcaveman.com/heirloom-tomato-salad",
+   "canonical_url": "https://thesophisticatedcaveman.com/heirloom-tomato-salad",
+   "host": "thesophisticatedcaveman.com",
+   "title": "Heirloom Tomato Salad",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:37+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "6 servings",
+   "servings": "6",
+   "servings_note": "parsed from '6 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1/4 cup extra virgin olive oil",
+    "2 tablespoons white balsamic vinegar",
+    "1/2 teaspoon sea salt",
+    "1/4 teaspoon freshly ground black pepper",
+    "2 pounds heirloom tomatoes (sliced)",
+    "1 pint cherry tomatoes (halved)",
+    "1/2 cup red onion (thinly sliced)",
+    "1/2 cup fresh basil leaves (roughly chopped or torn)",
+    "2 tablespoons fresh mint (chopped)",
+    "1 tablespoon fresh oregano (chopped)"
+   ],
+   "cooking_verbs": [],
+   "ingredients": [
+    {
+     "line": "1/4 cup extra virgin olive oil",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 tablespoons white balsamic vinegar",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "white balsamic vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "29.57352956250",
+     "grams_reference": "1 US tbsp = 14.78676478125 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "1/2 teaspoon sea salt",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "sea salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/4 teaspoon freshly ground black pepper",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "freshly ground black pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 pounds heirloom tomatoes (sliced)",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "pounds",
+     "unit": "lb",
+     "unit_kind": "weight",
+     "name": "heirloom tomatoes",
+     "preparation_words": [
+      "sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "907.18474",
+     "grams_reference": "1 lb = 453.59237 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "1 pint cherry tomatoes (halved)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "pint",
+     "unit": "pint",
+     "unit_kind": "volume",
+     "name": "cherry tomatoes",
+     "preparation_words": [
+      "halved"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 cup red onion (thinly sliced)",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "red onion",
+     "preparation_words": [
+      "thinly sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 cup fresh basil leaves (roughly chopped or torn)",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "fresh basil leaves",
+     "preparation_words": [
+      "roughly chopped or torn"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 tablespoons fresh mint (chopped)",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "fresh mint",
+     "preparation_words": [
+      "chopped"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon fresh oregano (chopped)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "fresh oregano",
+     "preparation_words": [
+      "chopped"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "41d66675727587b9",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://holcombfarm.org/using-the-harvest-heirloom-tomatoes-and-cherry-tomatoes",
+   "canonical_url": "https://holcombfarm.org/using-the-harvest-heirloom-tomatoes-and-cherry-tomatoes",
+   "host": "holcombfarm.org",
+   "title": "Roasted Heirloom Tomato Soup with Smoked Paprika",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:37+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "- 2 pounds mixed heirloom tomatoes, cored and halved horizontally",
+    "- 4 tablespoons extra virgin olive oil",
+    "- 1 onion, sliced into three pieces",
+    "- 4 cloves garlic, unpeeled",
+    "- ½ teaspoon smoked paprika",
+    "- ½ teaspoon salt",
+    "- 1 teaspoon sherry vinegar"
+   ],
+   "cooking_verbs": [
+    "bake",
+    "smoked"
+   ],
+   "ingredients": [
+    {
+     "line": "- 2 pounds mixed heirloom tomatoes, cored and halved horizontally",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "- 2 pounds mixed heirloom tomatoes",
+     "preparation_words": [
+      "cored and halved horizontally"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "- 4 tablespoons extra virgin olive oil",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "- 4 tablespoons extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "- 1 onion, sliced into three pieces",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "- 1 onion",
+     "preparation_words": [
+      "sliced into three pieces"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "- 4 cloves garlic, unpeeled",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "- 4 cloves garlic",
+     "preparation_words": [
+      "unpeeled"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "- ½ teaspoon smoked paprika",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "- ½ teaspoon smoked paprika",
+     "preparation_words": [],
+     "preparation_hint": "cooked",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "- ½ teaspoon salt",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "- ½ teaspoon salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "- 1 teaspoon sherry vinegar",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "- 1 teaspoon sherry vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    }
+   ],
+   "content_hash": "de7d9a5ef99a23e1",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://cooking.nytimes.com/recipes/785874251-pluot-tomato-salad-with-suya-pistachio-crunch?eafs_enabled=false",
+   "canonical_url": "https://cooking.nytimes.com/recipes/785874251-pluot-tomato-salad-with-suya-pistachio-crunch?eafs_enabled=false",
+   "host": "cooking.nytimes.com",
+   "title": "Pluot-Tomato Salad With Suya Pistachio Crunch",
+   "found_by": [
+    "structured_hosts"
+   ],
+   "fetched_at": "2026-11-02T13:36:37+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "6 servings",
+   "servings": "6",
+   "servings_note": "parsed from '6 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "2 teaspoons ground ginger",
+    "½ teaspoon brown sugar",
+    "½ teaspoon ground cayenne",
+    "¼ teaspoon ground grains of paradise (see Tip) or black pepper",
+    "¼ teaspoon onion powder",
+    "¼ teaspoon garlic powder",
+    "½ teaspoon kosher salt (such as Diamond Crystal)",
+    "¾ cup shelled unsalted pistachios",
+    "1 ½ teaspoons extra-virgin olive oil",
+    "⅓ cup shelled unsalted pistachios",
+    "¼ cup heavy cream",
+    "2 tablespoons plain full-fat Greek yogurt",
+    "1 tablespoon extra-virgin olive oil",
+    "1 tablespoon lemon juice",
+    "1 teaspoon honey",
+    "¾ teaspoon kosher salt (such as Diamond Crystal)",
+    "3 large heirloom tomatoes, cut into pieces",
+    "2 large pluots, cut into pieces",
+    "Extra-virgin olive oil, for drizzling",
+    "Balsamic vinegar, for drizzling",
+    "Fresh basil or mint leaves or a combination, torn if large",
+    "Flaky salt, for sprinkling"
+   ],
+   "cooking_verbs": [
+    "bake"
+   ],
+   "ingredients": [
+    {
+     "line": "2 teaspoons ground ginger",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoons",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "ground ginger",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "½ teaspoon brown sugar",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "brown sugar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "½ teaspoon ground cayenne",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "ground cayenne",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¼ teaspoon ground grains of paradise (see Tip) or black pepper",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "ground grains of paradise or black pepper",
+     "preparation_words": [
+      "see Tip"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¼ teaspoon onion powder",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "onion powder",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¼ teaspoon garlic powder",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "garlic powder",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "½ teaspoon kosher salt (such as Diamond Crystal)",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "kosher salt",
+     "preparation_words": [
+      "such as Diamond Crystal"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¾ cup shelled unsalted pistachios",
+     "quantity_text": "3/4",
+     "quantity": "0.75",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "shelled unsalted pistachios",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 ½ teaspoons extra-virgin olive oil",
+     "quantity_text": "1 1/2",
+     "quantity": "1.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoons",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "extra-virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "⅓ cup shelled unsalted pistachios",
+     "quantity_text": "1/3",
+     "quantity": "0.3333333333333333333333333333",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "shelled unsalted pistachios",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¼ cup heavy cream",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "heavy cream",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 tablespoons plain full-fat Greek yogurt",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "plain full-fat greek yogurt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon extra-virgin olive oil",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "extra-virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon lemon juice",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "lemon juice",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "14.78676478125",
+     "grams_reference": "1 US tbsp = 14.78676478125 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "1 teaspoon honey",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "honey",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¾ teaspoon kosher salt (such as Diamond Crystal)",
+     "quantity_text": "3/4",
+     "quantity": "0.75",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "kosher salt",
+     "preparation_words": [
+      "such as Diamond Crystal"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 large heirloom tomatoes, cut into pieces",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "large",
+     "unit": "large",
+     "unit_kind": "count",
+     "name": "heirloom tomatoes",
+     "preparation_words": [
+      "cut into pieces"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 large pluots, cut into pieces",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "large",
+     "unit": "large",
+     "unit_kind": "count",
+     "name": "pluots",
+     "preparation_words": [
+      "cut into pieces"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Extra-virgin olive oil, for drizzling",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "extra-virgin olive oil",
+     "preparation_words": [
+      "for drizzling"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Balsamic vinegar, for drizzling",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "balsamic vinegar",
+     "preparation_words": [
+      "for drizzling"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Fresh basil or mint leaves or a combination, torn if large",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "fresh basil or mint leaves or a combination",
+     "preparation_words": [
+      "torn if large"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Flaky salt, for sprinkling",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "flaky salt",
+     "preparation_words": [
+      "for sprinkling"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    }
+   ],
+   "content_hash": "ecc96836473d4d83",
+   "duplicate_of": null,
+   "flags": []
+  }
+ ]
+}

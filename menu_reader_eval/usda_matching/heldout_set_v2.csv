@@ -1,0 +1,55 @@
+ingredient_text,menu_context,preparation_hint,expected_pattern,accepted_proxy_pattern,consequence,notes
+bottarga di muggine,BLUEFIN CRUDO,as_used,,"^Fish, (roe, mixed species|caviar)",high,cured grey-mullet roe; USDA has no bottarga; roe is a composition proxy (cholesterol-rich); unresolved also acceptable
+mirin,,as_used,,"^(Alcoholic beverage, (rice|wine)|Sugars)",medium,sweet rice wine; no USDA record; sake or cooking wine proxy has near-zero effect on both nutrients
+guanciale,PASTA,cooked,,"^Pork, cured, (bacon|salt pork)",high,cured pork jowl; bacon is the closest cured-pork proxy; saturated fat consequential
+pancetta,PASTA,cooked,,"^Pork, cured, bacon",high,
+prosciutto,,as_used,,"^Pork, cured, ham",high,USDA names a prosciutto record under cured ham (uncertain exact wording); any cured ham accepted
+'nduja,PIZZA,as_used,,"^(Sausage|Pork sausage|Pork, cured)",high,spreadable spicy pork sausage
+speck,,as_used,,"^Pork, cured, (ham|bacon)",high,smoked cured ham
+bresaola,,as_used,,"^Beef, cured, (dried|breakfast|pastrami)",high,air-dried beef
+lardo,,as_used,,"^(Pork, cured, salt pork|Pork, fresh, backfat|Lard)",high,cured pork back fat; all three proxies are nearly pure fat
+pecorino romano,,as_used,"^Cheese, romano",,high,direct record exists
+pecorino sardo,LITTLE GEM LETTUCES,as_used,,"^Cheese, (romano|parmesan)",high,
+grana padano,,as_used,,"^Cheese, parmesan",high,
+caciocavallo,PIZZA,as_used,,"^Cheese, (provolone|mozzarella)",high,stretched-curd cheese; provolone closest
+burrata,,as_used,,"^Cheese, mozzarella",high,mozzarella shell with cream; mozzarella understates fat
+stracciatella,,as_used,,"^(Cheese, mozzarella|Cream)",high,shredded mozzarella in cream
+taleggio,,as_used,,"^Cheese, (brie|camembert|limburger|fontina)",high,washed-rind soft cheese
+fontina,,as_used,"^Cheese, fontina",,high,direct record exists
+ricotta salata,,as_used,,"^Cheese, (ricotta|feta)",high,salted pressed ricotta
+gorgonzola,,as_used,,"^Cheese, blue",high,
+mascarpone,,as_used,,"^(Cheese, cream|Cream, (fluid, )?heavy)",high,
+crème fraîche,,as_used,,"^(Cream, sour|Sour cream|Cream, (fluid, )?heavy)",high,
+egg yolk,,raw,"^Egg, yolk, raw",,high,direct record exists
+duck fat,,as_used,"^Fat, duck",,high,direct record exists
+chicken livers,,raw,"^Chicken, liver, all classes, raw",,high,direct record exists
+colatura di alici,,as_used,,"^(Fish sauce|Sauce, fish|Fish, anchovy)",medium,anchovy drippings; fish sauce is the composition proxy
+salt cod,,as_used,"^Fish, cod, Atlantic, dried and salted",,medium,direct record exists
+octopus,,raw,"^Mollusks, octopus, common, raw",,medium,direct record exists
+squid ink,,as_used,,"^Mollusks, squid",low,no USDA record; unresolved is the honest answer
+anchovy fillets,,as_used,"^(Fish, anchovy, european, canned in oil|Anchovies, canned in olive oil)",,medium,
+shrimp,,raw,"^Crustaceans, shrimp, .*raw",,medium,
+scallops,,raw,"^Mollusks, scallop, .*raw",,medium,
+lamb loin,,raw,"^Lamb, .*loin.*raw",,medium,
+"foie gras (seared, fresh)",,as_used,,"^(Pate, goose liver|Goose, liver|Pate, liver)",high,"v2: wording made explicit (fresh/seared), label unchanged; canned pâté is a different preparation (see the new pâté row)"
+whole milk ricotta,,as_used,"^Cheese, ricotta, whole milk",,high,
+heavy cream,,as_used,"^Cream, (fluid, heavy whipping|heavy)",,high,
+coconut milk,,as_used,"^Nuts, coconut milk",,medium,
+ghee,,as_used,"^Butter oil, anhydrous","^Butter, (clarified|without salt|salted)",high,"v2: direct after verifying USDA 173412 'Butter oil, anhydrous' live (61.924 g saturated fat, 256 mg cholesterol per 100 g); USDA 171314 'Butter, Clarified butter (ghee)' also exists and should be added in v3 (see changelog)"
+chorizo,,cooked,"^(Chorizo|Sausage, (pork, )?chorizo)",,high,
+beef tallow,,as_used,"^Beef, tallow|^Fat, beef tallow",,high,
+bone marrow,,cooked,,"^Beef, variety meats",high,no clear USDA record; unresolved acceptable
+pâté de foie gras (canned),,as_used,"^Pate de foie gras, canned","^(Pate, (goose|chicken) liver|Pate, liver)",high,"v2 addition: the canned pâté record is a direct match for pâté, not for fresh foie gras"
+bottarga di tonno,,as_used,,"^Fish, (roe, mixed species|caviar)",high,v2 addition: cured tuna roe; roe/caviar composition proxy only; unresolved acceptable
+marsala wine,,as_used,,"^Alcoholic beverage, wine, (dessert|table|cooking)",medium,v2 addition: fortified wine; any wine record is nutritionally equivalent for these nutrients
+shaoxing wine,,as_used,,"^Alcoholic beverage, (rice|wine)",medium,v2 addition
+dry vermouth,,as_used,,"^Alcoholic beverage, wine",medium,v2 addition
+coppa,,as_used,,"^Pork, cured, (ham|bacon|salt pork)|^(Salami|Sausage)",high,"v2 addition: cured pork shoulder; a cured-pork record, never fresh pork"
+soppressata,,as_used,^Salami,^(Sausage|Pepperoni),high,v2 addition: dry-cured salami
+mortadella,,as_used,^Mortadella,^(Bologna|Sausage),high,v2 addition
+lardons,,cooked,,"^Pork, cured, bacon, .*cooked",high,v2 addition: cooked cured pork belly strips
+pecorino toscano,,as_used,,"^Cheese, (romano|parmesan|fontina)",high,v2 addition: semi-hard sheep cheese
+asiago,,as_used,,"^Cheese, (parmesan|provolone|fontina|swiss)",high,v2 addition
+scamorza,,as_used,,"^Cheese, (provolone|mozzarella)",high,"v2 addition: stretched-curd, often smoked"
+robiola,,as_used,,"^Cheese, (cream|brie|ricotta)",high,v2 addition: soft fresh cheese
+manchego,,as_used,,"^Cheese, (parmesan|romano|swiss|cheddar)",high,v2 addition: aged sheep cheese

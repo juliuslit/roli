@@ -1,0 +1,66 @@
+{
+ "photo": "12",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9772727272727273,
+ "expected_items": 44,
+ "other_set_aside": 2,
+ "found_items": 43,
+ "joined_found": 2,
+ "unmatched_expected_names": [
+  "Mozarella Pesto"
+ ],
+ "invented": 4,
+ "invented_names": [
+  "Feta",
+  "Chicken Breast",
+  "Halloumi",
+  "Falafel"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 2,
+ "grouping_names": [
+  "parent Childs Half Sandwich -> ['Ham sandwich', 'Cheese Sandwich', 'Cheese & Ham Sandwich', 'Cucumber & Hummus Sandwich (VE)']",
+  "parent Half Jacket Potato -> ['Cheese & Beans', 'Tuna Mayo']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.8571428571428571,
+ "descriptions_checked": 7,
+ "tags_right": 0.972972972972973,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 34,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 4,
+   "total": 7,
+   "share_wrong": 0.5714285714285714
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "Photo is shadowed on the left-to-right diagonal but all lines are legible. Under WARMING BUDDHA BOWL the option list (Pulled Pork, Feta, Chicken Breast, Halloumi, Falafel) is treated as choice items with shared price 10.55 at the heading level. Items under WRAPS and CHILDREN'S have no per-line price except where shown.",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 13.650611292017857,
+ "cost_usd": 0.0027561,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 4186,
+ "completion_tokens": 4675,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793378164-YqaNgtw1Zd1eRTXluSJV"
+}

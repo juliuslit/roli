@@ -1,0 +1,1911 @@
+{
+ "menu_item": {
+  "name": "MARGHERITA",
+  "description": "tomato, fior di latte, basil",
+  "section": "PIZZA",
+  "restaurant": ""
+ },
+ "queries": {
+  "open": "margherita pizza recipe",
+  "structured_hosts": "margherita pizza recipe tomato"
+ },
+ "stats": {
+  "searches": 2,
+  "search_credits": 2,
+  "hits_open": 10,
+  "hits_structured": 10,
+  "hits_after_url_dedup": 17,
+  "hits_in_both_modes": 1,
+  "blocked_hosts_skipped": 2,
+  "fetched": 12,
+  "fetch_ok": 10,
+  "fetch_from_cache": 1,
+  "robots_disallowed": 0,
+  "rate_limited": 0,
+  "http_errors": 2,
+  "extracted": 9,
+  "extracted_by": {
+   "recipe_scrapers": 9,
+   "none": 1
+  },
+  "content_duplicates": 1,
+  "distinct_recipes": 8,
+  "with_servings": 7,
+  "pct_lines_quantified": 85.1,
+  "pct_lines_grams_known": 16.2,
+  "recipes_with_all_lines_quantified": 2,
+  "seconds": 10.1
+ },
+ "recipes": [
+  {
+   "url": "https://www.tasteofhome.com/recipes/margherita-pizza",
+   "canonical_url": "https://tasteofhome.com/recipes/margherita-pizza",
+   "host": "tasteofhome.com",
+   "title": "Margherita Pizza",
+   "found_by": [
+    "open",
+    "structured_hosts"
+   ],
+   "fetched_at": "2026-11-02T13:36:41+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "6 servings",
+   "servings": "6",
+   "servings_note": "parsed from '6 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "2 cups all-purpose flour",
+    "1 teaspoon sugar",
+    "1/2 teaspoon salt",
+    "1 package (1/4 ounce) quick-rise yeast",
+    "2/3 cup water",
+    "1/4 cup extra virgin olive oil",
+    "3/4 cup crushed San Marzano tomatoes",
+    "1 tablespoon extra virgin olive oil",
+    "1 teaspoon sugar",
+    "1 teaspoon dried oregano",
+    "1/2 teaspoon salt",
+    "1 garlic clove, minced",
+    "1/4 pound fresh sliced mozzarella cheese",
+    "1/4 cup fresh basil leaves"
+   ],
+   "cooking_verbs": [
+    "bake"
+   ],
+   "ingredients": [
+    {
+     "line": "2 cups all-purpose flour",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cups",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "all-purpose flour",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 teaspoon sugar",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "sugar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 teaspoon salt",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 package (1/4 ounce) quick-rise yeast",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "package quick-rise yeast",
+     "preparation_words": [
+      "1/4 ounce"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2/3 cup water",
+     "quantity_text": "2/3",
+     "quantity": "0.6666666666666666666666666667",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "water",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "157.7254910000000000000000000",
+     "grams_reference": "1 US cup = 236.5882365 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "1/4 cup extra virgin olive oil",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3/4 cup crushed San Marzano tomatoes",
+     "quantity_text": "3/4",
+     "quantity": "0.75",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "crushed san marzano tomatoes",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon extra virgin olive oil",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 teaspoon sugar",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "sugar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 teaspoon dried oregano",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "dried oregano",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 teaspoon salt",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 garlic clove, minced",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "garlic clove",
+     "preparation_words": [
+      "minced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/4 pound fresh sliced mozzarella cheese",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "pound",
+     "unit": "lb",
+     "unit_kind": "weight",
+     "name": "fresh sliced mozzarella cheese",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "113.3980925",
+     "grams_reference": "1 lb = 453.59237 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "1/4 cup fresh basil leaves",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "fresh basil leaves",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "73d5197f0103545d",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.kingarthurbaking.com/recipes/margherita-pizza-recipe",
+   "canonical_url": "https://kingarthurbaking.com/recipes/margherita-pizza-recipe",
+   "host": "kingarthurbaking.com",
+   "title": "Margherita Pizza",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:42+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "12 servings",
+   "servings": "12",
+   "servings_note": "parsed from '12 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "one 14.5-oz. can whole, peeled tomatoes, preferably San Marzano",
+    "3 tablespoons (38g) extra-virgin olive oil",
+    "2 garlic cloves, peeled",
+    "1 teaspoon table salt",
+    "1/2 teaspoon ground black pepper",
+    "2 cups (232g) King Arthur ‘00’ Pizza Flour, plus more for dusting",
+    "1/8 teaspoon instant yeast or active dry yeast",
+    "1/2 teaspoon granulated sugar",
+    "1 1/4 teaspoons (8g) table salt",
+    "3/4 cup (170g) water, lukewarm (105° to 115°F)",
+    "4 ounces (113g) mozzarella cheese, sliced thinly and torn into 1 1/2\" pieces (about 1 cup)",
+    "basil, sliced or torn"
+   ],
+   "cooking_verbs": [
+    "bake",
+    "charred",
+    "uncooked"
+   ],
+   "ingredients": [
+    {
+     "line": "one 14.5-oz. can whole, peeled tomatoes, preferably San Marzano",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "14.5-oz. can whole",
+     "preparation_words": [
+      "peeled tomatoes",
+      "preferably San Marzano"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 tablespoons (38g) extra-virgin olive oil",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "extra-virgin olive oil",
+     "preparation_words": [
+      "38g"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 garlic cloves, peeled",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "garlic cloves",
+     "preparation_words": [
+      "peeled"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 teaspoon table salt",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "table salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 teaspoon ground black pepper",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "ground black pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 cups (232g) King Arthur ‘00’ Pizza Flour, plus more for dusting",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cups",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "king arthur ‘00’ pizza flour",
+     "preparation_words": [
+      "232g",
+      "plus more for dusting"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/8 teaspoon instant yeast or active dry yeast",
+     "quantity_text": "1/8",
+     "quantity": "0.125",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "instant yeast or active dry yeast",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 teaspoon granulated sugar",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "granulated sugar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 1/4 teaspoons (8g) table salt",
+     "quantity_text": "1 1/4",
+     "quantity": "1.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoons",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "table salt",
+     "preparation_words": [
+      "8g"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3/4 cup (170g) water, lukewarm (105° to 115°F)",
+     "quantity_text": "3/4",
+     "quantity": "0.75",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "water",
+     "preparation_words": [
+      "170g",
+      "105° to 115°F",
+      "lukewarm"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "177.441177375",
+     "grams_reference": "1 US cup = 236.5882365 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "4 ounces (113g) mozzarella cheese, sliced thinly and torn into 1 1/2\" pieces (about 1 cup)",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ounces",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "mozzarella cheese",
+     "preparation_words": [
+      "113g",
+      "about 1 cup",
+      "sliced thinly and torn into 1 1/2\" pieces"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "113.398092500",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "basil, sliced or torn",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "basil",
+     "preparation_words": [
+      "sliced or torn"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    }
+   ],
+   "content_hash": "f63f2f24baed5580",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.easyanddelish.com/best-homemade-margherita-pizza-recipe",
+   "canonical_url": "https://easyanddelish.com/best-homemade-margherita-pizza-recipe",
+   "host": "easyanddelish.com",
+   "title": "Margherita Pizza Recipe",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:42+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "8 slices",
+   "servings": null,
+   "servings_note": "yield '8 slices' is not a serving count",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 cup self-rising flour",
+    "1 cup nonfat Greek yogurt",
+    "¼ cup canned San Marzano tomatoes, (blended to a tomato sauce consistency)",
+    "2 slices fresh mozzarella, (patted dry and cut into ½-inch (1.25 cm) pieces)",
+    "10 fresh basil leaves (– either whole or thinly cut into strips)"
+   ],
+   "cooking_verbs": [
+    "bake"
+   ],
+   "ingredients": [
+    {
+     "line": "1 cup self-rising flour",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "self-rising flour",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 cup nonfat Greek yogurt",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "nonfat greek yogurt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¼ cup canned San Marzano tomatoes, (blended to a tomato sauce consistency)",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "canned san marzano tomatoes",
+     "preparation_words": [
+      "blended to a tomato sauce consistency"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 slices fresh mozzarella, (patted dry and cut into ½-inch (1.25 cm) pieces)",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "slices",
+     "unit": "slice",
+     "unit_kind": "count",
+     "name": "fresh mozzarella",
+     "preparation_words": [
+      "patted dry and cut into 1/2-inch (1.25 cm",
+      "pieces)"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "10 fresh basil leaves (– either whole or thinly cut into strips)",
+     "quantity_text": "10",
+     "quantity": "10",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "fresh basil leaves",
+     "preparation_words": [
+      "– either whole or thinly cut into strips"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "d31f07601f78284b",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.abeautifulplate.com/the-best-homemade-margherita-pizza",
+   "canonical_url": "https://abeautifulplate.com/the-best-homemade-margherita-pizza",
+   "host": "abeautifulplate.com",
+   "title": "Best Homemade Margherita Pizza",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:42+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "2½ cups (300 g) unbleached all-purpose flour",
+    "1 teaspoon granulated sugar",
+    "½ teaspoon active dry yeast (or SAF instant yeast)",
+    "¾ teaspoon kosher salt",
+    "7 ounces (105°F to 115°F) warm water",
+    "1 tablespoon extra virgin olive oil",
+    "semolina and all-purpose flour (for dusting the pizza peel)",
+    "1 cup pureed or crushed canned San Marzano tomatoes (or canned Italian plum tomatoes)",
+    "2-3 fresh garlic cloves (grated with a microplane or pressed)",
+    "1 teaspoon extra virgin olive oil (plus more for drizzling)",
+    "2-3 large pinches of kosher salt (to taste)",
+    "¼ teaspoon freshly ground black pepper",
+    "2-3 tablespoons finely grated parmigiano-reggiano cheese (plus more for serving)",
+    "7 ounces fresh mozzarella cheese (not packed in water) (cut into ½-inch cubes)",
+    "5-6 large fresh basil leaves (plus more for garnishing)",
+    "dried red pepper flakes (optional)"
+   ],
+   "cooking_verbs": [
+    "bake",
+    "broil"
+   ],
+   "ingredients": [
+    {
+     "line": "2½ cups (300 g) unbleached all-purpose flour",
+     "quantity_text": "2 1/2",
+     "quantity": "2.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cups",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "unbleached all-purpose flour",
+     "preparation_words": [
+      "300 g"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 teaspoon granulated sugar",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "granulated sugar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "½ teaspoon active dry yeast (or SAF instant yeast)",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "active dry yeast",
+     "preparation_words": [
+      "or SAF instant yeast"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¾ teaspoon kosher salt",
+     "quantity_text": "3/4",
+     "quantity": "0.75",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "kosher salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "7 ounces (105°F to 115°F) warm water",
+     "quantity_text": "7",
+     "quantity": "7",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ounces",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "warm water",
+     "preparation_words": [
+      "105°F to 115°F"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "198.446661875",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "1 tablespoon extra virgin olive oil",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "semolina and all-purpose flour (for dusting the pizza peel)",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "semolina and all-purpose flour",
+     "preparation_words": [
+      "for dusting the pizza peel"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "1 cup pureed or crushed canned San Marzano tomatoes (or canned Italian plum tomatoes)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "pureed or crushed canned san marzano tomatoes",
+     "preparation_words": [
+      "or canned Italian plum tomatoes"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2-3 fresh garlic cloves (grated with a microplane or pressed)",
+     "quantity_text": "2-3",
+     "quantity": "2.5",
+     "quantity_low": "2",
+     "quantity_high": "3",
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "fresh garlic cloves",
+     "preparation_words": [
+      "grated with a microplane or pressed"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 teaspoon extra virgin olive oil (plus more for drizzling)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "extra virgin olive oil",
+     "preparation_words": [
+      "plus more for drizzling"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2-3 large pinches of kosher salt (to taste)",
+     "quantity_text": "2-3",
+     "quantity": "2.5",
+     "quantity_low": "2",
+     "quantity_high": "3",
+     "unit_raw": "large",
+     "unit": "large",
+     "unit_kind": "count",
+     "name": "pinches of kosher salt",
+     "preparation_words": [
+      "to taste"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¼ teaspoon freshly ground black pepper",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "freshly ground black pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2-3 tablespoons finely grated parmigiano-reggiano cheese (plus more for serving)",
+     "quantity_text": "2-3",
+     "quantity": "2.5",
+     "quantity_low": "2",
+     "quantity_high": "3",
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "finely grated parmigiano-reggiano cheese",
+     "preparation_words": [
+      "plus more for serving"
+     ],
+     "preparation_hint": "as_used",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "7 ounces fresh mozzarella cheese (not packed in water) (cut into ½-inch cubes)",
+     "quantity_text": "7",
+     "quantity": "7",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ounces",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "fresh mozzarella cheese",
+     "preparation_words": [
+      "not packed in water",
+      "cut into 1/2-inch cubes"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "198.446661875",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "5-6 large fresh basil leaves (plus more for garnishing)",
+     "quantity_text": "5-6",
+     "quantity": "5.5",
+     "quantity_low": "5",
+     "quantity_high": "6",
+     "unit_raw": "large",
+     "unit": "large",
+     "unit_kind": "count",
+     "name": "fresh basil leaves",
+     "preparation_words": [
+      "plus more for garnishing"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "dried red pepper flakes (optional)",
+     "quantity_text": "optional",
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "dried red pepper flakes",
+     "preparation_words": [
+      "optional"
+     ],
+     "preparation_hint": "as_used",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "vague_quantity"
+     ]
+    }
+   ],
+   "content_hash": "6773d08646d8bf58",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://bellyfull.net/margherita-pizza",
+   "canonical_url": "https://bellyfull.net/margherita-pizza",
+   "host": "bellyfull.net",
+   "title": "Easy Margherita Pizza",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:43+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "8 servings",
+   "servings": "8",
+   "servings_note": "parsed from '8 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 pound homemade pizza crust (½ a recipe of my homemade pizza dough)",
+    "2½ tablespoons extra virgin olive oil",
+    "½ cup marinara sauce",
+    "4 cloves garlic (minced)",
+    "12 ounces fresh ball mozzarella cheese (sliced into ¼-inch thick pieces)",
+    "3 Roma tomatoes (sliced)",
+    "6-7 large basil leaves (sliced into ribbons)",
+    "fresh shaved Parmesan",
+    "freshly ground black pepper"
+   ],
+   "cooking_verbs": [
+    "bake"
+   ],
+   "ingredients": [
+    {
+     "line": "1 pound homemade pizza crust (½ a recipe of my homemade pizza dough)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "pound",
+     "unit": "lb",
+     "unit_kind": "weight",
+     "name": "homemade pizza crust",
+     "preparation_words": [
+      "1/2 a recipe of my homemade pizza dough"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "453.59237",
+     "grams_reference": "1 lb = 453.59237 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "2½ tablespoons extra virgin olive oil",
+     "quantity_text": "2 1/2",
+     "quantity": "2.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "½ cup marinara sauce",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "marinara sauce",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "4 cloves garlic (minced)",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cloves",
+     "unit": "clove",
+     "unit_kind": "count",
+     "name": "garlic",
+     "preparation_words": [
+      "minced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "12 ounces fresh ball mozzarella cheese (sliced into ¼-inch thick pieces)",
+     "quantity_text": "12",
+     "quantity": "12",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ounces",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "fresh ball mozzarella cheese",
+     "preparation_words": [
+      "sliced into 1/4-inch thick pieces"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "340.194277500",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "3 Roma tomatoes (sliced)",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "roma tomatoes",
+     "preparation_words": [
+      "sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "6-7 large basil leaves (sliced into ribbons)",
+     "quantity_text": "6-7",
+     "quantity": "6.5",
+     "quantity_low": "6",
+     "quantity_high": "7",
+     "unit_raw": "large",
+     "unit": "large",
+     "unit_kind": "count",
+     "name": "basil leaves",
+     "preparation_words": [
+      "sliced into ribbons"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "fresh shaved Parmesan",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "fresh shaved parmesan",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "freshly ground black pepper",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "freshly ground black pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    }
+   ],
+   "content_hash": "6998e8fb720ef65a",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://bakingsteel.com/blogs/recipes/mastering-the-margherita-pizza-a-simple-step-by-step-guide",
+   "canonical_url": "https://bakingsteel.com/blogs/recipes/mastering-the-margherita-pizza-a-simple-step-by-step-guide",
+   "host": "bakingsteel.com",
+   "title": "The Perfect Margherita Pizza",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:45+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "1 serving",
+   "servings": "1",
+   "servings_note": "parsed from '1 serving'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 pizza dough ball (250g, preferably 72-hour cold ferment)",
+    "3 oz crushed tomatoes or pizza sauce",
+    "4 oz fresh mozzarella",
+    "Fresh basil leaves",
+    "Extra virgin olive oil",
+    "Semolina flour for the peel"
+   ],
+   "cooking_verbs": [
+    "bake",
+    "broil"
+   ],
+   "ingredients": [
+    {
+     "line": "1 pizza dough ball (250g, preferably 72-hour cold ferment)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "pizza dough ball",
+     "preparation_words": [
+      "250g, preferably 72-hour cold ferment"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 oz crushed tomatoes or pizza sauce",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "oz",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "crushed tomatoes or pizza sauce",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "85.048569375",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "4 oz fresh mozzarella",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "oz",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "fresh mozzarella",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "113.398092500",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "Fresh basil leaves",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "fresh basil leaves",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Extra virgin olive oil",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Semolina flour for the peel",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "semolina flour for the peel",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    }
+   ],
+   "content_hash": "9ccb5c5d2bcb9195",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://cooking.nytimes.com/recipes/1016231-pizza-margherita?eafs_enabled=false",
+   "canonical_url": "https://cooking.nytimes.com/recipes/1016231-pizza-margherita?eafs_enabled=false",
+   "host": "cooking.nytimes.com",
+   "title": "Pizza Margherita",
+   "found_by": [
+    "structured_hosts"
+   ],
+   "fetched_at": "2026-11-02T13:36:46+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "2 servings",
+   "servings": "2",
+   "servings_note": "parsed from '2 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 12-inch round of pizza dough, stretched (see recipe)",
+    "3 tablespoons tomato sauce (see note)",
+    "Extra-virgin olive oil",
+    "2 ¾ ounces fresh mozzarella",
+    "4 to 5 basil leaves, roughly torn"
+   ],
+   "cooking_verbs": [
+    "bake"
+   ],
+   "ingredients": [
+    {
+     "line": "1 12-inch round of pizza dough, stretched (see recipe)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "12-inch round of pizza dough",
+     "preparation_words": [
+      "see recipe",
+      "stretched"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 tablespoons tomato sauce (see note)",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "tomato sauce",
+     "preparation_words": [
+      "see note"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Extra-virgin olive oil",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "extra-virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "2 ¾ ounces fresh mozzarella",
+     "quantity_text": "2 3/4",
+     "quantity": "2.75",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ounces",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "fresh mozzarella",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "77.96118859375",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "4 to 5 basil leaves, roughly torn",
+     "quantity_text": "4 to 5",
+     "quantity": "4.5",
+     "quantity_low": "4",
+     "quantity_high": "5",
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "basil leaves",
+     "preparation_words": [
+      "roughly torn"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "5b90dd8ef5fd3b4d",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://cooking.nytimes.com/recipes/1016231-pizza-margherita?mcubz=3",
+   "canonical_url": "https://cooking.nytimes.com/recipes/1016231-pizza-margherita?mcubz=3",
+   "host": "cooking.nytimes.com",
+   "title": "Pizza Margherita",
+   "found_by": [
+    "structured_hosts"
+   ],
+   "fetched_at": "2026-11-02T13:36:47+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "2 servings",
+   "servings": "2",
+   "servings_note": "parsed from '2 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 12-inch round of pizza dough, stretched (see recipe)",
+    "3 tablespoons tomato sauce (see note)",
+    "Extra-virgin olive oil",
+    "2 ¾ ounces fresh mozzarella",
+    "4 to 5 basil leaves, roughly torn"
+   ],
+   "cooking_verbs": [
+    "bake"
+   ],
+   "ingredients": [
+    {
+     "line": "1 12-inch round of pizza dough, stretched (see recipe)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "12-inch round of pizza dough",
+     "preparation_words": [
+      "see recipe",
+      "stretched"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 tablespoons tomato sauce (see note)",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "tomato sauce",
+     "preparation_words": [
+      "see note"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Extra-virgin olive oil",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "extra-virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "2 ¾ ounces fresh mozzarella",
+     "quantity_text": "2 3/4",
+     "quantity": "2.75",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ounces",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "fresh mozzarella",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "77.96118859375",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "4 to 5 basil leaves, roughly torn",
+     "quantity_text": "4 to 5",
+     "quantity": "4.5",
+     "quantity_low": "4",
+     "quantity_high": "5",
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "basil leaves",
+     "preparation_words": [
+      "roughly torn"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "5b90dd8ef5fd3b4d",
+   "duplicate_of": "https://cooking.nytimes.com/recipes/1016231-pizza-margherita?eafs_enabled=false",
+   "flags": [
+    "content_duplicate"
+   ]
+  },
+  {
+   "url": "https://www.lacucinaitaliana.com/recipe/pizza/margherita-pizza",
+   "canonical_url": "https://lacucinaitaliana.com/recipe/pizza/margherita-pizza",
+   "host": "lacucinaitaliana.com",
+   "title": "Margherita Pizza",
+   "found_by": [
+    "structured_hosts"
+   ],
+   "fetched_at": "2026-11-02T13:36:48+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "2 servings",
+   "servings": "2",
+   "servings_note": "parsed from '2 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "2PIECES buffalo mozzarella",
+    "2CUPS tomatoes, peeled",
+    "basil",
+    "extra-virgin olive oil",
+    "4CUPS bread flour",
+    "2TSP. salt",
+    "1/6OZ. fresh brewer's yeast"
+   ],
+   "cooking_verbs": [
+    "bake"
+   ],
+   "ingredients": [
+    {
+     "line": "2PIECES buffalo mozzarella",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "PIECES",
+     "unit": "piece",
+     "unit_kind": "count",
+     "name": "buffalo mozzarella",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2CUPS tomatoes, peeled",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "CUPS",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "tomatoes",
+     "preparation_words": [
+      "peeled"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "basil",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "basil",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "extra-virgin olive oil",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "extra-virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "4CUPS bread flour",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "CUPS",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "bread flour",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2TSP. salt",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "TSP",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/6OZ. fresh brewer's yeast",
+     "quantity_text": "1/6",
+     "quantity": "0.1666666666666666666666666667",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "OZ",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "fresh brewer's yeast",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "4.724920520833333333333333334",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    }
+   ],
+   "content_hash": "04840a73d169dd7f",
+   "duplicate_of": null,
+   "flags": []
+  }
+ ]
+}

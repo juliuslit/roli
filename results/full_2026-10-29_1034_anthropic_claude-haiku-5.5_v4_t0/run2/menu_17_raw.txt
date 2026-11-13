@@ -1,0 +1,23 @@
+{"readable": "partly", "problems": "The photo shows a two-panel Chinese restaurant menu, but the text is very small, slightly blurred and partly in shadow, and parts of the lower panel are cut off at the right edge. Many item names are in Chinese characters with English translations that are too small to read reliably, so many lines were unreadable and have been left out. Lunch special section items and some dim sum, rice and seafood lines are only partly legible. Only items with clearly readable English names and prices are listed.", "items": [
+{"section": "DESSERT", "category": "food", "name": "Sticky Rice w/ Sweet Rice Wine", "description": "", "price": "3.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "DESSERT", "category": "food", "name": "Vanilla Ice Cream", "description": "", "price": "3.99", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "DESSERT", "category": "food", "name": "Strawberry Ice Cream", "description": "", "price": "3.99", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "RICE DISHES", "category": "food", "name": "Fried Rice", "description": "", "price": "10.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "RICE DISHES", "category": "food", "name": "Combination Fried Rice", "description": "", "price": "11.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "RICE DISHES", "category": "food", "name": "Steamed Rice", "description": "", "price": "1.00", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "CHICKEN", "category": "food", "name": "Chicken with Hot Chili Sauce", "description": "", "price": "12.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "CHICKEN", "category": "food", "name": "General Tso's Chicken", "description": "", "price": "13.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "CHICKEN", "category": "food", "name": "Orange Chicken", "description": "", "price": "13.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "CHICKEN", "category": "food", "name": "Sesame Chicken", "description": "", "price": "13.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "CHICKEN", "category": "food", "name": "Kung Pao Chicken", "description": "", "price": "13.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "CHICKEN", "category": "food", "name": "Mongolian Chicken", "description": "", "price": "12.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SEAFOOD", "category": "food", "name": "Honey Walnut Prawns", "description": "", "price": "15.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "SEAFOOD", "category": "food", "name": "Salt & Pepper Prawns", "description": "", "price": "15.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SEAFOOD", "category": "food", "name": "Szechuan Style Prawns", "description": "", "price": "15.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SEAFOOD", "category": "food", "name": "Cashew Prawns", "description": "", "price": "14.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SEAFOOD", "category": "food", "name": "Kung Pao Prawns", "description": "", "price": "14.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TOFU & VEGETABLE", "category": "food", "name": "Mapo Tofu w/ Ground Pork", "description": "", "price": "12.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TOFU & VEGETABLE", "category": "food", "name": "Fried Tofu Szechuan Style", "description": "", "price": "12.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TOFU & VEGETABLE", "category": "food", "name": "Braised Tofu", "description": "", "price": "12.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TOFU & VEGETABLE", "category": "food", "name": "Eggplant w/ Basil", "description": "", "price": "11.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"}
+]}

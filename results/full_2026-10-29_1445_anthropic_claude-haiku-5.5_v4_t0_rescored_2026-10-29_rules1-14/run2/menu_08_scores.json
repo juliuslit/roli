@@ -1,0 +1,53 @@
+{
+ "photo": "08",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9736842105263158,
+ "expected_items": 38,
+ "other_set_aside": 0,
+ "found_items": 37,
+ "joined_found": 2,
+ "unmatched_expected_names": [
+  "Bacon"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "add Bacon ~ Bacon (56%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9629629629629629,
+ "descriptions_checked": 27,
+ "tags_right": 0.5675675675675675,
+ "portion_right": 0.972972972972973,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 38,
+   "share_wrong": 0.02631578947368421
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 12.849765833001584,
+ "cost_usd": 0.0024983,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3748,
+ "completion_tokens": 4247,
+ "generation_id": "gen-1793299886-HckBV7mLCEwnacLRMs0K",
+ "rep": 2
+}

@@ -1,0 +1,26 @@
+photo,key_confidence,key_name,key_price,model_name,model_price,reason
+10,low,Diced Fish (Spicy),,Diced Fish (Spicy),310-00,price differs
+10,low,Mandarin Fish,,Mandarin Fish,310-00,price differs
+16,low,POLLO FUNDIDO,,POLLO FUNDIDO,18,price differs
+16,low,TACOS AL CARBON,,TACOS AL CARBON,20,price differs
+17,medium,Hot & Sour Soup,(S) 1.95 (L) 7.95,Hot & Sour Soup,(S) 3.95 (L) 7.95,price differs
+17,medium,Egg Flower Soup,(S) 1.95 (L) 7.95,Egg Flower Soup,(S) 3.95 (L) 7.95,price differs
+17,medium,Stir-fried Beef w/ Cilantro,14.95,Stir-fried Beef w/ Cilantro,9.95,price differs
+17,medium,Stir-fried Beef w/ Green Onion,14.95,Stir-fried Beef w/ Green Onion,9.95,price differs
+17,medium,Mongolian Beef,14.95,Mongolian Beef,9.95,price differs
+17,medium,Cumin Beef,14.95,Cumin Beef,9.95,price differs
+17,medium,Beef w/ Broccoli,13.95,Beef w/ Broccoli,9.95,price differs
+17,medium,Beef w/ Black Pepper Sauce,14.95,Beef w/ Black Pepper Sauce,9.95,price differs
+17,medium,Stir-fried Lamb w/ Cilantro,15.95,Stir-fried Lamb w/ Cilantro,9.95,price differs
+17,medium,Stir-fried Lamb w/ Green Onion,15.95,Stir-fried Lamb w/ Green Onion,9.95,price differs
+17,medium,Cumin Lamb,15.95,Cumin Lamb,9.95,price differs
+17,low,Pork w/ Bamboo Shoots,,Pork w/ Bamboo Shoots,9.95,price differs
+17,low,Shredded Pork w/ Hot Garlic Sauce,,Shredded Pork w/ Hot Garlic Sauce,9.95,price differs
+17,low,Sweet & Sour Pork Spareribs,,Sweet & Sour Pork Spareribs,9.95,price differs
+10,low,Diced Fish (Spicy),,Diced Fish (Spicy),310-00,price differs
+10,low,Mandarin Fish,,Mandarin Fish,310-00,price differs
+16,low,POLLO FUNDIDO,,POLLO FUNDIDO,1,price differs
+17,medium,Sliced Beef in Hot & Spicy Gravy,15.95,Rice Noodle in Hot & Spicy Soup,11.95,name differs (59% similar)
+17,medium,Sliced Beef in Hot & Spicy Gravy,15.95,Sliced Chicken in Hot & Spicy Gravy,12.95,name differs (84% similar)
+17,medium,Hot & Sour Soup,(S) 1.95 (L) 7.95,Hot & Sour Soup,(S) 3.95 (L) 7.95,price differs
+17,medium,Egg Flower Soup,(S) 1.95 (L) 7.95,Egg Flower Soup,(S) 3.95 (L) 7.95,price differs

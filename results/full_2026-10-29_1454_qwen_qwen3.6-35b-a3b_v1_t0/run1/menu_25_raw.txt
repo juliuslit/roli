@@ -1,0 +1,126 @@
+{
+"readable": "yes",
+"problems": "",
+"items": [
+{
+"section": "Today's Specials",
+"category": "food",
+"name": "Baked Ham Sausage",
+"description": "with Fig-Cherry Mustard, Pineapple Salsa and Pepper Jack Cheese",
+"price": "9.00",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "Today's Specials",
+"category": "food",
+"name": "Boudin Blanc",
+"description": "with Roasted Garlic Rouille and L'Edel de Cleron Cheese",
+"price": "8.00",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "Today's Specials",
+"category": "food",
+"name": "Sweet Chinese Pork Sausage",
+"description": "with Hoisin Mustard and Asian Slaw à la Tracy",
+"price": "8.00",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "Today's Specials",
+"category": "food",
+"name": "Foie Gras and Sauternes Duck Sausage",
+"description": "with Truffle Aioli, Foie Gras Mousse and Fleur de Sel",
+"price": "10.00",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "Today's Specials",
+"category": "food",
+"name": "The Atomic Bomb",
+"description": "Damn Spicy Jack Cheese-Stuffed Pork Sausage with Chipotle Dijonnaise, Smoked Gouda Cheese and Crispy Fried Onions",
+"price": "9.00",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "Today's Specials",
+"category": "food",
+"name": "Kale, Walnut and Raisin Pork Sausage",
+"description": "with Curry-Coconut Mayonnaise, Jalapeño Havarti Cheese and Crispy Smoked Pancetta",
+"price": "9.00",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "Today's Specials",
+"category": "food",
+"name": "Spicy Thai Chicken Sausage",
+"description": "with Sriracha Mustard, Sesame-Seaweed Salad and Duck Cracklings",
+"price": "8.00",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "Today's Specials",
+"category": "food",
+"name": "Smoked Crayfish and Pork Sausage",
+"description": "with Creole Mustard, Goat Cheese and Crayfish Ceviche",
+"price": "9.00",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "Today's Specials",
+"category": "food",
+"name": "Jamaican Jerk Pork Sausage",
+"description": "with Coca-Cola BBQ Sauce, Burning Nettles Gouda Cheese and Fried Plantains",
+"price": "9.00",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+},
+{
+"section": "Today's Specials",
+"category": "food",
+"name": "Portuguese Linguiça",
+"description": "with Saffron Rouille and Tetilla Cheese",
+"price": "9.00",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "high"
+}
+]
+}

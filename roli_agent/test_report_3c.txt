@@ -1,0 +1,7 @@
+# Test report, Survey records (2026-11-05)
+
+## roli_agent
+318 passed, 4 skipped, 1 warning in 3.76s
+
+## nutrition_service
+319 passed, 4 skipped in 3.08s

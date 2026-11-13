@@ -1,0 +1,34 @@
+id,approved_by,approved_on,low,high,range_source,spec,decision
+PR01,Julius,2026-11-07,171,385,pizza express and avpn,12.18,"range 171-385 g dough per pizza: Pizza Express whole pizzas plus the AVPN standard dough ball (200 g for 22-24 cm, 280 g for 28-35 cm); the FNDDS whole-pizza figure (83-448 g) stays on the row as a note, not as the range"
+PR02,Julius,2026-11-07,,,,12.18,approved with the range as it stands (FNDDS fillet portions give the family's key; the chain figure stands beside it)
+PR03,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure: sashimi weights read as the raw fish)
+PR04,Julius,2026-11-07,96.6,355.6,chain,12.18,range = the chain figures; the FNDDS items are fast-food portions, not restaurant plates; the FNDDS figure (89.8-146.0 g) stays as a note; the sources_disagree mark is dropped
+PR05,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR06,Julius,2026-11-07,,,,12.18,approved as unsourced: no USDA input share gives a raw-tomato share of a measured plate; the row stays unsourced and is never used (the P2 row PR05 carries tomato salads)
+PR07,Julius,2026-11-07,,,,12.18,approved as is: a stated steak or chop weight is read as the raw cut (US steakhouse convention); the USDA cooking-yield note is kept on the row
+PR08,Julius,2026-11-07,,,,12.18,approved as unsourced: no USDA input share gives a dry-pasta share of a plated pasta; the row stays unsourced and is never used (the P2 row PR09 carries pasta)
+PR09,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR10,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR11,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure converted by the USDA fried-seafood share)
+PR12,Julius,2026-11-07,,,,12.18,approved with the range as it stands (FNDDS fries orders give the family's key; the chain figure stands beside it)
+PR13,Julius,2026-11-07,,,,12.18,approved with the range as it stands (the 3D card's cited sources)
+PR14,Julius,2026-11-07,,,,12.18,approved with the range as it stands (the 3D card's cited sources)
+PR15,Julius,2026-11-07,,,,12.18,approved with the range as it stands (the 3D card's cited sources; FNDDS recorded beside it)
+PR16,Julius,2026-11-07,83.7,424.1,chain,12.18,range = the chain figures; the FNDDS items are fast-food portions, not restaurant plates; the FNDDS figure (123.0-171.0 g) stays as a note; the sources_disagree mark is dropped
+PR17,Julius,2026-11-07,128.0,538.7,chain,12.18,range = the chain figures; the FNDDS items are fast-food portions, not restaurant plates; the FNDDS figure (130.0-240.0 g) stays as a note; the sources_disagree mark is dropped
+PR18,Julius,2026-11-07,288.0,474.0,chain,12.18,range = the chain figures; the FNDDS items are fast-food portions, not restaurant plates; the FNDDS figure (136.0-156.8 g) stays as a note; the sources_disagree mark is dropped
+PR19,Julius,2026-11-07,,,,12.18,approved with the range as it stands (FNDDS taco orders give the family's key; the chain figure stands beside it)
+PR20,Julius,2026-11-07,,,,12.18,approved with the range as it stands (FNDDS whole burritos give the family's key; the chain figure stands beside it)
+PR21,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR22,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR23,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR24,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR25,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR26,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR27,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR28,Julius,2026-11-07,,,,12.18,approved with the range as it stands (FNDDS side-salad portions give the family's key; the chain figure stands beside it)
+PR29,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR30,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR31,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)
+PR32,Julius,2026-11-07,,,,12.18,approved with the range as it stands (FNDDS dessert pieces give the family's key; the chain figure stands beside it)
+PR33,Julius,2026-11-07,,,,12.18,approved with the range as it stands (chain figure)

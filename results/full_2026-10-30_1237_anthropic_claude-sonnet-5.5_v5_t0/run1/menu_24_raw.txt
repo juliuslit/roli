@@ -1,0 +1,9 @@
+{"readable": "partly", "problems": "Right edge of the board is cut off, so the prices are truncated and the last digit is missing on most lines (e.g. 6.74, 7.44, 7.84, 7.34, 7.8_ are only partly visible). The section heading at the top is partly cut off (reads HOT SANDWICH...). The bottom line (FRENCH DIP) is partly cut at the bottom edge. No lines were left out, but prices are doubtful. The 'W/CHEDDAR' line is printed with its own price next to FRENCH DIP.", "items": [
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEST BEEF", "description": "", "price": "", "tags": "", "portion": "REG", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF SUPREME", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BACON & CHEESE", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF & CHEDDAR", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BAC. & CHEDDAR", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "FRENCH DIP", "description": "", "price": "735", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "HOT SANDWICHES", "category": "add-on", "name": "W/CHEDDAR", "description": "", "price": "79", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "FRENCH DIP", "confidence": "low"}
+]}

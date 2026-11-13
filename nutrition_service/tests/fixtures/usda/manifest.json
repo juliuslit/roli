@@ -1,0 +1,729 @@
+{
+  "food_171999.json": {
+    "request": "GET /food/171999?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:30+00:00",
+    "bytes": 1869,
+    "sha256": "14b982462108594b8be7908a2b28d863eb465d5848248be70301d2d1675ba44e"
+  },
+  "food_172001.json": {
+    "request": "GET /food/172001?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:30+00:00",
+    "bytes": 2510,
+    "sha256": "568d2397d1ad8fbd9a2a0fc654fe91c5ad71863c931d240bc0c1e980f77547bd"
+  },
+  "food_171999_unfiltered.json": {
+    "request": "GET /food/171999?format=full",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:31+00:00",
+    "bytes": 22896,
+    "sha256": "79a4875d71fcaf7805f7c509c8f41af9ce009da867db6f46d304633a02bd01fc"
+  },
+  "food_172001_unfiltered.json": {
+    "request": "GET /food/172001?format=full",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:31+00:00",
+    "bytes": 67384,
+    "sha256": "52d4564dcbe86b33299ad6eb9258f7c6b3e9f79dc32f28ed43ba5dc278e73dac"
+  },
+  "search_king_salmon.json": {
+    "request": "POST /foods/search {\"query\":\"king salmon cooked dry heat\",\"dataType\":[\"Foundation\",\"SR Legacy\"],\"pageSize\":10}",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:31+00:00",
+    "bytes": 353930,
+    "sha256": "e900823acda8f9be12183f31e29dbbdadf2affe88ab752fc21aec6b2dd9d2560"
+  },
+  "search_salmon_chinook.json": {
+    "request": "POST /foods/search {\"query\":\"salmon chinook cooked dry heat\",\"dataType\":[\"Foundation\",\"SR Legacy\"],\"pageSize\":10}",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:32+00:00",
+    "bytes": 383986,
+    "sha256": "6d0f38cea363e4be927d668840d58d81f02d42a1f1269ab787e010c33d4c64b7"
+  },
+  "search_foundation_salmon.json": {
+    "request": "POST /foods/search {\"query\":\"salmon\",\"dataType\":[\"Foundation\"],\"pageSize\":5}",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:32+00:00",
+    "bytes": 51778,
+    "sha256": "a820e429d6e8b3c5a028e99a7b6b42ffd3a267daa43029742be7d6eb8fa12c71"
+  },
+  "food_foundation_2684441.json": {
+    "request": "GET /food/2684441?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:34+00:00",
+    "bytes": 18026,
+    "sha256": "c966dbba63388044d4d28d05d9fe695fa49966fa04045b07ebfd7065a8cd420e"
+  },
+  "search_foundation_broccoli_raw.json": {
+    "request": "POST /foods/search {\"query\":\"broccoli raw\",\"dataType\":[\"Foundation\"],\"pageSize\":5}",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:34+00:00",
+    "bytes": 129617,
+    "sha256": "7e9ad77a497123ff6dddf0a6a81d3a082e0d678b967f9ce518648a26644a6344"
+  },
+  "food_foundation_747447.json": {
+    "request": "GET /food/747447?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:34+00:00",
+    "bytes": 8518,
+    "sha256": "54a2d2213378964cc54a32f1f25f58087ada3cb23e5738d526d7335d7e25c882"
+  },
+  "search_branded_salmon.json": {
+    "request": "POST /foods/search {\"query\":\"salmon\",\"dataType\":[\"Branded\"],\"pageSize\":1}",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:34+00:00",
+    "bytes": 10719,
+    "sha256": "4726074bee8d5e8590dc4c247af90e78d2aec9f1028279d382cef8b841554fda"
+  },
+  "food_branded_2016166.json": {
+    "request": "GET /food/2016166?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-01T17:04:35+00:00",
+    "bytes": 10900,
+    "sha256": "59e0679817289b5c8277c90c480e176bb2864ec6504f7da6e7ee01922d5bc00e"
+  },
+  "error_404.json": {
+    "request": "GET /food/99999999",
+    "status": 404,
+    "captured_at": "2026-11-01T17:04:35+00:00",
+    "bytes": 33,
+    "sha256": "667a6f967de9a108006eda6b2e640fd57c90f4fffd81b5448d58a36632157591"
+  },
+  "error_400.json": {
+    "request": "GET /food/abc",
+    "status": 400,
+    "captured_at": "2026-11-01T17:04:35+00:00",
+    "bytes": 116,
+    "sha256": "a87ad7930b82e7a0f775b9f4ad212e9a91ad0d12ca6097e9953954f3d5555ab2"
+  },
+  "error_403.json": {
+    "request": "GET /food/171999?format=full&nutrients=606,601 (no key)",
+    "status": 403,
+    "captured_at": "2026-11-01T17:04:35+00:00",
+    "bytes": 174,
+    "sha256": "c1c0080dae58bb087942e42d602c738e39f91441bf5e5a76f9dd6d5f0129ce86"
+  },
+  "search_oil_olive.json": {
+    "request": "POST /foods/search {\"query\":\"oil olive\",\"dataType\":[\"SR Legacy\",\"Foundation\"],\"pageSize\":10}",
+    "status": 200,
+    "captured_at": "2026-11-02T12:08:54+00:00",
+    "bytes": 392601,
+    "sha256": "0eb8834f5199d1494ee9311f51b0029d3ccea9e9eadd5f64dccd64debf061e30"
+  },
+  "food_171413.json": {
+    "request": "GET /food/171413?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-02T12:08:54+00:00",
+    "bytes": 4070,
+    "sha256": "89ac387d56405d375acd7dc4e418ae61cad482b31ed762ec658b9e55d712523b"
+  },
+  "food_173706.json": {
+    "request": "GET /food/173706?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-02T12:08:55+00:00",
+    "bytes": 3441,
+    "sha256": "d6909ace0cbea2148c921483d12ad43ef9b14ed4621ba286f078c9bfc795703a"
+  },
+  "food_170189.json": {
+    "request": "GET /food/170189?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-02T12:08:55+00:00",
+    "bytes": 4542,
+    "sha256": "e2b52f75d90c0b7176d167efb0ede1b02f171932cb622169d4ec19448970652e"
+  },
+  "food_171249.json": {
+    "request": "GET /food/171249?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-02T12:08:55+00:00",
+    "bytes": 1845,
+    "sha256": "44bc27d8645d24cc85ebb044bbce7793da0d7c2300d3a7151d10144e6cc600e8"
+  },
+  "food_170151.json": {
+    "request": "GET /food/170151?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-02T12:08:55+00:00",
+    "bytes": 3730,
+    "sha256": "e656cea96aafc92db8b22987e2eadefe5aae39f5e26d205fcc1d113051159b1c"
+  },
+  "food_169249.json": {
+    "request": "GET /food/169249?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-02T12:08:56+00:00",
+    "bytes": 4821,
+    "sha256": "d2cfeed6b2c7d2c86cf7ab38476a9ad726f9339a665dbf5768be7eab1d4f84c6"
+  },
+  "food_170457.json": {
+    "request": "GET /food/170457?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-02T12:08:56+00:00",
+    "bytes": 7314,
+    "sha256": "489b45be9b7d18d908dcd6091ed54c5831746aebcb9364de375abc2f9e981d82"
+  },
+  "food_172675.json": {
+    "request": "GET /food/172675?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-02T12:08:56+00:00",
+    "bytes": 2158,
+    "sha256": "8b91cbb81ea3bc8c154fab76151b8c516b843c09bc5af924d4e5664e37a93d40"
+  },
+  "food_748608.json": {
+    "request": "GET /food/748608?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T03:34:10+00:00",
+    "bytes": 42481,
+    "sha256": "636dfa4db84129235a41c0ffc4311c1f854c96e83f41ea0cf480baba152467ca"
+  },
+  "food_1750351.json": {
+    "request": "GET /food/1750351?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T03:34:12+00:00",
+    "bytes": 10793,
+    "sha256": "294c588efc49e4114f766a2aafff43489a1c8e744b5abe03ea925a58ce26509c"
+  },
+  "food_173468.json": {
+    "request": "GET /food/173468?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T04:11:37+00:00",
+    "bytes": 4187,
+    "sha256": "a32630f25156ae82cf3cc83df0e117a242637915155296cf7dfbef3e74d921d3"
+  },
+  "food_169994.json": {
+    "request": "GET /food/169994?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T04:11:37+00:00",
+    "bytes": 4040,
+    "sha256": "136fc9f6505bf4a68272bda9f0d894dc28fc55fe05d4601bf29eab3431ef0c8e"
+  },
+  "food_172232.json": {
+    "request": "GET /food/172232?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T04:11:37+00:00",
+    "bytes": 4275,
+    "sha256": "4655425604c81307f0b079eb75199c0bb8a4da33a2fed54fb7f7dd5a2c63db30"
+  },
+  "food_170931.json": {
+    "request": "GET /food/170931?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T04:11:37+00:00",
+    "bytes": 5365,
+    "sha256": "b679c22040746d52e668aabe3a089fbc24485c540ac0a4e4bc74787ec69d35f3"
+  },
+  "food_169997.json": {
+    "request": "GET /food/169997?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T04:11:38+00:00",
+    "bytes": 4310,
+    "sha256": "78e2431538aa16ad916e970be0eb93af8164baabcd8443bc381efdbe08e6af53"
+  },
+  "food_169230.json": {
+    "request": "GET /food/169230?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:55+00:00",
+    "bytes": 4511,
+    "sha256": "63f51015ab41da92a214415ea5aa8c66ff1189e3c310a9b6123c169cb6a618fa",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_167746.json": {
+    "request": "GET /food/167746?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:55+00:00",
+    "bytes": 4852,
+    "sha256": "c78d1a51bc484b00e5c9a52a101cee080f45358afd9595b4b0af450fc8ad5768",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_169640.json": {
+    "request": "GET /food/169640?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:56+00:00",
+    "bytes": 3712,
+    "sha256": "51937492bac688a901bea59db277867aa03bd32d87957049bd346a54cc6fa2ed",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_173176.json": {
+    "request": "GET /food/173176?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:56+00:00",
+    "bytes": 1860,
+    "sha256": "c2e55d559917b21941b6c47986a3b3f85915acea08154d1ab80b09ed49abcb61",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_171328.json": {
+    "request": "GET /food/171328?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:56+00:00",
+    "bytes": 4307,
+    "sha256": "ae306a4634d71a567923e0a0d75095ba78a8cfb80e772324210361d82b11296c",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_174924.json": {
+    "request": "GET /food/174924?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:56+00:00",
+    "bytes": 4566,
+    "sha256": "250c00f3d2c1b41165da029b687968d77ed17801b7a28bbcbf145f246da3fe05",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_173424.json": {
+    "request": "GET /food/173424?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:56+00:00",
+    "bytes": 4205,
+    "sha256": "761f6c1625b8fe5e36f2be2be730f8966863f3a7899ed4fe803aa702da6c48eb",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_168833.json": {
+    "request": "GET /food/168833?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:57+00:00",
+    "bytes": 2613,
+    "sha256": "3e8d6993fe5934161bec401354544b4869bc60ed52d6e706c73fedd9caf5578b",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_170000.json": {
+    "request": "GET /food/170000?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:57+00:00",
+    "bytes": 6376,
+    "sha256": "cecef1ed3120848ff46bd465cf837a7cb1f7370329840bcea4d40025345bd8aa",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_790577.json": {
+    "request": "GET /food/790577?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:57+00:00",
+    "bytes": 3881,
+    "sha256": "fbe7cfa697beb116126b8dfea10bbf2480072c0dc620aa27003cfc37273c05b6",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_173470.json": {
+    "request": "GET /food/173470?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:57+00:00",
+    "bytes": 3968,
+    "sha256": "8b14898b1e9653178595bdc3ccd02f6a8fce31013976a19126b061e94c4699b3",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_172442.json": {
+    "request": "GET /food/172442?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:58+00:00",
+    "bytes": 2270,
+    "sha256": "38ef6b925dc139bbc00dac84a45aff8310284ed6febf7d1372c9ffb33f8dd3cb",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_169655.json": {
+    "request": "GET /food/169655?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-03T12:38:58+00:00",
+    "bytes": 4259,
+    "sha256": "eb632da2ea23b36839e19e0704b2e0d978d417ec4267ef2b930bfc07238d0395",
+    "note": "captured 2026-11-03 for Phase 2C.1 conversion tests"
+  },
+  "food_168277.json": {
+    "request": "GET /food/168277?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-04T03:25:53+00:00",
+    "bytes": 4511,
+    "sha256": "e05ac6543d8fb2f4495cfa50a46116d19758346f3d894e39abaabb098c29acfb"
+  },
+  "food_328637.json": {
+    "request": "GET /food/328637?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-04T04:03:30+00:00",
+    "bytes": 72077,
+    "sha256": "88d48383f67b22ba732781c1ccc394941a7c244368c8f68a6fc0a369c5e84bb4"
+  },
+  "food_survey_2710089.json": {
+    "request": "GET /food/2710089?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T19:24:27+00:00",
+    "bytes": 18014,
+    "sha256": "d8bb2fb65bf1ed51d949e1e99d121a08e104a7412d9915af4422653098cb4247"
+  },
+  "food_survey_2706244.json": {
+    "request": "GET /food/2706244?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T19:24:27+00:00",
+    "bytes": 20498,
+    "sha256": "48bf7a5db29c29341e1c7da4bd01f0094a5f649b8e81bb00f06d23fed5baecd5"
+  },
+  "food_survey_2706227.json": {
+    "request": "GET /food/2706227?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T19:24:28+00:00",
+    "bytes": 21717,
+    "sha256": "cd31d6201e552026a5913e7a42849eea5edfc23fe94ae7fa585d7f857730eb2d"
+  },
+  "food_survey_2709462.json": {
+    "request": "GET /food/2709462?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T19:24:28+00:00",
+    "bytes": 21411,
+    "sha256": "28929cbbfffcbbfc5766e9639139d61447c3081e6d23f67a753e7477452ead41"
+  },
+  "food_survey_2706334.json": {
+    "request": "GET /food/2706334?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T19:24:29+00:00",
+    "bytes": 19774,
+    "sha256": "fc0ffdbdd2f931b53fa92f25eb03ec6f89c72ccc4e39c6a0578775c0d8e3041e"
+  },
+  "food_survey_2705975.json": {
+    "request": "GET /food/2705975?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T19:24:29+00:00",
+    "bytes": 21407,
+    "sha256": "7aecc91242ea13397bc8f531bcf4866e3d6ff8e1e812769b074489746bc96402"
+  },
+  "food_survey_2710055.json": {
+    "request": "GET /food/2710055?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T19:24:30+00:00",
+    "bytes": 18966,
+    "sha256": "1742719460b9e4c70be7e4da42926bda9879701d25df8e19e1eea9b9fc03afb0"
+  },
+  "search_survey_olives.json": {
+    "request": "POST /foods/search {\"query\": \"olives\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T19:24:31+00:00",
+    "bytes": 218246,
+    "sha256": "9cd58170b645cdba8c3bbc410eede0aff9e896606c0a436f66b80bb1fdb1a956"
+  },
+  "search_survey_fish_fried.json": {
+    "request": "POST /foods/search {\"query\": \"fish fried\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T19:24:31+00:00",
+    "bytes": 232642,
+    "sha256": "606aedb7c4ecfa5ae6636e986c66fecfb6d47307199d74f41ed6698bb7b9435f"
+  },
+  "search_survey_fries.json": {
+    "request": "POST /foods/search {\"query\": \"potato french fries restaurant\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T19:24:32+00:00",
+    "bytes": 230852,
+    "sha256": "2e1d42b87b16847a0c2bec6b0e65b45c09b0c0d204cc29379e7bf974fae8b885"
+  },
+  "search_survey_calamari.json": {
+    "request": "POST /foods/search {\"query\": \"calamari fried\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T19:24:33+00:00",
+    "bytes": 222845,
+    "sha256": "26fbaabd53f4cebf7b8b8b22289d9196e1e240c1aaac9eecf3a05ef55555ba33"
+  },
+  "food_171009.json": {
+    "request": "GET /food/171009?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T19:31:28+00:00",
+    "bytes": 2327,
+    "sha256": "da6bc56a25eebf464ed6582032cea3aae4d039f14d01e564bc7967e47ef8b276"
+  },
+  "search_survey_fish_ns.json": {
+    "request": "POST /foods/search {\"query\": \"fish NS as to type fried\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 25}",
+    "status": 200,
+    "captured_at": "2026-11-05T19:33:19+00:00",
+    "bytes": 556337,
+    "sha256": "42721b30689990afe25ebccfb8085ec6789478f6135ff3daba169722c220ffd3"
+  },
+  "search_survey_chicken.json": {
+    "request": "POST /foods/search {\"query\": \"chicken breast fried coated\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T19:54:48+00:00",
+    "bytes": 247150,
+    "sha256": "cba974d5702ff1049a9959e87cea85918cbece10916b2e145788501fe05ef596"
+  },
+  "food_174191.json": {
+    "request": "GET /food/174191?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:05+00:00",
+    "bytes": 4294,
+    "sha256": "9614cf8539687dcd3bcc17e2bbfa7b13ea51cf4b81fd5c08fe25a4746a213edb"
+  },
+  "food_171955.json": {
+    "request": "GET /food/171955?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:05+00:00",
+    "bytes": 3686,
+    "sha256": "ccf84db454954862c7f73753fdbd4fb8fbc53abb51779ab044b703e90c18d1a1"
+  },
+  "food_171964.json": {
+    "request": "GET /food/171964?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:05+00:00",
+    "bytes": 4256,
+    "sha256": "42ecf3c37727e41a5310d1c3a6b7985144dfbaf3c8cc22e6be454fba8b9a6cf1"
+  },
+  "food_175129.json": {
+    "request": "GET /food/175129?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:05+00:00",
+    "bytes": 3701,
+    "sha256": "05efa7dfb0a8197503a8afaf1c17c8c0668274eed0a6ecaf5ed55403b836fecf"
+  },
+  "food_171400.json": {
+    "request": "GET /food/171400?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:06+00:00",
+    "bytes": 3546,
+    "sha256": "afd4e64d60bb83d9242833414515be40328a57163bf67ee02c9d3df5bf8fc903"
+  },
+  "food_survey_2710180.json": {
+    "request": "GET /food/2710180?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:06+00:00",
+    "bytes": 19760,
+    "sha256": "f46a8373341c69fc7311c255bf71870c557c51aab981ec595369ea2bc85b43f6"
+  },
+  "food_survey_2710785.json": {
+    "request": "GET /food/2710785?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:06+00:00",
+    "bytes": 19127,
+    "sha256": "f4624494085af1b6bc07ee704ee626cb43466970f07a9ece00bd631257890775"
+  },
+  "food_175138.json": {
+    "request": "GET /food/175138?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:06+00:00",
+    "bytes": 4265,
+    "sha256": "c2fd58c72dbd02dca0097ffb9c30d475df352d36b1637207dde0125de860c911"
+  },
+  "food_175167.json": {
+    "request": "GET /food/175167?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:07+00:00",
+    "bytes": 4214,
+    "sha256": "b43c69ac8518d6b08cc94d695f74cef75b4277f076fc1a70a5476f47c987f954"
+  },
+  "food_175165.json": {
+    "request": "GET /food/175165?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:07+00:00",
+    "bytes": 4278,
+    "sha256": "a22058ae8c9fb26a10a7a071f02e2bd287ff4376d2bb42aba42731ee2a7ef7e8"
+  },
+  "food_175176.json": {
+    "request": "GET /food/175176?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:07+00:00",
+    "bytes": 3585,
+    "sha256": "e043afd6b37fd0b73b47724b24736114fa1edac2a6fbf48a903800a3fb01a12f"
+  },
+  "food_167749.json": {
+    "request": "GET /food/167749?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:08+00:00",
+    "bytes": 3758,
+    "sha256": "fa3ddf40b50d1c9803ac4ae0365ab513521317c78e615abef2f5edf023f05e25"
+  },
+  "search_exact_breading_or_batter_as_ingredient_in_food.json": {
+    "request": "POST /foods/search {\"query\": \"Breading or batter as ingredient in food\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:08+00:00",
+    "bytes": 204760,
+    "sha256": "b65eb71accd3cacdd419cdf1f763ef38e304c40cd2b42376505cb89cfe330b66"
+  },
+  "search_exact_vegetable_oil__nfs.json": {
+    "request": "POST /foods/search {\"query\": \"Vegetable oil, NFS\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:08+00:00",
+    "bytes": 221357,
+    "sha256": "04916c01dd1e611ee8d0472b5a53b14d25b931b8e5886390e35c66714648f928"
+  },
+  "search_exact_fish__cod__pacific__raw__may_have_been_previously.json": {
+    "request": "POST /foods/search {\"query\": \"Fish, cod, Pacific, raw (may have been previously frozen)\", \"dataType\": [\"Foundation\", \"SR Legacy\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:09+00:00",
+    "bytes": 524175,
+    "sha256": "ce2520db991e532ea8428f8b7f73b189a61a7e9cf0682dafed9787b5e450d563"
+  },
+  "search_exact_fish__salmon__pink__raw.json": {
+    "request": "POST /foods/search {\"query\": \"Fish, salmon, pink, raw\", \"dataType\": [\"Foundation\", \"SR Legacy\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:09+00:00",
+    "bytes": 503725,
+    "sha256": "065d296dacf67921b5a45ffecd9dde0887bada8a068f0c296f2f193c409e2815"
+  },
+  "search_exact_fish__salmon__atlantic__farmed__raw.json": {
+    "request": "POST /foods/search {\"query\": \"Fish, salmon, Atlantic, farmed, raw\", \"dataType\": [\"Foundation\", \"SR Legacy\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:09+00:00",
+    "bytes": 352889,
+    "sha256": "6173fc1b5847d62cbc133b83b6cb7d1988b88a765459991bd1c5560daf5dbb77"
+  },
+  "search_exact_fish__catfish__channel__farmed__raw.json": {
+    "request": "POST /foods/search {\"query\": \"Fish, catfish, channel, farmed, raw\", \"dataType\": [\"Foundation\", \"SR Legacy\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:10+00:00",
+    "bytes": 433764,
+    "sha256": "cb4e12eb6969b6fa4c8d193ecdd246ddc80c6b3cbc99ad0b26884d0ff536a86d"
+  },
+  "search_exact_fish__tilapia__raw.json": {
+    "request": "POST /foods/search {\"query\": \"Fish, tilapia, raw\", \"dataType\": [\"Foundation\", \"SR Legacy\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:10+00:00",
+    "bytes": 354632,
+    "sha256": "8919d8a5e34a6b8ec0527dde425b2f7c1b427820c3bd3c9ed8de2e962738cf5e"
+  },
+  "search_exact_salt__table.json": {
+    "request": "POST /foods/search {\"query\": \"Salt, table\", \"dataType\": [\"Foundation\", \"SR Legacy\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:11+00:00",
+    "bytes": 265119,
+    "sha256": "0a43adeec4e8bdd6db5120f4991e6dd3b39d5583d20b1a84918092cea3cc0aa1"
+  },
+  "search_exact_fish__haddock__raw.json": {
+    "request": "POST /foods/search {\"query\": \"Fish, haddock, raw\", \"dataType\": [\"Foundation\", \"SR Legacy\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-05T22:07:11+00:00",
+    "bytes": 380501,
+    "sha256": "787b9fb02d8f4e18a5674db5fde1ac0b978e1249cd63065cf1e831843b4dcb44"
+  },
+  "list_foundation_newest.json": {
+    "request": "POST /foods/list {\"dataType\": [\"Foundation\"], \"pageSize\": 1, \"pageNumber\": 1, \"sortBy\": \"publishedDate\", \"sortOrder\": \"desc\"}",
+    "status": 200,
+    "captured_at": "2026-11-06T13:34:07+00:00",
+    "bytes": 20868,
+    "sha256": "c6db521559351dd48bd982427199328a12fdf6cf275937984de02c822cf94022"
+  },
+  "list_survey_newest.json": {
+    "request": "POST /foods/list {\"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 1, \"pageNumber\": 1, \"sortBy\": \"publishedDate\", \"sortOrder\": \"desc\"}",
+    "status": 200,
+    "captured_at": "2026-11-06T13:34:08+00:00",
+    "bytes": 8219,
+    "sha256": "75076a14964cd35631a2466e947291c725970c71a31963c78b9da12aca637f71"
+  },
+  "list_sr_legacy_newest.json": {
+    "request": "POST /foods/list {\"dataType\": [\"SR Legacy\"], \"pageSize\": 1, \"pageNumber\": 1, \"sortBy\": \"publishedDate\", \"sortOrder\": \"desc\"}",
+    "status": 200,
+    "captured_at": "2026-11-06T13:34:08+00:00",
+    "bytes": 6771,
+    "sha256": "2b7345e48120d9edc13989a4423fcb405100842793cb1504c555d480e303fd74"
+  },
+  "list_foundation_oldest.json": {
+    "request": "POST /foods/list {\"dataType\": [\"Foundation\"], \"pageSize\": 1, \"pageNumber\": 1, \"sortBy\": \"publishedDate\", \"sortOrder\": \"asc\"}",
+    "status": 200,
+    "captured_at": "2026-11-06T13:34:08+00:00",
+    "bytes": 4992,
+    "sha256": "d8b31537a92bb99cfc2f07db96e3e202c81aed4f5b9545da6c9b506128bf2478"
+  },
+  "food_survey_2709458.json": {
+    "request": "GET /food/2709458?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-06T13:33:10+00:00",
+    "bytes": 22193,
+    "sha256": "e68ed2c409714e8ed9bd5bc9177cc453a5cdce86ea00ad1a5766396ea78e6847"
+  },
+  "food_170093.json": {
+    "request": "GET /food/170093?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-06T13:33:11+00:00",
+    "bytes": 4868,
+    "sha256": "b5ef6dc151387ec51907d5773504e01c1e5ac00df18f2e6615a2bcf598e0b9b3"
+  },
+  "food_171826.json": {
+    "request": "GET /food/171826?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-06T13:33:11+00:00",
+    "bytes": 1988,
+    "sha256": "2608f8477c09695d5376a9e21bcaf4abbb00b8058187db5b2e160c6f2c560897"
+  },
+  "food_169096.json": {
+    "request": "GET /food/169096?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-06T13:33:11+00:00",
+    "bytes": 4005,
+    "sha256": "0a97dafe0dc651b5f1b2c8e2ff362dd9693a447885d3f2b57c9cf83c4158b139"
+  },
+  "search_exact_potatoes__baked__flesh_and_skin__without_salt.json": {
+    "request": "POST /foods/search {\"query\": \"Potatoes, baked, flesh and skin, without salt\", \"dataType\": [\"Foundation\", \"SR Legacy\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-06T13:33:12+00:00",
+    "bytes": 436026,
+    "sha256": "a72d6ebd56a789def3f5aca190aa119d982747c48680e2f141ed6875ce5f715d"
+  },
+  "search_exact_potatoes__baked__flesh__without_salt.json": {
+    "request": "POST /foods/search {\"query\": \"Potatoes, baked, flesh, without salt\", \"dataType\": [\"Foundation\", \"SR Legacy\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-06T13:33:12+00:00",
+    "bytes": 437649,
+    "sha256": "8dfeac696f82b89a23c8b6f29508797bdb22f3dce473570bfdcc343e7b564e18"
+  },
+  "food_170033.json": {
+    "request": "GET /food/170033?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-06T13:34:07+00:00",
+    "bytes": 4014,
+    "sha256": "8c032617ea5a7d7dade4cbcf8f0867fd506d8befc5d93be2014ab9b6614d47cf"
+  },
+  "food_survey_2705730.json": {
+    "request": "GET /food/2705730?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-06T14:36:08+00:00",
+    "bytes": 19623,
+    "sha256": "b5fadb23662a8ed23d5374d3084cc777bca6deec83368173cef57c902c1115d4"
+  },
+  "food_survey_2705778.json": {
+    "request": "GET /food/2705778?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-06T14:36:09+00:00",
+    "bytes": 18422,
+    "sha256": "50f9048749546c89bc33b05c8058d571a029e7e66126c872ae55e157613a297e"
+  },
+  "food_survey_2709614.json": {
+    "request": "GET /food/2709614?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-06T14:36:09+00:00",
+    "bytes": 18477,
+    "sha256": "a61bc28b572a38e3d6e7da984cbc755741a7647898a442d9a9a9b2b1475c6826"
+  },
+  "food_survey_2709628.json": {
+    "request": "GET /food/2709628?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-06T14:36:09+00:00",
+    "bytes": 18085,
+    "sha256": "3ecd8a6d970928d873b06f023a6771b84aa240b755020f23ef16e01e4a4252ab"
+  },
+  "food_survey_2709395.json": {
+    "request": "GET /food/2709395?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-06T14:36:09+00:00",
+    "bytes": 20275,
+    "sha256": "31f1a8ff93c8614c8c0dd976443e9aed24febdf14561b0bd06735a804b6e3c85"
+  },
+  "food_survey_2709397.json": {
+    "request": "GET /food/2709397?format=full&nutrients=606,601",
+    "status": 200,
+    "captured_at": "2026-11-06T14:36:10+00:00",
+    "bytes": 20660,
+    "sha256": "36b78d7757d6fb4513b9bc041bf9cf40419b7b99b5e787c92d9c852bb422ed22"
+  },
+  "search_exact_cheese_parmesan.json": {
+    "request": "POST /foods/search {\"query\": \"Cheese parmesan\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-06T14:36:10+00:00",
+    "bytes": 226434,
+    "sha256": "1078d4f3645453682e6eea93402ff5d846ad105f86a445ff2bd330af8a7b35d2"
+  },
+  "search_exact_cheese.json": {
+    "request": "POST /foods/search {\"query\": \"Cheese\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-06T14:36:10+00:00",
+    "bytes": 221234,
+    "sha256": "3da86a43aab8ba33214bb4ab4d793273c0490337c588d8941895288478272e51"
+  },
+  "search_exact_spinach_baby.json": {
+    "request": "POST /foods/search {\"query\": \"Spinach baby\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-06T14:36:11+00:00",
+    "bytes": 212927,
+    "sha256": "11283abec449708b2a8994c6b120db20a3f8bcd049e30e84bc6b9fbec0ec7d26"
+  },
+  "search_exact_spinach.json": {
+    "request": "POST /foods/search {\"query\": \"Spinach\", \"dataType\": [\"Survey (FNDDS)\"], \"pageSize\": 10}",
+    "status": 200,
+    "captured_at": "2026-11-06T14:36:11+00:00",
+    "bytes": 226619,
+    "sha256": "67f699c96d34280709f0481a742afd338a12a78c512fd6ae03dd3304feba0a66"
+  }
+}

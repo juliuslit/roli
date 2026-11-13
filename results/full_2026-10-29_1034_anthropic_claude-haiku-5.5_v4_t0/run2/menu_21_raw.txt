@@ -1,0 +1,8 @@
+{"readable": "yes", "problems": "The photo shows a handwritten 'Happy Hour Specials' board; the left-edge menu and the right-edge sign are not part of it and were ignored. Headline times ('Monday-Friday 4-6pm, Sat & Sun until 6pm') are not items.", "items": [
+{"section": "Happy Hour Specials", "category": "food", "name": "Pizza By The Slice", "description": "Vegetarian, Combo, Pepperoni", "price": "5", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "medium"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Wood Fire Oysters", "description": "Pesto, BBQ", "price": "3.50", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "medium"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Meatballs (3)", "description": "Served with homemade sauce & bread", "price": "9", "tags": "", "portion": "(3)", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Riblets", "description": "", "price": "10", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Mini Gyros (2)", "description": "Lamb", "price": "10", "tags": "", "portion": "(2)", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Focaccia / Onion Focaccia", "description": "Served with olive tapenade", "price": "8", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "medium"}
+]}

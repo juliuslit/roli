@@ -1,0 +1,71 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8809523809523809,
+ "expected_items": 42,
+ "found_items": 37,
+ "joined_found": 2,
+ "unmatched_expected_names": [
+  "Big Foot Burger",
+  "Dylan",
+  "Oysters - Humboldt Bay",
+  "add cheese",
+  "Pastrami Reuben w/ coleslaw"
+ ],
+ "invented": 7,
+ "invented_names": [
+  "Humboldt Grassfed Beef",
+  "The works w/Cheddar and Bacon",
+  "Jalapeno + BBQ sauce",
+  "the works",
+  "Oysters",
+  "make it Vegan",
+  "Sauerkraut, swiss, mustard, meudo mustard, mayo, pickles on Rye"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 3,
+ "garbled_names": [
+  "Brie Boat Burger ~ Big Foot Burger (75%)",
+  "Dylau ~ Dylan (80%)",
+  "Pastrami Reuben ~ Pastrami Reuben w/ coleslaw (52%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.3157894736842105,
+ "descriptions_checked": 19,
+ "tags_right": 0.8918918918918919,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 7,
+   "total": 44,
+   "share_wrong": 0.1590909090909091
+  },
+  "medium": {
+   "wrong": 3,
+   "total": 3,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is a large chalkboard with significant glare and reflections, particularly in the center and lower sections. Some text is faint or partially obscured by the reflection of the photographer and surroundings. The 'From The Sea' section is partially obscured by glare. The 'Desserts' section is partially obscured by glare. The 'Beverages' section is partially obscured by glare. The 'Sides' section is partially obscured by glare. The 'Sandwiches' section is partially obscured by glare. The 'Plant Based' section is partially obscured by glare. The 'Burgers' section is partially obscured by glare. The 'Chicken Sandwiches' section is partially obscured by glare. The 'Dogs' section is partially obscured by glare.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 114.4249824169965,
+ "cost_usd": 0.0040934,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 2421,
+ "completion_tokens": 4054,
+ "generation_id": "gen-1793310667-72wZpOQPrTcU0bPnMNE9",
+ "rep": 2
+}

@@ -1,0 +1,306 @@
+{
+  "fdcId": 747447,
+  "footnote": "Source number reflects the actual number of samples analyzed for a nutrient. Repeat nutrient analyses may have been done on the same sample with the values shown.",
+  "description": "Broccoli, raw",
+  "publicationDate": "12/16/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 4,
+        "code": "AS",
+        "description": "Summed",
+        "foodNutrientSource": {
+          "id": 1,
+          "code": "1",
+          "description": "Analytical or derived from analytical"
+        }
+      },
+      "id": 8524276,
+      "amount": 0.039,
+      "nutrientAnalysisDetails": []
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 187633,
+      "dataPoints": 12,
+      "gramWeight": 76.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "modifier": "chopped",
+      "minDateAcquired": "8/5/2001",
+      "measureUnit": {
+        "id": 1000,
+        "name": "cup",
+        "abbreviation": "cup"
+      },
+      "minYearAcquired": 2001
+    },
+    {
+      "id": 312822,
+      "dataPoints": 0,
+      "gramWeight": 85.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "measureUnit": {
+        "id": 1121,
+        "name": "RACC",
+        "abbreviation": "RACC"
+      }
+    }
+  ],
+  "dataType": "Foundation",
+  "foodClass": "FinalFood",
+  "scientificName": "Brassica oleracea var. italica",
+  "inputFoods": [
+    {
+      "id": 45252,
+      "foodDescription": "Broccoli, Region 3, Pure Composite, CY0107A",
+      "inputFood": {
+        "fdcId": 321693,
+        "description": "Broccoli, Region 3, Pure Composite, CY0107A",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 45254,
+      "foodDescription": "Broccoli, Region 2, Pure Composite, CY01078",
+      "inputFood": {
+        "fdcId": 321763,
+        "description": "Broccoli, Region 2, Pure Composite, CY01078",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 45257,
+      "foodDescription": "Broccoli, Pass 2, Region 3, Pure Composite, CY010HI",
+      "inputFood": {
+        "fdcId": 321880,
+        "description": "Broccoli, Pass 2, Region 3, Pure Composite, CY010HI",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 45253,
+      "foodDescription": "Broccoli, Region 4, Pure Composite, CY0107C",
+      "inputFood": {
+        "fdcId": 321718,
+        "description": "Broccoli, Region 4, Pure Composite, CY0107C",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 45251,
+      "foodDescription": "Broccoli, Pass 2, Region 1, Pure Composite, CY010H2",
+      "inputFood": {
+        "fdcId": 321674,
+        "description": "Broccoli, Pass 2, Region 1, Pure Composite, CY010H2",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 45255,
+      "foodDescription": "Broccoli, Pass 2, Region 2, Pure Composite, CY010HH",
+      "inputFood": {
+        "fdcId": 321810,
+        "description": "Broccoli, Pass 2, Region 2, Pure Composite, CY010HH",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 45246,
+      "foodDescription": "Broccoli, raw (IN1,NY1) - CY0906E",
+      "inputFood": {
+        "fdcId": 321612,
+        "description": "Broccoli, raw (IN1,NY1) - CY0906E",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 45249,
+      "foodDescription": "Broccoli, raw (CO2,CT1) - CY0906H",
+      "inputFood": {
+        "fdcId": 321641,
+        "description": "Broccoli, raw (CO2,CT1) - CY0906H",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 45256,
+      "foodDescription": "Broccoli, Pass 2, Region 4, Pure Composite, CY010H3",
+      "inputFood": {
+        "fdcId": 321845,
+        "description": "Broccoli, Pass 2, Region 4, Pure Composite, CY010H3",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 45248,
+      "foodDescription": "Broccoli, raw (AL1,CA1) - CY0906F",
+      "inputFood": {
+        "fdcId": 321631,
+        "description": "Broccoli, raw (AL1,CA1) - CY0906F",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 45250,
+      "foodDescription": "Broccoli, Region 1, Pure Composite, CY01077",
+      "inputFood": {
+        "fdcId": 321651,
+        "description": "Broccoli, Region 1, Pure Composite, CY01077",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 45247,
+      "foodDescription": "Broccoli, raw (CA2,NC1) - CY0906G",
+      "inputFood": {
+        "fdcId": 321621,
+        "description": "Broccoli, raw (CA2,NC1) - CY0906G",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    }
+  ],
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 22709,
+      "proteinValue": 2.44,
+      "fatValue": 8.37,
+      "carbohydrateValue": 3.57,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 22710,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "ndbNumber": 11090,
+  "isHistoricalReference": false,
+  "foodCategory": {
+    "id": 11,
+    "code": "1100",
+    "description": "Vegetables and Vegetable Products"
+  }
+}

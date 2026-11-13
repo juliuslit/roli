@@ -1,0 +1,64 @@
+{
+ "photo": "01",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9436619718309859,
+ "expected_items": 71,
+ "other_set_aside": 0,
+ "found_items": 67,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Suze",
+  "Suze and tonic",
+  "Coffee",
+  "Heirloom White Peony Tea"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Yuzu Lime"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 4,
+ "garbled_names": [
+  "Suez ~ Suze (50%)",
+  "Suez and tonic ~ Suze and tonic (86%)",
+  "Caffè ~ Coffee (50%)",
+  "Herizian White Peony Tea ~ Heirloom White Peony Tea (75%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9701492537313433,
+ "price_wrong_names": [
+  "Shelburne Farms cheddar cheese: price 'add 5.00' vs key '3.00'",
+  "Badger Sparkling: price '' vs key '6.00'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 0.9552238805970149,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 7,
+   "total": 72,
+   "share_wrong": 0.09722222222222222
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 21.07551941598649,
+ "cost_usd": 0.0046596,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2505,
+ "completion_tokens": 5075,
+ "generation_id": "gen-1793325542-dnhkOT0txequI3YeRR1v"
+}

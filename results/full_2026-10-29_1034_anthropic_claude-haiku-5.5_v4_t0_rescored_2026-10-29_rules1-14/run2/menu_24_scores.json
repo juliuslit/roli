@@ -1,0 +1,73 @@
+{
+ "photo": "24",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "Beef, Bac. & Cheddar",
+   "key_price": "",
+   "model_name": "BEEF, BAC. & CHEDDAR",
+   "model_price": "7 8",
+   "reason": "price differs"
+  },
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "French Dip w/Cheddar",
+   "key_price": "",
+   "model_name": "W/CHEDDAR",
+   "model_price": "7 9",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 7,
+ "other_set_aside": 0,
+ "found_items": 7,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 3,
+   "share_wrong": 0.3333333333333333
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 4,
+   "share_wrong": 0.25
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The top of the board is cut off; the 'HOT SANDWICHES' heading is only partly visible and the right-hand price digits are cut at the photo edge. The prices for BEST BEEF, BEEF SUPREME and BEEF, BACON & CHEESE are truncated at the edge, so they are left blank or incomplete. The price column is mostly visible for the lower rows.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 4.267564999987371,
+ "cost_usd": 0.0007614,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

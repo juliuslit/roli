@@ -1,0 +1,61 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8292682926829268,
+ "expected_items": 41,
+ "found_items": 34,
+ "unmatched_expected_names": [
+  "Our Special Blend Coffee",
+  "Other Delicious Bakery Pies",
+  "No. 1",
+  "No. 2",
+  "No. 3",
+  "No. 4",
+  "No. 5"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Coffee"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 0.8529411764705882,
+ "price_wrong_names": [
+  "Waffles: price '30' vs key '20c'",
+  "Ham: price '30' vs key '20c'",
+  "Grilled Cheese: price '15' vs key ''",
+  "Chicken Salad: price '35' vs key '25c'",
+  "Grillburger: price '35' vs key '25c'"
+ ],
+ "descriptions_right": 0.6875,
+ "descriptions_checked": 16,
+ "tags_right": 1.0,
+ "portion_right": 0.9705882352941176,
+ "has_choice_right": 0.9705882352941176,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 2,
+   "total": 3,
+   "share_wrong": 0.6666666666666666
+  },
+  "low": {
+   "wrong": 4,
+   "total": 32,
+   "share_wrong": 0.125
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is small, skewed and partly in shadow; many item names and prices are faint or very small, so several entries are low confidence. The top-left title block is decorative and not transcribed. Breakfast suggestion prices and some descriptions are too small to read reliably and are left blank where unclear.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 11.07586412501405,
+ "cost_usd": 0.0019385,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": ""
+}

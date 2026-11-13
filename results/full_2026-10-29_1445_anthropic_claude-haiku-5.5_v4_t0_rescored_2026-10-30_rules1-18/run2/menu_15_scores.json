@@ -1,0 +1,64 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9761904761904762,
+ "expected_items": 42,
+ "other_set_aside": 0,
+ "found_items": 41,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Chzy garlic Bread"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Cheezy garlic Bread ~ Chzy garlic Bread (89%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.926829268292683,
+ "price_wrong_names": [
+  "Grilled Cheese: price '9.50' vs key '7.50'",
+  "Solaraide (Lemonade + Tea): price '4 / 4.50' vs key '4'",
+  "Lost Coast Root Beer: price '2.50' vs key '4.50'"
+ ],
+ "descriptions_right": 0.5652173913043478,
+ "descriptions_checked": 23,
+ "tags_right": 0.8780487804878049,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 23,
+   "share_wrong": 0.043478260869565216
+  },
+  "low": {
+   "wrong": 3,
+   "total": 19,
+   "share_wrong": 0.15789473684210525
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Chalkboard menu with glare and reflections across the middle and lower sections; some prices and descriptions are faint or partly obscured. Several lines in the Burgers and Sandwiches sections are hard to read with certainty, so some prices are left blank or marked low confidence. Chalk-drawn decorative symbols and the 'Dogs' sign at the left edge were ignored.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 14.393040333001409,
+ "cost_usd": 0.0025073,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3748,
+ "completion_tokens": 4265,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793299978-PfvfUK7Yf5mWX59e0HAS",
+ "rep": 2
+}

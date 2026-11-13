@@ -1,0 +1,68 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.975609756097561,
+ "expected_items": 41,
+ "other_set_aside": 0,
+ "found_items": 40,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Our Special Blend Coffee"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 1,
+ "grouping_names": [
+  "Our Homemade Pies -> ['Icebox Chocolate', 'Half Moon Peach', 'Half Moon Apple', 'Other Delicious Bakery Pies']"
+ ],
+ "prices_right": 0.7777777777777778,
+ "price_wrong_names": [
+  "Grilled Cheese: price '15' vs key ''",
+  "Chicken Salad: price '35' vs key '25c'",
+  "Grillburger: price '35' vs key '25c'",
+  "Waffles: price '30' vs key '20c'",
+  "Steak Plate: price '45' vs key '65c'",
+  "No. 2: price '45' vs key '35c'",
+  "No. 3: price '40' vs key '45c'",
+  "No. 4: price '40' vs key '45c'"
+ ],
+ "descriptions_right": 0.3888888888888889,
+ "descriptions_checked": 18,
+ "tags_right": 1.0,
+ "portion_right": 0.8333333333333334,
+ "has_choice_right": 0.8611111111111112,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 5,
+   "share_wrong": 0.2
+  },
+  "low": {
+   "wrong": 8,
+   "total": 32,
+   "share_wrong": 0.25
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is a small, low-resolution print on a blue card photographed at an angle, so much of the fine text is blurred. Prices are mostly legible at the cent level, but some item names and descriptions in the small print are uncertain and have been marked low confidence or omitted. The left panel (restaurant name, address, slogans) was ignored as non-item text.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 12.364529832993867,
+ "cost_usd": 0.0022388,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "reasoning_tokens": null,
+ "generation_id": null,
+ "rep": 1
+}

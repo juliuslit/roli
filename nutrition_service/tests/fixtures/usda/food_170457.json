@@ -1,0 +1,311 @@
+{
+  "fdcId": 170457,
+  "description": "Tomatoes, red, ripe, raw, year round average",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 49,
+        "code": "NC",
+        "description": "Calculated",
+        "foodNutrientSource": {
+          "id": 2,
+          "code": "4",
+          "description": "Calculated or imputed"
+        }
+      },
+      "id": 1525344,
+      "amount": 0.028,
+      "dataPoints": 0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 68,
+        "code": "Z",
+        "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)",
+        "foodNutrientSource": {
+          "id": 5,
+          "code": "7",
+          "description": "Assumed zero"
+        }
+      },
+      "id": 1525327,
+      "amount": 0.0,
+      "dataPoints": 0
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 86686,
+      "gramWeight": 123.0,
+      "sequenceNumber": 6,
+      "amount": 1.0,
+      "modifier": "medium whole (2-3/5\" dia)",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86687,
+      "gramWeight": 20.0,
+      "sequenceNumber": 7,
+      "amount": 1.0,
+      "modifier": "slice, medium (1/4\" thick)",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86685,
+      "gramWeight": 182.0,
+      "sequenceNumber": 5,
+      "amount": 1.0,
+      "modifier": "large whole (3\" dia)",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86684,
+      "gramWeight": 17.0,
+      "sequenceNumber": 4,
+      "amount": 1.0,
+      "modifier": "cherry",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86683,
+      "gramWeight": 62.0,
+      "sequenceNumber": 3,
+      "amount": 1.0,
+      "modifier": "Italian tomato",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86692,
+      "gramWeight": 15.0,
+      "sequenceNumber": 12,
+      "amount": 1.0,
+      "modifier": "slice, thin/small",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86682,
+      "gramWeight": 180.0,
+      "sequenceNumber": 2,
+      "amount": 1.0,
+      "modifier": "cup, chopped or sliced",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86689,
+      "gramWeight": 91.0,
+      "sequenceNumber": 9,
+      "amount": 1.0,
+      "modifier": "small whole (2-2/5\" dia)",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86690,
+      "gramWeight": 27.0,
+      "sequenceNumber": 10,
+      "amount": 1.0,
+      "modifier": "slice, thick/large (1/2\" thick)",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86681,
+      "gramWeight": 149.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "modifier": "cup cherry tomatoes",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86691,
+      "gramWeight": 31.0,
+      "sequenceNumber": 11,
+      "amount": 1.0,
+      "modifier": "wedge (1/4 of medium tomato)",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86693,
+      "gramWeight": 148.0,
+      "sequenceNumber": 13,
+      "amount": 1.0,
+      "modifier": "NLEA serving",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 86688,
+      "gramWeight": 62.0,
+      "sequenceNumber": 8,
+      "amount": 1.0,
+      "modifier": "plum tomato",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "scientificName": "Solanum lycopersicum",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 3337544,
+      "value": "http://purl.obolibrary.org/obo/NCBITaxon_4081",
+      "name": "NCBI Taxon",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3337545,
+      "value": "http://purl.obolibrary.org/obo/NCBITaxon_35493",
+      "name": "NCBI Taxon Parent",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3337546,
+      "value": "Solanum lycopersicum",
+      "name": "Scientific Name",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3337547,
+      "value": "http://purl.obolibrary.org/obo/FOODON_03309927",
+      "name": "FoodOn Ontology ID #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3337548,
+      "value": "tomato (raw)",
+      "name": "FoodOn Ontology Name #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3337549,
+      "value": "http://purl.obolibrary.org/obo/FOODON_00001262",
+      "name": "Ontology ID For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3337550,
+      "value": "botanical fruit food product",
+      "name": "Ontology Name For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    }
+  ],
+  "nutrientConversionFactors": [
+    {
+      "id": 13608,
+      "proteinValue": 2.44,
+      "fatValue": 8.37,
+      "carbohydrateValue": 3.57,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 18680,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "inputFoods": [],
+  "ndbNumber": 11529,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 11,
+    "code": "1100",
+    "description": "Vegetables and Vegetable Products"
+  }
+}

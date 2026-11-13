@@ -1,0 +1,64 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9761904761904762,
+ "expected_items": 42,
+ "other_set_aside": 0,
+ "found_items": 41,
+ "joined_found": 4,
+ "unmatched_expected_names": [
+  "Chzy garlic Bread"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Cheesy Garlic Bread ~ Chzy garlic Bread (84%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.926829268292683,
+ "price_wrong_names": [
+  "Lost Coast Root Beer: price '2.50' vs key '4.50'",
+  "Canned Soda: price '2' vs key '2.50'",
+  "Solaraide: price '4 / 4.50' vs key '4'"
+ ],
+ "descriptions_right": 0.5652173913043478,
+ "descriptions_checked": 23,
+ "tags_right": 0.8780487804878049,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 2,
+   "total": 27,
+   "share_wrong": 0.07407407407407407
+  },
+  "low": {
+   "wrong": 2,
+   "total": 15,
+   "share_wrong": 0.13333333333333333
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Photo is a chalkboard with glare and reflections across the middle and lower sections; some prices are faint or hard to pin to their item. Left edge partly cut off by a sign (YOUR...OGS) and a person's reflection covers part of the lower-right area. Some lines were read with medium or low confidence.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 13.39426345800166,
+ "cost_usd": 0.0025556,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 4186,
+ "completion_tokens": 4274,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793377892-fRHlez4R0pOMERubaMDt"
+}

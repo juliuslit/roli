@@ -1,0 +1,54 @@
+{
+ "photo": "06",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9120879120879121,
+ "expected_items": 91,
+ "found_items": 83,
+ "unmatched_expected_names": [
+  "JOHNNO",
+  "FUMO V",
+  "Make your own pizza - standard base with sauce and mozzarella",
+  "Proscuitto ham",
+  "Chipotle chilli",
+  "KIDS MEAL",
+  "CHARCUTERIE PLATTER",
+  "CHARCUTERIE & CHEESE PLATTER"
+ ],
+ "invented": 7,
+ "invented_names": [
+  "JOHNO",
+  "FISH PIZZA",
+  "Prosciutto ham",
+  "Chipotle chillies",
+  "Smaller sized pizza with tomato sauce & cheese, a glass of juice or soft drink, and a scoop of gelato for pudding.",
+  "Slices of pork & wild boar salami, prosciutto ham and ventricina. Served with marinated olives, rocket and tomato salad and freshly baked pizza bread.",
+  "Charcuterie with goats cheese and Dolcelatte Blue Cheese."
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.7222222222222222,
+ "descriptions_checked": 36,
+ "tags_right": 0.6867469879518072,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9879518072289156,
+ "belongs_to_right": 0.1836734693877551,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 7,
+   "total": 90,
+   "share_wrong": 0.07777777777777778
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 290.1545193339989,
+ "cost_usd": 0.00777648,
+ "finish_reason": "stop"
+}

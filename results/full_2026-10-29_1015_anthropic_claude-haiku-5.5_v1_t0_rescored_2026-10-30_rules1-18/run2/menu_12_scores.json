@@ -1,0 +1,56 @@
+{
+ "photo": "12",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9772727272727273,
+ "expected_items": 44,
+ "other_set_aside": 2,
+ "found_items": 43,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Mozarella Pesto"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 2,
+ "grouping_names": [
+  "parent Childs Half Sandwich -> ['Ham sandwich', 'Cheese Sandwich', 'Cheese & Ham Sandwich', 'Cucumber & Hummus Sandwich (VE)']",
+  "parent Half Jacket Potato -> ['Cheese & Beans', 'Tuna Mayo']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 7,
+ "tags_right": 0.972972972972973,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.5,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 0,
+   "total": 37,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is partly in shadow and slightly skewed; some small prices and descriptions are faint. The Warming Buddha Bowl price (10.55) is shown next to the item and is read as printed. Several prices are aligned to the right of their items and are assigned by row position, so they carry medium confidence.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 13.487503249984002,
+ "cost_usd": 0.0022945,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "reasoning_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

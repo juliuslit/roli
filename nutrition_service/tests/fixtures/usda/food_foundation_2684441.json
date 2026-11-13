@@ -1,0 +1,556 @@
+{
+  "fdcId": 2684441,
+  "description": "Fish, salmon, Atlantic, farm raised, raw",
+  "publicationDate": "4/18/2024",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 1,
+        "code": "A",
+        "description": "Analytical",
+        "foodNutrientSource": {
+          "id": 1,
+          "code": "1",
+          "description": "Analytical or derived from analytical"
+        }
+      },
+      "id": 34674975,
+      "amount": 2.277,
+      "dataPoints": 8,
+      "max": 2.961,
+      "min": 1.662,
+      "median": 2.296,
+      "minYearAcquired": 2023,
+      "nutrientAnalysisDetails": [
+        {
+          "subSampleId": 2726911,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684479,
+              "purchaseDate": "9/6/2023",
+              "storeCity": "Blacksburg",
+              "storeState": "VA",
+              "packerCity": "Cincinnati",
+              "packerState": "OH"
+            }
+          ],
+          "amount": 2.625,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2726912,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684481,
+              "purchaseDate": "9/18/2023",
+              "storeCity": "Christiansburg",
+              "storeState": "VA",
+              "packerCity": "Boston",
+              "packerState": "MA"
+            }
+          ],
+          "amount": 2.961,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2726913,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684483,
+              "purchaseDate": "9/21/2023",
+              "storeCity": "Christiansburg",
+              "storeState": "VA",
+              "packerCity": "Miami",
+              "packerState": "FL"
+            }
+          ],
+          "amount": 2.325,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2726914,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684485,
+              "purchaseDate": "9/21/2023",
+              "storeCity": "Christiansburg",
+              "storeState": "VA",
+              "packerCity": "Batavia",
+              "packerState": "IL"
+            }
+          ],
+          "amount": 2.027,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2726915,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684487,
+              "purchaseDate": "9/25/2023",
+              "storeCity": "Greenbelt",
+              "storeState": "MD",
+              "packerCity": "Landover",
+              "packerState": "MD"
+            }
+          ],
+          "amount": 2.348,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2726916,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684489,
+              "purchaseDate": "9/25/2023",
+              "storeCity": "Greenbelt",
+              "storeState": "MD",
+              "packerCity": "Jessup",
+              "packerState": "MD"
+            }
+          ],
+          "amount": 2.005,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2726917,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684491,
+              "purchaseDate": "9/25/2023",
+              "storeCity": "Greenbelt",
+              "storeState": "MD",
+              "packerCity": "Jessup",
+              "packerState": "MD"
+            }
+          ],
+          "amount": 1.662,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2726918,
+          "nutrientId": 1258,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684493,
+              "purchaseDate": "10/1/2023",
+              "storeCity": "College Park",
+              "storeState": "MD",
+              "packerCity": "Arlington",
+              "packerState": "VA"
+            }
+          ],
+          "amount": 2.266,
+          "labMethodTechnique": "GLC",
+          "labMethodDescription": "AOAC 996.06",
+          "labMethodOriginalDescription": "996.06 (41.1.28A) Fat (Total, Saturated and Monounsaturated) in foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        }
+      ]
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 1,
+        "code": "A",
+        "description": "Analytical",
+        "foodNutrientSource": {
+          "id": 1,
+          "code": "1",
+          "description": "Analytical or derived from analytical"
+        }
+      },
+      "id": 33829163,
+      "amount": 62.11,
+      "dataPoints": 8,
+      "max": 71.9,
+      "min": 50.9,
+      "median": 62.3,
+      "minYearAcquired": 2023,
+      "nutrientAnalysisDetails": [
+        {
+          "subSampleId": 2684856,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684479,
+              "purchaseDate": "9/6/2023",
+              "storeCity": "Blacksburg",
+              "storeState": "VA",
+              "packerCity": "Cincinnati",
+              "packerState": "OH"
+            }
+          ],
+          "amount": 61.3,
+          "labMethodTechnique": "GC/Direct saponification",
+          "labMethodDescription": "AOAC 994.10 mod",
+          "labMethodOriginalDescription": "Eurofins modified 994.10 Cholesterol in Foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2684857,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684481,
+              "purchaseDate": "9/18/2023",
+              "storeCity": "Christiansburg",
+              "storeState": "VA",
+              "packerCity": "Boston",
+              "packerState": "MA"
+            }
+          ],
+          "amount": 65.9,
+          "labMethodTechnique": "GC/Direct saponification",
+          "labMethodDescription": "AOAC 994.10 mod",
+          "labMethodOriginalDescription": "Eurofins modified 994.10 Cholesterol in Foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2684858,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684483,
+              "purchaseDate": "9/21/2023",
+              "storeCity": "Christiansburg",
+              "storeState": "VA",
+              "packerCity": "Miami",
+              "packerState": "FL"
+            }
+          ],
+          "amount": 71.9,
+          "labMethodTechnique": "GC/Direct saponification",
+          "labMethodDescription": "AOAC 994.10 mod",
+          "labMethodOriginalDescription": "Eurofins modified 994.10 Cholesterol in Foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2684859,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684485,
+              "purchaseDate": "9/21/2023",
+              "storeCity": "Christiansburg",
+              "storeState": "VA",
+              "packerCity": "Batavia",
+              "packerState": "IL"
+            }
+          ],
+          "amount": 63.6,
+          "labMethodTechnique": "GC/Direct saponification",
+          "labMethodDescription": "AOAC 994.10 mod",
+          "labMethodOriginalDescription": "Eurofins modified 994.10 Cholesterol in Foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2684860,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684487,
+              "purchaseDate": "9/25/2023",
+              "storeCity": "Greenbelt",
+              "storeState": "MD",
+              "packerCity": "Landover",
+              "packerState": "MD"
+            }
+          ],
+          "amount": 61.9,
+          "labMethodTechnique": "GC/Direct saponification",
+          "labMethodDescription": "AOAC 994.10 mod",
+          "labMethodOriginalDescription": "Eurofins modified 994.10 Cholesterol in Foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2684861,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684489,
+              "purchaseDate": "9/25/2023",
+              "storeCity": "Greenbelt",
+              "storeState": "MD",
+              "packerCity": "Jessup",
+              "packerState": "MD"
+            }
+          ],
+          "amount": 50.9,
+          "labMethodTechnique": "GC/Direct saponification",
+          "labMethodDescription": "AOAC 994.10 mod",
+          "labMethodOriginalDescription": "Eurofins modified 994.10 Cholesterol in Foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2684862,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684491,
+              "purchaseDate": "9/25/2023",
+              "storeCity": "Greenbelt",
+              "storeState": "MD",
+              "packerCity": "Jessup",
+              "packerState": "MD"
+            }
+          ],
+          "amount": 58.7,
+          "labMethodTechnique": "GC/Direct saponification",
+          "labMethodDescription": "AOAC 994.10 mod",
+          "labMethodOriginalDescription": "Eurofins modified 994.10 Cholesterol in Foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        },
+        {
+          "subSampleId": 2684863,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 2684493,
+              "purchaseDate": "10/1/2023",
+              "storeCity": "College Park",
+              "storeState": "MD",
+              "packerCity": "Arlington",
+              "packerState": "VA"
+            }
+          ],
+          "amount": 62.7,
+          "labMethodTechnique": "GC/Direct saponification",
+          "labMethodDescription": "AOAC 994.10 mod",
+          "labMethodOriginalDescription": "Eurofins modified 994.10 Cholesterol in Foods",
+          "labMethodLink": "https://doi.org/10.1093/9780197610145.001.0001"
+        }
+      ]
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 312643,
+      "dataPoints": 0,
+      "gramWeight": 115.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "measureUnit": {
+        "id": 1121,
+        "name": "RACC",
+        "abbreviation": "RACC"
+      }
+    }
+  ],
+  "dataType": "Foundation",
+  "foodClass": "FinalFood",
+  "inputFoods": [
+    {
+      "id": 124142,
+      "foodDescription": "salmon, Atlantic, farm raised, raw, skin removed",
+      "inputFood": {
+        "fdcId": 2684482,
+        "description": "salmon, Atlantic, farm raised, raw, skin removed",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 15,
+          "code": "1500",
+          "description": "Finfish and Shellfish Products"
+        }
+      }
+    },
+    {
+      "id": 124140,
+      "foodDescription": "salmon, Atlantic, farm raised, raw, skin removed",
+      "inputFood": {
+        "fdcId": 2684480,
+        "description": "salmon, Atlantic, farm raised, raw, skin removed",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 15,
+          "code": "1500",
+          "description": "Finfish and Shellfish Products"
+        }
+      }
+    },
+    {
+      "id": 124134,
+      "foodDescription": "salmon, Atlantic, farm raised, raw, skin removed",
+      "inputFood": {
+        "fdcId": 2684494,
+        "description": "salmon, Atlantic, farm raised, raw, skin removed",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 15,
+          "code": "1500",
+          "description": "Finfish and Shellfish Products"
+        }
+      }
+    },
+    {
+      "id": 124132,
+      "foodDescription": "salmon, Atlantic, farm raised, raw, skin removed",
+      "inputFood": {
+        "fdcId": 2684492,
+        "description": "salmon, Atlantic, farm raised, raw, skin removed",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 15,
+          "code": "1500",
+          "description": "Finfish and Shellfish Products"
+        }
+      }
+    },
+    {
+      "id": 124129,
+      "foodDescription": "salmon, Atlantic, farm raised, raw, skin removed",
+      "inputFood": {
+        "fdcId": 2684486,
+        "description": "salmon, Atlantic, farm raised, raw, skin removed",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 15,
+          "code": "1500",
+          "description": "Finfish and Shellfish Products"
+        }
+      }
+    },
+    {
+      "id": 124127,
+      "foodDescription": "salmon, Atlantic, farm raised, raw, skin removed",
+      "inputFood": {
+        "fdcId": 2684484,
+        "description": "salmon, Atlantic, farm raised, raw, skin removed",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 15,
+          "code": "1500",
+          "description": "Finfish and Shellfish Products"
+        }
+      }
+    },
+    {
+      "id": 124125,
+      "foodDescription": "salmon, Atlantic, farm raised, raw, skin removed",
+      "inputFood": {
+        "fdcId": 2684490,
+        "description": "salmon, Atlantic, farm raised, raw, skin removed",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 15,
+          "code": "1500",
+          "description": "Finfish and Shellfish Products"
+        }
+      }
+    },
+    {
+      "id": 124123,
+      "foodDescription": "salmon, Atlantic, farm raised, raw, skin removed",
+      "inputFood": {
+        "fdcId": 2684488,
+        "description": "salmon, Atlantic, farm raised, raw, skin removed",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 15,
+          "code": "1500",
+          "description": "Finfish and Shellfish Products"
+        }
+      }
+    }
+  ],
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 23086,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    },
+    {
+      "id": 23079,
+      "proteinValue": 4.27,
+      "fatValue": 9.02,
+      "carbohydrateValue": 3.87,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    }
+  ],
+  "ndbNumber": 15236,
+  "isHistoricalReference": false,
+  "foodCategory": {
+    "id": 15,
+    "code": "1500",
+    "description": "Finfish and Shellfish Products"
+  }
+}

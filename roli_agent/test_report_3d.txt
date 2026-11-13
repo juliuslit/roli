@@ -1,0 +1,28 @@
+Checkpoint 3D test report, 2026-11-05T22:59:34Z
+
+== roli_agent (repo root: .venv/bin/python -m pytest; run with LANGSMITH_TRACING=false because the LangSmith monthly trace quota is exhausted and tracing is on in .env) ==
+...........................................ssss......................... [ 21%]
+........................................................................ [ 42%]
+........................................................................ [ 63%]
+........................................................................ [ 84%]
+......................................................                   [100%]
+=============================== warnings summary ===============================
+    exec(co, module.__dict__)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ============================
+SKIPPED [1] roli_agent/tests/test_live.py:34: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:41: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:48: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:55: set ROLI_LIVE_TESTS=1 for live calls
+338 passed, 4 skipped, 1 warning in 5.40s
+
+== nutrition_service (nutrition_service/.venv/bin/python -m pytest, from nutrition_service/) ==
+=========================== short test summary info ============================
+SKIPPED [1] tests/test_live.py:25: set ROLI_LIVE_TESTS=1 to call USDA
+SKIPPED [1] tests/test_live.py:33: set ROLI_LIVE_TESTS=1 to call USDA
+SKIPPED [1] tests/test_live.py:40: set ROLI_LIVE_TESTS=1 to call USDA
+SKIPPED [1] tests/test_live.py:46: set ROLI_LIVE_TESTS=1 to call USDA
+332 passed, 4 skipped in 3.12s
+
+Baselines before 3D (test_report_3c.txt): agent 318 passed, library 319 passed. New in 3D: roli_agent/tests/test_3d_tags_cards.py (11), roli_agent/tests/test_3d_reference_usda.py (9), nutrition_service/tests/test_store.py (13); one 3C test rewritten for the fish_and_chips card, one 2D test updated for the three new rule rows.

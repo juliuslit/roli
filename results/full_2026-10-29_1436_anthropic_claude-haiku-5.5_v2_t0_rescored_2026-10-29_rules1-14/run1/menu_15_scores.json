@@ -1,0 +1,58 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 42,
+ "other_set_aside": 1,
+ "found_items": 42,
+ "joined_found": 2,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9285714285714286,
+ "price_wrong_names": [
+  "Grilled Cheese: price '9.50' vs key '7.50'",
+  "Lost Coast Root Beer: price '2.50' vs key '4.50'",
+  "Solaraide: price '4 / 4.50' vs key '4'"
+ ],
+ "descriptions_right": 0.6521739130434783,
+ "descriptions_checked": 23,
+ "tags_right": 0.8809523809523809,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 28,
+   "share_wrong": 0.03571428571428571
+  },
+  "low": {
+   "wrong": 2,
+   "total": 14,
+   "share_wrong": 0.14285714285714285
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Chalkboard photo with glare and reflection over the lower-middle and right sections; some prices and descriptions are faint or hard to align. The 'Plant Based' burger price and some sandwich/side prices are uncertain. Left-side burger prices are readable but small. Items with unclear prices are marked low confidence.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 14.685536584001966,
+ "cost_usd": 0.0025388,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3518,
+ "completion_tokens": 4374,
+ "generation_id": "gen-1793299180-aWWo4G6r3mOfkB7eFbCc",
+ "rep": 1
+}

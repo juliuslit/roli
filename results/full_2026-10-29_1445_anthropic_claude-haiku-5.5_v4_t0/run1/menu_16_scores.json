@@ -1,0 +1,57 @@
+{
+ "photo": "16",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 14,
+ "found_items": 14,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 1,
+ "invented_names": [
+  "AROZ CON POLLO"
+ ],
+ "cut_off_listed": 1,
+ "cut_off_names": [
+  "CHILE COLORADO"
+ ],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9285714285714286,
+ "descriptions_checked": 14,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 11,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 2,
+   "total": 5,
+   "share_wrong": 0.4
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Left and right edges are cut off: some right-column prices and names are partly hidden (e.g. Pollo Fundido, Tacos al Carbon prices, Tampico column partly cut). The left-column items 'Chile Verde', 'Chile Colorado' and 'Arroz con Pollo' are cut at the left edge, so their names are partially hidden; those are recorded as readable but with low confidence. Glare/blur near the Pollo Fundido and Tacos al Carbon lines.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 6.542649040988181,
+ "cost_usd": 0.0012999,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3334,
+ "completion_tokens": 1933,
+ "generation_id": "gen-1793299731-lBqGsv7rKFe2JpzzndR9"
+}

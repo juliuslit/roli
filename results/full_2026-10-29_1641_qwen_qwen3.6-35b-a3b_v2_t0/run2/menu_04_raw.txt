@@ -1,0 +1,14 @@
+{
+"readable": "yes",
+"problems": "",
+"items": [
+{"section": "", "category": "food", "name": "BLUEFIN CRUDO", "description": "botarga, muscat grape, meyer lemon\nPalmento Cutino, Carricante, Etna, Sicily, Italy '25", "price": "25", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "food", "name": "TALEGGIO SCARPINOCC", "description": "aceto balsamico, parmigiano reggiano", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "food", "name": "STROZZAPRETI", "description": "chanterelle, turnip, veskhi, pecorino toscano\nHammerling, Sparkling Red, 'Big Night', California '24", "price": "24", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "food", "name": "TORTELLINI IN BRODO", "description": "ham hock, shelling bean, chives\nWeingut Nikolas, Schiava, Alto Adige, Italy '24", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "food", "name": "PORK BELLY", "description": "apple, agrodolce, collard greens\nPiquentum, Refosk, Istria, Croatia '21", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "food", "name": "CHOCOLATE BUDINO", "description": "espresso-caramel crema, sea salt\nFred Jerbis, Vermut, Friuli, Italy NV", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "other", "name": "90 per person", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "other", "name": "45 optional wine pairing", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"}
+]
+}

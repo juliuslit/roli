@@ -1,0 +1,60 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9565217391304348,
+ "expected_items": 46,
+ "found_items": 44,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream",
+  "Mixers: Coca Cola/Diet, Lemonade, Tonic/Diet"
+ ],
+ "invented": 3,
+ "invented_names": [
+  "Alternative milks (no charge)",
+  "Victorian Lemonade, Ginger Beer, Sparkling Elderflower",
+  "Bright, orchard fruits & brioche"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 2,
+ "garbled_names": [
+  "with marshmallows & whipped cream ~ Hot Chocolate with marshmallows & whipped cream (71%)",
+  "Coca Cola/Diet, Lemonade, Tonic/Diet ~ Mixers: Coca Cola/Diet, Lemonade, Tonic/Diet (83%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9772727272727273,
+ "price_wrong_names": [
+  "Caramel, Vanilla, Hazelnut: price '0.6' vs key '0.5'"
+ ],
+ "descriptions_right": 0.0,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.8863636363636364,
+ "has_choice_right": 0.7954545454545454,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 6,
+   "total": 49,
+   "share_wrong": 0.12244897959183673
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 205.71018641698174,
+ "cost_usd": 0.0037371,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 1803,
+ "completion_tokens": 3744,
+ "generation_id": "gen-1793304147-1FHZ6mDeSzHrArB6swyh"
+}

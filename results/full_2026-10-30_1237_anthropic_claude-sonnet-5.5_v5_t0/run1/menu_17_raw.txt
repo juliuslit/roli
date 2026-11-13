@@ -1,0 +1,7 @@
+{"readable": "partly", "problems": "The photo is small, skewed and low resolution, so the text is mostly too tiny to read reliably. Most lines in every section, including the top half (dim sum, soup, hotpot, noodles, chicken, beef, pork, rice, dessert), the seafood and tofu sections, and the lunch special, were left out. The left edge is cut off in the lower-left menu. Only a few names are legible enough to list, and none of their prices could be read.", "items": [
+{"section": "RICE DISHES", "category": "food", "name": "Fried Rice", "description": "", "price": "10.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "RICE DISHES", "category": "food", "name": "Combination Fried Rice", "description": "", "price": "11.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "RICE DISHES", "category": "food", "name": "Steamed Rice", "description": "", "price": "1.00", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "DESSERT", "category": "food", "name": "Strawberry Ice Cream", "description": "", "price": "3.99", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TOFU & VEGETABLE", "category": "food", "name": "Braised Tofu", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"}
+]}

@@ -1,0 +1,1 @@
+{"readable": "no", "problems": "The photo shows salt and pepper shakers in the foreground, which are obscuring the majority of the menu. The menu is visible only in the background and is extremely blurred and out of focus, making it impossible to read any items, descriptions, or prices reliably.", "items": []}

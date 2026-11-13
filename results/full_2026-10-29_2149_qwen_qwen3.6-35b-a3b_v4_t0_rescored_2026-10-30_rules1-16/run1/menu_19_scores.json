@@ -1,0 +1,79 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9024390243902439,
+ "expected_items": 41,
+ "other_set_aside": 1,
+ "found_items": 37,
+ "joined_found": 2,
+ "unmatched_expected_names": [
+  "Shoestring Potatoes (Order)",
+  "Mid-Nite Special",
+  "Pimento Cheese",
+  "Grillburger"
+ ],
+ "invented": 2,
+ "invented_names": [
+  "FUDGE CHOCOLATE",
+  "OUR DELICIOUS HAMBURGER with MELTED CHEESE"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 4,
+ "garbled_names": [
+  "Shredding Potatoes (Chips) ~ Shoestring Potatoes (Order) (64%)",
+  "BIG NITE SPECIAL ~ Mid-Nite Special (88%)",
+  "FONTINA CHEESE ~ Pimento Cheese (50%)",
+  "GRILLED BURGER ~ Grillburger (79%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.5945945945945946,
+ "price_wrong_names": [
+  "Fruit Juices: price '15c' vs key '10c'",
+  "HALF MOON PEACH: price '' vs key '10c'",
+  "HALF MOON APPLE: price '' vs key '10c'",
+  "OTHER DELICIOUS BAKERY PIES: price '' vs key '10c'",
+  "STEAK PLATE: price '50c' vs key '65c'",
+  "BACON AND EGG: price '25c' vs key '30c'",
+  "GRILLED CHEESE: price '20c' vs key ''",
+  "OUR SPECIAL BLEND COFFEE: price '' vs key '5c'",
+  "FRESH ORANGE JUICE: price '' vs key '10c'",
+  "Doughnuts (Two): price '10c' vs key '5c'",
+  "HAMBURGER STEAK PLATE: price '50c' vs key '55c'",
+  "No. 1: price '30c' vs key '35c'",
+  "No. 3: price '40c' vs key '45c'",
+  "BACON & TOMATO: price '20c' vs key '25c'",
+  "OUR HOMEMADE PIES: price '' vs key '10c'"
+ ],
+ "descriptions_right": 0.15789473684210525,
+ "descriptions_checked": 19,
+ "tags_right": 1.0,
+ "portion_right": 0.8108108108108109,
+ "has_choice_right": 0.8648648648648649,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 21,
+   "total": 43,
+   "share_wrong": 0.4883720930232558
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is a tri-fold layout. The left column (Starters, Drinks, Desserts) is readable. The middle column (Sandwiches, Burgers) is readable. The right column (Breakfast Suggestions) is readable. However, the text is small and slightly blurry, particularly the fine print descriptions under the main items (e.g., 'Served with Lemon and Mustard', 'Served on Large Toasted Bun'). Some prices are faint. I have transcribed what is legible.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 14.90697583401925,
+ "cost_usd": 0.0034163,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2825,
+ "completion_tokens": 3570,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793325506-WEBc07U9xcsiHKMhGSEw",
+ "rep": 1
+}

@@ -1,0 +1,84 @@
+{
+ "model": "anthropic/claude-haiku-5.5",
+ "prompt": "v2",
+ "photos": [
+  "06",
+  "17",
+  "13"
+ ],
+ "calls": [
+  {
+   "photo": "06",
+   "model": "anthropic/claude-haiku-5.5",
+   "prompt_version": "v2",
+   "telegram_file": "telegram_1280/menu_06_pizzaface_uk_printed_spread.jpg",
+   "photo_size": [
+    1280,
+    964
+   ],
+   "seconds": 20.277741249999963,
+   "prompt_tokens": 3518,
+   "completion_tokens": 7004,
+   "cost_usd": 0.0038538,
+   "provider": "Google",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793234702-BDdHOD6v0ZdPWtFtieEO",
+   "error": ""
+  },
+  {
+   "photo": "17",
+   "model": "anthropic/claude-haiku-5.5",
+   "prompt_version": "v2",
+   "telegram_file": "telegram_1280/menu_17_duck_house_takeout_printed_wall.jpg",
+   "photo_size": [
+    719,
+    1280
+   ],
+   "seconds": 9.28593779100629,
+   "prompt_tokens": 3104,
+   "completion_tokens": 2855,
+   "cost_usd": 0.0017379,
+   "provider": "Google",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793234728-PruSdMXJ8S2IRqzU3igC",
+   "error": ""
+  },
+  {
+   "photo": "13",
+   "model": "anthropic/claude-haiku-5.5",
+   "prompt_version": "v2",
+   "telegram_file": "telegram_1280/menu_13_hard_obstructed_cafe_mondegar.jpg",
+   "photo_size": [
+    960,
+    1280
+   ],
+   "seconds": 5.392413249996025,
+   "prompt_tokens": 3518,
+   "completion_tokens": 1365,
+   "cost_usd": 0.0010343,
+   "provider": "Google",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793234745-3x3nZ1xW2J2OuFye2Wxx",
+   "error": ""
+  }
+ ],
+ "answers": 3,
+ "dishes_found_avg": 0.3883061383061383,
+ "dishes_found_min": 0.13286713286713286,
+ "invented_total": 9,
+ "cut_off_listed_total": 7,
+ "prices_right_avg": 0.9429271708683474,
+ "descriptions_right_avg": 0.425,
+ "tags_right_avg": 0.5970551378446115,
+ "portion_right_avg": 1.0,
+ "has_choice_right_avg": 0.9705513784461153,
+ "belongs_to_right_avg": 0.0,
+ "format_right_avg": 1.0,
+ "bad_photos_caught": 2,
+ "bad_photos_total": 2,
+ "false_alarms": 1,
+ "check_list_items": 53,
+ "seconds_avg": 11.652030763667426,
+ "cost_total_usd": 0.006626,
+ "cost_avg_usd": 0.0022086666666666665
+}

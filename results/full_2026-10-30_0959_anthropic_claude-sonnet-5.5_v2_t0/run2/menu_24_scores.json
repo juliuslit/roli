@@ -1,0 +1,62 @@
+{
+ "photo": "24",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8571428571428571,
+ "expected_items": 7,
+ "other_set_aside": 0,
+ "found_items": 6,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "French Dip w/Cheddar"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.3333333333333333,
+ "price_wrong_names": [
+  "BEST BEEF: price '' vs key '6.74'",
+  "BEEF SUPREME: price '' vs key '7.44'",
+  "BEEF, BACON & CHEESE: price '' vs key '7.84'",
+  "BEEF & CHEDDAR: price '' vs key '7.34'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 0,
+   "total": 1,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 4,
+   "total": 5,
+   "share_wrong": 0.8
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The photo is cropped at the right edge, so the price digits on most rows are cut off (for example 6 7 4, 7 4 4, 7 8 4, 7 3 4, 7 7 8 are only partly visible). Glare and reflections cover parts of the board. The 'HOT SANDWICHES' heading is cut off at the top. The bottom row (FRENCH DIP) is partly cut off. Its price 735 is readable, but the 'W/CHEDDAR' price (79...) is cut off. Because the prices are truncated, I left them blank where I could not read the full value.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 6.282483165996382,
+ "cost_usd": 0.014142,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3336,
+ "completion_tokens": 747,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793369426-4XIesFMrREUmse10CZq7"
+}

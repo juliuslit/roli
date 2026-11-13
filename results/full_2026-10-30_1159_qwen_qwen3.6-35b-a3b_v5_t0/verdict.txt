@@ -1,0 +1,37 @@
+qwen/qwen3.6-35b-a3b x v5 x temperature 0: 50 answers, $0.16  [scoring_rules.md interpretations 1-18 (2026-10-30)]
+
+[as_written] passes: False
+  dishes found avg 89.3%  min photo 0%  by run {1: 91.3%, 2: 87.3%}
+  invented by run {1: 35, 2: 22}  cut-off listed by run {1: 10, 2: 10}  prices 86.7%  descriptions 83.8%  format 88.0% (fenced 0)
+  partly caught {1: '4/7', 2: '5/7'}  false alarms {1: 1, 2: 1}  speed 34 s  cost 0.32 c/photo
+  garbled 30  groupings 5  found via joined text 40  tokens in/out avg 3075/3333  reasoning tokens total 0
+    FAIL  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  2b cut-off lines listed 0 on both runs
+    FAIL  3 prices >=95%
+    FAIL  4 descriptions >=90%
+    FAIL  6 format >=98%
+    FAIL  7 all partly photos caught, both runs
+    PASS  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+[photo_17_set_aside] passes: False
+  dishes found avg 93.0%  min photo 0%  by run {1: 95.1%, 2: 90.9%}
+  invented by run {1: 35, 2: 22}  cut-off listed by run {1: 10, 2: 10}  prices 86.7%  descriptions 83.8%  format 91.7% (fenced 0)
+  partly caught {1: '4/6', 2: '5/6'}  false alarms {1: 1, 2: 1}  speed 28 s  cost 0.25 c/photo
+  garbled 30  groupings 5  found via joined text 40  tokens in/out avg 3086/2471  reasoning tokens total 0
+    FAIL  1 dishes found >=95% avg
+    FAIL  1 no photo <80%
+    FAIL  2 invented 0 on both runs
+    FAIL  2b cut-off lines listed 0 on both runs
+    FAIL  3 prices >=95%
+    FAIL  4 descriptions >=90%
+    FAIL  6 format >=98%
+    FAIL  7 all partly photos caught, both runs
+    PASS  7 false alarms <=3 per run
+    PASS  8 speed <60 s avg
+
+hosts: Parasail 48 calls, median 128 output tok/s, DeepInfra 2 calls, median 6 output tok/s
+
+check list: 17 medium/low key items -> /Users/juliuslitinskas/projects/roli/results/full_2026-10-30_1159_qwen_qwen3.6-35b-a3b_v5_t0/check_list.csv

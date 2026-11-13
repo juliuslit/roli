@@ -1,0 +1,95 @@
+{
+ "file": "menu_24_hard_partial_mr_bs_menu_board.jpg",
+ "telegram_file": "telegram_1280/menu_24_hard_partial_mr_bs_menu_board.jpg",
+ "expected": {
+  "readable": "partly",
+  "problems": "close-up of one section only; right edge cut off so prices lose digits and a second size column is missing",
+  "items": [
+   {
+    "section": "HOT SANDWICHES",
+    "category": "food",
+    "name": "Best Beef",
+    "description": "",
+    "price": "6.74",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HOT SANDWICHES",
+    "category": "food",
+    "name": "Beef Supreme",
+    "description": "",
+    "price": "7.44",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HOT SANDWICHES",
+    "category": "food",
+    "name": "Beef, Bacon & Cheese",
+    "description": "",
+    "price": "7.84",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HOT SANDWICHES",
+    "category": "food",
+    "name": "Beef & Cheddar",
+    "description": "",
+    "price": "7.34",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HOT SANDWICHES",
+    "category": "food",
+    "name": "Beef, Bac. & Cheddar",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HOT SANDWICHES",
+    "category": "food",
+    "name": "French Dip",
+    "description": "",
+    "price": "7.35",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "HOT SANDWICHES",
+    "category": "add-on",
+    "name": "French Dip w/Cheddar",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": "French Dip"
+   }
+  ]
+ },
+ "scoring_hints": {
+  "cut_off_lines_left_out": [],
+  "low_confidence_items": [
+   "Beef, Bac. & Cheddar",
+   "French Dip w/Cheddar"
+  ],
+  "medium_confidence_items": []
+ }
+}

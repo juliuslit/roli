@@ -1,0 +1,10 @@
+{"readable": "yes", "problems": "", "items": [
+{"section": "Happy Hour Specials", "category": "food", "name": "Vegetarian", "description": "", "price": "5", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Combo", "description": "", "price": "5", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Pepperoni", "description": "", "price": "5", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Wood Fire Oysters", "description": "Pesto, BBQ", "price": "3.50", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "high"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Meatballs (3)", "description": "served with homemade sauce & bread", "price": "9", "tags": "", "portion": "(3)", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Riblets", "description": "", "price": "10", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Mini Gyros (2)", "description": "Lamb", "price": "10", "tags": "", "portion": "(2)", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Focaccia / Onion Focaccia", "description": "served with olive tapenade", "price": "8", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "medium"}
+]}

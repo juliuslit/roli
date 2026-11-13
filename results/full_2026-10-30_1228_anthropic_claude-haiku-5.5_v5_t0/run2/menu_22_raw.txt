@@ -1,0 +1,9 @@
+{"readable": "yes", "problems": "", "items": [
+{"section": "Serving", "category": "food", "name": "Deli Sandwiches", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Serving", "category": "food", "name": "Hot Chicken Sandwiches", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Serving", "category": "food", "name": "Breakfast Sandwiches", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Serving", "category": "food", "name": "BLT", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Serving", "category": "food", "name": "Mac 'n' Cheese", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Serving", "category": "food", "name": "Hot Dogs", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Serving", "category": "food", "name": "Baked Goods", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"}
+]}

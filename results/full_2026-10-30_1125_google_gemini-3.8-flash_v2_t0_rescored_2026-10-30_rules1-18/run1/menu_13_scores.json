@@ -1,0 +1,62 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.7916666666666666,
+ "expected_items": 24,
+ "other_set_aside": 0,
+ "found_items": 19,
+ "joined_found": 3,
+ "unmatched_expected_names": [
+  "Wafer / Masala Papad / Boiled Eggs",
+  "Garlic Toast / Green Salad",
+  "Cheese Cherry Pineapple Stick",
+  "Onion Rings / Cheese Balls (Schezwan)",
+  "Koliwada (Paneer / Prawns)"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.875,
+ "descriptions_checked": 8,
+ "tags_right": 0.47368421052631576,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9473684210526315,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 5,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 14,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Salt and pepper shakers obstruct a significant portion of the menu; the menu is at an angle and perspective, with sections around the shakers partially readable, but many prices cut off or obscured.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 10.497370500001125,
+ "cost_usd": 0.007281,
+ "finish_reason": "stop",
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 2508,
+ "completion_tokens": 1440,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793374168-GyHOfXccBZR1vIryAjb0",
+ "rep": 1
+}

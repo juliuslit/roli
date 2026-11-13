@@ -1,0 +1,931 @@
+file,item_no,section,category,name,description,price,tags,portion,has_choice,belongs_to,confidence,notes
+menu_01_own_zuni_cafe_sf.JPG,1,Food (no header),food,Marinated olives,,7.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,2,Food (no header),food,Acme levain bread with butter,,5.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,3,Food (no header),food,Shoestring potatoes,,12.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,4,Food (no header),food,"House-cured anchovies with celery, Parmigiano-Reggiano, and coquillo olives",,19.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,5,Food (no header),food,"Fuyu persimmon and roasted beet ""carpaccio"" with Laychee goat cheese, tender herbs, and Meyer lemon-pistachio aïllade",,20.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,6,Food (no header),food,Zuni Caesar salad,,21.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,7,Food (no header),food,"Garden lettuce salad with Sungold tomatoes, Alpha Tolman cheese, chapons, and passion fruit vinaigrette",,20.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,8,Food (no header),food,Bowl of polenta with mascarpone or Parmigiano-Reggiano,,11.00,,,yes,,high,
+menu_01_own_zuni_cafe_sf.JPG,9,Food (no header),food,"Wood fire-roasted tomato and eggplant soup with mint, Urfa pepper, and charmoula",,16.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,10,Food (no header),food,"Pizza with Wagon Wheel cheese, soppressata, wild nettles, red onion, and Boont Corners sheep cheese",,30.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,11,Food (no header),food,"Spaghetti with Gulf shrimp, heirloom tomatoes, basil, garlic, Espelette pepper, and brandy",,33.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,12,Food (no header),food,"Yellowfin tuna grilled rare all'acqua di mare with Manila clams, mussels, sprouting cauliflower, string beans, a slow-cooked Early Girl tomato, and aïoli",,49.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,13,Food (no header),food,"Steak frites: Stemple Creek Ranch bavette steak with pommes frites, Padrón peppers, avocado, and chimichurri",,49.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,14,Food (no header),food,Stemple Creek Ranch ribeye steak (served with the above accompaniments),,97.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,15,Food (no header),food,"Chicken for two roasted in the wood-fired brick oven; warm bread salad with scallions, garlic, bitter greens, dried currants, and pine nuts",,75.00,,for two,no,,high,approximately 75 minutes
+menu_01_own_zuni_cafe_sf.JPG,16,Food (no header),food,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,,23.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,17,Food (no header),add-on,Shelburne Farms cheddar cheese,,3.00,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_01_own_zuni_cafe_sf.JPG,18,Food (no header),add-on,Bayley Hazen blue cheese,,3.00,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_01_own_zuni_cafe_sf.JPG,19,Food (no header),add-on,grilled onion,,2.00,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_01_own_zuni_cafe_sf.JPG,20,Food (no header),add-on,fried egg,,3.50,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_01_own_zuni_cafe_sf.JPG,21,Food (no header),add-on,bacon,,5.00,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_01_own_zuni_cafe_sf.JPG,22,Food (no header),add-on,heirloom tomato,,5.00,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_01_own_zuni_cafe_sf.JPG,23,APERITIF,drink,Campari,,11.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,24,APERITIF,drink,Punt e Mes,,10.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,25,APERITIF,drink,Carpano Bianco,,13.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,26,APERITIF,drink,Carpano Antica,,13.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,27,APERITIF,drink,Lillet,,10.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,28,APERITIF,drink,Lillet Rosé,,10.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,29,APERITIF,drink,Bonal,,12.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,30,APERITIF,drink,Cocchi Americano,,11.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,31,APERITIF,drink,Vergano Americano,,11.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,32,APERITIF,drink,Suze,,11.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,33,APERITIF,drink,Suze and tonic,,12.50,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,34,APERITIF,drink,Pernod,,11.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,35,APERITIF,drink,Ricard,,11.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,36,APERITIF,drink,St. George Absinthe,,16.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,37,JUICE & SODA,drink,Fresh Lemonade,,6.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,38,JUICE & SODA,drink,Fresh Orange Juice,,5.00/6.50,,two sizes,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,39,JUICE & SODA,drink,Fresh Grapefruit Juice,,5.00/6.50,,two sizes,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,40,JUICE & SODA,drink,Organic Apple Juice,,5.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,41,JUICE & SODA,drink,Boylan Cane Cola,,6.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,42,JUICE & SODA,drink,Badger Sparkling Yuzu Lime,,6.00,,,no,,high,printed on two lines
+menu_01_own_zuni_cafe_sf.JPG,43,JUICE & SODA,drink,Badger Ginger Beer,,6.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,44,JUICE & SODA,drink,Abita Root Beer,,6.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,45,JUICE & SODA,drink,Il Nostro Chinotto,,7.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,46,WATER,drink,Mountain Valley Spring Water,,9.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,47,WATER,drink,Mountain Valley Sparkling Water,,9.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,48,BEER,drink,Scrimshaw Pilsner,,7.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,49,BEER,drink,Weihenstephaner Hefeweissbier,,8.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,50,BEER,drink,Fort Point KSA – Kölsch Style Ale,,8.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,51,BEER,drink,Fort Point Villager IPA,,8.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,52,BEER,drink,La Fin du Monde Golden Ale,,10.75,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,53,BEER,drink,Saison Dupont,,11.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,54,BEER,drink,Old Rasputin Imperial Stout,,8.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,55,BEER,drink,Weihenstephaner Non-Alcoholic,,7.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,56,"COFFEE, TEA & COCOA",drink,Coffee,,4.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,57,"COFFEE, TEA & COCOA",drink,Café au Lait,,6.50,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,58,"COFFEE, TEA & COCOA",drink,Espresso,,4.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,59,"COFFEE, TEA & COCOA",drink,Cappuccino,,5.50,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,60,"COFFEE, TEA & COCOA",drink,Caffe Latte,,6.50,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,61,"COFFEE, TEA & COCOA",drink,Mocha Latte,,7.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,62,"COFFEE, TEA & COCOA",drink,Black Tonic,,6.25,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,63,"COFFEE, TEA & COCOA",drink,Iced Bergamot Tea,,7.50,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,64,"COFFEE, TEA & COCOA",drink,Grand Crimson Keemun Tea,,6.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,65,"COFFEE, TEA & COCOA",drink,Bao Zhong Oolong Tea,,6.50,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,66,"COFFEE, TEA & COCOA",drink,Genmaicha Tea,,6.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,67,"COFFEE, TEA & COCOA",drink,Superior Black Puer Tea,,6.50,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,68,"COFFEE, TEA & COCOA",drink,Heirloom White Peony Tea,,6.50,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,69,"COFFEE, TEA & COCOA",drink,Nile Valley Chamomile,,6.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,70,"COFFEE, TEA & COCOA",drink,Peppermint Infusion,,6.00,,,no,,high,
+menu_01_own_zuni_cafe_sf.JPG,71,"COFFEE, TEA & COCOA",drink,Hot Cocoa,,6.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,1,Food (no header),food,Marinated olives,,7.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,2,Food (no header),food,Acme levain bread with butter,,5.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,3,Food (no header),food,Shoestring potatoes,,12.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,4,Food (no header),food,"House-cured anchovies with celery, Parmigiano-Reggiano, and coquillo olives",,19.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,5,Food (no header),food,"Fuyu persimmon and roasted beet ""carpaccio"" with Laychee goat cheese, tender herbs, and Meyer lemon-pistachio aïllade",,20.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,6,Food (no header),food,Zuni Caesar salad,,21.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,7,Food (no header),food,"Garden lettuce salad with Sungold tomatoes, Alpha Tolman cheese, chapons, and passion fruit vinaigrette",,20.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,8,Food (no header),food,Bowl of polenta with mascarpone or Parmigiano-Reggiano,,11.00,,,yes,,high,
+menu_02_own_IMG_5181.jpg,9,Food (no header),food,"Wood fire-roasted tomato and eggplant soup with mint, Urfa pepper, and charmoula",,16.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,10,Food (no header),food,"Pizza with Wagon Wheel cheese, soppressata, wild nettles, red onion, and Boont Corners sheep cheese",,30.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,11,Food (no header),food,"Spaghetti with Gulf shrimp, heirloom tomatoes, basil, garlic, Espelette pepper, and brandy",,33.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,12,Food (no header),food,"Yellowfin tuna grilled rare all'acqua di mare with Manila clams, mussels, sprouting cauliflower, string beans, a slow-cooked Early Girl tomato, and aïoli",,49.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,13,Food (no header),food,"Steak frites: Stemple Creek Ranch bavette steak with pommes frites, Padrón peppers, avocado, and chimichurri",,49.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,14,Food (no header),food,Stemple Creek Ranch ribeye steak (served with the above accompaniments),,97.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,15,Food (no header),food,"Chicken for two roasted in the wood-fired brick oven; warm bread salad with scallions, garlic, bitter greens, dried currants, and pine nuts",,75.00,,for two,no,,high,approximately 75 minutes
+menu_02_own_IMG_5181.jpg,16,Food (no header),food,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,,23.00,,,no,,high,
+menu_02_own_IMG_5181.jpg,17,Food (no header),add-on,Shelburne Farms cheddar cheese,,3.00,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_02_own_IMG_5181.jpg,18,Food (no header),add-on,Bayley Hazen blue cheese,,3.00,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_02_own_IMG_5181.jpg,19,Food (no header),add-on,grilled onion,,2.00,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_02_own_IMG_5181.jpg,20,Food (no header),add-on,fried egg,,3.50,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_02_own_IMG_5181.jpg,21,Food (no header),add-on,bacon,,5.00,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_02_own_IMG_5181.jpg,22,Food (no header),add-on,heirloom tomato,,5.00,,,no,Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles,high,hamburger add-on
+menu_03_own_IMG_5185.jpg,1,TO START,food,TODAY'S RICOTTA,"honeycomb, sicilian olive oil, sourdough tigelle",18,,,no,,high,
+menu_03_own_IMG_5185.jpg,2,TO START,food,BLUEFIN CRUDO,"bottarga, muscat grape, chive",22,,,no,,high,
+menu_03_own_IMG_5185.jpg,3,TO START,food,POLE BEANS,"burrata, smoked tomato, miso bagna cauda",21,,,no,,high,
+menu_03_own_IMG_5185.jpg,4,TO START,food,LITTLE GEM LETTUCES,"tahini vinaigrette, pecorino sardo, toasted sesame",18,,,no,,high,
+menu_03_own_IMG_5185.jpg,5,TO START,food,KOSHIHIKARI ARANCINI,"eggplant, smoked mozzarella, tomato, basil",19,,,no,,high,
+menu_03_own_IMG_5185.jpg,6,TO START,food,HEIRLOOM TOMATOES,"pluot, shiso, genovese basil, sourdough",22,,,no,,high,
+menu_03_own_IMG_5185.jpg,7,PIZZA,food,PUTTANESCA,"tomato, castelvetrano, caper, chili, boquerones",28,,,no,,high,
+menu_03_own_IMG_5185.jpg,8,PIZZA,food,SALSICCIA BIANCA,"pork sausage, broccoli rabe, caciocavallo, guindilla peppers",29,,,no,,high,
+menu_03_own_IMG_5185.jpg,9,PIZZA,food,MARGHERITA,"tomato, fior di latte, basil",24,,,no,,high,
+menu_03_own_IMG_5185.jpg,10,PASTA,food,CORN CAPPELLETTI,"brown butter, ricotta salata, fresno chili",31,,,no,,high,
+menu_03_own_IMG_5185.jpg,11,PASTA,food,SAFFRON SOPRESE,"mussels escabeche, calabrian chili, garlic scapes",32,,,no,,high,
+menu_03_own_IMG_5185.jpg,12,PASTA,food,ORECCHIETTE,"chanterelle, turnip, wasabi, pecorino toscano",31,,,no,,high,
+menu_03_own_IMG_5185.jpg,13,PASTA,food,DUCK TRIANGOLI,"pistachio, cocoa, sicilian granola",33,,,no,,high,
+menu_03_own_IMG_5185.jpg,14,PASTA,food,TALEGGIO SCARPINOCC,"parmigiano reggiano, aceto balsamico",30,,,no,,high,
+menu_03_own_IMG_5185.jpg,15,PASTA,food,PAPPARDELLE,"lamb merguez ragu, shishito, tomato xo",32,,,no,,high,
+menu_03_own_IMG_5185.jpg,16,ENTREE,food,KING SALMON,"squash, corn, basil, shishito",44,,,no,,high,
+menu_03_own_IMG_5185.jpg,17,ENTREE,food,PORK CHOP,"mustard greens, stone fruit, salsa verde",48,,,no,,high,
+menu_03_own_IMG_5185.jpg,18,BREAD,food,JOSEY BAKER SOURDOUGH,parmigiano reggiano cultured butter,10,,,no,,high,
+menu_03_own_IMG_5185.jpg,19,(no section),other,FLOUR+WATER PASTA COOKBOOK,,35,,,no,,high,"a book, not a dish"
+menu_04_own_IMG_5186.jpg,1,Set menu,food,BLUEFIN CRUDO,"bottarga, muscat grape, meyer lemon",,,,no,,high,"course 1; pairing: Palmento Costanzo, Carricante, Etna, Sicily, Italy '25"
+menu_04_own_IMG_5186.jpg,2,Set menu,food,TALEGGIO SCARPINOCC,"aceto balsamico, parmigiano reggiano",,,,no,,high,course 2 (served with Strozzapreti)
+menu_04_own_IMG_5186.jpg,3,Set menu,food,STROZZAPRETI,"chanterelle, turnip, wasabi, pecorino toscano",,,,no,,high,"course 2; pairing: Hammerling, Sparkling Red, 'Big Night', California '24"
+menu_04_own_IMG_5186.jpg,4,Set menu,food,TORTELLINI IN BRODO,"ham hock, shelling bean, chives",,,,no,,high,"course 3; pairing: Weingut Niklas, Schiava, Alto Adige, Italy '24"
+menu_04_own_IMG_5186.jpg,5,Set menu,food,PORK BELLY,"apple, agrodolce, collard greens",,,,no,,high,"course 4; pairing: Piquentum, Refošk, Istria, Croatia '21"
+menu_04_own_IMG_5186.jpg,6,Set menu,food,CHOCOLATE BUDINO,"espresso-caramel crema, sea salt",,,,no,,high,"dessert; pairing: Fred Jerbis, Vermut, Friuli, Italy NV"
+menu_04_own_IMG_5186.jpg,7,Set menu,other,90 per person,,90,,per person,no,,high,menu price
+menu_04_own_IMG_5186.jpg,8,Set menu,drink,optional wine pairing,,45,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,1,BREAKFAST (SERVED TILL 12.00PM),food,REN'S FULL HOUSE,"Two eggs, Butcher's sausage, smoked bacon, home made hash browns, beans, field mushroom, grilled tomato, white or granary toast",11.50,,two eggs,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,2,BREAKFAST (SERVED TILL 12.00PM),food,VEGGIE FULL HOUSE,"Two eggs, vegan sausage, beans, halloumi, hash brown, field mushroom, grilled tomato, white or granary toast",10.50,VEGGIE,two eggs,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,3,BREAKFAST (SERVED TILL 12.00PM),food,VEGAN FULL HOUSE,"Vegan sausage, tofu scramble, beans, avocado, grilled tomato, field mushroom, hash brown, white or granary toast",10.50,VEGAN,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,4,BREAKFAST (SERVED TILL 12.00PM),food,ULTIMATE BREAKFAST SANDWICH - 1 FILLING,"Sausage, fried eggs, smoked bacon in focaccia or ciabatta",5.50,,,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,5,BREAKFAST (SERVED TILL 12.00PM),food,ULTIMATE BREAKFAST SANDWICH - 2 FILLINGS,"Sausage, fried eggs, smoked bacon in focaccia or ciabatta",6.50,,,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,6,BREAKFAST (SERVED TILL 12.00PM),food,ULTIMATE BREAKFAST SANDWICH - 3 FILLINGS,"Sausage, fried eggs, smoked bacon in focaccia or ciabatta",7.50,,,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,7,BREAKFAST (SERVED TILL 12.00PM),food,EGGS BENEDICT,"Two poached eggs on toasted focaccia with fresh hollandaise...topped with smoked bacon, smoked salmon or grilled field mushroom and tomato",9.00,,two poached eggs,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,8,BREAKFAST (SERVED TILL 12.00PM),food,OMELETTE,"Choose any two fillings served with chunky chips, fresh slaw, and side salad. Ham, cheddar, chorizo, goats cheese, mushroom, tomato, onion",9.95,,,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,9,BREAKFAST (SERVED TILL 12.00PM),food,SHAKSHUKA,North African spiced tomato and vegetable stew topped with poached eggs served with toasted focaccia - perfect for breakfast or brunch! Add chorizo 1.50,8.75,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,10,BREAKFAST (SERVED TILL 12.00PM),food,AVOCADO ON TOAST,"Smashed avo on toasted focaccia with extra virgin olive oil, chilli, toasted seeds. Add smoked streaky bacon or poached eggs 1.25",7.25,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,11,BREAKFAST (SERVED TILL 12.00PM),food,BUTTERMILK WAFFLES/ VEGAN BANANA WAFFLES,"Fluffy buttermilk waffle stack with maple syrup, topped with: fresh berries, Greek yoghurt / fresh berries, soya yoghurt (vegan) / crispy bacon",9.00,VEGAN (banana waffles option),,yes,,high,three topping options
+menu_05_ren_kitchen_uk_printed_long.jpg,12,BREAKFAST (SERVED TILL 12.00PM),food,HOME MADE GRANOLA (VEGAN/SUGAR FREE),"With Greek yoghurt or vegan soya yoghurt, sliced banana, maple syrup",6.75,"VEGAN, SUGAR FREE",,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,13,BREAKFAST (SERVED TILL 12.00PM),add-on,"EXTRAS: Smoked bacon, Sausage, Chorizo, Black pudding, Halloumi, Avocado, 2 Eggs",,2.00,,,no,section: BREAKFAST,high,each
+menu_05_ren_kitchen_uk_printed_long.jpg,14,BREAKFAST (SERVED TILL 12.00PM),add-on,"EXTRAS: Field mushroom, Tomato, Hash Brown, Beans",,1.50,,,no,section: BREAKFAST,high,each
+menu_05_ren_kitchen_uk_printed_long.jpg,15,REN'S BURGERS,food,REN'S CLASSIC,"Handmade beef Burger, smoked streaky bacon, mature cheddar, tomato salsa, chipotle mayo, lettuce, tomato, onion ring, brioche bun",8.75,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,16,REN'S BURGERS,food,HALLOUMI BURGER,"Roast peppers, sweet chilli, tomato salsa, chipotle mayo, lettuce, tomato, onion ring, brioche bun",8.75,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,17,REN'S BURGERS,food,VEGAN CLASSIC,"Vegan 'beyond' burger, vegan cheddar, portobello mushroom, tomato salsa, chipotle mayo, lettuce, tomato, onion ring, brioche bun",8.75,VEGAN,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,18,REN'S BURGERS,food,BHAJI BURGER,"Onion and butternut bhaji, mango chutney, Bombay mix, jalapeno and coriander pickle (vegan)",8.75,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,19,REN'S BURGERS,food,ANY BURGER WITH CHUNKY CHIPS AND CANNED DRINK,,11.25,,,yes,,high,meal deal
+menu_05_ren_kitchen_uk_printed_long.jpg,20,ON THE COUNTER,food,PORK & ONION CHUTNEY SAUSAGE ROLLS,,3.00,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,21,ON THE COUNTER,food,VEGAN SAUSAGE ROLLS,,2.50,VEGAN,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,22,ON THE COUNTER,food,GIANT SCOTCH EGGS,,3.75,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,23,ON THE COUNTER,food,QUICHE OF THE DAY,,3.75,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,24,ON THE COUNTER,food,SAVOURY PASTRIES,(please ask for daily selection),from 2.00,,,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,25,FRESHLY MADE SANDWICHES,food,CALIFORNIAN,"Roast chicken, avocado, crispy bacon, sweet chilli",7.50,,,no,,high,served on home made focaccia with fresh salad
+menu_05_ren_kitchen_uk_printed_long.jpg,26,FRESHLY MADE SANDWICHES,food,PULLED PORK,"Pulled pork with our own barbeque glaze, fresh slaw, Pickled red onions (or vegan available w/ barbecue jackfruit)",7.50,,,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,27,FRESHLY MADE SANDWICHES,food,JAMAICAN,"Spicy jerk chicken with roast peppers, fresh salsa, jalapenos (or vegan available w/ jerk spiced tofu)",7.50,,,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,28,FRESHLY MADE SANDWICHES,food,MEDITERRANEAN,"Grilled goats cheese, smokey roast vegetables, toasted walnuts and seeds, balsamic glaze (or vegan available w/vegan mozzarella)",7.50,,,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,29,FRESHLY MADE SANDWICHES,food,PHILLY CHEESESTEAK: (NEW),"Grilled rib-eye steak, melted jack cheese, crispy onions,",8.25,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,30,FRESHLY MADE SANDWICHES,food,DAILY SPECIAL (PLEASE ASK),,,,,no,,high,no price printed
+menu_05_ren_kitchen_uk_printed_long.jpg,31,FRESHLY MADE SANDWICHES,other,OTHER BREADS AVAILABLE,"Home made focaccia, sourdough, ciabatta, farmhouse white, granary, giant wrap, gluten free roll",,,,no,,high,"information line, not a dish"
+menu_05_ren_kitchen_uk_printed_long.jpg,32,FRESH SALADS,food,FRESHLY MADE SALAD,topped with any of our above sandwich flavours! Or ask for our daily salad specials,7.95,,,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,33,JACKET POTATOES,food,FRESHLY BAKED JACKETS,Served with Home made slaw and salad. Toppings: Ham and Cheese; Beans and Cheese; Barbecue Pulled Pork; Mediterranean roast vegetables (vegan),7.95,,,yes,,high,four topping options
+menu_05_ren_kitchen_uk_printed_long.jpg,34,SIDES,food,CHUNKY CHIPS,,3.00,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,35,SIDES,food,CHEESY CHUNKY CHIPS,,3.75,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,36,SIDES,food,FULLY LOADED 'DIRTY' CHIPS,"Topped with pulled pork, grilled cheese, jalapenos, fresh tomato salsa. Or topped with vegan pulled jackfruit, vegan cheese, jalapenos, fresh tomato salsa (vegan)",5.50,,,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,37,SIDES,food,ONION RINGS,,3.75,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,38,SIDES,food,SWEET POTATO FRIES,,4.00,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,39,SOMETHING SWEET,food,HOMEMADE CAKES,(ask for today's selection),from 2.50,,,yes,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,40,SOMETHING SWEET,food,CHOCOLATE BROWNIE,(vegan/gluten free),3.00,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,41,SOMETHING SWEET,food,FRUIT AND NUT FLAPJACK,,2.75,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,42,SOMETHING SWEET,food,GIANT CINNAMON BUN,(vegan),2.75,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,43,DRINKS,drink,CAPPUCCINO,,3.00/3.30,,two sizes,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,44,DRINKS,drink,LATTE,,3.00/3.30,,two sizes,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,45,DRINKS,drink,AMERICANO,,3.00/3.30,,two sizes,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,46,DRINKS,drink,ESPRESSO,,2.40/2.80,,two sizes,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,47,DRINKS,drink,HOT CHOCOLATE,,3.50,,two sizes,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,48,DRINKS,drink,FILTER,,2.00/2.40,,two sizes,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,49,DRINKS,drink,TEA,(Builders/Earl Grey/ Herbal/ Green Tea),2.50/POT 3.50,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,50,DRINKS,drink,FRESH JUICES,(add shot of spirulina £1),4.50,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,51,DRINKS,drink,FRESH SMOOTHIES,(add scoop of vegan protein £1),4.50,,,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,52,DRINKS,drink,CANNED DRINKS,,1.75/2.00,,two sizes,no,,high,
+menu_05_ren_kitchen_uk_printed_long.jpg,53,DRINKS,drink,BOTTLED WATER,,1.75,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,1,BASES,add-on,WHOLEGRAIN SPELT BASE,A healthy alternative & edible by many with a wheat sensitivity.,+ £1.65,,,no,section: all pizzas,high,"base option; all pizzas are 12"" with a tomato & basil sauce & mozzarella"
+menu_06_pizzaface_uk_printed_spread.jpg,2,BASES,add-on,BASE MADE WITH NON GLUTEN FLOUR,"(Vegan, but contains yeast and xantham gum.)",+ £3.3,,,no,section: all pizzas,high,base option
+menu_06_pizzaface_uk_printed_spread.jpg,3,MEATY PIZZAS,food,VESUVIUS,"Pepperoni, chorizo, red onion, fresh & dried chillies (Hot).",£18.1,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,4,MEATY PIZZAS,food,ALBORE,"Pork & wild boar salami, smoked pancetta, fresh rosemary.",£18.1,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,5,MEATY PIZZAS,food,WILD,"WARNING: this is very hot! Pork & wild boar salami, pepperoni, peppers, olives, 'ghost' chilli, fresh chillies.",£18.1,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,6,MEATY PIZZAS,food,PARMA,"Aged Italian proscuitto ham, mascapone.",£18.1,,,no,,high,spelling as printed
+menu_06_pizzaface_uk_printed_spread.jpg,7,MEATY PIZZAS,food,MEATHEAD,"Chorizo, pepperoni, pancetta, pork, & wild boar salami, red onions, mushrooms.",£19.2,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,8,MEATY PIZZAS,food,JAKUB,"Chorizo, pork & wild boar salami, caramelised onion, mascarpone, dried chilli flakes, oregano.",£19.2,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,9,MEATY PIZZAS,food,THEODORA,"Artichokes, olives, Proscuitto ham, Parmesan.",£18.1,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,10,MEATY PIZZAS,food,HAM & PINEAPPLE,"Aged Italian Prosciutto ham, mascarpone, pineapple.",£18.7,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,11,VEGGIE PIZZAS,food,MARGHERITA,"The standard base with fresh oregano, basil.",£13.1,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,12,VEGGIE PIZZAS,food,NADINE,"Sun-dried tomatoes, goats cheese, carmelised onion.",£16.5,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,13,VEGGIE PIZZAS,food,NUTSMAN (N),"Olive, red onion, capers, sultanas, almonds.",£16.5,N,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,14,VEGGIE PIZZAS,food,JOHNNO,"Red onions, fresh & dried chillies, olives, peppers, Parmesan, mushrooms.",£17,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,15,VEGGIE PIZZAS,food,ALMONDA (N),"Almond pesto base (vgn), almonds, spinach, peppers, goats cheese, mozzarella, caramelised onions.",£17.5,N,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,16,VEGGIE PIZZAS,food,FUNGHI,"Field, shiitake, oyster & chestnut mushrooms, garlic, truffle oil, Parmesan.",£17.5,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,17,VEGGIE PIZZAS,food,HOLY CHEESES,"Dolcelatte Blue Cheese, Parmesan, mascarpone, caramelised onions.",£17,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,18,FISH PIZZA,food,NAPOLI,"Anchovies, olives, capers, oregano.",£16.5,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,19,VEGAN PIZZAS,food,ART/BEETS,"Vgn cheese, artichokes, spinach, beetroot 'pepperoni'.",£16.5,VEGAN,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,20,VEGAN PIZZAS,food,ZEPHANIAH,"Vgn cheese, vgn pepperoni*, vgn Nduja, red onion, fresh chillies.",£17.5,VEGAN,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,21,VEGAN PIZZAS,food,OZZY 2.0,"Vgn cheese, vgn pepperoni*, vgn Nduja, vgn sausage*, mushrooms, red onion.",£17.5,VEGAN,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,22,VEGAN PIZZAS,food,NUTRIEL (N),"Vgn almond pesto base, (no cheese), sun-dried tomatoes, caramelised onions, red onion, olives, fresh chilli, chipotle chilli.",£16.5,"VEGAN, N",,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,23,VEGAN PIZZAS,food,THOM NUT (N),"Vgn cheese, spinach, vgn sausage*, almonds, vgn sour cream, garlic oil.",£17,"VEGAN, N",,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,24,VEGAN PIZZAS,food,NDUJA WANNA,"Vgn cheese, vgn Nduja, peppers, red onions, fresh chillies, Brighton hot stuff Pizzaface hot sauce.",£17.5,VEGAN,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,25,VEGAN PIZZAS,food,THE MOBY,"Vgn cheese, vgn pepperoni*, vgn smoked sausage*, marinated peppers, red onion, vgn sour cream.",£17,VEGAN,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,26,"BBQ pizzas (bottom row, no header visible)",food,BBQ BILLY,"Smoky chilli BBQ sauce, red onions, pancetta, fresh chilli.",£17.5,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,27,"BBQ pizzas (bottom row, no header visible)",food,FUMO V,"Smoky chilli BBQ sauce, red onions, mascarpone, artichoke.",£17,V,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,28,"BBQ pizzas (bottom row, no header visible)",food,MATTO VGN,"Smoky chilli BBQ sauce, vgn cheese, vgn N'duja, red onions, mixed mushrooms.",£17.5,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,29,SPARE PARTS,food,Make your own pizza - standard base with sauce and mozzarella,,£12.6,,,no,,high,then add spare parts
+menu_06_pizzaface_uk_printed_spread.jpg,30,SPARE PARTS - MEAT & STUFF,add-on,"Proscuitto ham, Smoked pancetta, Pork & wild boar salami",,£2.75 each,,,no,section: all pizzas,high,
+menu_06_pizzaface_uk_printed_spread.jpg,31,SPARE PARTS - MEAT & STUFF,add-on,"Chorizo, Pepperoni, Truffle oil, Anchovies",,£2.2 each,,,no,section: all pizzas,high,
+menu_06_pizzaface_uk_printed_spread.jpg,32,SPARE PARTS - MEAT & STUFF,add-on,"Vegan sour cream, Vegan sausage*, Vegan Nduja, Vegan pepperoni*",,£1.65 each,VEGAN,,no,section: all pizzas,high,
+menu_06_pizzaface_uk_printed_spread.jpg,33,SPARE PARTS - CHEESE ETC,add-on,"Dolcelatte blue cheese, Extra mozzarella, Feta, Parmesan, Almond Pesto (vgn), Mascarpone, Goats cheese, Extra vegan cheese",,£1.65 each,VEGAN,,no,section: all pizzas,high,
+menu_06_pizzaface_uk_printed_spread.jpg,34,SPARE PARTS - CHEESE ETC,add-on,Free range Egg,,£1.15 each,,,no,section: all pizzas,high,
+menu_06_pizzaface_uk_printed_spread.jpg,35,SPARE PARTS - VEG N' THAT,add-on,"Artichokes, Beetroot 'pepperoni', Caramelised onions, Field Mushrooms, Mixed wild mushrooms, Spinach, Sun-dried tomatoes, Olives, Peppers, Pineapple, Almonds, Red onions, Rocket",,£1.15 each,,,no,section: all pizzas,high,
+menu_06_pizzaface_uk_printed_spread.jpg,36,SPARE PARTS - MAINLY HERBS,add-on,"Basil, Chipotle chilli, Fresh & dried chillies, Ghost chilli, Garlic, Oregano, Rosemary",,50p each,,,no,section: all pizzas,high,
+menu_06_pizzaface_uk_printed_spread.jpg,37,KIDS MEAL,food,KIDS MEAL,"Smaller sized pizza with tomato sauce & cheese, a glass of juice or soft drink, and a scoop of gelato for pudding! Add any spare parts for half the listed price.",£11,,smaller sized pizza (kids),yes,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,38,"STARTERS, SALADS, SIDES, DIPS",food,COLESLAW V,"With herbs, yoghurt, mayonnaise.",£6.6,V,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,39,"STARTERS, SALADS, SIDES, DIPS",food,STICKS & DIP V,Freshly baked pizza dough grissini with a dip.,£4.4,V,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,40,"STARTERS, SALADS, SIDES, DIPS",food,OLIVES vgn,"Marinated in garlic, olive oil.",£4,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,41,"STARTERS, SALADS, SIDES, DIPS",food,GARLIC BREAD V,"Butter, fresh rosemary. Vgn Garlic bread (made w/vgn butter).",£5,V,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,42,"STARTERS, SALADS, SIDES, DIPS",food,GARLIC BREAD WITH CHEESE V,Add mozzarella or goats cheese. Vgn garlic bread w/vgn cheese.,£6,V,,yes,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,43,"STARTERS, SALADS, SIDES, DIPS",food,GARDEN SALAD vgn,"Rocket, spinach, sundried tomato, olives, cucumber & dressing.",£6.6,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,44,"STARTERS, SALADS, SIDES, DIPS",food,GREEK SALAD V,"Feta, olives, pepper, cucumber, sundried tomato, dressing.",£6.6,V,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,45,"STARTERS, SALADS, SIDES, DIPS",food,'N'DUJA SALAD vgn,"Mixed leaves, roast peppers, sun dried tomatoes, spicey vgn nduja, almonds, dressing, served w/ bread sticks basted in garlic oil & oregano.",£10.5,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,46,"STARTERS, SALADS, SIDES, DIPS",food,GOATS CHEESE SALAD V,"Mixed leaves, goats cheese, sun dried tomatoes, olives, almonds, dressing, served w/ bread sticks basted in garlic oil & oregano.",£10.5,V,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,47,"STARTERS, SALADS, SIDES, DIPS",food,PARMA SALAD,"Mixed leaves, Parmesan, artichokes, olives, prosciutto ham, dressing, served w/ bread sticks basted in garlic oil & oregano.",£11,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,48,"STARTERS, SALADS, SIDES, DIPS",food,CHARCUTERIE PLATTER,"Slices of pork & wild boar salami, proscuitto ham and ventricina. Served with marinated olives, rocket and tomato salad and freshly baked pizza bread.",£14.8,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,49,"STARTERS, SALADS, SIDES, DIPS",food,CHARCUTERIE & CHEESE PLATTER,Charcuterie platter with goats cheese and Dolcelatte Blue Cheese.,£17,,,no,,high,
+menu_06_pizzaface_uk_printed_spread.jpg,50,"STARTERS, SALADS, SIDES, DIPS",add-on,"DIPS: Garlic butter, Garlic oil (vgn), Garlic mayo, Marinara sauce (vgn), Sundried tomato (vgn) (contains garlic), BBQ sauce (vgn), Chilli jam (vgn), Chilli oil (vgn), Almond pesto (vgn)",,£2 each,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,1,Hot Drinks,drink,Espresso,,3.2,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,2,Hot Drinks,drink,Americano/Long black,,3.2,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,3,Hot Drinks,drink,"Latté, Cappuccino, Flat White",,3.7,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,4,Hot Drinks,drink,Macchiato/Cortado,,3.2/3.5,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,5,Hot Drinks,drink,Mocha/Dirty Chai,,4.4,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,6,Hot Drinks,drink,Chai Latté,,4,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,7,Hot Drinks,drink,Matcha Latte,,4.7,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,8,Hot Drinks,drink,Tumeric Latte,,4.6,,,no,,high,spelling as printed
+menu_07_cafe_rust_uk_printed_kraft.jpg,9,Hot Drinks,drink,Hot Chocolate,,3.5,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,10,Hot Drinks,drink,Hot Chocolate with marshmallows & whipped cream,,4,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,11,Hot Drinks,drink,Babyccino,,1.5,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,12,Tea,drink,Mug,(Ask staff for tea selection),2.5,,mug,yes,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,13,Tea,drink,Pot for 1,(Ask staff for tea selection),3.0,,pot for 1,yes,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,14,Tea,drink,Pot for 2,(Ask staff for tea selection),4.2,,pot for 2,yes,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,15,Fresh Teas,drink,Lemon & Ginger / Mint,,2.7,,,yes,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,16,Syrups,add-on,"Caramel, Vanilla, Hazelnut",,0.5,,,no,section: Hot Drinks,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,17,Alternative milks (no charge),add-on,"Oat milk, Soya milk, Coconut milk",,no charge,,,no,section: Hot Drinks,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,18,Cold Drinks,drink,Iced Coffee,,4.4,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,19,Cold Drinks,drink,Iced Mocha/Dirty Chai,,4.7,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,20,Cold Drinks,drink,Iced Chai,,4.5,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,21,Cold Drinks,drink,Iced Matcha,,5,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,22,Cold Drinks,drink,Fresh Juices,,4.4,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,23,Cold Drinks,drink,Apple Juice,,2.8,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,24,Cold Drinks,drink,Coca Cola/Diet Cola,,2.8,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,25,Cold Drinks,drink,Appletizer,,2.8,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,26,Cold Drinks,drink,Fentamins,"Victorian Lemonade, Ginger Beer, Sparkling Elderflower",2.8,,,no,,high,"flavour options printed in smaller type on the line below, without a price"
+menu_07_cafe_rust_uk_printed_kraft.jpg,27,Cold Drinks,drink,Kombucha,,4.95,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,28,Cold Drinks,drink,Still / Sparkling Water,,2,,,yes,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,29,Brunch cocktails,drink,Bloody Mary single/double,,8 / 9,,single / double,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,30,Brunch cocktails,drink,Virgin Bloody Mary,,4.5,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,31,Brunch cocktails,drink,Mimosa,,7.5,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,32,Brunch cocktails,drink,Elderflower Fizz,,7.5,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,33,Brunch cocktails,drink,Aperol Spritz,,11,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,34,Brunch cocktails,drink,Red Roaster Espresso Martini,,12,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,35,Fizz,drink,House Prosecco,,7 / 29,,,no,,high,glass / bottle
+menu_07_cafe_rust_uk_printed_kraft.jpg,36,Fizz,drink,Poynings Grange Blanc De Blanc,"Bright, orchard fruits & brioche",49,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,37,Beer,drink,House Bottle Beer 330ml,,4.7,,,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,38,Beer,drink,Local Craft Beer,Ask our staff for our current beer selection.,5.5 / 6.6,,,yes,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,39,Wine,drink,House white wine,,6/8/22,,three sizes (6/8/22),no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,40,Wine,drink,House red wine,,6/8/22,,three sizes (6/8/22),no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,41,Wine,drink,House Rosé,,7/9/25,,three sizes (7/9/25),no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,42,Spirits,drink,House Spirit & mixer - single/double,,6.8 / 8.2,,single / double,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,43,Spirits,drink,Premium spirit & mixer - single/double,,8.8 / 9.2,,single / double,no,,high,
+menu_07_cafe_rust_uk_printed_kraft.jpg,44,Spirits,add-on,"Mixers: Coca Cola/Diet, Lemonade, Tonic/Diet",,,,,yes,section: Spirits,high,
+menu_08_greyhound_pub_uk_printed.jpg,1,BAR SNACKS,food,CRACKLING PIG STICKS,Bramley Apple Sauce,6,,,no,,high,GF
+menu_08_greyhound_pub_uk_printed.jpg,2,BAR SNACKS,food,PADRON PEPPERS,Smoked Sea Salt,7,,,no,,high,VG GF
+menu_08_greyhound_pub_uk_printed.jpg,3,BAR SNACKS,food,SICILIAN OLIVES,Fine Herbs,5,,,no,,high,VG GF
+menu_08_greyhound_pub_uk_printed.jpg,4,BAR SNACKS,food,PIGS IN BLANKETS,"Honey, Rosemary",8,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,5,STARTERS,food,ROASTED HARISSA AUBERGINE,"Pomegranate Seeds, Toasted Almonds, Coconut Yoghurt",8.5,,,no,,high,VG GF
+menu_08_greyhound_pub_uk_printed.jpg,6,STARTERS,food,HOUSE BAKED BREAD,& Hummus,7,,,no,,high,VG
+menu_08_greyhound_pub_uk_printed.jpg,7,STARTERS,food,THE GREYHOUND SCOTCH EGG,"Burnt Apple Puree, Celeriac & Cranberry Remoulade, Crackling",9,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,8,STARTERS,food,CRISPY SQUID & PRAWNS,Charred Lime & Homemade Sweet Chilli Sauce,11,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,9,STARTERS,food,CAMEMBERT & SAGE CROQUETTES,Pear & Apple Chutney,9,,,no,,high,V
+menu_08_greyhound_pub_uk_printed.jpg,10,STARTERS,food,CHICKEN & MUSHROOM ARANCINI,Confit Chilli Aioli,9,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,11,PLATTERS TO SHARE,food,THE FARMHOUSE,"The Greyhound Scotch Egg, Pigs in Blankets, Chicken & Mushroom Arancini, Sea Salt Crackling, Burnt Apple Sauce, Confit Chilli Aioli",33,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,12,PLATTERS TO SHARE,food,FISHERMAN'S BOARD,"Crispy Squid, Panko Crumbed Prawns, Fish Goujons, Devilled Whitebait House Bread, Sweet Chili Sauce & Tartare Sauce",36,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,13,PUB CLASSICS,food,CORNISH FISH & CHIPS,"Mushy Peas, Tartar sauce",20,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,14,PUB CLASSICS,food,SIRLOIN STEAK 10oz,"Koffmann's Hand Cut Chips, Vine Tomatoes, Peppercorn Sauce",34,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,15,PUB CLASSICS,food,WAGYU BEEF BURGER,"Green Peppercorn Mayo, Tomato, Lettuce, Onion Rings, Hand Cut Chips",19,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,16,PUB CLASSICS,add-on,add: Emmental Cheese 2.5 / Bacon 2.5 / Blue Cheese 2.5,,2.5 each,,,no,WAGYU BEEF BURGER,high,burger add-ons
+menu_08_greyhound_pub_uk_printed.jpg,17,PUB CLASSICS,food,THE GREYHOUND VEGAN BURGER,"Vegan Burger Sauce, Lettuce, Tomato, Pickles, Onion Rings & Skinny Fries",17,VEGAN,,no,,high,VG
+menu_08_greyhound_pub_uk_printed.jpg,18,SEASONAL MAINS,food,CHICKEN SCHNITZEL,"Panko Crumbed Chicken, Bacon & Swiss Cheese Potatoes, Smoked Garlic Butter & Pickles",21,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,19,SEASONAL MAINS,food,PAN FRIED SEABASS,"Samphire, Peas, New Potatoes, Seaweed Butter, Crispy Capers",24,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,20,SEASONAL MAINS,food,CONISBEE BUTCHER LAMB & MINT SAUSAGES,"Garlic Mash, Ale Roasted Red Onions & Gravy",21,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,21,SEASONAL MAINS,food,TAGLIATELLE CARBONARA,"Wild Mushroom & Asparagus, Parmesan Cheese",21,,,no,,high,V
+menu_08_greyhound_pub_uk_printed.jpg,22,SIDES,food,MIXED LEAF SALAD,,5,,,no,,high,VG GF
+menu_08_greyhound_pub_uk_printed.jpg,23,SIDES,food,TENDER STEM BROCOLLI,,6,,,no,,high,V GF; spelling as printed
+menu_08_greyhound_pub_uk_printed.jpg,24,SIDES,food,TOMATO & RED ONION SALAD,,6,,,no,,high,VG GF
+menu_08_greyhound_pub_uk_printed.jpg,25,SIDES,food,ONION RINGS,,5,,,no,,high,VG
+menu_08_greyhound_pub_uk_printed.jpg,26,SIDES,food,CHILLI & GARLIC GREEN BEANS,,5,,,no,,high,VG
+menu_08_greyhound_pub_uk_printed.jpg,27,SIDES,food,SMOKED GARLIC MASH,,5,,,no,,high,V
+menu_08_greyhound_pub_uk_printed.jpg,28,SIDES,food,SKINNY FRIES,,5,,,no,,high,VG
+menu_08_greyhound_pub_uk_printed.jpg,29,SIDES,food,KOFFMANN'S HAND CUT CHIPS,,7,,,no,,high,VG
+menu_08_greyhound_pub_uk_printed.jpg,30,DESSERTS 8,food,BAKED VANILLA CHEESECAKE,"Cherry, Red Wine & Cinnamon Compote",8,,,no,,high,section price
+menu_08_greyhound_pub_uk_printed.jpg,31,DESSERTS 8,food,STICKY TOFFEE PUDDING,"Butterscotch Sauce, Vanilla Bean Ice Cream",8,,,no,,high,section price
+menu_08_greyhound_pub_uk_printed.jpg,32,DESSERTS 8,food,APPLE & CRUMBLE RHUBARB,Vanilla Custard & Ice Cream,8,,,no,,high,section price; word order as printed
+menu_08_greyhound_pub_uk_printed.jpg,33,DESSERTS 8,food,THE GREYHOUND CHEESE SLATE,"Served with House Chutney, Seasonal Fruits & Crackers",14,,,no,,high,
+menu_08_greyhound_pub_uk_printed.jpg,34,DESSERTS 8,food,BISCOFF DOUGHNUTS,"Vanilla or Vegan Coconut Ice Cream, Cinnamon Sugar",8,,,yes,,high,section price
+menu_08_greyhound_pub_uk_printed.jpg,35,DESSERTS 8,food,CHOCOLATE BROWNIE,Mint & Choc Chips Ice Cream,8,,,no,,high,section price
+menu_08_greyhound_pub_uk_printed.jpg,36,DESSERTS 8,food,TRIO OF DOUGHNUTS TO SHARE,"Caramel, Chocolate & Hazelnut Biscoff filled Doughnuts",16,,,no,,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,1,Breakfast,food,Poached Eggs on Toast,"Two Poached Eggs served on two slices of Sourdough, Malted or White Toast.",6.40,,"two eggs, two slices",yes,,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,2,Breakfast,food,Scrambled Eggs on Toast,"Scrambled Eggs served on two slices of Sourdough, Malted or White Toast.",6.40,,,yes,,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,3,Breakfast,food,Bacon Sandwich,Two rashers of thick cut Bacon from Riverside Butchers on White or Malted Bread.,6.20,,two rashers,yes,,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,4,Breakfast,food,Granola,"Granola, Greek Yoghurt, Seeds and Homemade Berry Compote.",5.90,,,no,,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,5,Breakfast,food,Porridge,"Oats, Milk, Homemade Berry Compote, Seeds. Served with a drizzle of Honey or Golden Syrup. Alternative milks available.",5.90,,,yes,,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,6,Breakfast,food,Round of Toast,"Two slices of Sourdough, Malted or White Toast with Salted Butter. Available with Jam, Marmalade or Marmite.",3.60,,two slices,yes,,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,7,Kids Menu,food,Scrambled Eggs on Toast,,5.10,,,no,,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,8,Kids Menu,food,Baked Beans on Toast,,4.70,,,no,,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,9,Extras,add-on,Harissa Tomatoes,,2,,,no,section: Breakfast,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,10,Extras,add-on,Avocado,,2,,,no,section: Breakfast,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,11,Extras,add-on,Soy Mushrooms,,2,,,no,section: Breakfast,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,12,Extras,add-on,"Bacon - 1 slice 3, 2 slices 3",,3,,1 slice / 2 slices,no,section: Breakfast,high,printed as 1 slice 3 and 2 slices 3 (the menu itself shows 3 for both)
+menu_09_the_shed_breakfast_uk_printed.jpg,13,Extras,add-on,Fried Egg,,1.40,,,no,section: Breakfast,high,
+menu_09_the_shed_breakfast_uk_printed.jpg,14,Extras,add-on,Poached Egg,,1.40,,,no,section: Breakfast,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,1,SOUP ( VEG ),food,Vegetable Clear Soup,,105-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,2,SOUP ( VEG ),food,Plain Corn Soup,,105-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,3,SOUP ( VEG ),food,Vegetable Corn Soup,,110-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,4,SOUP ( VEG ),food,Tomato Soup,,110-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,5,SOUP ( VEG ),food,Vegetable Hot & Sour Soup,,110-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,6,SOUP ( VEG ),food,Vegetable Canton Soup,,110-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,7,SOUP ( VEG ),food,Vegetable Wanton Soup,,110-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,8,SOUP ( VEG ),food,Vegetable Noodle Soup,,110-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,9,SOUP ( VEG ),food,Vegetable Mushroom Soup,,110-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,10,SOUP ( VEG ),food,Vegetable Manchow Soup,,110-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,11,SOUP ( NON - VEG ),food,Chicken Clear Soup,,115-00,NON-VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,12,SOUP ( NON - VEG ),food,Egg Drop Soup,,11500,NON-VEG,,no,,high,printed as 11500 (missing dash); i.e. 115-00
+menu_10_alexs_kitchen_indochinese_dense.jpg,13,SOUP ( NON - VEG ),food,Chicken Corn Soup,,120-00,NON-VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,14,SOUP ( NON - VEG ),food,Hot & Sour Soup,,120-00,NON-VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,15,SOUP ( NON - VEG ),food,Canton Soup,,120-00,NON-VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,16,SOUP ( NON - VEG ),food,Wanton Soup,,120-00,NON-VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,17,SOUP ( NON - VEG ),food,Chicken Vegetable Soup,,120-00,NON-VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,18,SOUP ( NON - VEG ),food,Chicken Mushroom Soup,,120-00,NON-VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,19,SOUP ( NON - VEG ),food,Lung Fung Soup,,120-00,NON-VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,20,SOUP ( NON - VEG ),food,Chicken Manchow Soup,,120-00,NON-VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,21,APPETIZERS,food,Vegetable Egg Fooyong,,240-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,22,APPETIZERS,food,Chicken Fooyong,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,23,APPETIZERS,food,Fried Vegetable Wanton,,240-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,24,APPETIZERS,food,Corn Puff,,240-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,25,APPETIZERS,food,Crispy Corn,,240-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,26,APPETIZERS,food,Gobi Manchuria,,230-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,27,APPETIZERS,food,Vegetable Bullet,,230-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,28,APPETIZERS,food,Vegetable Spring Rolls,,240-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,29,APPETIZERS,food,Chilly Mushroom,,240-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,30,APPETIZERS,food,Egg Spring Rolls,,250-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,31,APPETIZERS,food,Prawn Spring Rolls,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,32,APPETIZERS,food,Chicken Spring Rolls,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,33,APPETIZERS,food,Mixed Spring Rolls,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,34,APPETIZERS,food,Fried Chicken Wanton,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,35,APPETIZERS,food,Spring Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,36,APPETIZERS,food,Chicken Drumsticks,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,37,APPETIZERS,food,Pepper Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,38,APPETIZERS,food,Chicken Pakoda,,290-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,39,MOMO,food,Veg Steam Momo,,230-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,40,MOMO,food,Veg Fried Momo,,240-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,41,MOMO,food,Chicken Steam Momo,,270-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,42,MOMO,food,Chicken Fried Momo,,280-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,43,VEGETARIAN DISHES,food,Green Salad,,100-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,44,VEGETARIAN DISHES,food,Vegetable Chow Chow,,220-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,45,VEGETARIAN DISHES,food,Vegetable Sweet & Sour,,220-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,46,VEGETARIAN DISHES,food,Chilli Vegetable,,220-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,47,VEGETARIAN DISHES,food,Hot Garlic Vegetable,,220-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,48,VEGETARIAN DISHES,food,Vegetable Manchuria,,220-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,49,VEGETARIAN DISHES,food,Vegetable 65,,220-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,50,VEGETARIAN DISHES,food,Ginger Vegetable,,220-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,51,VEGETARIAN DISHES,food,Sichuan Vegetable,,220-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,52,VEGETARIAN DISHES,food,Fried Crispy Veg. In Pickle Sauce,,220-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,53,VEGETARIAN DISHES,food,Baby Corn Manchuria,,220-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,54,VEGETARIAN DISHES,food,Chilli Baby Corn,,220-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,55,VEGETARIAN DISHES,food,Vegetable with Cashewnut,,240-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,56,VEGETARIAN DISHES,food,Veg. Mushroom Baby Corn,,240-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,57,VEGETARIAN DISHES,food,Tofu manchuria (Chinese Paneer),,240-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,58,VEGETARIAN DISHES,food,Stir Fry Tofu With Mix Vegetable,,240-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,59,VEGETARIAN DISHES,food,Mushroom Manchuria,,240-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,60,VEGETARIAN DISHES,food,Chilli Paneer,,270-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,61,VEGETARIAN DISHES,food,Diced Paneer,,270-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,62,VEGETARIAN DISHES,food,Paneer 65,,270-00,VEGETARIAN,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,63,ONLY SAUCES,add-on,Hot Garlic Sauce,,100-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,64,ONLY SAUCES,add-on,Manchurian Sauce,,100-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,65,ONLY SAUCES,add-on,Chilly Soya Sauce,,100-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,66,ONLY SAUCES,add-on,Sweet & Soya Sauce,,100-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,67,CHICKEN,food,Chicken Chow Chow,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,68,CHICKEN,food,Onion Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,69,CHICKEN,food,Sweet Sour Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,70,CHICKEN,food,Hot & Sour Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,71,CHICKEN,food,Sweet & Garlic Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,72,CHICKEN,food,Hot Garlic Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,73,CHICKEN,food,Diced Chicken (Spicy),,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,74,CHICKEN,food,Chilly Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,75,CHICKEN,food,Chicken in Pickle Sauce,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,76,CHICKEN,food,Chicken Manchuria,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,77,CHICKEN,food,Ginger Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,78,CHICKEN,food,Chicken 65,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,79,CHICKEN,food,Lemon Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,80,CHICKEN,food,Sichuan Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,81,CHICKEN,food,Chicken Cashewnut,,280-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,82,CHICKEN,food,Chicken Mushroom with Baby Corn,,280-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,83,CHICKEN,food,Chicken Tofu with Mix Veg,,280-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,84,FISH,food,Fried Fish,,310-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,85,FISH,food,Fish Chow Chow,,310-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,86,FISH,food,Sweet & Sour Fish,,310-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,87,FISH,food,Finger Fish,,310-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,88,FISH,food,Hot Garlic Fish,,310-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,89,FISH,food,Chilly Fish,,310-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,90,FISH,food,Soya-Bean Fish,,310-00,,,no,,high,hyphen as printed
+menu_10_alexs_kitchen_indochinese_dense.jpg,91,FISH,food,Fish Manchuria,,310-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,92,FISH,food,Fish in Pickle Sauce,,310-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,93,FISH,food,Ginger Fish,,310-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,94,FISH,food,Diced Fish (Spicy),,,,,no,,low,price hidden by glare
+menu_10_alexs_kitchen_indochinese_dense.jpg,95,FISH,food,Mandarin Fish,,,,,no,,low,price hidden by glare
+menu_10_alexs_kitchen_indochinese_dense.jpg,96,FISH,food,Sichuan Fish,,,,,no,,low,price hidden by glare
+menu_10_alexs_kitchen_indochinese_dense.jpg,97,FISH,food,Apollo Fish,,,,,no,,low,price hidden by glare
+menu_10_alexs_kitchen_indochinese_dense.jpg,98,FISH,food,Pepper Fish,,,,,no,,low,price hidden by glare
+menu_10_alexs_kitchen_indochinese_dense.jpg,99,NOODLES,food,Plain Soft or Fried Noodles,,130-00,,,yes,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,100,NOODLES,food,Vegetable Soft or Fried Noodles,,165-00,,,yes,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,101,NOODLES,food,Vegetable American Chop Suey,,220-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,102,NOODLES,food,Vegetable Chinese Chop Suey,,220-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,103,NOODLES,food,Boiled Noodle with Hot Veg,,220-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,104,NOODLES,food,Sichuan Veg. Soft Noodles,,230-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,105,NOODLES,food,Veg Chilly Garlic Noodle,,220-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,106,NOODLES,food,Veg Hakka Noodle,,230-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,107,NOODLES,food,Egg Soft or Fried Noodle,,230-00,,,yes,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,108,NOODLES,food,Chicken Soft or Fried Noodle,,250-00,,,yes,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,109,NOODLES,food,Prawn Soft or Fried Noodle,,270-00,,,yes,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,110,NOODLES,food,Mixed Soft or Fried Noodle,,270-00,,,yes,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,111,NOODLES,food,American Chop Suey,,250-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,112,NOODLES,food,Chinese Chop Suey,,250-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,113,NOODLES,food,Sichuan Chicken Soft Noodle,,270-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,114,NOODLES,food,Chicken Chilly Garlic Noodle,,250-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,115,NOODLES,food,Boiled Noodle with Hot Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,116,NOODLES,food,Boiled Noodle Diced Chicken,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,117,NOODLES,food,Hakka Noodle,,270-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,118,NOODLES,food,Sichuan Mixed Noodle,,280-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,119,PRAWN,food,Prawn Chips,,290-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,120,PRAWN,food,Sweet & Sour Prawn,,320-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,121,PRAWN,food,Prawn Chow Chow,,320-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,122,PRAWN,food,Hot Garlic Prawn,,320-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,123,PRAWN,food,Chilly Prawn,,320-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,124,PRAWN,food,Prawn Manchuria,,320-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,125,PRAWN,food,Pepper Prawn,,320-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,126,PRAWN,food,Ginger Prawn,,320-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,127,PRAWN,food,Sichuan Prawn,,320-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,128,PRAWN,food,Prawn Pakoda,,320-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,129,PRAWN,food,Fried Prawn,,320-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,130,PRAWN,food,Golden Fried Prawn,,350-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,131,RICE,food,Plain Rice,,110-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,132,RICE,food,Vegetable Fried Rice,,165-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,133,RICE,food,Vegetable Chow Rice,,220-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,134,RICE,food,Hot Vegetable Rice,,220-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,135,RICE,food,Sichuan Veg. Fried Rice,,230-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,136,RICE,food,Ginger Veg. Fried Rice,,220-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,137,RICE,food,Veg Chilly Garlic Rice,,230-00,VEG,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,138,RICE,food,Egg Fried Rice,,230-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,139,RICE,food,Prawn Fried Rice,,270-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,140,RICE,food,Chicken Fried Rice,,240-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,141,RICE,food,Chicken Chilly Garlic Rice,,250-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,142,RICE,food,Chicken Chow Rice,,250-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,143,RICE,food,Chicken Tomato Rice,,250-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,144,RICE,food,Sichuan Chicken Fried Rice,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,145,RICE,food,Ginger Chicken Fried Rice,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,146,RICE,food,Hot Chicken Rice,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,147,RICE,food,Diced Chicken Rice,,260-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,148,RICE,food,Mixed Fried Rice,,270-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,149,RICE,food,Mixed Sichuan Chow Rice,,270-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,150,RICE,food,Sichuan Mixed Fried Rice,,270-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,151,BEVERAGES,drink,Soda,,25-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,152,BEVERAGES,drink,Soft Drink,,50-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,153,BEVERAGES,drink,Orange Juice,,90-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,154,BEVERAGES,drink,Fresh Lime Water,,60-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,155,BEVERAGES,drink,Fresh Lime Soda,,70-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,156,BEVERAGES,drink,Mineral Water,,15-00,,,no,,high,
+menu_10_alexs_kitchen_indochinese_dense.jpg,157,BEVERAGES,drink,Chinese Tea Perpot,,140-00,,per pot,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,1,MEXICO CITY TACOS,food,PASTOR,"Shaved pork trompo with pineapple, onion and cilantro",4.25,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,2,MEXICO CITY TACOS,food,SUADERO,"Slow cooked suadero (beef), chopped onion and cilantro",4.35,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,3,MEXICO CITY TACOS,food,CHILORIO,"Sinaloan-style braised pork, chopped onion and cilantro",4.15,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,4,MEXICO CITY TACOS,food,CARNE ASADA,"Marinated grilled steak, chopped onion and cilantro",4.35,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,5,MEXICO CITY TACOS,food,POLLO ASADO,"Chargrilled marinated chicken, chopped onion and cilantro",3.95,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,6,mothers TACOS,food,PESCADO,"Beer battered fried fish, shaved cabbage, pico de gallo, cilantro and chipotle mayo",5.90,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,7,mothers TACOS,food,MUSHROOM (VEGETARIAN),"Garlic-sautéed shiitake and cremini mushrooms, melted cheese, chopped onion and cilantro",4.25,VEGETARIAN,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,8,mothers TACOS,food,JAMAICA (VEGETARIAN),"Savory blend of Hibiscus flowers & carrot, pickled onion, cilantro and queso fresco",3.95,VEGETARIAN,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,9,mothers TACOS,food,PURPLE POTATO (VEGAN),"Warm seasoned purple potato & purple sweet potato, caramelized onion, cabbage, pico de gallo and cilantro",3.95,VEGAN,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,10,mothers TACOS,food,AVOCADO (VEGETARIAN),"Fresh avocado, queso fresco, pico de gallo and cilantro",3.75,VEGETARIAN,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,11,MULITAS CON QUESO,food,AL PASTOR,"Choice of meat sandwiched between two housemade corn tortillas, with cheese, chopped onion and cilantro",6.65,,,no,,high,section description applies to all mulitas
+menu_11_mothers_tacos_us_printed_dense.jpg,12,MULITAS CON QUESO,food,SUADERO,,6.85,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,13,MULITAS CON QUESO,food,CHILORIO,,6.55,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,14,MULITAS CON QUESO,food,MUSHROOM,,6.25,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,15,MULITAS CON QUESO,food,CARNE ASADA,,6.85,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,16,MULITAS CON QUESO,food,POLLO,,6.45,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,17,SIDES,food,BEANS,Homestyle seasoned pinto bean,3.65,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,18,SIDES,food,RED RICE,Traditional Mexican red rice,3.65,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,19,SIDES,food,PAPAS FRITAS,Crispy waffle fries,4.95,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,20,SIDES,food,TORTILLAS & SALSA,Four (4) housemade tortillas served with choice of salsa,4.75,,four tortillas,yes,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,21,NIÑOS,food,QUESADILLA,Cheese quesadilla made with housemade corn tortillas and served with a small side of rice & beans,5.95,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,22,NIÑOS,food,TACO MEAL,"Single taco with choice of Beef or Chicken, served with a small side of rice & beans",5.95,,single taco,yes,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,23,mothers FRIES,food,AL PASTOR O.G.,"Shaved pork trompo on a bed of crispy waffle fries w/ cheese, Mothers Sauce, pickled onion & cilantro",12.65,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,24,mothers FRIES,food,SUADERO DIRTY,"Slow-cooked marbled beef on a bed of crispy waffle fries w/ cheese, Mothers Sauce, pickled onion & cilantro",12.95,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,25,mothers FRIES,food,VEGETARIAN,"Garlic-sautéed mushrooms on a bed of crispy waffle fries w/ cheese, Mothers Sauce, pickled onion & cilantro",12.25,VEGETARIAN,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,26,mothers FRIES,food,CHILORIO DIRTY,"Sinaloan-style braised pork on a bed of crispy waffle fries w/ cheese, Mothers Sauce, pickled onion & cilantro",12.45,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,27,mothers FRIES,food,CARNE ASADA,"Marinated grilled steak on a bed of crispy waffle fries w/ cheese, Mothers Sauce, pickled onion & cilantro",12.95,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,28,mothers FRIES,food,POLLO ASADO,"Chargrilled marinated chicken on a bed of crispy waffle fries w/ cheese, Mothers Sauce, pickled onion & cilantro",12.25,,,no,,high,
+menu_11_mothers_tacos_us_printed_dense.jpg,29,AGUAS FRESCAS,drink,HORCHATA,,4.50 regular / 8.00 grande,,regular / grande,no,,high,two sizes
+menu_11_mothers_tacos_us_printed_dense.jpg,30,AGUAS FRESCAS,drink,JAMAICA,,3.95 regular / 7.45 grande,,regular / grande,no,,high,two sizes
+menu_11_mothers_tacos_us_printed_dense.jpg,31,AGUAS FRESCAS,drink,TAMARINDO,,4.25 regular / 7.75 grande,,regular / grande,no,,high,two sizes
+menu_12_hard_shadow_dyke_road_cafe.jpg,1,LUNCH,food,WARMING BUDDHA BOWL (GF),"Choose Between Pulled Pork, Feta, Chicken Breast, Halloumi, Falafel (VE,GF). All served with Quinoa, Roasted Sweet Potato, Roasted Cauliflower, Broccoli, Chickpeas & Tahini Dressing",10.55,GF,,yes,,high,one dish with a choice of protein
+menu_12_hard_shadow_dyke_road_cafe.jpg,2,JACKET POTATOES (GF),food,"Sun Dried Tomatoes, Smashed Avocado, Olives & Feta",,9.25,GF,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,3,JACKET POTATOES (GF),food,"Pulled Pork, Cheddar, Avocado & Onion",,9.25,GF,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,4,JACKET POTATOES (GF),food,Chicken Mayo Crispy Bacon,,8.50,GF,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,5,JACKET POTATOES (GF),food,Mozzarella & Pesto,,8.00,GF,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,6,JACKET POTATOES (GF),food,Tuna Mayonnaise,,8.50,GF,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,7,JACKET POTATOES (GF),food,Baked Beans & Cheddar Cheese,,7.95,GF,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,8,LUNCH,food,BEEF BURGER & FRIES,"Tomato, Lettuce, Red Onion, Gherkin, Cheddar & Mayo",11.95,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,9,LUNCH,food,VEGAN BURGER & FRIES,"Tomato, Lettuce, Red onion, Gherkin, Avocado & Vegan Mayo",11.95,VEGAN,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,10,LUNCH,food,CHICKEN BURGER & FRIES,"Lettuce, Tomato, Red onion & Mayo",11.95,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,11,CHILDREN'S,food,Childs Half Sandwich,Ham sandwich; Cheese Sandwich; Cheese & Ham Sandwich; Cucumber & Hummus Sandwich (VE),3.50,,half sandwich,yes,,high,one item with 4 filling choices; accept 4 separate items too
+menu_12_hard_shadow_dyke_road_cafe.jpg,12,CHILDREN'S,food,Cucumber Sticks & Hummus (VE),,3.50,VE,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,13,CHILDREN'S,food,Chicken Goujon & Chips,,7.50,,,no,,high,price printed once for this and Fish Fingers & Chips
+menu_12_hard_shadow_dyke_road_cafe.jpg,14,CHILDREN'S,food,Fish Fingers & Chips,,7.50,,,no,,high,shares the 7.50 printed next to Chicken Goujon & Chips
+menu_12_hard_shadow_dyke_road_cafe.jpg,15,CHILDREN'S,food,Half Jacket Potato,Mozarella Pesto; Cheese & Beans; Tuna Mayo,6.50,,half jacket potato,yes,,high,one item with 3 topping choices; Mozarella spelled as printed
+menu_12_hard_shadow_dyke_road_cafe.jpg,16,SANDWICHES,food,B.L.T,"Bacon, Lettuce, Tomato, Served with Mayo",7.50,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,17,SANDWICHES,food,H.L.T,"Halloumi, Lettuce, Tomato, Served With Mayo & a Dash of Lemon",7.50,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,18,SANDWICHES,food,The Mediterranean (VE),"Smashed Avocado, Olives & Sun Dried Tomatoes",7.50,VE,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,19,SANDWICHES,food,"Chicken Breast, Smashed Avocado, Tomato & a Dash of Mayo",,7.85,,,no,,high,no separate name; the ingredient line is the item
+menu_12_hard_shadow_dyke_road_cafe.jpg,20,SANDWICHES,food,Chicken Mayo & Crispy Bacon,,7.85,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,21,SANDWICHES,food,Cheese Ploughmans,,7.00,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,22,SANDWICHES,food,Egg Mayo,,7.00,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,23,SANDWICHES,food,Tuna Mayo,,7.50,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,24,WRAPS,food,"Falafel, Hummus, Shredded Red Cabbage, Salad & Sweet Chilli",,7.85,,,no,,high,7.85 printed once at the WRAPS header; applies to all three wraps
+menu_12_hard_shadow_dyke_road_cafe.jpg,25,WRAPS,food,"Crispy Chicken, Shredded Red Cabbage, Salad, Sweet Chilli & Mayo",,7.85,,,no,,high,price inferred from section header
+menu_12_hard_shadow_dyke_road_cafe.jpg,26,WRAPS,food,"Pulled Pork, Shredded Red Cabbage, Salad, Cheddar Cheese & Mayo",,7.85,,,no,,high,price inferred from section header
+menu_12_hard_shadow_dyke_road_cafe.jpg,27,TOASTIES,food,Cheese,,5.50,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,28,TOASTIES,food,Cheese & Tomato,,6.00,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,29,TOASTIES,food,Cheese & Onion,,6.00,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,30,TOASTIES,food,Cheese & Pickle,,6.20,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,31,TOASTIES,food,Cheese & Ham,,6.50,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,32,PANINIS,food,"Mozzarella, Pesto & Tomato",,6.50,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,33,PANINIS,add-on,Add Ham or Crispy Chicken,,7.50,,,yes,"Mozzarella, Pesto & Tomato",high,italic line under the mozzarella panini; 7.50 is the panini price with ham or chicken added
+menu_12_hard_shadow_dyke_road_cafe.jpg,34,PANINIS,food,Tuna Melt,,7.50,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,35,SIDES,food,Fries VE,,3.95,VE,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,36,SIDES,add-on,Add Rosemary Seasoning,,4.40,,,no,Fries VE,high,italic line under Fries; 4.40 is fries with seasoning
+menu_12_hard_shadow_dyke_road_cafe.jpg,37,SIDES,food,Sweet Potato Fries,,4.60,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,38,SIDES,food,Hash Browns,,3.20,,,no,,high,
+menu_12_hard_shadow_dyke_road_cafe.jpg,39,SIDES,food,Side Salad,,3.20,,,no,,high,
+menu_13_hard_obstructed_cafe_mondegar.jpg,1,CONTINENTAL MENU - VEGETARIAN,food,A.T.M. (Any Time Meal),Seasonal Vegetables in a Creamy Cheese White Wine Sauce with Buttered Yellow Rice,530,VEGETARIAN,,no,,high,sideways text
+menu_13_hard_obstructed_cafe_mondegar.jpg,2,CONTINENTAL MENU - VEGETARIAN,food,Funghi Con Crema,Julienne's of Bell Peppers & Mushroom in a Creamy Cheese Wine Sauce with Buttered Rice,530,VEGETARIAN,,no,,high,sideways text
+menu_13_hard_obstructed_cafe_mondegar.jpg,3,CONTINENTAL MENU - VEGETARIAN,food,Vegetable Au Gratin,Baked Dish of Mix. Veg. & Pineapple with Rice,530,VEGETARIAN,,no,,high,sideways text
+menu_13_hard_obstructed_cafe_mondegar.jpg,4,CONTINENTAL MENU - VEGETARIAN,food,Malfatti Indiana,"Spinach, Paneer & Cottage Cheese Dumplings with Herbs topped with Italian Cheese Sauce",530,VEGETARIAN,,no,,high,"handwritten sticker ""cheese"" next to the price"
+menu_13_hard_obstructed_cafe_mondegar.jpg,5,CONTINENTAL MENU - VEGETARIAN,food,Amalfi,"Baked Pancake Stuffed with Spinach, Corn, Mushroom, Cheese and Herbs topped with Italian Bechamel Sauce",530,VEGETARIAN,,no,,high,sideways text
+menu_13_hard_obstructed_cafe_mondegar.jpg,6,CONTINENTAL MENU - VEGETARIAN,food,Brochettes de Legumes,"Cubes of Paneer, Bell Peppers, Pineapple & Mushrooms in Paprika, Herb flavoured Tomato Sauce with Yellow Buttered Rice",530,VEGETARIAN,,no,,high,sideways text
+menu_13_hard_obstructed_cafe_mondegar.jpg,7,CONTINENTAL MENU - CHICKEN / POLLO,food,Roast Chicken,In demi - glazed Sauce served with Fries & Garlic bread,590,,,no,,high,description partly cut off at the photo edge
+menu_13_hard_obstructed_cafe_mondegar.jpg,8,LITE BITES,food,Wafer / Masala Papad / Boiled Eggs,,,,,yes,,medium,small blurred text; prices cut off at right edge
+menu_13_hard_obstructed_cafe_mondegar.jpg,9,LITE BITES,food,Garlic Toast / Green Salad,,,,,yes,,medium,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,10,LITE BITES,food,French Fries / Hash Brown (6 pcs),,,,6 pcs (hash brown),yes,,medium,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,11,LITE BITES,food,Cheese Cherry Pineapple Stick,,,,,no,,medium,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,12,LITE BITES,food,Onion Rings / Cheese Balls (Schezwan),,,,,yes,,medium,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,13,LITE BITES,food,Chilly Cheese Toast,,,,,no,,medium,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,14,LITE BITES,food,Cutlet & Fries (Veg / Chicken),,,,,yes,,medium,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,15,LITE BITES,food,Koliwada (Paneer / Prawns),,,,,yes,,medium,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,16,LITE BITES,food,Mondy's Steak Boti,,,,,no,,medium,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,17,LITE BITES,food,Masala Omelette with French Fries,,,,,no,,medium,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,18,LITE BITES,food,Kheema Pao / Kheema Gotala,,,,,yes,,medium,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,19,LITE BITES,add-on,Extra Sauce,Schezwan / Garlic / ...,,,,no,,medium,list of sauces cut off at the right edge; prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,20,TANDOOR MENU - VEGETARIAN,food,Aloo Tikka / Mushroom Tikka,,,VEGETARIAN,,yes,,high,prices cut off at right edge
+menu_13_hard_obstructed_cafe_mondegar.jpg,21,TANDOOR MENU - VEGETARIAN,food,Mixed Tandoor Platter,,,VEGETARIAN,,no,,high,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,22,TANDOOR MENU - NON - VEGETARIAN,food,Chicken Tandoori (Half / Full),,,NON-VEGETARIAN,half / full,no,,high,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,23,TANDOOR MENU - NON - VEGETARIAN,food,Mixed Tandoor Platter,,,NON-VEGETARIAN,,no,,high,prices cut off
+menu_13_hard_obstructed_cafe_mondegar.jpg,24,ACCOMPANIMENTS,food,Tandoor Roti,,,,,no,,high,"section title cut off (""ACCOMPANIMENTS - B...""); prices cut off"
+menu_14_hard_dim_gaggan_tasting.jpg,1,Tasting Menu - Best of Gaggan,food,Street eats from India,"Yogurt Chaat, Spiced nuts in an edible plastic bag, Chocolate Pani puri, Potato 2-some- crispy and liquid",,,,no,,high,course of a set menu
+menu_14_hard_dim_gaggan_tasting.jpg,2,Tasting Menu - Best of Gaggan,food,Viagra®,"Freshly shucked oyster, Yuzu spiced marinated apples and horseradish ice cream, lemon air",,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,3,Tasting Menu - Best of Gaggan,food,Sandwich,"Foiégras mousse, onion water baguette, onion chutney and hazelnut candy",,,,no,,high,Foiégras spelled as printed
+menu_14_hard_dim_gaggan_tasting.jpg,4,Tasting Menu - Best of Gaggan,food,Down To Earth,"Summer vegetables - Asparagus, Morels, Mushrooms, Artichokes with 62ºC egg yolk and truffle chili air",,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,5,Tasting Menu - Best of Gaggan,food,Alchemist's Cake,"Dhokla; lentil flour cakes with curry leaves, mustard, chutney, and coconut ice cream",,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,6,Tasting Menu - Best of Gaggan,food,Keema Pav (Lamb Ragout),Minced lamb curry with dehydrated tomato bread and chutney,,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,7,Tasting Menu - Best of Gaggan,food,Gunpowder,"Fiery spiced Thai Sea-bass, curry leaf powder, basmati Rice porridge, tamarind sugar",,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,8,Tasting Menu - Best of Gaggan,food,Treasure Shells,"Norwegian diver scallops, Bengali mustard, Cognac and spiced sour cream",,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,9,Tasting Menu - Best of Gaggan,food,Land of lungi,Coldwater Atlantic lobster cooked in chameen style malabari coconut curry,,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,10,Tasting Menu - Best of Gaggan,food,Fusion called confusion,"White asparagus, chili bean mizo curry and peas sprouts",,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,11,Tasting Menu - Best of Gaggan,food,Portuguese Connection,Joselito Iberian pork belly stir-fried with vinadaloo curry and crushed garlic,,,,no,,high,vinadaloo spelled as printed
+menu_14_hard_dim_gaggan_tasting.jpg,12,Tasting Menu - Best of Gaggan,food,Best memory,"Free-range lamb chops sous-vide, grilled and finished with almond saffron oil",,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,13,Tasting Menu - Best of Gaggan,food,British National Dish,Home-style Chicken tikka masala accompanied naan breads,,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,14,Tasting Menu - Best of Gaggan,food,Poor man's porridge,"Jasmine rice ice- cream, pistachio gel, Rose room-freshener, almond and flower glass",,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,15,Tasting Menu - Best of Gaggan,food,Masala Chai,Indian spiced black milk tea jujube jelly,,,,no,,high,"dessert course, not a drink"
+menu_14_hard_dim_gaggan_tasting.jpg,16,Tasting Menu - Best of Gaggan,food,I Love Chocolate,Five acts of chocolate in different textures and tastes plated at the table by our dessert team,,,,no,,high,
+menu_14_hard_dim_gaggan_tasting.jpg,17,Tasting Menu - Best of Gaggan,other,Price,4000 baht +10% service charge + 7 % Vat,4000 baht,,,no,,high,price line for the whole tasting menu
+menu_15_hard_glare_peg_house_chalkboard.jpg,1,Burgers - Humboldt Grass fed Beef,food,Cheese Burger,the works,11.50,,,no,,high,"section note: served w/ our homemade coleslaw; ""the works"" = lettuce, tomato, onion, pickle, mayo, mustard, ketchup"
+menu_15_hard_glare_peg_house_chalkboard.jpg,2,Burgers - Humboldt Grass fed Beef,food,Sunset Burger,the works w/ cheddar and bacon,13,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,3,Burgers - Humboldt Grass fed Beef,food,Lost Coast Burger,"Bacon, goat cheese, Honey, Arugula, onion + mayo",15,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,4,Burgers - Humboldt Grass fed Beef,food,Apricot Brie Burger,"Bacon, Brie, Apricot Jam, lettuce + mayo",15,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,5,Burgers - Humboldt Grass fed Beef,food,Wild West Burger,"Bacon, cheddar, onion, Jalapeno + BBQ sauce",13,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,6,Burgers - Humboldt Grass fed Beef,food,Ortega Burger,"grilled mild chili pepper, onion, mayo, mustard + pepper jack",12.50,,,no,,medium,second line of the description read through the glare band
+menu_15_hard_glare_peg_house_chalkboard.jpg,7,Burgers - Humboldt Grass fed Beef,food,Aloha Burger,"grilled pineapple, teriyaki, bacon, mayo, lettuce, tomato",15.50,,,no,,medium,description under heavy glare
+menu_15_hard_glare_peg_house_chalkboard.jpg,8,Burgers - Humboldt Grass fed Beef,food,Big Foot Burger,"Dbl cheeseburger, bacon, pepperjack, the works",16.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,9,grilled Chicken sandwiches,food,Chicken,"lettuce, Tomato, onion, mayo",14,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,10,grilled Chicken sandwiches,food,Dylan,"Bacon, Avocado, provolone, onion, tomato, lettuce, mayo, BBQ sauce + mendo mustard",17,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,11,grilled Chicken sandwiches,food,Mediterraean,"Pesto, Fetta, lettuce, tomato, onion, mayo",15,,,no,,high,spelled Mediterraean / Fetta on the board
+menu_15_hard_glare_peg_house_chalkboard.jpg,12,grilled Chicken sandwiches,food,Wild west,"Bacon, cheddar, onion, Jalapeño, BBQ",17,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,13,grilled Chicken sandwiches,food,Aloha,,17,,,no,,low,description unreadable under glare; price legible
+menu_15_hard_glare_peg_house_chalkboard.jpg,14,grilled Chicken sandwiches,food,Brie,"Bacon, Brie, Apricot Jam, lettuce, mayo",17,,,no,,medium,description faint under glare
+menu_15_hard_glare_peg_house_chalkboard.jpg,15,Dogs,food,Grilled Beef Frank,"ketchup, must, onion + Relish",7.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,16,Dogs,food,Cajun,"Spicy Hot Link sausage w/ the works, served w/ slaw",10.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,17,Dogs,food,Polish,"sauerkraut, mustard, mendo mustard, served w/ slaw",10.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,18,From The Sea,food,Salmon Burgers,"squeeze of lemon, lettuce, tomato, pickle, onion, mayo, mendo mustard",12.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,19,From The Sea,food,Oysters - Humboldt Bay,when available; BBQ'd in our Famous garlic butter sauce,3 for 8.50 / 6 for 14.50 / 12 for 25.50,,3 / 6 / 12 oysters,no,,high,three portion sizes
+menu_15_hard_glare_peg_house_chalkboard.jpg,20,Plant Based,food,Veggie Burger,The works w/ cole slaw,11.50,"PLANT BASED, VEGGIE",,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,21,Plant Based,add-on,add cheese,,.75,PLANT BASED,,no,Veggie Burger,high,written under Veggie Burger
+menu_15_hard_glare_peg_house_chalkboard.jpg,22,Plant Based,food,Veggie Dog,"ketchup, mustard, onion, relish",7.50,"PLANT BASED, VEGGIE",,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,23,Plant Based,food,Tempeh Reuben,"swiss, sauerkraut, pickles, mayo, mustard, mendo mustard on toasted rye w/ cole slaw",16.00,PLANT BASED,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,24,Plant Based,food,Tofurkey Polish,"sauerkraut, mustard, mendo mustard w/ cole slaw",10.50,PLANT BASED,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,25,Plant Based,other,Make it Vegan,"chao cheese, aioli",,VEGAN (option),,no,,high,"option note, no price"
+menu_15_hard_glare_peg_house_chalkboard.jpg,26,Plant Based,other,GF Gluten Free Bread available,,,GF,,no,,high,"note, no price"
+menu_15_hard_glare_peg_house_chalkboard.jpg,27,Sandwiches,food,BLT w/ coleslaw,,11.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,28,Sandwiches,food,Grilled Cheese,,7.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,29,Sandwiches,food,Pastrami Reuben w/ coleslaw,"sauerkraut, swiss, mustard, mendo mustard, mayo, pickles on Rye",16.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,30,Sides,food,Potato Salad,,5,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,31,Sides,food,Macaroni Salad,,5,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,32,Sides,food,Lg Slaw,,5,,large,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,33,Sides,food,garlic Bread,,5.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,34,Sides,food,Chzy garlic Bread,,6.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,35,Sides,food,Chips,,2.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,36,Sides,food,green salad,,7.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,37,Beverages,drink,Fresh squeezed Lemonade,,4.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,38,Beverages,drink,Sun Tea,,3,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,39,Beverages,drink,Solaraide (lemonade + Tea),,4,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,40,Beverages,drink,Lost Coast Root Beer,,4.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,41,Beverages,drink,Canned Soda,,2.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,42,Beverages,drink,Bottle Water,,3.00,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,43,Desserts,food,Blackberry Sundae,,6.50,,,no,,high,
+menu_15_hard_glare_peg_house_chalkboard.jpg,44,Desserts,food,Rootbeer Float,,6.50,,,no,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,1,ENTREES,food,MOLCAJETE,"Choice of chicken, steak or combo in a Spicy Mexican stew with onion, mushroom, pico de gallo, cheese, black beans, avocado & grilled cactus",19,,,yes,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,2,ENTREES,food,TAQUITOS,"Three fried taquitos filled with shredded beef or chicken, topped with sour cream, lettuce, tomato, cotija cheese & guacamole",16,,three taquitos,yes,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,3,ENTREES,food,CHILE VERDE,Pork in spicy tomatillo sauce,16,,,no,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,4,ENTREES,food,POLLO EN MOLE,"Chicken breast in mole sauce made with pasilla chile, toasted pepitas, peanuts & chocolate",17,,,no,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,5,ENTREES,food,POLLO A LA CREMA,Chicken sautéed with onion & mushroom in cream sauce,17,,,no,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,6,ENTREES,food,TORTILLA SOUP,"Grilled chicken, avocado, tomato, cheese & fried tortilla strips",15,,,no,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,7,ENTREES,food,CHILES RELLENOS,"Poblano chiles filled with asadero cheese, topped with sauce & Monterey cheese",16,,,no,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,8,ENTREES,food,CARNITAS,"Slow cooked pulled pork topped with cilantro, onion & pico de gallo",17,,,no,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,9,ENTREES,food,TAMPICO,"Grilled steak and sautéed prawns in butter with onion, mushroom & crushed chili peppers",26,,,no,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,10,ENTREES,food,CARNE ASADA,Grilled skirt steak traditional or ranchera style,21,,,yes,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,11,ENTREES,food,POLLO ASADO,Grilled chicken breast,17,,,no,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,12,ENTREES,food,POLLO FUNDIDO,"Grilled chicken topped with jack cheese, cilantro & guacamole",,,,no,,low,price cut off at right edge; glare on 'guacamole'
+menu_16_mi_pueblo_us_printed_dense.jpg,13,ENTREES,food,ASADA MIX,Grilled steak and chicken,19,,,no,,high,
+menu_16_mi_pueblo_us_printed_dense.jpg,14,ENTREES,food,TACOS AL CARBON,Three steak tacos in sauce to... with pico de gallo & cotija,,,three tacos,no,,low,price cut off at right edge; description also cut off mid-sentence
+menu_17_duck_house_takeout_printed_wall.jpg,1,DIM SUM & BUNS,food,Pork Xiao Long Bao Soup Dumplings (9),,12.95,,9,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,2,DIM SUM & BUNS,food,Shrimp & Pork Xiao Long Bao Soup Dumplings (9),,13.95,,9,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,3,DIM SUM & BUNS,food,Pork & Vegetable Pot Stickers (8),,10.95,,8,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,4,DIM SUM & BUNS,food,Leek & Pork Pot Stickers (8),,10.95,,8,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,5,DIM SUM & BUNS,food,Vegetable Pot Stickers (8),,10.95,,8,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,6,DIM SUM & BUNS,food,Pork & Vegetable Dumplings (8),,10.95,,8,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,7,DIM SUM & BUNS,food,Leek & Pork Dumplings (8),,10.95,,8,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,8,DIM SUM & BUNS,food,Vegetable Dumplings (8),,10.95,,8,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,9,DIM SUM & BUNS,food,Pan Fried Pork Buns (4),,12.95,,4,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,10,DIM SUM & BUNS,food,Beef Roll (8),,12.95,,8,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,11,DIM SUM & BUNS,food,Green Onion Pancake (6),,9.95,,6,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,12,DIM SUM & BUNS,food,Szechuan Pork Wonton w/Chili Oil,,11.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,13,DIM SUM & BUNS,food,Vegetable Egg Rolls (3),,3.99,,3,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,14,DIM SUM & BUNS,food,Red Bean Paste Buns (4),,8.95,,4,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,15,SOUP,food,Hot & Sour Soup,,(S) 1.95 (L) 7.95,,S / L,no,,medium,small price reads 1.95 but may be 2.95; tiny print
+menu_17_duck_house_takeout_printed_wall.jpg,16,SOUP,food,Egg Flower Soup,,(S) 1.95 (L) 7.95,GF,S / L,no,,medium,small price reads 1.95 but may be 2.95; tiny print
+menu_17_duck_house_takeout_printed_wall.jpg,17,SOUP,food,Tomato Fried Egg Soup,,9.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,18,SOUP,food,Snow Pea Leaves Fried Egg Soup,,9.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,19,SOUP,food,Assorted Vegetable Tofu Soup,,9.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,20,SOUP,food,Westlake Beef Soup,,9.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,21,SOUP,food,Seafood Tofu Soup,,11.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,22,SOUP,food,Preserved Vegetable w/Sliced Fish Soup,,15.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,23,RICE DISHES,food,Fried Rice,"(Chicken, Beef, Pork, Vegetable, Shrimp+$1)",10.95,,,yes,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,24,RICE DISHES,food,Yang Zhou Fried Rice,,11.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,25,RICE DISHES,food,Combination Fried Rice,,11.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,26,RICE DISHES,food,Seafood Fried Rice,,12.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,27,RICE DISHES,food,Steamed Rice,,1.00,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,28,DESSERT,food,Sticky Rice Ball w/ Sweet Rice Wine,,10.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,29,DESSERT,food,Vanilla Ice Cream,,3.99,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,30,DESSERT,food,Strawberry Ice Cream,,3.99,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,31,SZECHUAN PERSONAL HOTPOT,food,Soup Base: Ma La Spicy,Soup Base Including Dry Mushroom/Bamboo Shoot/Tofu/Konjak,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,32,SZECHUAN PERSONAL HOTPOT,add-on,"Choice of: Fish, Beef, Chicken, Intestine, Pork Blood, Lamb",Add $3.00 for Each Additional Item,3.00 each,,,yes,Soup Base: Ma La Spicy,high,
+menu_17_duck_house_takeout_printed_wall.jpg,33,"NOODLE, CHOW MEIN, CHOW FUN",food,Chow Mein,"(Chicken, Beef, Pork, Vegetable, Shrimp or Seafood + $1)",11.95,,,yes,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,34,"NOODLE, CHOW MEIN, CHOW FUN",food,Combination Chow Mein,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,35,"NOODLE, CHOW MEIN, CHOW FUN",food,Chow Fun,"(Chicken, Beef, Pork, Vegetable, Shrimp or Seafood + $1)",11.95,,,yes,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,36,"NOODLE, CHOW MEIN, CHOW FUN",food,Combination Chow Fun,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,37,"NOODLE, CHOW MEIN, CHOW FUN",food,Hot & Spicy Chow Mein or Chow Fun,"(Chicken, Beef, Pork, Vegetable, Shrimp or Seafood + $1)",11.95,,,yes,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,38,"NOODLE, CHOW MEIN, CHOW FUN",food,Szechuan Beef Noodle Soup,,11.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,39,"NOODLE, CHOW MEIN, CHOW FUN",food,Braised Beef Noodle Soup,,11.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,40,"NOODLE, CHOW MEIN, CHOW FUN",food,Szechuan Dan Dan Noodle,,9.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,41,CHICKEN,food,Chong Qing Hot Chicken,,15.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,42,CHICKEN,food,Chicken w/ Pickled Chili,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,43,CHICKEN,food,Salt & Pepper Chicken Wings,,13.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,44,CHICKEN,food,Sliced Chicken in Hot & Spicy Gravy,,13.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,45,CHICKEN,food,Soft Tofu Chicken,,14.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,46,CHICKEN,food,Chicken w/ Hot Chili Sauce,,13.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,47,CHICKEN,food,Mandarin Crispy Chicken,,13.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,48,CHICKEN,food,General Tso's Chicken,,13.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,49,CHICKEN,food,Orange Chicken,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,50,CHICKEN,food,Sweet & Sour Chicken,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,51,CHICKEN,food,Kung Pao Chicken,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,52,CHICKEN,food,Mongolian Chicken,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,53,CHICKEN,food,Cashew Chicken,,13.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,54,CHICKEN,food,Sesame Chicken,,13.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,55,CHICKEN,food,Broccoli Chicken,,12.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,56,CHICKEN,food,Mushroom Chicken,,12.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,57,CHICKEN,food,Stir Fried Chicken w/ Basil,,13.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,58,CHICKEN,food,Green Bean Chicken,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,59,CHICKEN,food,Chicken w/ Assorted Vegetables,,12.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,60,SZECHUAN HOT & SPICY DRIED POT,food,Beef Hot & Spicy Dried Pot,,15.95,,,no,,high,section served w/ Bean sprout/Celery/Leek/Bell Pepper
+menu_17_duck_house_takeout_printed_wall.jpg,61,SZECHUAN HOT & SPICY DRIED POT,food,Lamb Hot & Spicy Dried Pot,,16.95,,,no,,high,section served w/ Bean sprout/Celery/Leek/Bell Pepper
+menu_17_duck_house_takeout_printed_wall.jpg,62,SZECHUAN HOT & SPICY DRIED POT,food,Pork Spareribs Hot & Spicy Dried Pot,,15.95,,,no,,high,section served w/ Bean sprout/Celery/Leek/Bell Pepper
+menu_17_duck_house_takeout_printed_wall.jpg,63,SZECHUAN HOT & SPICY DRIED POT,food,Intestines Hot & Spicy Dried Pot,,14.95,,,no,,high,section served w/ Bean sprout/Celery/Leek/Bell Pepper
+menu_17_duck_house_takeout_printed_wall.jpg,64,SZECHUAN HOT & SPICY DRIED POT,food,Chicken Wings Hot & Spicy Dried Pot,,15.95,,,no,,high,section served w/ Bean sprout/Celery/Leek/Bell Pepper
+menu_17_duck_house_takeout_printed_wall.jpg,65,SZECHUAN HOT & SPICY DRIED POT,food,Prawns Hot & Spicy Dried Pot (w/ or w/o Shell),,16.95,,,yes,,high,section served w/ Bean sprout/Celery/Leek/Bell Pepper
+menu_17_duck_house_takeout_printed_wall.jpg,66,SZECHUAN HOT & SPICY DRIED POT,food,Mixed Mushroom Hot & Spicy Dried Pot,,15.95,,,no,,high,section served w/ Bean sprout/Celery/Leek/Bell Pepper
+menu_17_duck_house_takeout_printed_wall.jpg,67,SZECHUAN HOT & SPICY DRIED POT,food,Tofu Hot & Spicy Dried Pot,,14.95,,,no,,high,section served w/ Bean sprout/Celery/Leek/Bell Pepper
+menu_17_duck_house_takeout_printed_wall.jpg,68,BEEF & LAMB,food,Sliced Beef in Hot & Spicy Gravy,,15.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,69,BEEF & LAMB,food,Soft Tofu Beef,,14.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,70,BEEF & LAMB,food,Stir-fried Beef w/ Cilantro,,14.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,71,BEEF & LAMB,food,Stir-fried Beef w/ Green Onion,,14.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,72,BEEF & LAMB,food,Mongolian Beef,,14.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,73,BEEF & LAMB,food,Cumin Beef,,14.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,74,BEEF & LAMB,food,Beef w/ Broccoli,,13.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,75,BEEF & LAMB,food,Beef w/ Pickled Chili,,13.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,76,BEEF & LAMB,food,Beef w/ Mixed Mushroom,,15.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,77,BEEF & LAMB,food,Beef w/ Black Pepper Sauce,,14.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,78,BEEF & LAMB,food,Beef w/ Green Bean,,14.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,79,BEEF & LAMB,food,Beef w/ Snow Peas,,15.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,80,BEEF & LAMB,food,Stir-fried Lamb w/ Cilantro,,15.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,81,BEEF & LAMB,food,Stir-fried Lamb w/ Green Onion,,15.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,82,BEEF & LAMB,food,Cumin Lamb,,15.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,83,BEEF & LAMB,food,Lamb w/ Pickled Chili,,15.95,,,no,,medium,price column is skewed half a line lower than the names (wrinkled paper); prices matched by order
+menu_17_duck_house_takeout_printed_wall.jpg,84,PORK,food,Intestines & Tripe in Hot Sauce,,16.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,85,PORK,food,Intestines & Tofu in Spicy Gravy Hotpot,,15.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,86,PORK,food,Twice Cooked Pork Belly Szechuan Style,,13.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,87,PORK,food,Moo Shu Pork,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,88,PORK,food,Pork w/ Dried Bean Curd & Chinese Celery,,13.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,89,PORK,food,Pork w/ Dried Bean Curd & Leek,,13.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,90,PORK,food,Pork w/ Bamboo Shoots,,,,,no,,low,price cut off or blurred at the right edge of the photo
+menu_17_duck_house_takeout_printed_wall.jpg,91,PORK,food,Shredded Pork w/ Peking Sauce,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,92,PORK,food,Shredded Pork w/ Hot Garlic Sauce,,,,,no,,low,price cut off or blurred at the right edge of the photo
+menu_17_duck_house_takeout_printed_wall.jpg,93,PORK,food,Smoked Pork Belly w/ Leek,,,,,no,,low,price cut off or blurred at the right edge of the photo
+menu_17_duck_house_takeout_printed_wall.jpg,94,PORK,food,Smoked Pork Belly w/ Wood Ear Fungus and Leek,,,,,no,,low,price cut off or blurred at the right edge of the photo
+menu_17_duck_house_takeout_printed_wall.jpg,95,PORK,food,Pork Belly w/ Preserved Vegetables,,,,,no,,low,price cut off or blurred at the right edge of the photo
+menu_17_duck_house_takeout_printed_wall.jpg,96,PORK,food,Pan Fried Intestines,,,,,no,,low,price cut off or blurred at the right edge of the photo
+menu_17_duck_house_takeout_printed_wall.jpg,97,PORK,food,Intestines in Hot & Spicy Gravy,,,,,no,,low,price cut off or blurred at the right edge of the photo
+menu_17_duck_house_takeout_printed_wall.jpg,98,PORK,food,Intestines w/ Preserved Vegetable,,,,,no,,low,price cut off or blurred at the right edge of the photo
+menu_17_duck_house_takeout_printed_wall.jpg,99,PORK,food,Szechuan Style Pig Feet,,,,,no,,low,price cut off or blurred at the right edge of the photo
+menu_17_duck_house_takeout_printed_wall.jpg,100,PORK,food,House Special Garlic Pork Spareribs,,,,,no,,low,price cut off or blurred at the right edge of the photo
+menu_17_duck_house_takeout_printed_wall.jpg,101,PORK,food,Sweet & Sour Pork Spareribs,,,,,no,,low,price cut off or blurred at the right edge of the photo
+menu_17_duck_house_takeout_printed_wall.jpg,102,SEAFOOD,food,Honey Walnut Prawns,,15.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,103,SEAFOOD,food,Salt & Pepper Prawns (w/ or w/o Shell),,15.95,,,yes,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,104,SEAFOOD,food,Szechuan Style Prawns (w/ or w/o Shell),,15.95,,,yes,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,105,SEAFOOD,food,Chong Qing Style Prawns (w/ or w/o Shell),,16.95,,,yes,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,106,SEAFOOD,food,Cashew Prawns,,14.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,107,SEAFOOD,food,Kung Pao Prawns,,14.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,108,SEAFOOD,food,Prawns w/ Assorted Vegetables,,15.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,109,SEAFOOD,food,Prawns w/ Snow Peas and Wood Ear Fungus,,16.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,110,SEAFOOD,food,Squid w/ Pickled Chili,,15.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,111,SEAFOOD,food,Salt & Pepper Squid,,15.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,112,SEAFOOD,food,Prawn & Squid w/ Hot Garlic Sauce,,15.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,113,SEAFOOD,food,Fish Fillet in Hot & Spicy Gravy,,15.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,114,SEAFOOD,food,Fish Fillet in Hot & Spicy Chili Oil,,15.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,115,SEAFOOD,food,Soft Tofu Fish Fillet,,15.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,116,SEAFOOD,food,Deep Fried Fish Fillet Szechuan Style,,15.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,117,SEAFOOD,food,Stir-fried Fish Fillet,,14.95,GF,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,118,SEAFOOD,food,Fish Fillet w/ Basil,,14.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,119,SEAFOOD,food,Pickled Chili Fish Fillet,,14.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,120,TOFU & VEGETABLE,food,Mapo Tofu w/ Ground Pork,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,121,TOFU & VEGETABLE,food,Fried Tofu Szechuan Style,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,122,TOFU & VEGETABLE,food,Braised Tofu,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,123,TOFU & VEGETABLE,food,Twice Cooked Tofu Szechuan Style,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,124,TOFU & VEGETABLE,food,Eggplant w/ Hot Garlic Sauce,,11.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,125,TOFU & VEGETABLE,food,Eggplant w/ Basil,,11.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,126,TOFU & VEGETABLE,food,Eggplant w/ Ground Pork,,11.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,127,TOFU & VEGETABLE,food,Stir-fried Eggplant & Green Bean,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,128,TOFU & VEGETABLE,food,Dried Cooked Green Bean,,11.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,129,TOFU & VEGETABLE,food,Stir-Fried Assorted Vegetable w/ Cashew Nuts,,12.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,130,TOFU & VEGETABLE,food,Stir-fried Hot & Sour Cabbage,,11.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,131,TOFU & VEGETABLE,food,Stir-Fried Tomato & Egg,,10.95,,,no,,high,
+menu_17_duck_house_takeout_printed_wall.jpg,132,LUNCH SPECIAL - CHICKEN,food,Chicken w/ Hot Chili Sauce,,9.95,,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,133,LUNCH SPECIAL - CHICKEN,food,Mandarin Crispy Chicken,,9.95,,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,134,LUNCH SPECIAL - CHICKEN,food,General Tso's Chicken,,9.95,,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,135,LUNCH SPECIAL - CHICKEN,food,Orange Chicken,,9.95,,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,136,LUNCH SPECIAL - CHICKEN,food,Sweet & Sour Chicken,,9.95,,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,137,LUNCH SPECIAL - CHICKEN,food,Sesame Chicken,,9.95,,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,138,LUNCH SPECIAL - CHICKEN,food,Kung Pao Chicken,,9.95,,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,139,LUNCH SPECIAL - CHICKEN,food,Mongolian Chicken,,9.95,,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,140,LUNCH SPECIAL - CHICKEN,food,Cashew Nut Chicken,,9.95,,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,141,LUNCH SPECIAL - CHICKEN,food,Chicken w/ Broccoli,,9.95,GF,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,142,LUNCH SPECIAL - CHICKEN,food,Chicken w/ Mushroom,,9.95,GF,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,143,LUNCH SPECIAL - CHICKEN,food,Stir Fried Chicken w/ Basil,,9.95,,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,144,LUNCH SPECIAL - CHICKEN,food,Green Bean Chicken,,9.95,,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,145,LUNCH SPECIAL - CHICKEN,food,Chicken w/ Assorted Vegetables,,9.95,GF,,no,,high,"lunch special, Mon-Fri until 2:30pm; served with steamed rice or vegetable fried rice"
+menu_17_duck_house_takeout_printed_wall.jpg,146,LUNCH SPECIAL - BEEF & LAMB,food,Beef w/ Black Pepper Sauce,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,147,LUNCH SPECIAL - BEEF & LAMB,food,Stir-fried Beef w/ Cilantro,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,148,LUNCH SPECIAL - BEEF & LAMB,food,Mongolian Beef,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,149,LUNCH SPECIAL - BEEF & LAMB,food,Cumin Beef,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,150,LUNCH SPECIAL - BEEF & LAMB,food,Stir-fried Beef w/ Green Onion,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,151,LUNCH SPECIAL - BEEF & LAMB,food,Beef w/ Broccoli,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,152,LUNCH SPECIAL - BEEF & LAMB,food,Green Bean Beef,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,153,LUNCH SPECIAL - BEEF & LAMB,food,Stir-fried Lamb w/ Cilantro,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,154,LUNCH SPECIAL - BEEF & LAMB,food,Stir-fried Lamb w/ Green Onion,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,155,LUNCH SPECIAL - BEEF & LAMB,food,Cumin Lamb,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,156,LUNCH SPECIAL - PORK,food,Twice Cooked Pork Belly Szechuan Style,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,157,LUNCH SPECIAL - PORK,food,Pork w/ Dried Bean Curd & Chinese Celery,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,158,LUNCH SPECIAL - PORK,food,Pork w/ Dried Bean Curd & Leek,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,159,LUNCH SPECIAL - PORK,food,Pork w/ Bamboo Shoots,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,160,LUNCH SPECIAL - PORK,food,Shredded Pork w/ Peking Sauce,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,161,LUNCH SPECIAL - PORK,food,Shredded Pork w/ Hot Garlic Sauce,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,162,LUNCH SPECIAL - PORK,food,Sweet & Sour Pork Spareribs,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,163,LUNCH SPECIAL - SEAFOOD,food,Shrimp w/ Assorted Vegetables,,9.95,GF,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,164,LUNCH SPECIAL - SEAFOOD,food,Cashew Nut Prawns,,9.95,GF,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,165,LUNCH SPECIAL - SEAFOOD,food,Kung Pao Prawns,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,166,LUNCH SPECIAL - SEAFOOD,food,Squid w/ Pickled Chili,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,167,LUNCH SPECIAL - SEAFOOD,food,Stir-fried Fish Fillet,,9.95,GF,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,168,LUNCH SPECIAL - SEAFOOD,food,Fish Fillet w/ Basil,,9.95,,,no,,high,lunch special
+menu_17_duck_house_takeout_printed_wall.jpg,169,LUNCH SPECIAL - TOFU & VEGETABLE,food,Mapo Tofu w/ Ground Pork,,9.95,,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,170,LUNCH SPECIAL - TOFU & VEGETABLE,food,Fried Tofu Szechuan Style,,9.95,,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,171,LUNCH SPECIAL - TOFU & VEGETABLE,food,Braised Tofu,,9.95,,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,172,LUNCH SPECIAL - TOFU & VEGETABLE,food,Twice Cooked Tofu Szechuan Style,,9.95,,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,173,LUNCH SPECIAL - TOFU & VEGETABLE,food,Eggplant w/ Hot Garlic Sauce,,9.95,,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,174,LUNCH SPECIAL - TOFU & VEGETABLE,food,Eggplant w/ Basil,,9.95,,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,175,LUNCH SPECIAL - TOFU & VEGETABLE,food,Eggplant w/ Ground Pork,,9.95,,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,176,LUNCH SPECIAL - TOFU & VEGETABLE,food,Stir-fried Eggplant & Green Bean,,9.95,,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,177,LUNCH SPECIAL - TOFU & VEGETABLE,food,Dried Cooked Green Bean,,9.95,,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,178,LUNCH SPECIAL - TOFU & VEGETABLE,food,Stir-Fried Vegetables w/ Cashew Nuts,,9.95,GF,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,179,LUNCH SPECIAL - TOFU & VEGETABLE,food,Stir-Fried Tomato & Egg,,9.95,GF,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,180,LUNCH SPECIAL - TOFU & VEGETABLE,food,Broccoli w/ Garlic Sauce,,9.95,GF,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,181,LUNCH SPECIAL - TOFU & VEGETABLE,food,Cauliflower w/ Black Bean Sauce,,9.95,,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,182,LUNCH SPECIAL - TOFU & VEGETABLE,food,Stir-fried Hot & Sour Shredded Potato,,9.95,GF,,no,,high,lunch special; prices partly cut off at right edge but all read 9.9x
+menu_17_duck_house_takeout_printed_wall.jpg,183,INFO,other,Extra Rice,lunch special note,50 cents,,,no,,high,
+menu_18_little_saint_printed_stand_dim.jpg,1,SALADS,food,QUINOA,"with sweet corn, stone fruit, almonds and ginger vinaigrette",7/13,,two sizes (7/13),no,,high,price 7/13 printed once at the SALADS header (two sizes); applies to all salads
+menu_18_little_saint_printed_stand_dim.jpg,2,SALADS,food,KALE,"with apple, tahini, roasted grapes and spicy pecans",7/13,,two sizes (7/13),no,,high,price from section header
+menu_18_little_saint_printed_stand_dim.jpg,3,SALADS,food,TOMATO & CUCUMBER PANZANELLA,with balsamic vinaigrette,7/13,,two sizes (7/13),no,,high,price from section header
+menu_18_little_saint_printed_stand_dim.jpg,4,SALADS,food,ORCHIETTE,"with melon, mint, and kalamata olives",7/13,,two sizes (7/13),no,,high,price from section header; spelled Orchiette on the menu
+menu_18_little_saint_printed_stand_dim.jpg,5,SALADS,food,CHICKPEA AND ROMANO BEANS,with romesco and almonds,7/13,,two sizes (7/13),no,,high,price from section header
+menu_18_little_saint_printed_stand_dim.jpg,6,DAILY BOWL,food,BROWN RICE,"with grilled corn, marinated greens, sumac gomasio, and miso dressing",17,,,no,,high,
+menu_18_little_saint_printed_stand_dim.jpg,7,SOUP OF THE DAY,food,SOUP OF THE DAY,,12,,,no,,high,section header is the item
+menu_18_little_saint_printed_stand_dim.jpg,8,SIDES,food,QUAIL AND CONDOR LEVAIN,,10,,,no,,high,bread
+menu_18_little_saint_printed_stand_dim.jpg,9,SIDES,add-on,HOT SAUCE,,1,,,no,,high,
+menu_18_little_saint_printed_stand_dim.jpg,10,SIDES,add-on,ZHOUG,,1,,,no,,high,
+menu_18_little_saint_printed_stand_dim.jpg,11,SWEETS,food,CARROT CAKE,with ginger and walnut,8,,,no,,high,
+menu_18_little_saint_printed_stand_dim.jpg,12,SWEETS,food,STONE FRUIT AND FRANGIPANE GALETTE,,6/12/35,,three sizes (6/12/35),no,,high,three sizes (slice / larger / whole)
+menu_18_little_saint_printed_stand_dim.jpg,13,SWEETS,food,CHOCOLATE AND HAZELNUT TART,,12,,,no,,high,
+menu_18_little_saint_printed_stand_dim.jpg,14,SWEETS,food,GF CHOCOLATE CHIP COOKIE,with peanut praline,3.5,GF,,no,,high,
+menu_18_little_saint_printed_stand_dim.jpg,15,WINES BY THE GLASS,drink,THE WHITE,"Chardonnay++, Monte Rio Cellars, 'Skull White'",10,,,no,,high,
+menu_18_little_saint_printed_stand_dim.jpg,16,WINES BY THE GLASS,drink,THE ORANGE,"Trousseau Gris, Two Shepherds, 'Fanucchi'",15,,,no,,high,
+menu_18_little_saint_printed_stand_dim.jpg,17,WINES BY THE GLASS,drink,THE RED,"Pais, Louis-Antoine Luyt, Chile",14,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,1,OUR SPECIAL BLEND COFFEE,drink,Our Special Blend Coffee,Made Fresh Every Hour ... with Rich Cream,5c,,,no,,high,boxed feature at top
+menu_19_dwarf_grill_printed_card.jpg,2,FRESH ORANGE JUICE,drink,Fresh Orange Juice,Delicious Florida Oranges Squeezed Before Your Eyes,10c,,,no,,high,boxed feature at top
+menu_19_dwarf_grill_printed_card.jpg,3,(unnamed breakfast list),food,Waffles,With Melted Butter and Maple Syrup - Served Any Hour,20c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,4,(unnamed breakfast list),food,"Bacon, 3 Strips",,15c,,3 strips,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,5,(unnamed breakfast list),food,Sausage,,15c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,6,(unnamed breakfast list),food,Ham,,20c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,7,(unnamed breakfast list),food,Buttered Toast with Jelly,,10c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,8,(unnamed breakfast list),food,Doughnuts (Two),,5c,,two,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,9,(unnamed breakfast list),food,Shoestring Potatoes (Order),,15c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,10,(unnamed breakfast list),food,"Choice of Cereal, with Cream",,20c,,,yes,,high,
+menu_19_dwarf_grill_printed_card.jpg,11,DRINKS,drink,"Coffee, Our Special Blend",,5c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,12,DRINKS,drink,Iced Tea,,5c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,13,DRINKS,drink,Coca-Cola,,5c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,14,DRINKS,drink,Buttermilk,,5c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,15,DRINKS,drink,Chocolate Milk,,10c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,16,DRINKS,drink,Sweet Milk,,10c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,17,DRINKS,drink,Fruit Juices,,10c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,18,DRINKS,drink,Hot Chocolate,With Whipped Cream,10c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,19,DESSERT SPECIALS,food,Icebox Chocolate,Our Homemade Pies,10c,,,no,,high,10c printed once for the whole dessert box
+menu_19_dwarf_grill_printed_card.jpg,20,DESSERT SPECIALS,food,Half Moon Peach,Our Homemade Pies,10c,,,no,,high,price from box header
+menu_19_dwarf_grill_printed_card.jpg,21,DESSERT SPECIALS,food,Half Moon Apple,Our Homemade Pies,10c,,,no,,high,price from box header
+menu_19_dwarf_grill_printed_card.jpg,22,DESSERT SPECIALS,food,Other Delicious Bakery Pies,,10c,,,no,,high,price from box header
+menu_19_dwarf_grill_printed_card.jpg,23,OUR SPECIAL,food,Steak Plate,"Grilled Tenderloin Steak with Shoestring Potatoes, Lettuce and Tomatoes... Topped with Our Homemade Mayonnaise... and Toasted Buttered Bun",65c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,24,SANDWICHES,food,Bacon-Tomato,Served with Lettuce and Homemade Mayonnaise,25c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,25,SANDWICHES,food,Deluxe Steak,"Served on Large Toasted Bun, Lettuce and Tomato",30c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,26,SANDWICHES,food,Bacon and Egg,,30c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,27,SANDWICHES,food,Fried Ham,"Lettuce, Tomato and Mayonnaise",25c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,28,SANDWICHES,food,Grilled Cheese,,,,,no,,high,NO price printed (dots only) - a model should leave the price empty
+menu_19_dwarf_grill_printed_card.jpg,29,SANDWICHES,food,Lettuce and Tomato,,15c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,30,SANDWICHES,food,Mid-Nite Special,"Generous Slice Fried Ham, Melted Cheese on Toasted White or Whole Wheat Bread",30c,,,yes,,high,
+menu_19_dwarf_grill_printed_card.jpg,31,SANDWICHES,food,Pimento Cheese,"""Fixed Our Style""",20c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,32,SANDWICHES,food,Chicken Salad,,25c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,33,SANDWICHES,food,Grillburger,Our Delicious Hamburger Grilled with Two Slices of Bacon,25c,,two slices of bacon,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,34,(boxed),food,Hamburger Steak Plate,"Two Hamburgers, Lettuce, Tomato... Served with Large Toasted Buttered Bun",55c,,two hamburgers,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,35,(boxed),food,Hamburger,"100% Choice Beef, Chopped in Our Kitchen, Served on Large Toasted Bun. ""They're the Best""",15c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,36,(boxed),food,Cheeseburger,"Our Delicious Hamburger with Melted Cheese, Served on Large Toasted Bun",20c,,,no,,high,
+menu_19_dwarf_grill_printed_card.jpg,37,BREAKFAST SUGGESTIONS - SERVED ANY HOUR,food,No. 1,"One Egg, Any Style; Buttered Toast and Jelly; Bacon; Coffee",35c,,one egg,yes,,high,set breakfast
+menu_19_dwarf_grill_printed_card.jpg,38,BREAKFAST SUGGESTIONS - SERVED ANY HOUR,food,No. 2,"Two Eggs, Any Style; Buttered Toast and Jelly; Coffee",35c,,two eggs,yes,,high,set breakfast
+menu_19_dwarf_grill_printed_card.jpg,39,BREAKFAST SUGGESTIONS - SERVED ANY HOUR,food,No. 3,"Two Eggs, Any Style; Buttered Toast and Jelly; Bacon; Coffee",45c,,two eggs,yes,,high,set breakfast
+menu_19_dwarf_grill_printed_card.jpg,40,BREAKFAST SUGGESTIONS - SERVED ANY HOUR,food,No. 4,"One Egg, Any Style; Buttered Toast and Jelly; Ham; Coffee",45c,,one egg,yes,,high,set breakfast
+menu_19_dwarf_grill_printed_card.jpg,41,BREAKFAST SUGGESTIONS - SERVED ANY HOUR,food,No. 5,"Waffles, Golden Brown; Melted Butter; Maple Syrup; Coffee",25c,,,no,,high,set breakfast
+menu_20_little_lous_handwritten_kraft.jpg,1,(no section),food,little Lou,"griddled onion burger, sauce, pickles, american",6,,,no,,high,
+menu_20_little_lous_handwritten_kraft.jpg,2,(no section),food,BIG LOU,"double griddled onion burger, sauce, pickles, american",9,,,no,,high,
+menu_20_little_lous_handwritten_kraft.jpg,3,(no section),food,City Lou,"burger, american, pickles, lettuce, early girl tomatoes, onion",7,,,no,,high,
+menu_20_little_lous_handwritten_kraft.jpg,4,(no section),food,KIDS,"burger, american cheese",5,,,no,,high,
+menu_20_little_lous_handwritten_kraft.jpg,5,(no section),food,IMPOSSIBLE,"vegan patty, american, pickles, lettuce, tomato, sauce, onion",9,,,no,,high,
+menu_20_little_lous_handwritten_kraft.jpg,6,(no section),food,FRENCH FRIES,,4,,,no,,high,
+menu_20_little_lous_handwritten_kraft.jpg,7,(no section),other,COMING SOON... MILKSHAKES,,,,,no,,high,not orderable; a model should not list it as a dish (or must mark it as not available)
+menu_21_the_block_handwritten_whiteboard.jpg,1,HAPPY HOUR SPECIALS - PIZZA BY THE SLICE,food,Vegetarian,,5,VEGETARIAN,,no,,high,$5 written once for all three slices
+menu_21_the_block_handwritten_whiteboard.jpg,2,HAPPY HOUR SPECIALS - PIZZA BY THE SLICE,food,Combo,,5,,,no,,high,price shared
+menu_21_the_block_handwritten_whiteboard.jpg,3,HAPPY HOUR SPECIALS - PIZZA BY THE SLICE,food,Pepperoni,,5,,,no,,high,price shared
+menu_21_the_block_handwritten_whiteboard.jpg,4,HAPPY HOUR SPECIALS,food,Wood Fire Oysters,Pesto / BBQ,3.50,,,no,,high,"two flavours, one price (per oyster)"
+menu_21_the_block_handwritten_whiteboard.jpg,5,HAPPY HOUR SPECIALS,food,Meatballs (3),served with homemade sauce + bread,9,,3,no,,high,
+menu_21_the_block_handwritten_whiteboard.jpg,6,HAPPY HOUR SPECIALS,food,Riblets,,10,,,no,,high,name written on a taped-on strip
+menu_21_the_block_handwritten_whiteboard.jpg,7,HAPPY HOUR SPECIALS,food,Mini Gyros (2),Lamb,10,,2,no,,high,
+menu_21_the_block_handwritten_whiteboard.jpg,8,HAPPY HOUR SPECIALS,food,Focaccia / Onion Focaccia,served with olive tapenade,8,,,yes,,high,
+menu_22_woodford_store_chalkboard.jpg,1,SERVING,food,Deli Sandwiches,,,,,no,,high,"category-level item, no price"
+menu_22_woodford_store_chalkboard.jpg,2,SERVING,food,Hot Chicken Sandwiches,,,,,no,,high,
+menu_22_woodford_store_chalkboard.jpg,3,SERVING,food,Breakfast Sandwiches,,,,,no,,high,
+menu_22_woodford_store_chalkboard.jpg,4,SERVING,food,BLT,,,,,no,,high,
+menu_22_woodford_store_chalkboard.jpg,5,SERVING,food,Mac 'n' Cheese,,,,,no,,high,written MAC'N'CHEESE
+menu_22_woodford_store_chalkboard.jpg,6,SERVING,food,Hot Dogs,,,,,no,,high,
+menu_22_woodford_store_chalkboard.jpg,7,SERVING,food,Baked Goods,,,,,no,,high,written after an empty bullet
+menu_23_en_boardwalk_bistro_chalkboard.jpg,1,(specials),food,Crudo of Swordfish,"roasted peppers, fetta, lemon pangratta",,,,no,,high,no price written
+menu_23_en_boardwalk_bistro_chalkboard.jpg,2,TASTE OF THE SEA,food,Taste of the Sea,Ocean trout / tuna poke salad; Crumbed whiting; Battered oysters; Chilled Mooloolaba prawns,,,,no,,high,one platter with four components; accept either one item or four sub-items; no price
+menu_23_en_boardwalk_bistro_chalkboard.jpg,3,FISH OF THE DAY,food,Ocean Trout,,37,,,no,,high,
+menu_23_en_boardwalk_bistro_chalkboard.jpg,4,FISH OF THE DAY,food,North Qld Barramundi,,38,,,no,,high,"written ""NORTH QLD BARAMUNDI"" (one R)"
+menu_23_en_boardwalk_bistro_chalkboard.jpg,5,FISH OF THE DAY,food,Cobia,,39,,,no,,high,
+menu_23_en_boardwalk_bistro_chalkboard.jpg,6,FISH OF THE DAY,food,Snapper,,39,,,no,,high,
+menu_23_en_boardwalk_bistro_chalkboard.jpg,7,(specials),food,"Watermelon, fetta, mint, almond, salsa verde salad",,,,,no,,high,"written as ""WATERMELON, FETTA, MINT / ALMOND, SALSA VERDE / SALAD""; no price"
+menu_24_hard_partial_mr_bs_menu_board.jpg,1,HOT SANDWICHES,food,Best Beef,,6.74,,,no,,high,"REG column; digits ""6 7 4"""
+menu_24_hard_partial_mr_bs_menu_board.jpg,2,HOT SANDWICHES,food,Beef Supreme,,7.44,,,no,,high,"digits ""7 4 4"""
+menu_24_hard_partial_mr_bs_menu_board.jpg,3,HOT SANDWICHES,food,"Beef, Bacon & Cheese",,7.84,,,no,,high,"digits ""7 8 4"""
+menu_24_hard_partial_mr_bs_menu_board.jpg,4,HOT SANDWICHES,food,Beef & Cheddar,,7.34,,,no,,high,"digits ""7 3 4"""
+menu_24_hard_partial_mr_bs_menu_board.jpg,5,HOT SANDWICHES,food,"Beef, Bac. & Cheddar",,,,,no,,low,last digit cut off at right edge; price not usable
+menu_24_hard_partial_mr_bs_menu_board.jpg,6,HOT SANDWICHES,food,French Dip,,7.35,,,no,,high,"bottom row, partly cut off at the bottom edge; digits ""7 3 5"""
+menu_24_hard_partial_mr_bs_menu_board.jpg,7,HOT SANDWICHES,add-on,French Dip w/Cheddar,,,,,no,French Dip,low,last digit cut off at right edge; price not usable
+menu_25_hot_dougs_specials_board_printed.jpg,1,Today's Specials,food,Baked Ham Sausage,"with Fig-Cherry Mustard, Pineapple Salsa and Pepper Jack Cheese",9.00,,,no,,high,
+menu_25_hot_dougs_specials_board_printed.jpg,2,Today's Specials,food,Sweet Chinese Pork Sausage,with Hoisin Mustard and Asian Slaw à la Tracy,8.00,,,no,,high,
+menu_25_hot_dougs_specials_board_printed.jpg,3,Today's Specials,food,The Atomic Bomb,"Damn Spicy Jack Cheese-Stuffed Pork Sausage with Chipotle Dijonnaise, Smoked Gouda Cheese and Crispy Fried Onions",9.00,,,no,,high,
+menu_25_hot_dougs_specials_board_printed.jpg,4,Today's Specials,food,Spicy Thai Chicken Sausage,"with Sriracha Mustard, Sesame-Seaweed Salad and Duck Cracklings",9.00,,,no,,high,
+menu_25_hot_dougs_specials_board_printed.jpg,5,Today's Specials,food,Jamaican Jerk Pork Sausage,"with Coca-Cola BBQ Sauce, Burning Nettles Gouda Cheese and Fried Plantains",9.00,,,no,,high,
+menu_25_hot_dougs_specials_board_printed.jpg,6,Today's Specials,food,Boudin Blanc,with Roasted Garlic Rouille and L'Edel de Cleron Cheese,8.00,,,no,,high,
+menu_25_hot_dougs_specials_board_printed.jpg,7,Today's Specials,food,Foie Gras and Sauternes Duck Sausage,"with Truffle Aioli, Foie Gras Mousse and Fleur de Sel",10.00,,,no,,high,
+menu_25_hot_dougs_specials_board_printed.jpg,8,Today's Specials,food,"Kale, Walnut and Raisin Pork Sausage","with Curry-Coconut Mayonnaise, Jalapeño Havarti Cheese and Crispy Smoked Pancetta",9.00,,,no,,high,
+menu_25_hot_dougs_specials_board_printed.jpg,9,Today's Specials,food,Smoked Crayfish and Pork Sausage,"with Creole Mustard, Goat Cheese and Crayfish Ceviche",9.00,,,no,,high,
+menu_25_hot_dougs_specials_board_printed.jpg,10,Today's Specials,food,Portuguese Linguiça,with Saffron Rouille and Tetilla Cheese,9.00,,,no,,high,

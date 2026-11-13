@@ -1,0 +1,779 @@
+{
+ "date": "2026-11-06",
+ "runs": [
+  {
+   "photo": "menu_test_set/telegram_1280/menu_11_mothers_tacos_us_printed_dense.jpg",
+   "repeat": 1,
+   "run_id": "20261106-224041-98f98b",
+   "status": "done",
+   "seconds": 16.2,
+   "timings": {
+    "read_menu": 15.5,
+    "estimate_dishes": 0.0,
+    "compare_and_rank": 0.0,
+    "total": 16.2
+   },
+   "totals": {
+    "dishes_on_menu": 31,
+    "dishes_candidates": 0,
+    "dishes_selected": 0,
+    "dishes_evaluated": 0,
+    "dishes_ranked": 0,
+    "dishes_unranked": 0,
+    "dishes_no_recipes": 0,
+    "dishes_error": 0,
+    "dishes_excluded": 31,
+    "dishes_skipped": 0,
+    "dishes_budget_stopped": 0,
+    "search_credits": 0,
+    "llm_calls": 1,
+    "llm_cost_usd": "0.011546",
+    "llm_cost_usd_actual": "0.011546",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 2,
+    "pages_fetched": 0,
+    "rate_limit_waits": 0,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 0,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.011546",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.011546",
+    "model_calls": 1,
+    "model_calls_priced_by_provider": 1,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 2975,
+    "completion_tokens": 2484,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 0,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "6.50",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "4.5760",
+     "search_credits": 110,
+     "runs": 62
+    },
+    "daily_after_this_run": {
+     "model_usd": "4.5875",
+     "search_credits": 110
+    },
+    "interruptions": []
+   },
+   "ranking": [],
+   "unranked": [],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "I couldn't estimate any of the 0 dishes I tried on this menu: no estimate had a defensible upper bound. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 2,
+    "remaining_before": 2880,
+    "remaining_after": 2880,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 0,
+    "store_misses": 0,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-06T22:40:41+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-06T22:40:41+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-06T22:40:41+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 0
+   },
+   "flags": [],
+   "words": 31,
+   "menu_items": 31,
+   "dish_status": {
+    "PASTOR": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "SUADERO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CHILORIO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CARNE ASADA": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "POLLO ASADO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "PESCADO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "MUSHROOM": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "JAMAICA": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "PURPLE POTATO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "AVOCADO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "AL PASTOR": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "POLLO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "BEANS": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "RED RICE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "PAPAS FRITAS": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "TORTILLAS & SALSA": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "QUESADILLA": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "TACO MEAL": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "HORCHATA": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "TAMARINDO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "AL PASTOR O.G.": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CHILORIO DIRTY": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "SUADERO DIRTY": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "VEGETARIAN": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ]
+   },
+   "top3": []
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_19_dwarf_grill_printed_card.jpg",
+   "repeat": 1,
+   "run_id": "20261106-224057-8f069b",
+   "status": "done",
+   "seconds": 219.2,
+   "timings": {
+    "read_menu": 17.6,
+    "estimate_dishes": 201.6,
+    "compare_and_rank": 0.001,
+    "total": 219.2
+   },
+   "totals": {
+    "dishes_on_menu": 41,
+    "dishes_candidates": 5,
+    "dishes_selected": 5,
+    "dishes_evaluated": 5,
+    "dishes_ranked": 3,
+    "dishes_unranked": 2,
+    "dishes_no_recipes": 0,
+    "dishes_error": 0,
+    "dishes_excluded": 36,
+    "dishes_skipped": 0,
+    "dishes_budget_stopped": 0,
+    "search_credits": 10,
+    "llm_calls": 52,
+    "llm_cost_usd": "0.159644",
+    "llm_cost_usd_actual": "0.159644",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 130,
+    "pages_fetched": 60,
+    "rate_limit_waits": 15,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 0,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.159644",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.159644",
+    "model_calls": 52,
+    "model_calls_priced_by_provider": 52,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 92708,
+    "completion_tokens": 24030,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 10,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "6.50",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "4.5875",
+     "search_credits": 110,
+     "runs": 63
+    },
+    "daily_after_this_run": {
+     "model_usd": "4.7472",
+     "search_credits": 120
+    },
+    "interruptions": []
+   },
+   "ranking": [
+    [
+     1,
+     "Shoestring Potatoes (Order)",
+     "4.98",
+     "7.0716",
+     "tentative"
+    ],
+    [
+     2,
+     "Sausage",
+     "8.710104",
+     "17.420209",
+     "close_call"
+    ],
+    [
+     3,
+     "STEAK PLATE",
+     "12.010412",
+     "44.800092",
+     "well_supported"
+    ]
+   ],
+   "unranked": [
+    [
+     "DELUXE STEAK",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (daenskitchen.com: Served on Large Toasted Bun (miss"
+    ],
+    [
+     "CHICKEN SALAD",
+     "the estimate has no upper bound: 2 of 3 recipes have no upper bound (thekitchn.com: thinly sliced roasted red pepper (pr"
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "Among the 3 dishes I could estimate (5 tried; 2 had no usable estimate), lowest saturated fat first: 1) Shoestring Potatoes, about 5.0-7.1 g saturated fat per plate; 2) Sausage, 8.7-17 g; 3) Steak Plate, 12-45 g. Sausage and Steak Plate overlap, so treat that order as a toss-up. Shoestring Potatoes cholesterol about 2-3 mg. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 130,
+    "remaining_before": 2880,
+    "remaining_after": 2758,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 310,
+    "store_misses": 130,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-06T22:40:41+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-06T22:40:41+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-06T22:40:41+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 0
+   },
+   "flags": [],
+   "words": 66,
+   "menu_items": 41,
+   "dish_status": {
+    "OUR SPECIAL BLEND COFFEE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "FRESH ORANGE JUICE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Waffles": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Bacon, 3 Strips": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Sausage": [
+     "evaluated",
+     "meat_main",
+     2,
+     2,
+     97.2
+    ],
+    "Ham": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Buttered Toast with Jelly": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Doughnuts (Two)": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Shoestring Potatoes (Order)": [
+     "evaluated",
+     "vegetable_starter",
+     4,
+     4,
+     27.6
+    ],
+    "Choice of Cereal, with Cream": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Coffee, Our Special Blend": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Iced Tea": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Coca-Cola": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Buttermilk": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Chocolate Milk": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Sweet Milk": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fruit Juices": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Hot Chocolate": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "ICEBOX CHOCOLATE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "HALF MOON PEACH": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "HALF MOON APPLE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "OTHER DELICIOUS BAKERY PIES": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "STEAK PLATE": [
+     "evaluated",
+     "meat_main",
+     4,
+     8,
+     84.4
+    ],
+    "BACON TOMATO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "DELUXE STEAK": [
+     "evaluated",
+     "meat_main",
+     6,
+     7,
+     163.6
+    ],
+    "BACON AND EGG": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "FRIED HAM": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "GRILLED CHEESE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "LETTUCE AND TOMATO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "MID-NITE SPECIAL": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "PIMENTO CHEESE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CHICKEN SALAD": [
+     "evaluated",
+     "leaf_salad_starter",
+     6,
+     4,
+     117.2
+    ],
+    "GRILLBURGER": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "HAMBURGER STEAK PLATE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "HAMBURGER": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CHEESEBURGER": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "No. 1": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "No. 2": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "No. 3": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "No. 4": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "No. 5": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "Shoestring Potatoes (Order)",
+     "4.98",
+     "7.0716",
+     "2",
+     "2.84",
+     "tentative",
+     null
+    ],
+    [
+     2,
+     "Sausage",
+     "8.710104",
+     "17.420209",
+     "96.891594",
+     "193.783188",
+     "close_call",
+     null
+    ],
+    [
+     3,
+     "STEAK PLATE",
+     "12.010412",
+     "44.800092",
+     "113.400000",
+     "295.998084",
+     "well_supported",
+     null
+    ]
+   ]
+  }
+ ],
+ "consistency": []
+}

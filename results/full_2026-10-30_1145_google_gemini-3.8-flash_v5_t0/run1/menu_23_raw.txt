@@ -1,0 +1,11 @@
+{"readable": "yes", "problems": "", "items": [
+{"section": "", "category": "food", "name": "CRUDO OF SWORDFISH", "description": "ROASTED PEPPERS, FETTA LEMON PANGRATTA", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "OCEAN TROUT / TUNA POKE SALAD", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "high"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "CRUMBED WHITING", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "BATTERED OYSTERS", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "CHILLED MOOLOOLABA PRAWNS", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "OCEAN TROUT", "description": "WATERMELON, FETTA, MINT ALMOND, SALSA VERDE", "price": "37", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "NORTH QLD BARAMUNDI", "description": "WATERMELON, FETTA, MINT ALMOND, SALSA VERDE", "price": "38", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "COBIA", "description": "WATERMELON, FETTA, MINT ALMOND, SALSA VERDE", "price": "39", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "SNAPPER", "description": "WATERMELON, FETTA, MINT ALMOND, SALSA VERDE", "price": "39", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"}
+]}

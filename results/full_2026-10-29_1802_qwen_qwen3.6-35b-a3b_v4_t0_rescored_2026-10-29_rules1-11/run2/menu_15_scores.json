@@ -1,0 +1,73 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9047619047619048,
+ "expected_items": 42,
+ "found_items": 38,
+ "joined_found": 2,
+ "unmatched_expected_names": [
+  "Big Foot Burger",
+  "Dylan",
+  "Oysters - Humboldt Bay",
+  "Pastrami Reuben w/ coleslaw"
+ ],
+ "invented": 7,
+ "invented_names": [
+  "Humboldt Grassfed Beef",
+  "The works",
+  "Jalapeno + BBQ sauce",
+  "the works",
+  "Oysters",
+  "The works",
+  "make it Vegan"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 3,
+ "garbled_names": [
+  "Brie Boat Burger ~ Big Foot Burger (75%)",
+  "Dylau ~ Dylan (80%)",
+  "Pastrami Reuben ~ Pastrami Reuben w/ coleslaw (52%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9473684210526315,
+ "price_wrong_names": [
+  "Cheese Burger: price '' vs key '11.50'",
+  "add cheese: price '0.75' vs key '.75'"
+ ],
+ "descriptions_right": 0.2631578947368421,
+ "descriptions_checked": 19,
+ "tags_right": 0.868421052631579,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 10,
+   "total": 44,
+   "share_wrong": 0.22727272727272727
+  },
+  "medium": {
+   "wrong": 2,
+   "total": 4,
+   "share_wrong": 0.5
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The bottom right corner of the menu is heavily obscured by glare and a reflection of a person taking the photo. The prices and names for the Desserts section are partially unreadable. The 'From The Sea' section is also partially obscured by glare.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 118.01230149998446,
+ "cost_usd": 0.0035638,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 2597,
+ "completion_tokens": 3478,
+ "generation_id": "gen-1793315287-Ejmq7ZR5ndbAlolbDe3N",
+ "rep": 2
+}

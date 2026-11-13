@@ -1,0 +1,52 @@
+{
+ "photo": "23",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9,
+ "expected_items": 10,
+ "other_set_aside": 0,
+ "found_items": 9,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Watermelon, fetta, mint, almond, salsa verde salad"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 1,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 0.8888888888888888,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 9,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 8.37422491700272,
+ "cost_usd": 0.0007527,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2649,
+ "completion_tokens": 630,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793324928-ztNPwudGqYZ32mjtUsnP",
+ "rep": 2
+}

@@ -1,0 +1,64 @@
+{
+ "photo": "06",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.989010989010989,
+ "expected_items": 91,
+ "other_set_aside": 0,
+ "found_items": 90,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Make your own pizza - standard base with sauce and mozzarella"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 1,
+ "grouping_names": [
+  "DIPS -> ['Garlic butter', 'Garlic oil (vgn)', 'Garlic mayo', 'Marinara sauce (vgn)', 'Sundried tomato (vgn) (contains garlic)', 'BBQ sauce (vgn)', 'Chilli jam (vgn)', 'Chilli oil (vgn)', 'Almond pesto (vgn)']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9024390243902439,
+ "descriptions_checked": 41,
+ "tags_right": 0.8271604938271605,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9753086419753086,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 17,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 32,
+   "share_wrong": 0.03125
+  },
+  "low": {
+   "wrong": 0,
+   "total": 33,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is a two-page spread held by a hand at the bottom edge; text near the lower-left and lower-right edges is slightly cut off. Some small print and faint prices may be misread. Left-page Bases section and pizza lists are visible; right page spare parts/add-ons, starters, dips, kids meal are visible. Several prices in the Spare Parts section are small and skewed; Veg n' That and Mainly Herbs add-on prices were read as shown. The 'Vegan Nduja' and 'Vegan sausage*' etc. lines in the add-on section have no individually readable prices and are listed under the group price where printed.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 28.359962250018725,
+ "cost_usd": 0.0051153,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "reasoning_tokens": null,
+ "generation_id": null,
+ "rep": 1
+}

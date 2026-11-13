@@ -1,0 +1,64 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9565217391304348,
+ "expected_items": 46,
+ "other_set_aside": 0,
+ "found_items": 44,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream",
+  "Babyccino"
+ ],
+ "invented": 2,
+ "invented_names": [
+  "additions",
+  "Victorian Lemonade, Ginger Beer, Sparkling Elderflower"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Babycino ~ Babyccino (89%)"
+ ],
+ "grouping": 1,
+ "grouping_names": [
+  "Oat milk, Soya milk, Coconut milk -> ['Oat milk', 'Soya milk', 'Coconut milk']"
+ ],
+ "prices_right": 0.9512195121951219,
+ "price_wrong_names": [
+  "Caramel, Vanilla, Hazelnut: price '0.6' vs key '0.5'",
+  "Kombucha: price '2' vs key '4.95'"
+ ],
+ "descriptions_right": 0.5,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.8780487804878049,
+ "has_choice_right": 0.8292682926829268,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 6,
+   "total": 45,
+   "share_wrong": 0.13333333333333333
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 25.033183916995768,
+ "cost_usd": 0.0028369,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 3124,
+ "completion_tokens": 2893,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793376162-g74eBnjolkPgTOGSeWOI"
+}

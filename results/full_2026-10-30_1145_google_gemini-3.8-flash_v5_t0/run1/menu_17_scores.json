@@ -1,0 +1,259 @@
+{
+ "photo": "17",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [
+  {
+   "photo": "17",
+   "key_confidence": "medium",
+   "key_name": "Soft Tofu Beef",
+   "key_price": "14.95",
+   "model_name": "Tomato Beef",
+   "model_price": "14.95",
+   "reason": "name differs (57% similar)"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "medium",
+   "key_name": "Hot & Sour Soup",
+   "key_price": "(S) 1.95 (L) 7.95",
+   "model_name": "Hot & Sour Soup",
+   "model_price": "5.95 S / 7.95 L",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "medium",
+   "key_name": "Egg Flower Soup",
+   "key_price": "(S) 1.95 (L) 7.95",
+   "model_name": "Egg Flower Soup",
+   "model_price": "5.95 S / 7.95 L",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "medium",
+   "key_name": "Stir-fried Beef w/ Cilantro",
+   "key_price": "14.95",
+   "model_name": "Stir-fried Beef w/ Cilantro",
+   "model_price": "13.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "medium",
+   "key_name": "Beef w/ Pickled Chili",
+   "key_price": "13.95",
+   "model_name": "Beef w/ Pickled Chili",
+   "model_price": "14.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "medium",
+   "key_name": "Beef w/ Mixed Mushroom",
+   "key_price": "15.95",
+   "model_name": "Beef w/ Mixed Mushroom",
+   "model_price": "14.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "medium",
+   "key_name": "Beef w/ Black Pepper Sauce",
+   "key_price": "14.95",
+   "model_name": "Beef w/ Black Pepper Sauce",
+   "model_price": "13.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "medium",
+   "key_name": "Beef w/ Snow Peas",
+   "key_price": "15.95",
+   "model_name": "Beef w/ Snow Peas",
+   "model_price": "14.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "low",
+   "key_name": "Pork w/ Bamboo Shoots",
+   "key_price": "",
+   "model_name": "Pork w/ Bamboo Shoots",
+   "model_price": "12.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "low",
+   "key_name": "Shredded Pork w/ Hot Garlic Sauce",
+   "key_price": "",
+   "model_name": "Shredded Pork w/ Hot Garlic Sauce",
+   "model_price": "12.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "low",
+   "key_name": "Smoked Pork Belly w/ Leek",
+   "key_price": "",
+   "model_name": "Smoked Pork Belly w/ Leek",
+   "model_price": "13.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "low",
+   "key_name": "Smoked Pork Belly w/ Wood Ear Fungus and Leek",
+   "key_price": "",
+   "model_name": "Smoked Pork Belly w/ Wood Ear Fungus and Leek",
+   "model_price": "13.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "low",
+   "key_name": "Pork Belly w/ Preserved Vegetables",
+   "key_price": "",
+   "model_name": "Pork Belly w/ Preserved Vegetables",
+   "model_price": "14.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "low",
+   "key_name": "Pan Fried Intestines",
+   "key_price": "",
+   "model_name": "Pan Fried Intestines",
+   "model_price": "14.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "low",
+   "key_name": "Intestines in Hot & Spicy Gravy",
+   "key_price": "",
+   "model_name": "Intestines in Hot & Spicy Gravy",
+   "model_price": "14.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "low",
+   "key_name": "Intestines w/ Preserved Vegetable",
+   "key_price": "",
+   "model_name": "Intestines w/ Preserved Vegetable",
+   "model_price": "14.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "low",
+   "key_name": "Szechuan Style Pig Feet",
+   "key_price": "",
+   "model_name": "Szechuan Style Pig Feet",
+   "model_price": "13.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "low",
+   "key_name": "House Special Garlic Pork Spareribs",
+   "key_price": "",
+   "model_name": "House Special Garlic Pork Spareribs",
+   "model_price": "13.95",
+   "reason": "price differs"
+  },
+  {
+   "photo": "17",
+   "key_confidence": "low",
+   "key_name": "Sweet & Sour Pork Spareribs",
+   "key_price": "",
+   "model_name": "Sweet & Sour Pork Spareribs",
+   "model_price": "13.95",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 0.9834254143646409,
+ "expected_items": 182,
+ "other_set_aside": 0,
+ "found_items": 178,
+ "joined_found": 3,
+ "unmatched_expected_names": [
+  "Pork & Vegetable Pot Stickers (8)",
+  "Vegetable Pot Stickers (8)",
+  "Prawns Hot & Spicy Dried Pot (w/ or w/o Shell)"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Twice Cooked Pork Belly Szechuan Style"
+ ],
+ "cut_off_listed": 6,
+ "cut_off_names": [
+  "Broccoli w/ Garlic Sauce",
+  "Cauliflower w/ Black Bean Sauce",
+  "Stir-fried Shredded Potato",
+  "Peed A Choy w/ Dried Fish & Black Bean Sauce",
+  "Pea w/ Garlic Sauce",
+  "Pea Leaf with Garlic Sauce"
+ ],
+ "garbled": 3,
+ "garbled_names": [
+  "Pork & Vegetable Pan Stickers ~ Pork & Vegetable Pot Stickers (8) (88%)",
+  "Vegetable Pan Stickers ~ Vegetable Pot Stickers (8) (83%)",
+  "Tomato Beef ~ Soft Tofu Beef (57%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.91875,
+ "price_wrong_names": [
+  "Szechuan Beef Noodle Soup: price '13.95' vs key '11.95'",
+  "Braised Beef Noodle Soup: price '13.95' vs key '11.95'",
+  "Szechuan Dan Dan Noodle: price '11.95' vs key '9.95'",
+  "Chong Qing Hot Chicken: price '13.95' vs key '15.95'",
+  "Stir Fried Chicken w/ Basil: price '12.95' vs key '13.95'",
+  "Beef Hot & Spicy Dried Pot: price '16.95' vs key '15.95'",
+  "Intestines Hot & Spicy Dried Pot: price '16.95' vs key '14.95'",
+  "Chicken Wings Hot & Spicy Dried Pot: price '14.95' vs key '15.95'",
+  "Mixed Mushroom Hot & Spicy Dried Pot: price '14.95' vs key '15.95'",
+  "Tofu Hot & Spicy Dried Pot: price '13.95' vs key '14.95'",
+  "Pork w/ Dried Bean Curd & Chinese Celery: price '12.95' vs key '13.95'",
+  "Pork w/ Dried Bean Curd & Leek: price '12.95' vs key '13.95'",
+  "Green Onion Pancake: price '8.95' vs key '9.95'"
+ ],
+ "descriptions_right": 0.0,
+ "descriptions_checked": 6,
+ "tags_right": 0.9382022471910112,
+ "portion_right": 0.9831460674157303,
+ "has_choice_right": 0.9943820224719101,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 32,
+   "total": 172,
+   "share_wrong": 0.18604651162790697
+  },
+  "medium": {
+   "wrong": 9,
+   "total": 16,
+   "share_wrong": 0.5625
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Far away camera angle makes text in top half quite small and faint; bottom left edge is slightly cut off with about 3-4 item names missing their beginnings.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 82.9676602089894,
+ "cost_usd": 0.05616825,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 3011,
+ "completion_tokens": 14376,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793375414-t67RCcjAfbObYhfBMU6M"
+}

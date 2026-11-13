@@ -1,0 +1,56 @@
+{
+ "photo": "04",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 7,
+ "other_set_aside": 0,
+ "found_items": 7,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8571428571428571,
+ "price_wrong_names": [
+  "SF Restaurant Week set menu: price '90' vs key '45'"
+ ],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 5,
+   "share_wrong": 0.2
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 2,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The main card is an SF Restaurant Week set menu; the wine pairing lines printed under each course are wine descriptions, not separate items. The price line '90 per person' and '45 optional wine pairing' are set-menu price lines (category other). The menu at top right (upside down, partly cut off at the top edge) is a separate menu and was not transcribed. Set-menu courses are shown as a set; no per-course prices are printed.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 5.081091457977891,
+ "cost_usd": 0.0008038,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3748,
+ "completion_tokens": 858,
+ "generation_id": "gen-1793299561-ZtkQ8Z6IywM0WTK1ticD",
+ "rep": 1
+}

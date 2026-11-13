@@ -1,0 +1,45 @@
+{
+ "photo": "12",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 39,
+ "found_items": 39,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.8888888888888888,
+ "descriptions_checked": 9,
+ "tags_right": 0.9743589743589743,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.5,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 1,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 38,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "Photo is partly in shadow and slightly skewed; small print in places but all items appear legible. Lines under 'Children's' and some Jacket Potato lines have no printed prices next to them in some cases, left blank where unclear.",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 14.572978125012014,
+ "cost_usd": 0.0023853,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": ""
+}

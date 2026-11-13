@@ -1,0 +1,16 @@
+# Root environment: the menu-reader evaluation harness (code/) and the LangGraph agent (roli_agent/).
+langsmith
+langchain-openai
+langgraph
+recipe-scrapers
+python-dotenv
+pillow
+pytest
+# The local web prototype (roli_agent/mvp/web.py, ./roli_local.sh).
+fastapi
+uvicorn
+jinja2
+python-multipart
+httpx
+# The validated USDA nutrition library, installed from this repo in editable mode.
+-e ./nutrition_service

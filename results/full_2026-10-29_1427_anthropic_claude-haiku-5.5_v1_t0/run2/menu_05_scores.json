@@ -1,0 +1,60 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9344262295081968,
+ "expected_items": 61,
+ "found_items": 57,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Add chorizo",
+  "Add smoked streaky bacon or poached eggs",
+  "ANY BURGER WITH CHUNKY CHIPS AND CANNED DRINK",
+  "DAILY SPECIAL (PLEASE ASK)"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9824561403508771,
+ "price_wrong_names": [
+  "ULTIMATE BREAKFAST SANDWICH: price '' vs key '1 filling 5.50 / 2 fillings 6.50 / 3 fillings 7.50'"
+ ],
+ "descriptions_right": 0.9310344827586207,
+ "descriptions_checked": 29,
+ "tags_right": 0.8947368421052632,
+ "portion_right": 0.7894736842105263,
+ "has_choice_right": 0.8070175438596491,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 39,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 18,
+   "share_wrong": 0.05555555555555555
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 21.68670283301617,
+ "cost_usd": 0.003862,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2700,
+ "completion_tokens": 7184,
+ "generation_id": "gen-1793298747-ZWermgUfL2Y7st7UcIC6"
+}

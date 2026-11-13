@@ -1,0 +1,61 @@
+{
+ "photo": "10",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 157,
+ "other_set_aside": 0,
+ "found_items": 157,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 0.7133757961783439,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 144,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 7,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 0,
+   "total": 6,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is a dense laminated sheet with glare and a stain. A partly visible column on the far left edge is cut off and was not transcribed. Several Fish prices (Ginger Fish, Diced Fish (Spicy), Mandarin Fish, Sichuan Fish, Apollo Fish, Pepper Fish) are faint or hidden by glare, so those prices are blank or uncertain. The Prawn section's lower items are slightly blurred. The Egg Drop Soup price reads '11500', which looks like a misprint and was copied as printed. Prices are printed with '-00' and were recorded as digits only, e.g. 105.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 54.61836774999392,
+ "cost_usd": 0.128848,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3244,
+ "completion_tokens": 12236,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793369248-Hb97FvcuoDsKvm16WxzF",
+ "rep": 2
+}

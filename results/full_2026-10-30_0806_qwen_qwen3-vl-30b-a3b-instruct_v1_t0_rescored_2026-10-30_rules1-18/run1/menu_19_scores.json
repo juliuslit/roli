@@ -1,0 +1,83 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.7560975609756098,
+ "expected_items": 41,
+ "other_set_aside": 4,
+ "found_items": 31,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Our Special Blend Coffee",
+  "Fresh Orange Juice",
+  "Buttered Toast with Jelly",
+  "Icebox Chocolate",
+  "Half Moon Apple",
+  "Other Delicious Bakery Pies",
+  "Mid-Nite Special",
+  "Pimento Cheese",
+  "Chicken Salad",
+  "Grillburger"
+ ],
+ "invented": 4,
+ "invented_names": [
+  "3¢",
+  "10¢",
+  "CHILLERGAS",
+  "SERVED ANY HOUR"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 4,
+ "garbled_names": [
+  "Baked Toast with Jelly ~ Buttered Toast with Jelly (80%)",
+  "MID-WEST SPECIAL ~ Mid-Nite Special (75%)",
+  "TOMATO-CHEESE ~ Pimento Cheese (71%)",
+  "CHECKED SALAD ~ Chicken Salad (85%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.6774193548387096,
+ "price_wrong_names": [
+  "STEAK PLATE: price '50' vs key '65c'",
+  "BACON-TOMATO: price '30' vs key '25c'",
+  "GRILLED CHEESE: price '20' vs key ''",
+  "Waffles: price '30' vs key '20c'",
+  "Shoestring Potatoes (Order): price '10' vs key '15c'",
+  "HAMBURGER STEAK PLATE: price '50' vs key '55c'",
+  "No. 1: price '30' vs key '35c'",
+  "No. 3: price '40' vs key '45c'",
+  "No. 4: price '40' vs key '45c'",
+  "OUR HOMEMADE FRIED: price '' vs key '10c'"
+ ],
+ "descriptions_right": 0.26666666666666666,
+ "descriptions_checked": 15,
+ "tags_right": 1.0,
+ "portion_right": 0.7741935483870968,
+ "has_choice_right": 0.8387096774193549,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 18,
+   "total": 39,
+   "share_wrong": 0.46153846153846156
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 93.62302516697673,
+ "cost_usd": 0.0025248,
+ "finish_reason": "stop",
+ "provider": "Novita",
+ "error": "",
+ "prompt_tokens": 2012,
+ "completion_tokens": 3032,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793366874-7pLbAQW3WiJq3KuTgWxV",
+ "rep": 1
+}

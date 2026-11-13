@@ -1,0 +1,71 @@
+{
+ "photo": "12",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9545454545454546,
+ "expected_items": 44,
+ "other_set_aside": 2,
+ "found_items": 42,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Ham sandwich",
+  "Mozarella Pesto"
+ ],
+ "invented": 5,
+ "invented_names": [
+  "CHILDREN'S",
+  "WRAPS",
+  "TOASTIES",
+  "PANINIS",
+  "SIDES"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "SANDWICHES ~ Ham sandwich (50%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8095238095238095,
+ "price_wrong_names": [
+  "Cheese Sandwich: price '' vs key '3.50'",
+  "Cheese & Ham Sandwich: price '' vs key '3.50'",
+  "Cucumber & Hummus Sandwich: price '' vs key '3.50'",
+  "Fish Fingers & Chips: price '' vs key '7.50'",
+  "Cheese & Beans: price '' vs key '6.50'",
+  "Tuna Mayo: price '' vs key '6.50'",
+  "Crispy Chicken, Shredded Red Cabbage, Salad, Sweet Chilli & Mayo: price '' vs key '7.85'",
+  "Pulled Pork, Shredded Red Cabbage, Salad, Cheddar Cheese & Mayo: price '' vs key '7.85'"
+ ],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 7,
+ "tags_right": 0.8571428571428571,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 14,
+   "total": 48,
+   "share_wrong": 0.2916666666666667
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 18.296074999991106,
+ "cost_usd": 0.0032374,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 3124,
+ "completion_tokens": 3338,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793376286-8UqC7zH0HXs7nLKiAevu"
+}

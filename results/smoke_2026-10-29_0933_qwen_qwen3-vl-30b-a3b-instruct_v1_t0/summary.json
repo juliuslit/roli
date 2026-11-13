@@ -1,0 +1,49 @@
+{
+ "model": "qwen/qwen3-vl-30b-a3b-instruct",
+ "prompt": "v1",
+ "photos": [
+  "17"
+ ],
+ "temperature": 0,
+ "max_answer_tokens": 16000,
+ "deadline_seconds": 300,
+ "calls": [
+  {
+   "photo": "17",
+   "model": "qwen/qwen3-vl-30b-a3b-instruct",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_17_duck_house_takeout_printed_wall.jpg",
+   "photo_size": [
+    719,
+    1280
+   ],
+   "seconds": 300.1878693330218,
+   "prompt_tokens": 2251,
+   "completion_tokens": 6733,
+   "cost_usd": 0.005445,
+   "provider": "DeepInfra",
+   "finish_reason": "deadline",
+   "generation_id": "gen-1793280833-VaXqPZEKgKVB3365qSh4",
+   "error": ""
+  }
+ ],
+ "answers": 1,
+ "dishes_found_avg": 0.0,
+ "dishes_found_min": 0.0,
+ "invented_total": 0,
+ "cut_off_listed_total": 0,
+ "prices_right_avg": null,
+ "descriptions_right_avg": null,
+ "tags_right_avg": null,
+ "portion_right_avg": null,
+ "has_choice_right_avg": null,
+ "belongs_to_right_avg": null,
+ "format_right_avg": 0.0,
+ "bad_photos_caught": 0,
+ "bad_photos_total": 1,
+ "false_alarms": 0,
+ "check_list_items": 0,
+ "seconds_avg": 300.1878693330218,
+ "cost_total_usd": 0.005445,
+ "cost_avg_usd": 0.005445
+}

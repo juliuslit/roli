@@ -1,0 +1,74 @@
+{
+ "photo": "16",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [
+  {
+   "photo": "16",
+   "key_confidence": "low",
+   "key_name": "POLLO FUNDIDO",
+   "key_price": "",
+   "model_name": "POLLO FUNDIDO",
+   "model_price": "1",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 14,
+ "other_set_aside": 0,
+ "found_items": 14,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 2,
+ "cut_off_names": [
+  "CHILE COLORADO",
+  "ARROZ CON POLLO"
+ ],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 14,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 12,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 2,
+   "total": 2,
+   "share_wrong": 1.0
+  },
+  "low": {
+   "wrong": 1,
+   "total": 2,
+   "share_wrong": 0.5
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "yes",
+ "problems_model": "Left edge is slightly cropped cutting off some letters from CHILE COLORADO and ARROZ CON POLLO; right edge cuts off the end of TACOS AL CARBON description and price.",
+ "bad_photo_caught": 0,
+ "false_alarm": 0,
+ "seconds": 9.809657250007149,
+ "cost_usd": 0.0067755,
+ "finish_reason": "stop",
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 2544,
+ "completion_tokens": 1298,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793369976-SJf5zutc9w6T9kyVRGrP",
+ "rep": 1
+}

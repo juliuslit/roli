@@ -1,0 +1,71 @@
+{
+ "photo": "10",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Diced Fish (Spicy)",
+   "key_price": "",
+   "model_name": "Diced Fish (Spicy)",
+   "model_price": "310-00",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 157,
+ "other_set_aside": 0,
+ "found_items": 157,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9935897435897436,
+ "price_wrong_names": [
+  "Plain Corn Soup: price '110-00' vs key '105-00'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 0.7133757961783439,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 148,
+   "share_wrong": 0.006756756756756757
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 5,
+   "share_wrong": 0.2
+  },
+  "low": {
+   "wrong": 0,
+   "total": 4,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Photo is angled and the left and right edges are cut off; the first column of items on the far left is partly hidden and not listed. Fish section lower prices are faint (Hot Garlic Fish through Pepper Fish, some prices blurred). Vegetarian/non-veg tags are not printed.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 37.486829500005115,
+ "cost_usd": 0.0072567,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3472,
+ "completion_tokens": 13819,
+ "generation_id": "gen-1793299904-dyCir9KMSZLkQCkaBezM",
+ "rep": 2
+}

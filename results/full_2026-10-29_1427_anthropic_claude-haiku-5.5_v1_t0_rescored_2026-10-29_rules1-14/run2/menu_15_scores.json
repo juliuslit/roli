@@ -1,0 +1,63 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9523809523809523,
+ "expected_items": 42,
+ "other_set_aside": 1,
+ "found_items": 40,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Oysters - Humboldt Bay",
+  "Chzy garlic Bread"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Oysters"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Cheezy garlic Bread ~ Chzy garlic Bread (89%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.975,
+ "price_wrong_names": [
+  "Cheese Burger: price '13' vs key '11.50'"
+ ],
+ "descriptions_right": 0.5909090909090909,
+ "descriptions_checked": 22,
+ "tags_right": 0.875,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 2,
+   "total": 33,
+   "share_wrong": 0.06060606060606061
+  },
+  "low": {
+   "wrong": 1,
+   "total": 9,
+   "share_wrong": 0.1111111111111111
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Photo is a chalkboard menu with glare and a reflection of a person over the lower section; some prices and descriptions are faint or partly obscured. Mounted-sign text at the left edge is ignored. Some prices are uncertain and marked low confidence.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 14.47711370899924,
+ "cost_usd": 0.0024255,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2700,
+ "completion_tokens": 4311,
+ "generation_id": "gen-1793298905-oex1FySvYjmA2YOghBkN",
+ "rep": 2
+}

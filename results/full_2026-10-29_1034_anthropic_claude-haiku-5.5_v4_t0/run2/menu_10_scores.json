@@ -1,0 +1,93 @@
+{
+ "photo": "10",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Diced Fish (Spicy)",
+   "key_price": "",
+   "model_name": "Diced Fish (Spicy)",
+   "model_price": "310-00",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Mandarin Fish",
+   "key_price": "",
+   "model_name": "Mandarin Fish",
+   "model_price": "310-00",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Sichuan Fish",
+   "key_price": "",
+   "model_name": "Sichuan Fish",
+   "model_price": "310-00",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Apollo Fish",
+   "key_price": "",
+   "model_name": "Apollo Fish",
+   "model_price": "310-00",
+   "reason": "price differs"
+  },
+  {
+   "photo": "10",
+   "key_confidence": "low",
+   "key_name": "Pepper Fish",
+   "key_price": "",
+   "model_name": "Pepper Fish",
+   "model_price": "310-00",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 157,
+ "found_items": 157,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 0.993421052631579,
+ "price_wrong_names": [
+  "Plain Corn Soup: price '110-00' vs key '105-00'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 0.8407643312101911,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 149,
+   "share_wrong": 0.006711409395973154
+  },
+  "low": {
+   "wrong": 5,
+   "total": 8,
+   "share_wrong": 0.625
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Left edge is cut off by the photo border (partial columns at far left not transcribed). Fish section lower rows (Diced Fish (Spicy), Mandarin Fish, Sichuan Fish, Apollo Fish, Pepper Fish) and some Prawn/Fish prices are faint and blurry; prices for Fish in Pickle Sauce, Ginger Fish, Diced Fish (Spicy), Mandarin Fish are partly obscured. Heading text in top-left is cut off. Lower rows of the menu near the bottom edge are small but mostly legible.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 40.11185524999746,
+ "cost_usd": 0.0074387,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": ""
+}

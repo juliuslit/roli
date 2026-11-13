@@ -1,0 +1,60 @@
+{
+ "photo": "09",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 15,
+ "other_set_aside": 0,
+ "found_items": 15,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 1,
+ "invented_names": [
+  "Bacon - 2 slices"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 1,
+ "grouping_names": [
+  "Bacon - 1 slice -> ['Bacon', 'Bacon']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.7692307692307693,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 8,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 2,
+   "total": 7,
+   "share_wrong": 0.2857142857142857
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 6.6891295420064125,
+ "cost_usd": 0.0011318,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3518,
+ "completion_tokens": 1560,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793299360-U8ahrgmYKMJ3o1CLUs4i",
+ "rep": 2
+}

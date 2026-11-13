@@ -1,0 +1,45 @@
+ingredient_text,menu_context,preparation_hint,expected_pattern,accepted_proxy_pattern,notes
+sushi-grade bluefin tuna,BLUEFIN CRUDO,raw,"^Fish, tuna, fresh, bluefin, raw",,direct record exists (173706)
+bottarga,BLUEFIN CRUDO,as_used,,"^Fish, (roe|caviar)",no USDA bottarga; cured roe is a proxy at best; unresolved is acceptable
+muscat grapes,BLUEFIN CRUDO,raw,"^Grapes, .*raw",,
+chives,BLUEFIN CRUDO,raw,"^Chives, raw",,
+extra-virgin olive oil,,as_used,"^Oil, olive, salad or cooking",,
+flaky sea salt,,as_used,"^Salt, table",,
+little gem lettuce,LITTLE GEM LETTUCES,raw,,"^Lettuce, (cos or romaine|butterhead|green leaf|iceberg).*raw",no little gem in USDA; romaine or butterhead proxy
+tahini,LITTLE GEM LETTUCES,as_used,"^Seeds, sesame butter, tahini",,
+pecorino sardo,LITTLE GEM LETTUCES,as_used,,"^Cheese, (romano|parmesan)",sheep's-milk hard cheese; romano proxy
+toasted sesame seeds,LITTLE GEM LETTUCES,cooked,"^Seeds, sesame seeds, whole, roasted and toasted",,
+heirloom tomatoes,HEIRLOOM TOMATOES,raw,"^Tomatoes, red, ripe, raw","^Tomatoes, (orange|yellow), raw",
+pluot,HEIRLOOM TOMATOES,raw,,"^(Plums|Apricots), raw",plum-apricot hybrid
+shiso leaves,HEIRLOOM TOMATOES,raw,,"^(Basil|Spearmint|Peppermint|Mint), fresh",perilla not in USDA; a fresh herb proxy has near-zero effect
+genovese basil,HEIRLOOM TOMATOES,raw,"^Basil, fresh",,
+sourdough bread,HEIRLOOM TOMATOES,as_used,"^Bread, (french or vienna|sourdough)",,
+fior di latte,MARGHERITA,as_used,"^Cheese, mozzarella, whole milk","^Cheese, mozzarella",
+san marzano tomatoes (canned),MARGHERITA,as_used,"^Tomatoes, (red, ripe, canned|whole, canned)","^Tomato products, canned, (sauce|puree)",SR Legacy and Foundation names
+00 flour,MARGHERITA,as_used,,"^(Wheat flour, white, (all-purpose|bread)|Flour, wheat, all-purpose)",Italian 00 flour has no USDA record; all-purpose flour is a proxy
+active dry yeast,MARGHERITA,as_used,"^Leavening agents, yeast, baker's, active dry",,
+king salmon fillet,KING SALMON,raw,"^Fish, salmon, chinook, raw",,
+summer squash,KING SALMON,raw,"^Squash, summer, .*raw",,
+sweet corn kernels,KING SALMON,raw,"^Corn, sweet, yellow(?: and white kernels)?,.*raw","^Corn, sweet, (white|yellow)",Foundation record names both colours
+shishito peppers,KING SALMON,raw,,"^Peppers, (sweet, green|hot chili, green|serrano|jalapeno).*raw",no shishito in USDA
+unsalted butter,,as_used,"^Butter, without salt","^Butter, (salted|whipped)",
+garlic cloves,,raw,"^Garlic, raw",,
+lemon juice,,as_used,"^Lemon juice, raw","^Lemon juice, canned",
+large eggs,,raw,"^Egg, whole, raw, fresh",,
+heavy cream,,as_used,"^Cream, (fluid, heavy whipping|heavy)",,SR Legacy and Foundation names
+parmigiano reggiano,,as_used,"^Cheese, parmesan",,
+capers,,as_used,"^Capers, canned",,
+castelvetrano olives,,as_used,,"^Olives, (ripe, canned|pickled, canned or bottled, green)",
+pistachios,,as_used,"^Nuts, pistachio nuts",,
+red onion,,raw,"^Onions, (red, )?raw","^Onions, (sweet|yellow), raw",
+scallions,,raw,"^(Onions, spring or scallions|Green onion, \(scallion\))",,SR Legacy and Foundation name it differently
+soy sauce,,as_used,"^Soy sauce made from soy",,
+mirin,,as_used,,"^(Alcoholic beverage, (wine|rice)|Rice wine|Sugars)",not in USDA; sake or cooking wine is a near-zero proxy; unresolved also acceptable
+anchovy fillets in oil,,as_used,"^(Fish, anchovy, european, canned in oil|Anchovies, canned in olive oil)",,SR Legacy and Foundation
+burrata,,as_used,,"^Cheese, mozzarella",
+caciocavallo,,as_used,,"^Cheese, (provolone|mozzarella|caciocavallo)",
+boquerones,,as_used,"^Fish, anchovy, european, raw","^Fish, anchovy",marinated white anchovies
+pancetta,,cooked,,"^Pork, cured, bacon, .*cooked",cured pork belly; cooked bacon proxy
+black pepper,,as_used,"^Spices, pepper, black",,
+chicken stock,,as_used,"^Soup, (stock, chicken|chicken broth)",,
+seared tuna steak,,cooked,"^Fish, tuna, (fresh, )?(bluefin|yellowfin|skipjack), (fresh, )?cooked, dry heat",,USDA orders the words differently per species

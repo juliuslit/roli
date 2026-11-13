@@ -1,0 +1,52 @@
+{
+ "photo": "09",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9285714285714286,
+ "expected_items": 14,
+ "found_items": 13,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Bacon - 1 slice 3, 2 slices 3"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Bacon"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.9230769230769231,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 14,
+   "share_wrong": 0.07142857142857142
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 5.4086794999893755,
+ "cost_usd": 0.0010928,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3748,
+ "completion_tokens": 1436,
+ "generation_id": "gen-1793299899-ht1CKwXtxqlVE1jPt9Ow"
+}

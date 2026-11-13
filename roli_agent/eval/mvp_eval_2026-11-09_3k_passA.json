@@ -1,0 +1,7250 @@
+{
+ "date": "2026-11-09",
+ "runs": [
+  {
+   "photo": "menu_test_set/telegram_1280/menu_03_own_IMG_5185.jpg",
+   "repeat": 1,
+   "run_id": "20261109-060852-200903",
+   "status": "failed",
+   "seconds": 88.0,
+   "timings": {
+    "read_menu": 87.1
+   },
+   "totals": {},
+   "spend": {
+    "model_usd_actual": "0.000000",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.000000",
+    "model_calls": 0,
+    "model_calls_priced_by_provider": 0,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 0,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "0.0000",
+     "search_credits": 0,
+     "runs": 0
+    },
+    "daily_after_this_run": {
+     "model_usd": "0.0000",
+     "search_credits": 0
+    },
+    "interruptions": [],
+    "topups": 0
+   },
+   "ranking": [],
+   "unranked": [],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [
+    "menu reader failed: OpenAIConnectionError: Connection error."
+   ],
+   "recommendation": "Roli could not read the menu photo (menu reader failed: OpenAIConnectionError: Connection error.). No recommendation is possible.",
+   "usda": {},
+   "flags": [],
+   "words": 17,
+   "menu_items": 0,
+   "dish_status": {},
+   "top3": []
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_08_greyhound_pub_uk_printed.jpg",
+   "repeat": 1,
+   "run_id": "20261109-090042-8ca584",
+   "status": "done",
+   "seconds": 238.5,
+   "timings": {
+    "read_menu": 17.5,
+    "estimate_dishes": 220.8,
+    "compare_and_rank": 0.022,
+    "total": 238.4
+   },
+   "totals": {
+    "dishes_on_menu": 38,
+    "dishes_candidates": 33,
+    "dishes_selected": 30,
+    "dishes_evaluated": 28,
+    "dishes_ranked": 17,
+    "dishes_unranked": 11,
+    "dishes_no_recipes": 1,
+    "dishes_error": 1,
+    "dishes_excluded": 5,
+    "dishes_skipped": 3,
+    "dishes_budget_stopped": 0,
+    "search_credits": 1,
+    "llm_calls": 41,
+    "llm_cost_usd": "0.093399",
+    "llm_cost_usd_actual": "0.093399",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 4,
+    "pages_fetched": 348,
+    "rate_limit_waits": 5,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 0,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.093399",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.093399",
+    "model_calls": 41,
+    "model_calls_priced_by_provider": 41,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 35462,
+    "completion_tokens": 17814,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 1,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "0.0000",
+     "search_credits": 0,
+     "runs": 1
+    },
+    "daily_after_this_run": {
+     "model_usd": "0.0934",
+     "search_credits": 1
+    },
+    "interruptions": [],
+    "topups": 8
+   },
+   "ranking": [
+    [
+     1,
+     "PADRON PEPPERS",
+     "0.217438",
+     "3.076919",
+     "close_call"
+    ],
+    [
+     2,
+     "CORNISH FISH & CHIPS",
+     "4.71618273",
+     "23.07591895",
+     "close_call"
+    ],
+    [
+     3,
+     "PAN FRIED SEABASS",
+     "4.129416",
+     "25.653534",
+     "close_call"
+    ],
+    [
+     4,
+     "PIGS IN BLANKETS",
+     "4.227046",
+     "42.713276",
+     "close_call"
+    ],
+    [
+     5,
+     "CHICKEN SCHNITZEL",
+     "12.51452",
+     "34.44064",
+     "well_supported"
+    ],
+    [
+     6,
+     "CHILLI & GARLIC GREEN BEANS",
+     "0.466414",
+     "3.953354",
+     "close_call"
+    ],
+    [
+     7,
+     "TENDER STEM BROCOLLI",
+     "0.637350",
+     "3.122019",
+     "close_call"
+    ],
+    [
+     8,
+     "TOMATO & RED ONION SALAD",
+     "0.852567",
+     "3.315805",
+     "close_call"
+    ],
+    [
+     9,
+     "ONION RINGS",
+     "0.317",
+     "3.804",
+     "close_call"
+    ],
+    [
+     10,
+     "MIXED LEAF SALAD",
+     "0.039893",
+     "3.910571",
+     "close_call"
+    ],
+    [
+     11,
+     "SICILIAN OLIVES",
+     "1.376829",
+     "4.034035",
+     "close_call"
+    ],
+    [
+     12,
+     "KOFFMANN'S HAND CUT CHIPS",
+     "1.8924",
+     "4.1334",
+     "close_call"
+    ],
+    [
+     13,
+     "SKINNY FRIES",
+     "1.8924",
+     "4.1334",
+     "close_call"
+    ],
+    [
+     14,
+     "SMOKED GARLIC MASH",
+     "1.577112",
+     "15.081176",
+     "close_call"
+    ],
+    [
+     15,
+     "THE GREYHOUND CHEESE SLATE",
+     "6.506503",
+     "13.735951",
+     "close_call"
+    ],
+    [
+     16,
+     "APPLE & CRUMBLE RHUBARB",
+     "5.749196",
+     "33.237695",
+     "close_call"
+    ],
+    [
+     17,
+     "STICKY TOFFEE PUDDING",
+     "5.708702",
+     "30.477305",
+     "close_call"
+    ]
+   ],
+   "unranked": [
+    [
+     "CRACKLING PIG STICKS",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "ROASTED HARISSA AUBERGINE",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (bbcgoodfood.com: Coconut Yoghurt (missing_grams))"
+    ],
+    [
+     "HOUSE BAKED BREAD",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (tastesbetterfromscratch.com: & Hummus (missing_gram"
+    ],
+    [
+     "CAMEMBERT & SAGE CROQUETTES",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "SIRLOIN STEAK 10oz",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (cookingwithcurls.com: Koffmann's Hand Cut Chips (mi"
+    ],
+    [
+     "WAGYU BEEF BURGER",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (foodnetwork.com: Hand Cut Chips (missing_grams))"
+    ],
+    [
+     "THE GREYHOUND VEGAN BURGER",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "CONISBEE BUTCHER LAMB & MINT SAUSAGES",
+     "the estimate has no upper bound: 2 of 2 recipes have no upper bound (cooking.nytimes.com: white beans (preparation_unres"
+    ],
+    [
+     "TAGLIATELLE CARBONARA",
+     "the estimate has no upper bound: 2 of 2 recipes have no upper bound (pastaevangelists.com: Wild Mushroom & Asparagus (mi"
+    ],
+    [
+     "BAKED VANILA CHEESECAKE",
+     "the estimate has no upper bound: 2 of 2 recipes have no upper bound (bbcgoodfood.com: Red Wine & Cinnamon Compote (missi"
+    ],
+    [
+     "BISCOFF DOUGHNUTS",
+     "no recipe of this dish could be portioned (no scenario could be portioned (2 without an applicable portion model))"
+    ]
+   ],
+   "fat_lines": [
+    "Cornish Fish & Chips: most plates about 5.1-7.6 g saturated fat if fried in vegetable oil, up to about 21 g in beef dripping. Ask what they fry in."
+   ],
+   "reading": "fresh",
+   "errors": [
+    "CRISPY SQUID & PRAWNS: ArithmeticError: cholesterol_mg: per-serving value does not reconcile within tolerance"
+   ],
+   "recommendation": "Among the 17 dishes I could estimate (30 tried; 13 had no usable estimate; 3 not tried), lowest saturated fat first: 1) Padron Peppers, most plates about 0.4-1.9 g saturated fat per plate; 2) Cornish Fish & Chips; 3) Pan Fried Seabass, most plates 5.6-19 g. Cornish Fish & Chips: most plates about 5.1-7.6 g saturated fat if fried in vegetable oil, up to about 21 g in beef dripping. Ask what they fry in. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 4,
+    "remaining_before": 3599,
+    "remaining_after": 3596,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 908,
+    "store_misses": 4,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 0
+   },
+   "flags": [],
+   "words": 86,
+   "menu_items": 38,
+   "dish_status": {
+    "CRACKLING PIG STICKS": [
+     "evaluated",
+     "vegetable_starter",
+     4,
+     0,
+     71.2
+    ],
+    "PADRON PEPPERS": [
+     "evaluated",
+     "vegetable_starter",
+     5,
+     4,
+     8.5
+    ],
+    "SICILIAN OLIVES": [
+     "evaluated",
+     "snack_bowl",
+     5,
+     6,
+     71.0
+    ],
+    "PIGS IN BLANKETS": [
+     "evaluated",
+     "vegetable_starter",
+     5,
+     3,
+     136.1
+    ],
+    "ROASTED HARISSA AUBERGINE": [
+     "evaluated",
+     "vegetable_starter",
+     9,
+     2,
+     27.3
+    ],
+    "HOUSE BAKED BREAD": [
+     "evaluated",
+     "side_bread",
+     3,
+     1,
+     3.1
+    ],
+    "THE GREYHOUND SCOTCH EGG": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "CRISPY SQUID & PRAWNS": [
+     "error",
+     "fish_starter",
+     0,
+     0,
+     75.4
+    ],
+    "CAMEMBERT & SAGE CROQUETTES": [
+     "evaluated",
+     "vegetable_starter",
+     3,
+     0,
+     11.7
+    ],
+    "CHICKEN & MUSHROOM ARANCINI": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "THE FARMHOUSE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "FISHERMAN'S BOARD": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CORNISH FISH & CHIPS": [
+     "evaluated",
+     "fish_and_chips",
+     4,
+     8,
+     0.2
+    ],
+    "SIRLOIN STEAK 10oz": [
+     "evaluated",
+     "meat_main",
+     5,
+     4,
+     3.8
+    ],
+    "WAGYU BEEF BURGER": [
+     "evaluated",
+     "burger",
+     8,
+     2,
+     4.0
+    ],
+    "Emmental Cheese": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Bacon": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Blue Cheese": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "THE GREYHOUND VEGAN BURGER": [
+     "evaluated",
+     "burger",
+     4,
+     0,
+     14.1
+    ],
+    "CHICKEN SCHNITZEL": [
+     "evaluated",
+     "meat_main",
+     6,
+     4,
+     50.7
+    ],
+    "PAN FRIED SEABASS": [
+     "evaluated",
+     "fish_main",
+     5,
+     8,
+     0.2
+    ],
+    "CONISBEE BUTCHER LAMB & MINT SAUSAGES": [
+     "evaluated",
+     "meat_main",
+     3,
+     4,
+     16.5
+    ],
+    "TAGLIATELLE CARBONARA": [
+     "evaluated",
+     "pasta_main",
+     6,
+     4,
+     7.9
+    ],
+    "MIXED LEAF SALAD": [
+     "evaluated",
+     "side_salad",
+     5,
+     4,
+     0.6
+    ],
+    "TENDER STEM BROCOLLI": [
+     "evaluated",
+     "side_vegetable",
+     2,
+     2,
+     0.1
+    ],
+    "TOMATO & RED ONION SALAD": [
+     "evaluated",
+     "side_salad",
+     4,
+     4,
+     0.1
+    ],
+    "ONION RINGS": [
+     "evaluated",
+     "side_vegetable",
+     5,
+     4,
+     11.1
+    ],
+    "CHILLI & GARLIC GREEN BEANS": [
+     "evaluated",
+     "side_vegetable",
+     6,
+     4,
+     0.5
+    ],
+    "SMOKED GARLIC MASH": [
+     "evaluated",
+     "side_vegetable",
+     5,
+     4,
+     10.5
+    ],
+    "SKINNY FRIES": [
+     "evaluated",
+     "fried_potato_side",
+     4,
+     4,
+     0.1
+    ],
+    "KOFFMANN'S HAND CUT CHIPS": [
+     "evaluated",
+     "fried_potato_side",
+     3,
+     3,
+     0.3
+    ],
+    "BAKED VANILA CHEESECAKE": [
+     "evaluated",
+     "dessert",
+     7,
+     3,
+     32.8
+    ],
+    "STICKY TOFFEE PUDDING": [
+     "evaluated",
+     "dessert",
+     6,
+     4,
+     32.8
+    ],
+    "APPLE & CRUMBLE RHUBARB": [
+     "evaluated",
+     "dessert",
+     5,
+     5,
+     20.1
+    ],
+    "THE GREYHOUND CHEESE SLATE": [
+     "evaluated",
+     "dessert",
+     2,
+     2,
+     10.8
+    ],
+    "BISCOFF DOUGHNUTS": [
+     "evaluated",
+     "dessert",
+     2,
+     0,
+     17.8
+    ],
+    "CHOCOLATE BROWNIE": [
+     "skipped",
+     "dessert",
+     0,
+     0,
+     0.0
+    ],
+    "TRIO OF DOUGHNUTS TO SHARE": [
+     "no_recipes",
+     "dessert",
+     0,
+     0,
+     0.1
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "PADRON PEPPERS",
+     "0.217438",
+     "3.076919",
+     "0.000000",
+     "0.000000",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "CORNISH FISH & CHIPS",
+     "4.71618273",
+     "23.07591895",
+     "64.65439",
+     "152.33639",
+     "close_call",
+     null
+    ],
+    [
+     3,
+     "PAN FRIED SEABASS",
+     "4.129416",
+     "25.653534",
+     "75.159906",
+     "192.830000",
+     "close_call",
+     "Seaweed Butter (assumed amount)"
+    ]
+   ]
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_01_own_zuni_cafe_sf.jpg",
+   "repeat": 1,
+   "run_id": "20261109-110835-00af63",
+   "status": "done",
+   "seconds": 149.6,
+   "timings": {
+    "read_menu": 102.6,
+    "estimate_dishes": 46.9,
+    "compare_and_rank": 0.008,
+    "total": 149.5
+   },
+   "totals": {
+    "dishes_on_menu": 71,
+    "dishes_candidates": 15,
+    "dishes_selected": 15,
+    "dishes_evaluated": 14,
+    "dishes_ranked": 9,
+    "dishes_unranked": 5,
+    "dishes_no_recipes": 1,
+    "dishes_error": 0,
+    "dishes_excluded": 56,
+    "dishes_skipped": 0,
+    "dishes_budget_stopped": 0,
+    "search_credits": 0,
+    "llm_calls": 14,
+    "llm_cost_usd": "0.040618",
+    "llm_cost_usd_actual": "0.040618",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 0,
+    "pages_fetched": 180,
+    "rate_limit_waits": 5,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 0,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.040618",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.040618",
+    "model_calls": 14,
+    "model_calls_priced_by_provider": 14,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 15363,
+    "completion_tokens": 7759,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 0,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "0.0934",
+     "search_credits": 1,
+     "runs": 2
+    },
+    "daily_after_this_run": {
+     "model_usd": "0.1340",
+     "search_credits": 1
+    },
+    "interruptions": [],
+    "topups": 7
+   },
+   "ranking": [
+    [
+     1,
+     "Bowl of polenta with mascarpone or Parmigiano-Reggiano",
+     "1.173336",
+     "12.547161",
+     "close_call"
+    ],
+    [
+     2,
+     "Zuni Caesar salad",
+     "1.952675",
+     "7.970537",
+     "close_call"
+    ],
+    [
+     3,
+     "Garden lettuce salad with Sungold tomatoes, Alpha Tolman cheese, chapons, and passion fruit vinaigrette",
+     "1.278308",
+     "21.077311",
+     "close_call"
+    ],
+    [
+     4,
+     "Spaghetti with Gulf shrimp, heirloom tomatoes, basil, garlic, Espelette pepper, and brandy",
+     "0.776288",
+     "14.506263",
+     "close_call"
+    ],
+    [
+     5,
+     "Yellowfin tuna grilled rare all'acqua di mare with Manila clams, mussels, sprouting cauliflower, string beans, a slow-cooked Early Girl tomato, and aïoli",
+     "3.298238",
+     "12.755077",
+     "tentative"
+    ],
+    [
+     6,
+     "Stemple Creek Ranch ribeye steak (served with the above accompaniments)",
+     "11.222860",
+     "33.155859",
+     "well_supported"
+    ],
+    [
+     7,
+     "Marinated olives",
+     "1.287029",
+     "3.910176",
+     "close_call"
+    ],
+    [
+     8,
+     "Wood fire-roasted tomato and eggplant soup with mint, Urfa pepper, and charmoula",
+     "1.181953",
+     "5.215585",
+     "close_call"
+    ],
+    [
+     9,
+     "Shoestring potatoes",
+     "1.8924",
+     "4.1334",
+     "close_call"
+    ]
+   ],
+   "unranked": [
+    [
+     "House-cured anchovies with celery, Parmigiano-Reggiano, and coquillo olives",
+     "the estimate has no upper bound: 2 of 2 recipes have no upper bound (exau.substack.com: fresh anchovies (as_used_not_acc"
+    ],
+    [
+     "Fuyu persimmon and roasted beet \"carpaccio\" with Laychee goat cheese, tender herbs, and Meyer lemon-pistachio aillade",
+     "no recipe of this dish could be portioned (no scenario could be portioned (6 without an applicable portion model))"
+    ],
+    [
+     "Pizza with Wagon Wheel cheese, soppressata, wild nettles, red onion, and Boont Corners sheep cheese",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (epicurious.com: purchased fully baked thin pizza cr"
+    ],
+    [
+     "Steak frites: Stemple Creek Ranch bavette steak with pommes frites, Padrón peppers, avocado, and chimichurri",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (cooking.nytimes.com: steak-cut frozen fries (prepar"
+    ],
+    [
+     "Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "Among the 9 dishes I could estimate (15 tried; 6 had no usable estimate), lowest saturated fat first: 1) Bowl of polenta, most plates about 2.1-7.3 g saturated fat per plate; 2) Zuni Caesar salad, most plates 2.3-5.6 g; 3) Garden lettuce salad, most plates 1.7-12 g. These ranges overlap, so treat the order as a toss-up. Bowl of polenta cholesterol about 9-33 mg. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 0,
+    "remaining_before": 3596,
+    "remaining_after": 3596,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 1068,
+    "store_misses": 4,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 0
+   },
+   "flags": [
+    {
+     "recorded_at": "2026-11-09T11:41:51+00:00",
+     "status": "closed",
+     "run": "20261109-110835-00af63",
+     "menu": "menu_01_own_zuni_cafe_sf.jpg",
+     "dish": "Marinated olives",
+     "card": "PR13",
+     "note": "every check that may flag now passes: per_100g 3.355 vs 1.7-2.8"
+    }
+   ],
+   "words": 75,
+   "menu_items": 71,
+   "dish_status": {
+    "Marinated olives": [
+     "evaluated",
+     "snack_bowl",
+     4,
+     8,
+     6.6
+    ],
+    "Acme levain bread with butter": [
+     "no_recipes",
+     "side_bread",
+     0,
+     0,
+     2.9
+    ],
+    "Shoestring potatoes": [
+     "evaluated",
+     "fried_potato_side",
+     4,
+     4,
+     6.5
+    ],
+    "House-cured anchovies with celery, Parmigiano-Reggiano, and coquillo olives": [
+     "evaluated",
+     "fish_starter",
+     3,
+     3,
+     17.9
+    ],
+    "Fuyu persimmon and roasted beet \"carpaccio\" with Laychee goat cheese, tender herbs, and Meyer lemon-pistachio aillade": [
+     "evaluated",
+     "crudo_starter",
+     6,
+     0,
+     10.4
+    ],
+    "Zuni Caesar salad": [
+     "evaluated",
+     "leaf_salad_starter",
+     4,
+     4,
+     12.3
+    ],
+    "Garden lettuce salad with Sungold tomatoes, Alpha Tolman cheese, chapons, and passion fruit vinaigrette": [
+     "evaluated",
+     "leaf_salad_starter",
+     6,
+     5,
+     6.5
+    ],
+    "Bowl of polenta with mascarpone or Parmigiano-Reggiano": [
+     "evaluated",
+     "vegetable_starter",
+     5,
+     4,
+     10.2
+    ],
+    "Wood fire-roasted tomato and eggplant soup with mint, Urfa pepper, and charmoula": [
+     "evaluated",
+     "soup",
+     5,
+     3,
+     0.9
+    ],
+    "Pizza with Wagon Wheel cheese, soppressata, wild nettles, red onion, and Boont Corners sheep cheese": [
+     "evaluated",
+     "pizza_neapolitan",
+     5,
+     5,
+     10.3
+    ],
+    "Spaghetti with Gulf shrimp, heirloom tomatoes, basil, garlic, Espelette pepper, and brandy": [
+     "evaluated",
+     "pasta_main",
+     6,
+     5,
+     20.6
+    ],
+    "Yellowfin tuna grilled rare all'acqua di mare with Manila clams, mussels, sprouting cauliflower, string beans, a slow-cooked Early Girl tomato, and aïoli": [
+     "evaluated",
+     "fish_main",
+     2,
+     3,
+     17.8
+    ],
+    "Steak frites: Stemple Creek Ranch bavette steak with pommes frites, Padrón peppers, avocado, and chimichurri": [
+     "evaluated",
+     "meat_main",
+     5,
+     2,
+     0.1
+    ],
+    "Stemple Creek Ranch ribeye steak (served with the above accompaniments)": [
+     "evaluated",
+     "meat_main",
+     2,
+     2,
+     6.3
+    ],
+    "Chicken for two roasted in the wood-fired brick oven; warm bread salad with scallions, garlic, bitter greens, dried currants, and pine nuts": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli and Zuni pickles": [
+     "evaluated",
+     "burger",
+     1,
+     0,
+     5.6
+    ],
+    "Shelburne Farms cheddar cheese": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Bayley Hazen blue cheese": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "grilled onion": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "fried egg": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "bacon": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "heirloom tomato": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Campari": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Punt e Mes": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Carpano Bianco": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Carpano Antica": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Lillet": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Lillet Rosé": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Bonal": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Cocchi Americano": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Vergano Americano": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Suze": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Suze and tonic": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Pernod": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Ricard": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "St. George Absinthe": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fresh Lemonade": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fresh Orange Juice": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fresh Grapefruit Juice": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Organic Apple Juice": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Boylan Cane Cola": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Badger Sparkling Yuzu Lime": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Badger Ginger Beer": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Abita Root Beer": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Il Nostro Chinotto": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Mountain Valley Spring Water": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Mountain Valley Sparkling Water": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Scrimshaw Pilsner": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Weihenstephaner Hefeweissbier": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fort Point KSA - Kölsch Style Ale": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fort Point Villager IPA": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "La Fin du Monde Golden Ale": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Saison Dupont": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Old Rasputin Imperial Stout": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Weihenstephaner Non-Alcoholic": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Coffee": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Café au Lait": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Espresso": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Cappuccino": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Caffè Latte": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Mocha Latte": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Black Tonic": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Iced Bergamot Tea": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Grand Crimson Keemun Tea": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Bao Zhong Oolong Tea": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Genmaicha Tea": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Superior Black Puer Tea": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Heirloom White Peony Tea": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Nile Valley Chamomile": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Peppermint Infusion": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Hot Cocoa": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "Bowl of polenta with mascarpone or Parmigiano-Reggiano",
+     "1.173336",
+     "12.547161",
+     "5.534707",
+     "58.992989",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "Zuni Caesar salad",
+     "1.952675",
+     "7.970537",
+     "24.215525",
+     "122.255131",
+     "close_call",
+     null
+    ],
+    [
+     3,
+     "Garden lettuce salad with Sungold tomatoes, Alpha Tolman cheese, chapons, and passion fruit vinaigrette",
+     "1.278308",
+     "21.077311",
+     "1.062353",
+     "62.947140",
+     "close_call",
+     null
+    ]
+   ]
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_23_en_boardwalk_bistro_chalkboard.jpg",
+   "repeat": 1,
+   "run_id": "20261109-114151-68c401",
+   "status": "done",
+   "seconds": 52.6,
+   "timings": {
+    "read_menu": 5.7,
+    "estimate_dishes": 46.8,
+    "compare_and_rank": 0.005,
+    "total": 52.6
+   },
+   "totals": {
+    "dishes_on_menu": 9,
+    "dishes_candidates": 9,
+    "dishes_selected": 9,
+    "dishes_evaluated": 8,
+    "dishes_ranked": 7,
+    "dishes_unranked": 1,
+    "dishes_no_recipes": 1,
+    "dishes_error": 0,
+    "dishes_excluded": 0,
+    "dishes_skipped": 0,
+    "dishes_budget_stopped": 0,
+    "search_credits": 0,
+    "llm_calls": 11,
+    "llm_cost_usd": "0.009632",
+    "llm_cost_usd_actual": "0.009632",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 0,
+    "pages_fetched": 108,
+    "rate_limit_waits": 14,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 0,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.009632",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.009632",
+    "model_calls": 11,
+    "model_calls_priced_by_provider": 11,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 7533,
+    "completion_tokens": 1062,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 0,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "0.1340",
+     "search_credits": 1,
+     "runs": 3
+    },
+    "daily_after_this_run": {
+     "model_usd": "0.1436",
+     "search_credits": 1
+    },
+    "interruptions": [],
+    "topups": 6
+   },
+   "ranking": [
+    [
+     1,
+     "OCEAN TROUT / TUNA POKE SALAD",
+     "0.509293",
+     "6.848597",
+     "close_call"
+    ],
+    [
+     2,
+     "CRUMBED WHITING",
+     "1.074644",
+     "5.91445",
+     "close_call"
+    ],
+    [
+     3,
+     "CHILLED MOOLOOLABA PRAWNS",
+     "0.921787",
+     "5.720999",
+     "close_call"
+    ],
+    [
+     4,
+     "BATTERED OYSTERS",
+     "1.32916",
+     "6.45794",
+     "close_call"
+    ],
+    [
+     5,
+     "CRUDO OF SWORDFISH",
+     "3.997294",
+     "13.070774",
+     "close_call"
+    ],
+    [
+     6,
+     "SNAPPER",
+     "4.958324",
+     "17.881662",
+     "close_call"
+    ],
+    [
+     7,
+     "OCEAN TROUT",
+     "6.720473",
+     "21.656120",
+     "well_supported"
+    ]
+   ],
+   "unranked": [
+    [
+     "COBIA",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (mydeliciousblog.com: toasted pepitas or sunflower s"
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "Among the 7 dishes I could estimate (9 tried; 2 had no usable estimate), lowest saturated fat first: 1) Ocean Trout / Tuna Poke Salad, most plates about 0.6-3.0 g saturated fat per plate; 2) Crumbed Whiting, most plates 1.7-5.0 g; 3) Chilled Mooloolaba Prawns, most plates 1.4-4.7 g. These ranges overlap, so treat the order as a toss-up. Chilled Mooloolaba Prawns may carry up to 312 mg cholesterol. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 0,
+    "remaining_before": 3596,
+    "remaining_after": 3596,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 1183,
+    "store_misses": 4,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 0
+   },
+   "flags": [],
+   "words": 80,
+   "menu_items": 9,
+   "dish_status": {
+    "CRUDO OF SWORDFISH": [
+     "evaluated",
+     "crudo_starter",
+     4,
+     8,
+     6.5
+    ],
+    "OCEAN TROUT / TUNA POKE SALAD": [
+     "evaluated",
+     "crudo_starter",
+     6,
+     6,
+     4.6
+    ],
+    "CRUMBED WHITING": [
+     "evaluated",
+     "fish_starter",
+     5,
+     6,
+     35.1
+    ],
+    "BATTERED OYSTERS": [
+     "evaluated",
+     "fish_starter",
+     3,
+     3,
+     0.8
+    ],
+    "CHILLED MOOLOOLABA PRAWNS": [
+     "evaluated",
+     "fish_starter",
+     2,
+     4,
+     1.8
+    ],
+    "OCEAN TROUT": [
+     "evaluated",
+     "fish_main",
+     4,
+     4,
+     31.6
+    ],
+    "NORTH QLD BARAMUNDI": [
+     "no_recipes",
+     "fish_main",
+     0,
+     0,
+     1.2
+    ],
+    "COBIA": [
+     "evaluated",
+     "fish_main",
+     2,
+     2,
+     2.2
+    ],
+    "SNAPPER": [
+     "evaluated",
+     "fish_main",
+     5,
+     8,
+     36.2
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "OCEAN TROUT / TUNA POKE SALAD",
+     "0.509293",
+     "6.848597",
+     "31.980000",
+     "44.070000",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "CRUMBED WHITING",
+     "1.074644",
+     "5.91445",
+     "37.506",
+     "317.564022",
+     "close_call",
+     "egg (assumed amount)"
+    ],
+    [
+     3,
+     "CHILLED MOOLOOLABA PRAWNS",
+     "0.921787",
+     "5.720999",
+     "69.666667",
+     "338.580000",
+     "close_call",
+     null
+    ]
+   ]
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_02_own_IMG_5181.jpg",
+   "repeat": 1,
+   "run_id": "20261109-115035-d92de6",
+   "status": "done",
+   "seconds": 141.4,
+   "timings": {
+    "read_menu": 12.1,
+    "estimate_dishes": 128.4,
+    "compare_and_rank": 0.086,
+    "total": 140.6
+   },
+   "totals": {
+    "dishes_on_menu": 22,
+    "dishes_candidates": 16,
+    "dishes_selected": 16,
+    "dishes_evaluated": 15,
+    "dishes_ranked": 9,
+    "dishes_unranked": 6,
+    "dishes_no_recipes": 1,
+    "dishes_error": 0,
+    "dishes_excluded": 6,
+    "dishes_skipped": 0,
+    "dishes_budget_stopped": 0,
+    "search_credits": 0,
+    "llm_calls": 15,
+    "llm_cost_usd": "0.036832",
+    "llm_cost_usd_actual": "0.036832",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 1,
+    "pages_fetched": 192,
+    "rate_limit_waits": 14,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 0,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.036832",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.036832",
+    "model_calls": 15,
+    "model_calls_priced_by_provider": 15,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 15275,
+    "completion_tokens": 6767,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 0,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "0.1436",
+     "search_credits": 1,
+     "runs": 4
+    },
+    "daily_after_this_run": {
+     "model_usd": "0.1805",
+     "search_credits": 1
+    },
+    "interruptions": [],
+    "topups": 6
+   },
+   "ranking": [
+    [
+     1,
+     "Bowl of polenta with mascarpone or Parmigiano-Reggiano",
+     "1.173336",
+     "12.547161",
+     "close_call"
+    ],
+    [
+     2,
+     "Zuni Caesar salad‡",
+     "1.952675",
+     "7.970537",
+     "close_call"
+    ],
+    [
+     3,
+     "Garden lettuce salad with Sungold tomatoes, Alpha Tolman cheese, chapons, and passion fruit vinaigrette",
+     "1.278308",
+     "21.077311",
+     "close_call"
+    ],
+    [
+     4,
+     "Spaghetti with Gulf shrimp, heirloom tomatoes, basil, garlic, Espelette pepper, and brandy",
+     "0.776288",
+     "14.506263",
+     "close_call"
+    ],
+    [
+     5,
+     "Yellowfin tuna‡ grilled rare all’acqua di mare with Manila clams, mussels, sprouting cauliflower, string beans, a slow-cooked Early Girl tomato, and aïoli‡",
+     "3.298238",
+     "12.755077",
+     "tentative"
+    ],
+    [
+     6,
+     "Stemple Creek Ranch ribeye steak",
+     "11.222860",
+     "33.155859",
+     "well_supported"
+    ],
+    [
+     7,
+     "Marinated olives",
+     "1.287029",
+     "3.910176",
+     "close_call"
+    ],
+    [
+     8,
+     "Wood fire-roasted tomato and eggplant soup with mint, Urfa pepper, and charmoula",
+     "1.181953",
+     "5.215585",
+     "close_call"
+    ],
+    [
+     9,
+     "Shoestring potatoes",
+     "1.8924",
+     "4.1334",
+     "close_call"
+    ]
+   ],
+   "unranked": [
+    [
+     "House-cured anchovies with celery, Parmigiano-Reggiano, and coquillo olives",
+     "the estimate has no upper bound: 2 of 2 recipes have no upper bound (exau.substack.com: fresh anchovies (as_used_not_acc"
+    ],
+    [
+     "Fuyu persimmon and roasted beet “carpaccio” with Laychee goat cheese, tender herbs, and Meyer lemon-pistachio aïllade",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "Pizza with Wagon Wheel cheese, soppressata, wild nettles, red onion, and Boont Corners sheep cheese",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (epicurious.com: purchased fully baked thin pizza cr"
+    ],
+    [
+     "Steak frites: Stemple Creek Ranch bavette steak with pommes frites, Padrón peppers, avocado, and chimichurri",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (cooking.nytimes.com: steak-cut frozen fries (prepar"
+    ],
+    [
+     "Chicken for two roasted in the wood-fired brick oven; warm bread salad with scallions, garlic, bitter greens, dried currants, and pine nuts (approximately 75 minutes)",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (today.com: generous 8 ounces slightly stale open-cr"
+    ],
+    [
+     "Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli‡ and Zuni pickles",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "Among the 9 dishes I could estimate (16 tried; 7 had no usable estimate), lowest saturated fat first: 1) Bowl of polenta, most plates about 2.1-7.3 g saturated fat per plate; 2) Zuni Caesar salad, most plates 2.3-5.6 g; 3) Garden lettuce salad, most plates 1.7-12 g. These ranges overlap, so treat the order as a toss-up. Bowl of polenta cholesterol about 9-33 mg. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 1,
+    "remaining_before": 3596,
+    "remaining_after": 3596,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 1204,
+    "store_misses": 5,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 0
+   },
+   "flags": [],
+   "words": 75,
+   "menu_items": 22,
+   "dish_status": {
+    "Marinated olives": [
+     "evaluated",
+     "snack_bowl",
+     4,
+     8,
+     6.6
+    ],
+    "Acme levain bread with butter": [
+     "no_recipes",
+     "side_bread",
+     0,
+     0,
+     2.9
+    ],
+    "Shoestring potatoes": [
+     "evaluated",
+     "fried_potato_side",
+     4,
+     4,
+     6.5
+    ],
+    "House-cured anchovies with celery, Parmigiano-Reggiano, and coquillo olives": [
+     "evaluated",
+     "fish_starter",
+     3,
+     3,
+     6.6
+    ],
+    "Fuyu persimmon and roasted beet “carpaccio” with Laychee goat cheese, tender herbs, and Meyer lemon-pistachio aïllade": [
+     "evaluated",
+     "crudo_starter",
+     3,
+     0,
+     80.2
+    ],
+    "Zuni Caesar salad‡": [
+     "evaluated",
+     "leaf_salad_starter",
+     4,
+     4,
+     6.4
+    ],
+    "Garden lettuce salad with Sungold tomatoes, Alpha Tolman cheese, chapons, and passion fruit vinaigrette": [
+     "evaluated",
+     "leaf_salad_starter",
+     6,
+     5,
+     6.4
+    ],
+    "Bowl of polenta with mascarpone or Parmigiano-Reggiano": [
+     "evaluated",
+     "vegetable_starter",
+     5,
+     4,
+     10.5
+    ],
+    "Wood fire-roasted tomato and eggplant soup with mint, Urfa pepper, and charmoula": [
+     "evaluated",
+     "soup",
+     5,
+     3,
+     0.7
+    ],
+    "Pizza with Wagon Wheel cheese, soppressata, wild nettles, red onion, and Boont Corners sheep cheese": [
+     "evaluated",
+     "pizza_neapolitan",
+     5,
+     5,
+     9.8
+    ],
+    "Spaghetti with Gulf shrimp, heirloom tomatoes, basil, garlic, Espelette pepper, and brandy": [
+     "evaluated",
+     "pasta_main",
+     6,
+     5,
+     20.3
+    ],
+    "Yellowfin tuna‡ grilled rare all’acqua di mare with Manila clams, mussels, sprouting cauliflower, string beans, a slow-cooked Early Girl tomato, and aïoli‡": [
+     "evaluated",
+     "fish_main",
+     2,
+     3,
+     5.4
+    ],
+    "Steak frites: Stemple Creek Ranch bavette steak with pommes frites, Padrón peppers, avocado, and chimichurri": [
+     "evaluated",
+     "meat_main",
+     5,
+     2,
+     0.1
+    ],
+    "Stemple Creek Ranch ribeye steak": [
+     "evaluated",
+     "meat_main",
+     3,
+     3,
+     0.7
+    ],
+    "Chicken for two roasted in the wood-fired brick oven; warm bread salad with scallions, garlic, bitter greens, dried currants, and pine nuts (approximately 75 minutes)": [
+     "evaluated",
+     "meat_main",
+     4,
+     7,
+     95.6
+    ],
+    "Stemple Creek Ranch grass-fed hamburger on rosemary focaccia with aïoli‡ and Zuni pickles": [
+     "evaluated",
+     "burger",
+     1,
+     0,
+     0.1
+    ],
+    "Shelburne Farms cheddar cheese": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Bayley Hazen blue cheese": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "grilled onion": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "fried egg": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "bacon": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "heirloom tomato": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "Bowl of polenta with mascarpone or Parmigiano-Reggiano",
+     "1.173336",
+     "12.547161",
+     "5.534707",
+     "58.992989",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "Zuni Caesar salad‡",
+     "1.952675",
+     "7.970537",
+     "24.215525",
+     "122.255131",
+     "close_call",
+     null
+    ],
+    [
+     3,
+     "Garden lettuce salad with Sungold tomatoes, Alpha Tolman cheese, chapons, and passion fruit vinaigrette",
+     "1.278308",
+     "21.077311",
+     "1.062353",
+     "62.947140",
+     "close_call",
+     null
+    ]
+   ]
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_04_own_IMG_5186.jpg",
+   "repeat": 1,
+   "run_id": "20261109-122646-031019",
+   "status": "done",
+   "seconds": 150.0,
+   "timings": {
+    "read_menu": 6.9,
+    "estimate_dishes": 141.0,
+    "compare_and_rank": 0.003,
+    "total": 149.9
+   },
+   "totals": {
+    "dishes_on_menu": 8,
+    "dishes_candidates": 6,
+    "dishes_selected": 6,
+    "dishes_evaluated": 5,
+    "dishes_ranked": 1,
+    "dishes_unranked": 5,
+    "dishes_no_recipes": 0,
+    "dishes_error": 0,
+    "dishes_excluded": 2,
+    "dishes_skipped": 0,
+    "dishes_budget_stopped": 0,
+    "search_credits": 3,
+    "llm_calls": 38,
+    "llm_cost_usd": "0.135520",
+    "llm_cost_usd_actual": "0.135520",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 9,
+    "pages_fetched": 72,
+    "rate_limit_waits": 29,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 1,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.135520",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.135520",
+    "model_calls": 38,
+    "model_calls_priced_by_provider": 38,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 51433,
+    "completion_tokens": 25852,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 3,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "0.1805",
+     "search_credits": 1,
+     "runs": 5
+    },
+    "daily_after_this_run": {
+     "model_usd": "0.3160",
+     "search_credits": 4
+    },
+    "interruptions": [],
+    "topups": 3
+   },
+   "ranking": [
+    [
+     1,
+     "BLUEFIN CRUDO",
+     "0.828445",
+     "11.30856355555555555555555556",
+     "only_estimate"
+    ]
+   ],
+   "unranked": [
+    [
+     "TALEGGIO SCARPINOCC",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (qbcucina.com: aceto balsamico (missing_grams))"
+    ],
+    [
+     "STROZZAPRETI",
+     "the estimate has no upper bound: 2 of 2 recipes have no upper bound (christinascucina.com: chanterelle (missing_grams), "
+    ],
+    [
+     "TORTELLINI IN BRODO",
+     "the estimate has no upper bound: 3 of 3 recipes have no upper bound (2sistersrecipes.com: ham hock (missing_grams), shel"
+    ],
+    [
+     "CHOCOLATE BUDINO",
+     "the estimate has no upper bound: 3 of 3 recipes have no upper bound (smittenkitchen.com: espresso-caramel crema (missing"
+    ],
+    [
+     "PORK BELLY",
+     "our estimate disagrees with published figures for this kind of dish"
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "Among the 1 dish I could estimate (6 tried; 5 had no usable estimate), lowest saturated fat first: 1) Bluefin Crudo, most plates about 1.1-12 g saturated fat per plate. It's the only dish I could estimate, so this is one figure, not a ranking. Bluefin Crudo cholesterol about 46-102 mg, the top end from bottarga (an estimate). Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 9,
+    "remaining_before": 3596,
+    "remaining_after": 3588,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 1390,
+    "store_misses": 14,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 1
+   },
+   "flags": [
+    {
+     "recorded_at": "2026-11-09T12:31:15+00:00",
+     "status": "open",
+     "run": "20261109-122646-031019",
+     "menu": "menu_04_own_IMG_5186.jpg",
+     "dish": "PORK BELLY",
+     "dish_type": "meat_main",
+     "card": "PR07",
+     "comparison": "per_plate",
+     "roli_middle": "66.238",
+     "published_low": "2.0",
+     "published_high": "32.0",
+     "direction": "above",
+     "independent_figures": 64,
+     "top_contributors": [
+      {
+       "line": "pork belly",
+       "sat_fat_g": "42.43",
+       "share_of_middle": "0.64"
+      },
+      {
+       "line": "unsalted butter",
+       "sat_fat_g": "15.39",
+       "share_of_middle": "0.23"
+      },
+      {
+       "line": "clarified butter",
+       "sat_fat_g": "3.66",
+       "share_of_middle": "0.06"
+      }
+     ]
+    }
+   ],
+   "words": 69,
+   "menu_items": 8,
+   "dish_status": {
+    "BLUEFIN CRUDO": [
+     "evaluated",
+     "crudo_starter",
+     4,
+     6,
+     25.1
+    ],
+    "TALEGGIO SCARPINOCC": [
+     "evaluated",
+     "pasta_main",
+     4,
+     2,
+     16.6
+    ],
+    "STROZZAPRETI": [
+     "evaluated",
+     "pasta_main",
+     9,
+     4,
+     90.4
+    ],
+    "TORTELLINI IN BRODO": [
+     "evaluated",
+     "soup",
+     6,
+     4,
+     68.9
+    ],
+    "PORK BELLY": [
+     "flagged",
+     "meat_main",
+     5,
+     8,
+     47.1
+    ],
+    "CHOCOLATE BUDINO": [
+     "evaluated",
+     "dessert",
+     11,
+     4,
+     68.9
+    ],
+    "per person": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "optional wine pairing": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "BLUEFIN CRUDO",
+     "0.828445",
+     "11.30856355555555555555555556",
+     "31.160000",
+     "116.270000",
+     "only_estimate",
+     "bottarga (external evidence)"
+    ]
+   ]
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_05_ren_kitchen_uk_printed_long.jpg",
+   "repeat": 1,
+   "run_id": "20261109-123115-05f92a",
+   "status": "done",
+   "seconds": 572.7,
+   "timings": {
+    "read_menu": 107.2,
+    "estimate_dishes": 463.0,
+    "compare_and_rank": 0.016,
+    "total": 572.5
+   },
+   "totals": {
+    "dishes_on_menu": 54,
+    "dishes_candidates": 36,
+    "dishes_selected": 30,
+    "dishes_evaluated": 28,
+    "dishes_ranked": 16,
+    "dishes_unranked": 12,
+    "dishes_no_recipes": 2,
+    "dishes_error": 0,
+    "dishes_excluded": 18,
+    "dishes_skipped": 6,
+    "dishes_budget_stopped": 0,
+    "search_credits": 9,
+    "llm_calls": 121,
+    "llm_cost_usd": "0.391990",
+    "llm_cost_usd_actual": "0.391990",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 38,
+    "pages_fetched": 360,
+    "rate_limit_waits": 147,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 0,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.391990",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.391990",
+    "model_calls": 121,
+    "model_calls_priced_by_provider": 121,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 149343,
+    "completion_tokens": 74662,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 9,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "0.3160",
+     "search_credits": 4,
+     "runs": 6
+    },
+    "daily_after_this_run": {
+     "model_usd": "0.7080",
+     "search_credits": 13
+    },
+    "interruptions": [],
+    "topups": 8
+   },
+   "ranking": [
+    [
+     1,
+     "HOME MADE GRANOLA (VEGAN/SUGAR FREE)",
+     "0.604145",
+     "6.897990",
+     "close_call"
+    ],
+    [
+     2,
+     "SHAKSHUKA",
+     "1.058334",
+     "10.317411",
+     "close_call"
+    ],
+    [
+     3,
+     "VEGAN SAUSAGE ROLLS",
+     "0.828472",
+     "14.473627",
+     "close_call"
+    ],
+    [
+     4,
+     "GIANT SCOTCH EGGS",
+     "2.445244",
+     "16.243712",
+     "close_call"
+    ],
+    [
+     5,
+     "AVOCADO ON TOAST",
+     "2.631929",
+     "13.799742",
+     "close_call"
+    ],
+    [
+     6,
+     "PORK & ONION CHUTNEY SAUSAGE ROLLS",
+     "3.320313",
+     "29.113683",
+     "close_call"
+    ],
+    [
+     7,
+     "FRESHLY BAKED JACKETS",
+     "5.770276",
+     "17.351752",
+     "close_call"
+    ],
+    [
+     8,
+     "QUICHE OF THE DAY",
+     "5.274745",
+     "32.223963",
+     "close_call"
+    ],
+    [
+     9,
+     "EGGS BENEDICT",
+     "10.113188",
+     "47.516033",
+     "well_supported"
+    ],
+    [
+     10,
+     "CHUNKY CHIPS",
+     "0.389273",
+     "4.1334",
+     "close_call"
+    ],
+    [
+     11,
+     "CHEESY CHUNKY CHIPS",
+     "0.288568",
+     "4.1334",
+     "close_call"
+    ],
+    [
+     12,
+     "ONION RINGS",
+     "0.317",
+     "3.804",
+     "close_call"
+    ],
+    [
+     13,
+     "SWEET POTATO FRIES",
+     "0.299939",
+     "6.828698",
+     "close_call"
+    ],
+    [
+     14,
+     "GIANT CINNAMON BUN",
+     "6.105572",
+     "19.110693",
+     "close_call"
+    ],
+    [
+     15,
+     "FRUIT AND NUT FLAPJACK",
+     "3.493166",
+     "29.113816",
+     "close_call"
+    ],
+    [
+     16,
+     "CHOCOLATE BROWNIE",
+     "12.823052",
+     "27.070888",
+     "close_call"
+    ]
+   ],
+   "unranked": [
+    [
+     "REN'S FULL HOUSE",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "VEGGIE FULL HOUSE",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "VEGAN FULL HOUSE",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "HALLOUMI BURGER",
+     "no recipe of this dish could be portioned (no scenario could be portioned (5 without an applicable portion model))"
+    ],
+    [
+     "VEGAN CLASSIC",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "BHAJI BURGER",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "SAVOURY PASTRIES FROM",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "PULLED PORK",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (cooking.nytimes.com: Pulled pork with our own barbe"
+    ],
+    [
+     "JAMAICAN",
+     "no recipe of this dish could be portioned (no scenario could be portioned (2 without an applicable portion model))"
+    ],
+    [
+     "FRESHLY MADE SALAD",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (spoonfulofflavor.com: topped with any of our above "
+    ],
+    [
+     "FULLY LOADED 'DIRTY' CHIPS",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (thewickednoodle.com: crispy (preparation_unresolved"
+    ],
+    [
+     "HOMEMADE CAKES",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "Among the 16 dishes I could estimate (30 tried; 14 had no usable estimate; 6 not tried), lowest saturated fat first: 1) Home Made Granola, most plates about 0.7-6.4 g saturated fat per plate; 2) Shakshuka, most plates 1.6-6.8 g; 3) Vegan Sausage Rolls, most plates 1.5-9.0 g. These ranges overlap, so treat the order as a toss-up. Shakshuka may carry up to 426 mg cholesterol. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 38,
+    "remaining_before": 3588,
+    "remaining_after": 3557,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 1863,
+    "store_misses": 52,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 0
+   },
+   "flags": [],
+   "words": 77,
+   "menu_items": 54,
+   "dish_status": {
+    "REN'S FULL HOUSE": [
+     "evaluated",
+     "breakfast_eggs",
+     3,
+     0,
+     24.1
+    ],
+    "VEGGIE FULL HOUSE": [
+     "evaluated",
+     "breakfast_eggs",
+     1,
+     0,
+     20.5
+    ],
+    "VEGAN FULL HOUSE": [
+     "evaluated",
+     "breakfast_eggs",
+     3,
+     0,
+     30.4
+    ],
+    "ULTIMATE BREAKFAST SANDWICH": [
+     "skipped",
+     "sandwich",
+     0,
+     0,
+     0.0
+    ],
+    "EGGS BENEDICT": [
+     "evaluated",
+     "breakfast_eggs",
+     6,
+     5,
+     52.0
+    ],
+    "OMELETTE": [
+     "skipped",
+     "breakfast_eggs",
+     0,
+     0,
+     0.0
+    ],
+    "SHAKSHUKA": [
+     "evaluated",
+     "breakfast_eggs",
+     4,
+     6,
+     58.6
+    ],
+    "Add chorizo": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "AVOCADO ON TOAST": [
+     "evaluated",
+     "toast_plate",
+     6,
+     5,
+     60.6
+    ],
+    "Add smoked streaky bacon or poached eggs": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "BUTTERMILK WAFFLES/ VEGAN BANANA WAFFLES": [
+     "skipped",
+     "breakfast_pancakes",
+     0,
+     0,
+     0.0
+    ],
+    "HOME MADE GRANOLA (VEGAN/SUGAR FREE)": [
+     "evaluated",
+     "breakfast_cereal",
+     7,
+     4,
+     132.5
+    ],
+    "Smoked bacon, Sausage, Chorizo, Black pudding, Halloumi, Avocado, 2 Eggs": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Field mushroom, Tomato, Hash Brown, Beans": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "REN'S CLASSIC": [
+     "skipped",
+     "burger",
+     0,
+     0,
+     0.0
+    ],
+    "HALLOUMI BURGER": [
+     "evaluated",
+     "burger",
+     5,
+     0,
+     112.1
+    ],
+    "VEGAN CLASSIC": [
+     "evaluated",
+     "burger",
+     4,
+     0,
+     111.6
+    ],
+    "BHAJI BURGER": [
+     "evaluated",
+     "burger",
+     3,
+     0,
+     86.4
+    ],
+    "ANY BURGER WITH CHUNKY CHIPS AND CANNED DRINK": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "PORK & ONION CHUTNEY SAUSAGE ROLLS": [
+     "evaluated",
+     "vegetable_starter",
+     9,
+     6,
+     99.8
+    ],
+    "VEGAN SAUSAGE ROLLS": [
+     "evaluated",
+     "vegetable_starter",
+     7,
+     2,
+     66.6
+    ],
+    "GIANT SCOTCH EGGS": [
+     "evaluated",
+     "vegetable_starter",
+     6,
+     3,
+     38.3
+    ],
+    "QUICHE OF THE DAY": [
+     "evaluated",
+     "vegetable_starter",
+     7,
+     2,
+     47.1
+    ],
+    "SAVOURY PASTRIES FROM": [
+     "evaluated",
+     "vegetable_starter",
+     1,
+     0,
+     10.1
+    ],
+    "CALIFORNIAN": [
+     "skipped",
+     "sandwich",
+     0,
+     0,
+     0.0
+    ],
+    "PULLED PORK": [
+     "evaluated",
+     "sandwich",
+     8,
+     1,
+     61.3
+    ],
+    "JAMAICAN": [
+     "evaluated",
+     "sandwich",
+     2,
+     0,
+     14.7
+    ],
+    "MEDITERRANEAN": [
+     "no_recipes",
+     "sandwich",
+     0,
+     0,
+     8.2
+    ],
+    "PHILLY CHEESESTEAK: (NEW)": [
+     "skipped",
+     "sandwich",
+     0,
+     0,
+     0.0
+    ],
+    "DAILY SPECIAL (PLEASE ASK)": [
+     "no_recipes",
+     "sandwich",
+     0,
+     0,
+     3.5
+    ],
+    "FRESHLY MADE SALAD": [
+     "evaluated",
+     "leaf_salad_starter",
+     3,
+     1,
+     14.2
+    ],
+    "FRESHLY BAKED JACKETS": [
+     "evaluated",
+     "vegetable_starter",
+     5,
+     1,
+     69.9
+    ],
+    "CHUNKY CHIPS": [
+     "evaluated",
+     "fried_potato_side",
+     4,
+     5,
+     12.3
+    ],
+    "CHEESY CHUNKY CHIPS": [
+     "evaluated",
+     "fried_potato_side",
+     8,
+     1,
+     25.1
+    ],
+    "FULLY LOADED 'DIRTY' CHIPS": [
+     "evaluated",
+     "fried_potato_side",
+     4,
+     1,
+     40.5
+    ],
+    "ONION RINGS": [
+     "evaluated",
+     "side_vegetable",
+     5,
+     4,
+     5.1
+    ],
+    "SWEET POTATO FRIES": [
+     "evaluated",
+     "fried_potato_side",
+     4,
+     4,
+     39.5
+    ],
+    "HOMEMADE CAKES": [
+     "evaluated",
+     "dessert",
+     1,
+     0,
+     25.7
+    ],
+    "CHOCOLATE BROWNIE": [
+     "evaluated",
+     "dessert",
+     2,
+     1,
+     16.8
+    ],
+    "FRUIT AND NUT FLAPJACK": [
+     "evaluated",
+     "dessert",
+     4,
+     5,
+     14.2
+    ],
+    "GIANT CINNAMON BUN": [
+     "evaluated",
+     "dessert",
+     5,
+     5,
+     34.4
+    ],
+    "CAPPUCCINO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "LATTE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "AMERICANO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "ESPRESSO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "HOT CHOCOLATE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "FILTER": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "TEA": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "FRESH JUICES": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "shot of spirulina": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "FRESH SMOOTHIES": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "scoop of vegan protein": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CANNED DRINKS": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "BOTTLED WATER": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "HOME MADE GRANOLA (VEGAN/SUGAR FREE)",
+     "0.604145",
+     "6.897990",
+     "0.000000",
+     "0.000000",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "SHAKSHUKA",
+     "1.058334",
+     "10.317411",
+     "65.068578",
+     "554.797352",
+     "close_call",
+     null
+    ],
+    [
+     3,
+     "VEGAN SAUSAGE ROLLS",
+     "0.828472",
+     "14.473627",
+     "0.000000",
+     "1.078568308050408069066283607",
+     "close_call",
+     "unsweetened non-dairy milk (external evidence)"
+    ]
+   ]
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_06_pizzaface_uk_printed_spread.jpg",
+   "repeat": 1,
+   "run_id": "20261109-132000-d312ec",
+   "status": "done",
+   "seconds": 207.1,
+   "timings": {
+    "read_menu": 33.7,
+    "estimate_dishes": 173.3,
+    "compare_and_rank": 0.023,
+    "total": 207.0
+   },
+   "totals": {
+    "dishes_on_menu": 90,
+    "dishes_candidates": 46,
+    "dishes_selected": 30,
+    "dishes_evaluated": 18,
+    "dishes_ranked": 9,
+    "dishes_unranked": 11,
+    "dishes_no_recipes": 10,
+    "dishes_error": 0,
+    "dishes_excluded": 44,
+    "dishes_skipped": 16,
+    "dishes_budget_stopped": 0,
+    "search_credits": 8,
+    "llm_calls": 48,
+    "llm_cost_usd": "0.177845",
+    "llm_cost_usd_actual": "0.177845",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 0,
+    "pages_fetched": 360,
+    "rate_limit_waits": 169,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 2,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.177845",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.177845",
+    "model_calls": 48,
+    "model_calls_priced_by_provider": 48,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 74152,
+    "completion_tokens": 32595,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 8,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "0.7080",
+     "search_credits": 13,
+     "runs": 7
+    },
+    "daily_after_this_run": {
+     "model_usd": "0.8858",
+     "search_credits": 21
+    },
+    "interruptions": [],
+    "topups": 8
+   },
+   "ranking": [
+    [
+     1,
+     "GREEK SALAD",
+     "2.338868",
+     "12.379383",
+     "close_call"
+    ],
+    [
+     2,
+     "GARDEN SALAD",
+     "2.509838",
+     "16.000056",
+     "close_call"
+    ],
+    [
+     3,
+     "GOATS CHEESE SALAD",
+     "5.948343",
+     "40.88133987320652486719656829",
+     "close_call"
+    ],
+    [
+     4,
+     "MARGHERITA",
+     "5.460594",
+     "68.414901",
+     "well_supported"
+    ],
+    [
+     5,
+     "Marinara sauce (vgn)",
+     "0.525411",
+     "2.906230",
+     "tentative"
+    ],
+    [
+     6,
+     "Almond pesto (vgn)",
+     "3.089331",
+     "16.438679",
+     "close_call"
+    ],
+    [
+     7,
+     "Garlic mayo",
+     "2.383624",
+     "17.683484",
+     "close_call"
+    ],
+    [
+     8,
+     "Garlic oil (vgn)",
+     "3.825808",
+     "19.957963",
+     "close_call"
+    ],
+    [
+     9,
+     "GARLIC BREAD",
+     "6.311141",
+     "25.721560",
+     "tentative"
+    ]
+   ],
+   "unranked": [
+    [
+     "FUNGHI",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (ohmydish.com: recipes for pizza dough (missing_fdc_"
+    ],
+    [
+     "NAPOLI",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (italianfoodforever.com: anchovies (as_used_not_acce"
+    ],
+    [
+     "COLESLAW",
+     "the estimate has no upper bound: 2 of 2 recipes have no upper bound (inspiredtaste.net: With herbs (missing_grams), yogh"
+    ],
+    [
+     "STICKS & DIP",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "OLIVES",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "'N'DUJA SALAD",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "Garlic butter",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "Sundried tomato (vgn)",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "BBQ sauce (vgn)",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "GARLIC BREAD WITH CHEESE",
+     "our estimate disagrees with published figures for this kind of dish"
+    ],
+    [
+     "PARMA SALAD",
+     "our estimate disagrees with published figures for this kind of dish"
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "Among the 9 dishes I could estimate (30 tried; 21 had no usable estimate; 16 not tried), lowest saturated fat first: 1) Greek Salad, most plates about 3.6-7.4 g saturated fat per plate; 2) Garden Salad, most plates 3.5-11 g; 3) Goats Cheese Salad, most plates 8.1-24 g. These ranges overlap, so treat the order as a toss-up. Greek Salad cholesterol about 3-22 mg. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 0,
+    "remaining_before": 3557,
+    "remaining_after": 3557,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 1942,
+    "store_misses": 52,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 2
+   },
+   "flags": [
+    {
+     "recorded_at": "2026-11-09T13:24:47+00:00",
+     "status": "closed",
+     "run": "20261109-132000-d312ec",
+     "menu": "menu_06_pizzaface_uk_printed_spread.jpg",
+     "dish": "MARGHERITA",
+     "card": "PR01",
+     "note": "every check that may flag now passes: per_plate 31.532 vs 2.5-21.2"
+    },
+    {
+     "recorded_at": "2026-11-09T13:24:47+00:00",
+     "status": "closed",
+     "run": "20261109-132000-d312ec",
+     "menu": "menu_06_pizzaface_uk_printed_spread.jpg",
+     "dish": "GARLIC BREAD",
+     "card": "PR31",
+     "note": "every check that may flag now passes: per_plate 12.229 vs 0.0-10.0; per_100g 10.671 vs 0.0-10.0"
+    },
+    {
+     "recorded_at": "2026-11-09T13:24:47+00:00",
+     "status": "open",
+     "run": "20261109-132000-d312ec",
+     "menu": "menu_06_pizzaface_uk_printed_spread.jpg",
+     "dish": "GARLIC BREAD WITH CHEESE",
+     "dish_type": "side_bread",
+     "card": "PR31",
+     "comparison": "per_plate",
+     "roli_middle": "15.132",
+     "published_low": "0.0",
+     "published_high": "10.0",
+     "direction": "above",
+     "independent_figures": 64,
+     "top_contributors": [
+      {
+       "line": "whole-wheat baguette / salted butter",
+       "sat_fat_g": "9.09",
+       "share_of_middle": "0.40"
+      },
+      {
+       "line": "shredded reduced-fat mozzarella / Add mozzarella or goats cheese. Vgn garlic bread w/vgn cheese.",
+       "sat_fat_g": "7.39",
+       "share_of_middle": "0.33"
+      },
+      {
+       "line": "grated parmigiano-reggiano cheese / low-moisture shredded mozzarella",
+       "sat_fat_g": "3.26",
+       "share_of_middle": "0.14"
+      }
+     ]
+    },
+    {
+     "recorded_at": "2026-11-09T13:24:47+00:00",
+     "status": "closed",
+     "run": "20261109-132000-d312ec",
+     "menu": "menu_06_pizzaface_uk_printed_spread.jpg",
+     "dish": "GOATS CHEESE SALAD",
+     "card": "PR04",
+     "note": "every check that may flag now passes: per_plate 12.513 vs 0.0-10.0; per_100g 5.534 vs 1.0-3.8"
+    },
+    {
+     "recorded_at": "2026-11-09T13:24:47+00:00",
+     "status": "open",
+     "run": "20261109-132000-d312ec",
+     "menu": "menu_06_pizzaface_uk_printed_spread.jpg",
+     "dish": "PARMA SALAD",
+     "dish_type": "leaf_salad_starter",
+     "card": "PR04",
+     "comparison": "per_100g",
+     "roli_middle": "5.851",
+     "published_low": "1.0",
+     "published_high": "3.8",
+     "direction": "above",
+     "independent_figures": 16,
+     "top_contributors": [
+      {
+       "line": "chopped lettuce / mozzarella cheese",
+       "sat_fat_g": "9.60",
+       "share_of_middle": "0.52"
+      },
+      {
+       "line": "italian seasoning blend / dressing",
+       "sat_fat_g": "2.05",
+       "share_of_middle": "0.11"
+      },
+      {
+       "line": "white wine vinegar / Parmesan",
+       "sat_fat_g": "1.92",
+       "share_of_middle": "0.11"
+      }
+     ]
+    }
+   ],
+   "words": 75,
+   "menu_items": 90,
+   "dish_status": {
+    "WHOLEGRAIN SPELT BASE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "BASE MADE WITH NON GLUTEN FLOUR": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "VESUVIUS": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "ALBORE": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "WILD": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "PARMA": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "MEATHEAD": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "JAKUB": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "THEODORA": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "HAM & PINEAPPLE": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "BBQ BILLY": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "MARGHERITA": [
+     "evaluated",
+     "pizza_neapolitan",
+     4,
+     4,
+     17.3
+    ],
+    "NADINE": [
+     "no_recipes",
+     "pizza_neapolitan",
+     0,
+     0,
+     18.3
+    ],
+    "NUTSMAN": [
+     "no_recipes",
+     "pizza_neapolitan",
+     0,
+     0,
+     12.7
+    ],
+    "JOHNNO": [
+     "no_recipes",
+     "pizza_neapolitan",
+     0,
+     0,
+     7.1
+    ],
+    "ALMONDA": [
+     "no_recipes",
+     "pizza_neapolitan",
+     0,
+     0,
+     44.7
+    ],
+    "FUNGHI": [
+     "evaluated",
+     "pizza_neapolitan",
+     1,
+     2,
+     48.3
+    ],
+    "HOLY CHEESES": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "NAPOLI": [
+     "evaluated",
+     "pizza_neapolitan",
+     4,
+     6,
+     15.5
+    ],
+    "FUMO": [
+     "no_recipes",
+     "pizza_neapolitan",
+     0,
+     0,
+     46.6
+    ],
+    "ART/BEETS": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "ZEPHANIAH": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "OZZY 2.0": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "NUTRIEL": [
+     "no_recipes",
+     "pizza_neapolitan",
+     0,
+     0,
+     19.6
+    ],
+    "THOM NUT": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "NDUJA WANNA": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "THE MOBY": [
+     "skipped",
+     "pizza_neapolitan",
+     0,
+     0,
+     0.0
+    ],
+    "MATTO": [
+     "no_recipes",
+     "pizza_neapolitan",
+     0,
+     0,
+     20.8
+    ],
+    "Proscuitto ham": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Smoked pancetta": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Pork & wild boar salami": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Chorizo": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Pepperoni": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Truffle oil": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Anchovies": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Vegan sour cream": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Vegan sausage*": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Vegan Nduja": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Vegan pepperoni*": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Dolcelatte blue cheese": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Extra mozzarella": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Feta": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Parmesan": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Almond Pesto (vgn)": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Mascarpone": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Goats cheese": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Extra vegan cheese": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Free range Egg": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Artichokes": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Beetroot 'pepperoni'": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Caramelised onions": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Field Mushrooms": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Mixed wild mushrooms": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Spinach": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Sun-dried tomatoes": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Olives": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Peppers": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Pineapple": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Almonds": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Red onions": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Rocket": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Basil": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Chipotle chilli": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fresh & dried chillies": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Ghost chilli": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Garlic": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Oregano": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Rosemary": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "KIDS MEAL": [
+     "no_recipes",
+     "kids_dish",
+     0,
+     0,
+     0.1
+    ],
+    "COLESLAW": [
+     "evaluated",
+     "side_vegetable",
+     2,
+     4,
+     11.7
+    ],
+    "STICKS & DIP": [
+     "evaluated",
+     "side_bread",
+     1,
+     0,
+     10.2
+    ],
+    "OLIVES": [
+     "evaluated",
+     "snack_bowl",
+     1,
+     0,
+     10.3
+    ],
+    "GARLIC BREAD": [
+     "evaluated",
+     "side_bread",
+     2,
+     4,
+     8.2
+    ],
+    "GARLIC BREAD WITH CHEESE": [
+     "flagged",
+     "side_bread",
+     4,
+     4,
+     39.2
+    ],
+    "GARDEN SALAD": [
+     "evaluated",
+     "leaf_salad_starter",
+     4,
+     7,
+     18.1
+    ],
+    "GREEK SALAD": [
+     "evaluated",
+     "vegetable_starter",
+     4,
+     5,
+     12.4
+    ],
+    "'N'DUJA SALAD": [
+     "evaluated",
+     "leaf_salad_starter",
+     1,
+     0,
+     12.5
+    ],
+    "GOATS CHEESE SALAD": [
+     "evaluated",
+     "leaf_salad_starter",
+     5,
+     6,
+     22.9
+    ],
+    "PARMA SALAD": [
+     "flagged",
+     "leaf_salad_starter",
+     3,
+     3,
+     19.3
+    ],
+    "CHARCUTERIE PLATTER": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CHARCUTERIE & CHEESE PLATTER": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Garlic butter": [
+     "evaluated",
+     "dip",
+     1,
+     0,
+     11.2
+    ],
+    "Garlic oil (vgn)": [
+     "evaluated",
+     "dip",
+     2,
+     1,
+     10.0
+    ],
+    "Garlic mayo": [
+     "evaluated",
+     "dip",
+     3,
+     2,
+     4.3
+    ],
+    "Marinara sauce (vgn)": [
+     "evaluated",
+     "dip",
+     1,
+     1,
+     9.8
+    ],
+    "Sundried tomato (vgn)": [
+     "evaluated",
+     "dip",
+     3,
+     0,
+     11.6
+    ],
+    "BBQ sauce (vgn)": [
+     "evaluated",
+     "dip",
+     1,
+     0,
+     4.3
+    ],
+    "Chilli jam (vgn)": [
+     "no_recipes",
+     "dip",
+     0,
+     0,
+     2.9
+    ],
+    "Chilli oil (vgn)": [
+     "no_recipes",
+     "dip",
+     0,
+     0,
+     0.4
+    ],
+    "Almond pesto (vgn)": [
+     "evaluated",
+     "dip",
+     4,
+     2,
+     18.7
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "GREEK SALAD",
+     "2.338868",
+     "12.379383",
+     "1.838841",
+     "42.915110",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "GARDEN SALAD",
+     "2.509838",
+     "16.000056",
+     "0.000000",
+     "12.120229",
+     "close_call",
+     null
+    ],
+    [
+     3,
+     "GOATS CHEESE SALAD",
+     "5.948343",
+     "40.88133987320652486719656829",
+     "14.005329",
+     "112.569343",
+     "close_call",
+     "egg (assumed amount)"
+    ]
+   ]
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_07_cafe_rust_uk_printed_kraft.jpg",
+   "repeat": 1,
+   "run_id": "20261109-132447-063aa3",
+   "status": "done",
+   "seconds": 20.4,
+   "timings": {
+    "read_menu": 17.7,
+    "estimate_dishes": 0.0,
+    "compare_and_rank": 0.001,
+    "total": 20.3
+   },
+   "totals": {
+    "dishes_on_menu": 45,
+    "dishes_candidates": 0,
+    "dishes_selected": 0,
+    "dishes_evaluated": 0,
+    "dishes_ranked": 0,
+    "dishes_unranked": 0,
+    "dishes_no_recipes": 0,
+    "dishes_error": 0,
+    "dishes_excluded": 45,
+    "dishes_skipped": 0,
+    "dishes_budget_stopped": 0,
+    "search_credits": 0,
+    "llm_calls": 2,
+    "llm_cost_usd": "0.014671",
+    "llm_cost_usd_actual": "0.014671",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 0,
+    "pages_fetched": 0,
+    "rate_limit_waits": 169,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 0,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.014671",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.014671",
+    "model_calls": 2,
+    "model_calls_priced_by_provider": 2,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 3886,
+    "completion_tokens": 3135,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 0,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "0.8858",
+     "search_credits": 21,
+     "runs": 8
+    },
+    "daily_after_this_run": {
+     "model_usd": "0.9005",
+     "search_credits": 21
+    },
+    "interruptions": [],
+    "topups": 0
+   },
+   "ranking": [],
+   "unranked": [],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "I found no food dishes on this menu, only drinks or extras. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 0,
+    "remaining_before": 3557,
+    "remaining_after": 3557,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 1942,
+    "store_misses": 52,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 0
+   },
+   "flags": [],
+   "words": 23,
+   "menu_items": 45,
+   "dish_status": {
+    "Espresso": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Americano/Long black": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Latté, Cappuccino, Flat White": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Macchiato/Cortado": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Mocha/Dirty Chai": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Chai Latté": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Matcha Latte": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Tumeric Latte": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Hot Chocolate": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "with marshmallows & whipped cream": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Babyccino": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Mug": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Pot for 1": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Pot for 2": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Lemon & Ginger / Mint": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Caramel, Vanilla, Hazelnut": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Oat milk": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Soya milk": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Coconut milk": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Iced Coffee": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Iced Mocha/Dirty Chai": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Iced Chai": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Iced Matcha": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fresh Juices": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Apple Juice": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Coca Cola/Diet Cola": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Appletizer": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fentamins": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Kombucha": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Still / Sparkling Water": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Bloody Mary single/double": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Virgin Bloody Mary": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Mimosa": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Elderflower Fizz": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Aperol Spritz": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Red Roaster Espresso Martini": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "House Prosecco": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Poynings Grange Blanc De Blanc": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "House Bottle Beer 330ml": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Local Craft Beer": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "House white wine": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "House red wine": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "House Rosé": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "House Spirit & mixer - single/double": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Premium spirit & mixer - single/double": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ]
+   },
+   "top3": []
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_09_the_shed_breakfast_uk_printed.jpg",
+   "repeat": 1,
+   "run_id": "20261109-132508-9e751e",
+   "status": "done",
+   "seconds": 183.1,
+   "timings": {
+    "read_menu": 6.5,
+    "estimate_dishes": 176.6,
+    "compare_and_rank": 0.004,
+    "total": 183.0
+   },
+   "totals": {
+    "dishes_on_menu": 14,
+    "dishes_candidates": 8,
+    "dishes_selected": 8,
+    "dishes_evaluated": 8,
+    "dishes_ranked": 2,
+    "dishes_unranked": 6,
+    "dishes_no_recipes": 0,
+    "dishes_error": 0,
+    "dishes_excluded": 6,
+    "dishes_skipped": 0,
+    "dishes_budget_stopped": 0,
+    "search_credits": 5,
+    "llm_calls": 49,
+    "llm_cost_usd": "0.122938",
+    "llm_cost_usd_actual": "0.122938",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 15,
+    "pages_fetched": 96,
+    "rate_limit_waits": 208,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 0,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.122938",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.122938",
+    "model_calls": 49,
+    "model_calls_priced_by_provider": 49,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 62383,
+    "completion_tokens": 20307,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 5,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "0.9005",
+     "search_credits": 21,
+     "runs": 9
+    },
+    "daily_after_this_run": {
+     "model_usd": "1.0234",
+     "search_credits": 26
+    },
+    "interruptions": [],
+    "topups": 6
+   },
+   "ranking": [
+    [
+     1,
+     "Baked Beans on Toast",
+     "0.178617",
+     "4.584199",
+     "close_call"
+    ],
+    [
+     2,
+     "Scrambled Eggs on Toast",
+     "1.618136",
+     "15.570555",
+     "well_supported"
+    ]
+   ],
+   "unranked": [
+    [
+     "Poached Eggs on Toast",
+     "the estimate has no upper bound: 3 of 3 recipes have no upper bound (cookincanuck.com: Malted or White Toast. (missing_g"
+    ],
+    [
+     "Scrambled Eggs on Toast",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (thegluttonlife.com: Malted or White Toast. (missing"
+    ],
+    [
+     "Bacon Sandwich",
+     "no recipe of this dish could be portioned (no scenario could be portioned (6 without an applicable portion model))"
+    ],
+    [
+     "Granola",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (loveandlemons.com: whole rolled oats (nutrient_not_"
+    ],
+    [
+     "Porridge",
+     "the estimate has no upper bound: 3 of 3 recipes have no upper bound (cheapandcheerfulcooking.com: Homemade Berry Compote"
+    ],
+    [
+     "Round of Toast",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (food.com: Malted or White Toast with Salted Butter."
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "I couldn't estimate a main dish on this menu (8 tried). Kids: Baked Beans on Toast, most plates 0.3-2.8 g. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 15,
+    "remaining_before": 3557,
+    "remaining_after": 3544,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 2015,
+    "store_misses": 67,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 0
+   },
+   "flags": [],
+   "words": 31,
+   "menu_items": 14,
+   "dish_status": {
+    "Poached Eggs on Toast": [
+     "evaluated",
+     "breakfast_eggs",
+     8,
+     3,
+     71.8
+    ],
+    "Scrambled Eggs on Toast": [
+     "evaluated",
+     "kids_dish",
+     8,
+     3,
+     64.1
+    ],
+    "Bacon Sandwich": [
+     "evaluated",
+     "sandwich",
+     6,
+     0,
+     24.3
+    ],
+    "Granola": [
+     "evaluated",
+     "breakfast_cereal",
+     5,
+     4,
+     14.2
+    ],
+    "Porridge": [
+     "evaluated",
+     "breakfast_cereal",
+     5,
+     3,
+     46.5
+    ],
+    "Round of Toast": [
+     "evaluated",
+     "toast_plate",
+     1,
+     2,
+     66.6
+    ],
+    "Baked Beans on Toast": [
+     "evaluated",
+     "kids_dish",
+     9,
+     3,
+     77.1
+    ],
+    "Harissa Tomatoes": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Avocado": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Soy Mushrooms": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Bacon": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fried Egg": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Poached Egg": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "Baked Beans on Toast",
+     "0.178617",
+     "4.584199",
+     "0.000000",
+     "None",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "Scrambled Eggs on Toast",
+     "1.618136",
+     "15.570555",
+     "149.081214",
+     "768.191288",
+     "well_supported",
+     "eggs (assumed amount)"
+    ]
+   ]
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_10_alexs_kitchen_indochinese_dense.jpg",
+   "repeat": 1,
+   "run_id": "20261109-133203-cf7a36",
+   "status": "done",
+   "seconds": 676.4,
+   "timings": {
+    "read_menu": 253.7,
+    "estimate_dishes": 422.4,
+    "compare_and_rank": 0.026,
+    "total": 676.2
+   },
+   "totals": {
+    "dishes_on_menu": 157,
+    "dishes_candidates": 150,
+    "dishes_selected": 30,
+    "dishes_evaluated": 30,
+    "dishes_ranked": 27,
+    "dishes_unranked": 3,
+    "dishes_no_recipes": 0,
+    "dishes_error": 0,
+    "dishes_excluded": 7,
+    "dishes_skipped": 120,
+    "dishes_budget_stopped": 0,
+    "search_credits": 4,
+    "llm_calls": 79,
+    "llm_cost_usd": "0.455966",
+    "llm_cost_usd_actual": "0.455966",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 7,
+    "pages_fetched": 359,
+    "rate_limit_waits": 243,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 0,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.455966",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.455966",
+    "model_calls": 79,
+    "model_calls_priced_by_provider": 79,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 116560,
+    "completion_tokens": 98279,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 4,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "1.0234",
+     "search_credits": 26,
+     "runs": 10
+    },
+    "daily_after_this_run": {
+     "model_usd": "1.4794",
+     "search_credits": 30
+    },
+    "interruptions": [],
+    "topups": 8
+   },
+   "ranking": [
+    [
+     1,
+     "Sichuan Veg. Soft Noodles",
+     "0.559679",
+     "5.956945",
+     "close_call"
+    ],
+    [
+     2,
+     "Finger Fish",
+     "1.251755",
+     "5.140372",
+     "close_call"
+    ],
+    [
+     3,
+     "Boiled Noodle with Hot Chicken",
+     "0.807570",
+     "3.945596",
+     "close_call"
+    ],
+    [
+     4,
+     "Chilly Fish",
+     "2.049401",
+     "4.455955",
+     "close_call"
+    ],
+    [
+     5,
+     "Boiled Noodle with Hot Veg",
+     "0.979974",
+     "5.003801",
+     "close_call"
+    ],
+    [
+     6,
+     "Soya-Bean Fish",
+     "2.685217",
+     "5.617726384615384615384615384",
+     "close_call"
+    ],
+    [
+     7,
+     "Veg Chilly Garlic Noodle",
+     "1.507966",
+     "6.162083",
+     "close_call"
+    ],
+    [
+     8,
+     "Chicken Mushroom with Baby Corn",
+     "2.498668",
+     "30.076157",
+     "close_call"
+    ],
+    [
+     9,
+     "Chicken Chilly Garlic Noodle",
+     "1.793771",
+     "8.147510",
+     "close_call"
+    ],
+    [
+     10,
+     "Sweet & Sour Fish",
+     "3.536040",
+     "10.638911",
+     "close_call"
+    ],
+    [
+     11,
+     "Sichuan Chicken Soft Noodle",
+     "0.561019",
+     "18.649252",
+     "well_supported"
+    ],
+    [
+     12,
+     "Tomato Soup",
+     "0.066771",
+     "9.075695",
+     "close_call"
+    ],
+    [
+     13,
+     "Vegetable Clear Soup",
+     "0.431130",
+     "0.875603",
+     "close_call"
+    ],
+    [
+     14,
+     "Vegetable Canton Soup",
+     "0.455619",
+     "0.8445920261753851010545903479",
+     "close_call"
+    ],
+    [
+     15,
+     "Vegetable Mushroom Soup",
+     "0.353630",
+     "6.470558",
+     "close_call"
+    ],
+    [
+     16,
+     "Vegetable Corn Soup",
+     "0.236107",
+     "1.547519",
+     "close_call"
+    ],
+    [
+     17,
+     "Plain Rice",
+     "0.052752",
+     "2.064010",
+     "close_call"
+    ],
+    [
+     18,
+     "Veg Chilly Garlic Rice",
+     "0.414599",
+     "2.840601",
+     "close_call"
+    ],
+    [
+     19,
+     "Hot Vegetable Rice",
+     "0.069576",
+     "3.960325",
+     "close_call"
+    ],
+    [
+     20,
+     "Vegetable Hot & Sour Soup",
+     "0.644070",
+     "1.415921",
+     "close_call"
+    ],
+    [
+     21,
+     "Chicken Chilly Garlic Rice",
+     "0.824693",
+     "4.158868",
+     "close_call"
+    ],
+    [
+     22,
+     "Vegetable Chow Rice",
+     "0.965826",
+     "4.584304",
+     "close_call"
+    ],
+    [
+     23,
+     "Chicken Chow Rice",
+     "0.491708",
+     "8.618127",
+     "close_call"
+    ],
+    [
+     24,
+     "Green Salad",
+     "0.676391",
+     "5.870711",
+     "close_call"
+    ],
+    [
+     25,
+     "Chicken Tomato Rice",
+     "1.609639",
+     "10.334272",
+     "close_call"
+    ],
+    [
+     26,
+     "Plain Corn Soup",
+     "2.274070",
+     "8.287351",
+     "close_call"
+    ],
+    [
+     27,
+     "Chicken Mushroom Soup",
+     "0.773854",
+     "21.971693",
+     "close_call"
+    ]
+   ],
+   "unranked": [
+    [
+     "Fish Chow Chow",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (foodnetwork.com: beaten eggs (missing_grams))"
+    ],
+    [
+     "Hot Garlic Fish",
+     "the estimate has no upper bound: 2 of 2 recipes have no upper bound (elephantsandthecoconuttrees.com: frying fat (the re"
+    ],
+    [
+     "Veg Hakka Noodle",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (ministryofcurry.com: noodles (preparation_unresolve"
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "Among the 27 dishes I could estimate (30 tried; 3 had no usable estimate; 120 not tried), lowest saturated fat first: 1) Sichuan Veg. Soft Noodles, most plates about 0.9-4.9 g saturated fat per plate; 2) Finger Fish, most plates 1.8-4.1 g; 3) Boiled Noodle, most plates 0.9-3.7 g. These ranges overlap, so treat the order as a toss-up. Finger Fish may carry up to 335 mg cholesterol. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 7,
+    "remaining_before": 3544,
+    "remaining_after": 3542,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 2302,
+    "store_misses": 74,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 0
+   },
+   "flags": [],
+   "words": 79,
+   "menu_items": 157,
+   "dish_status": {
+    "Vegetable Clear Soup": [
+     "evaluated",
+     "soup",
+     8,
+     4,
+     35.9
+    ],
+    "Plain Corn Soup": [
+     "evaluated",
+     "soup",
+     5,
+     4,
+     21.7
+    ],
+    "Vegetable Corn Soup": [
+     "evaluated",
+     "soup",
+     9,
+     6,
+     72.8
+    ],
+    "Tomato Soup": [
+     "evaluated",
+     "soup",
+     6,
+     4,
+     20.7
+    ],
+    "Vegetable Hot & Sour Soup": [
+     "evaluated",
+     "soup",
+     5,
+     7,
+     58.8
+    ],
+    "Vegetable Canton Soup": [
+     "evaluated",
+     "soup",
+     6,
+     3,
+     65.1
+    ],
+    "Vegetable Wanton Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable Noodle Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable Mushroom Soup": [
+     "evaluated",
+     "soup",
+     5,
+     4,
+     28.6
+    ],
+    "Vegetable Manchow Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Clear Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Egg Drop Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Corn Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Hot & Sour Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Canton Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Wanton Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Vegetable Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Mushroom Soup": [
+     "evaluated",
+     "soup",
+     6,
+     6,
+     16.7
+    ],
+    "Lung Fung Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Manchow Soup": [
+     "skipped",
+     "soup",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable Egg Fooyong": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Fooyong": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Fried Vegetable Wanton": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Corn Puff": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Crispy Corn": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Gobi Manchuria": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable Bullet": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable Spring Rolls": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Chilly Mushroom": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Egg Spring Rolls": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Prawn Spring Rolls": [
+     "skipped",
+     "fish_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Spring Rolls": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Mixed Spring Rolls": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Fried Chicken Wanton": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Spring Chicken": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Drumsticks": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Pepper Chicken": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Pakoda": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Veg Steam Momo": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Veg Fried Momo": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Steam Momo": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Fried Momo": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Green Salad": [
+     "evaluated",
+     "side_salad",
+     5,
+     3,
+     15.0
+    ],
+    "Vegetable Chow Chow": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable Sweet & Sour": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Chilli Vegetable": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Hot Garlic Vegetable": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable Manchuria": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable 65": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Ginger Vegetable": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Sichuan Vegetable": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Fried Crispy Veg. In Pickle Sauce": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Baby Corn Manchuria": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Chilli Baby Corn": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable with Cashewnut": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Veg. Mushroom Baby Corn": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Tofu manchuria (Chinese Paneer)": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Stir Fry Tofu With Mix Vegetable": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Mushroom Manchuria": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Chilli Paneer": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Diced Paneer": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Paneer 65": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Hot Garlic Sauce": [
+     "skipped",
+     "dip",
+     0,
+     0,
+     0.0
+    ],
+    "Manchurian Sauce": [
+     "skipped",
+     "dip",
+     0,
+     0,
+     0.0
+    ],
+    "Chilly Soya Sauce": [
+     "skipped",
+     "dip",
+     0,
+     0,
+     0.0
+    ],
+    "Sweet & Soya Sauce": [
+     "skipped",
+     "dip",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Chow Chow": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Onion Chicken": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Sweet Sour Chicken": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Hot & Sour Chicken": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Sweet & Garlic Chicken": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Hot Garlic Chicken": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Diced Chicken (Spicy)": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Chilly Chicken": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken in Pickle Sauce": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Manchuria": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Ginger Chicken": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken 65": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Lemon Chicken": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Sichuan Chicken": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Cashewnut": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Mushroom with Baby Corn": [
+     "evaluated",
+     "meat_main",
+     4,
+     4,
+     11.6
+    ],
+    "Chicken Tofu with Mix Veg": [
+     "skipped",
+     "meat_main",
+     0,
+     0,
+     0.0
+    ],
+    "Fried Fish": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Fish Chow Chow": [
+     "evaluated",
+     "fish_main",
+     1,
+     2,
+     8.7
+    ],
+    "Sweet & Sour Fish": [
+     "evaluated",
+     "fish_main",
+     4,
+     7,
+     38.2
+    ],
+    "Finger Fish": [
+     "evaluated",
+     "fish_main",
+     5,
+     8,
+     23.2
+    ],
+    "Hot Garlic Fish": [
+     "evaluated",
+     "fish_main",
+     2,
+     3,
+     17.1
+    ],
+    "Chilly Fish": [
+     "evaluated",
+     "fish_main",
+     5,
+     5,
+     61.9
+    ],
+    "Soya-Bean Fish": [
+     "evaluated",
+     "fish_main",
+     2,
+     2,
+     18.1
+    ],
+    "Fish Manchuria": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Fish in Pickle Sauce": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Ginger Fish": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Diced Fish (Spicy)": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Mandarin Fish": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Sichuan Fish": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Apollo Fish": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Pepper Fish": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Plain Soft or Fried Noodles": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable Soft or Fried Noodles": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable American Chop Suey": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable Chinese Chop Suey": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Boiled Noodle with Hot Veg": [
+     "evaluated",
+     "pasta_main",
+     5,
+     4,
+     18.8
+    ],
+    "Sichuan Veg. Soft Noodles": [
+     "evaluated",
+     "pasta_main",
+     6,
+     3,
+     16.7
+    ],
+    "Veg Chilly Garlic Noodle": [
+     "evaluated",
+     "pasta_main",
+     9,
+     3,
+     53.3
+    ],
+    "Veg Hakka Noodle": [
+     "evaluated",
+     "pasta_main",
+     5,
+     1,
+     29.6
+    ],
+    "Egg Soft or Fried Noodle": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Soft or Fried Noodle": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Prawn Soft or Fried Noodle": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Mixed Soft or Fried Noodle": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "American Chop Suey": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Chinese Chop Suey": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Sichuan Chicken Soft Noodle": [
+     "evaluated",
+     "pasta_main",
+     6,
+     7,
+     29.3
+    ],
+    "Chicken Chilly Garlic Noodle": [
+     "evaluated",
+     "pasta_main",
+     6,
+     1,
+     29.4
+    ],
+    "Boiled Noodle with Hot Chicken": [
+     "evaluated",
+     "pasta_main",
+     4,
+     1,
+     67.4
+    ],
+    "Boiled Noodle Diced Chicken": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Hakka Noodle": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Sichuan Mixed Noodle": [
+     "skipped",
+     "pasta_main",
+     0,
+     0,
+     0.0
+    ],
+    "Prawn Chips": [
+     "skipped",
+     "fish_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Sweet & Sour Prawn": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Prawn Chow Chow": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Hot Garlic Prawn": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Chilly Prawn": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Prawn Manchuria": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Pepper Prawn": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Ginger Prawn": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Sichuan Prawn": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Prawn Pakoda": [
+     "skipped",
+     "fish_starter",
+     0,
+     0,
+     0.0
+    ],
+    "Fried Prawn": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Golden Fried Prawn": [
+     "skipped",
+     "fish_main",
+     0,
+     0,
+     0.0
+    ],
+    "Plain Rice": [
+     "evaluated",
+     "side_rice",
+     5,
+     3,
+     33.7
+    ],
+    "Vegetable Fried Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Vegetable Chow Rice": [
+     "evaluated",
+     "side_rice",
+     4,
+     5,
+     55.9
+    ],
+    "Hot Vegetable Rice": [
+     "evaluated",
+     "side_rice",
+     7,
+     2,
+     36.0
+    ],
+    "Sichuan Veg. Fried Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Ginger Veg. Fried Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Veg Chilly Garlic Rice": [
+     "evaluated",
+     "side_rice",
+     5,
+     4,
+     20.7
+    ],
+    "Egg Fried Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Prawn Fried Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Fried Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Chicken Chilly Garlic Rice": [
+     "evaluated",
+     "side_rice",
+     5,
+     1,
+     128.3
+    ],
+    "Chicken Chow Rice": [
+     "evaluated",
+     "side_rice",
+     4,
+     7,
+     14.7
+    ],
+    "Chicken Tomato Rice": [
+     "evaluated",
+     "side_rice",
+     5,
+     6,
+     35.1
+    ],
+    "Sichuan Chicken Fried Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Ginger Chicken Fried Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Hot Chicken Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Diced Chicken Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Mixed Fried Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Mixed Sichuan Chow Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Sichuan Mixed Fried Rice": [
+     "skipped",
+     "side_rice",
+     0,
+     0,
+     0.0
+    ],
+    "Soda": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Soft Drink": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Orange Juice": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fresh Lime Water": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fresh Lime Soda": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Mineral Water": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Chinese Tea Perpot": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "Sichuan Veg. Soft Noodles",
+     "0.559679",
+     "5.956945",
+     "38.121568",
+     "179.169453",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "Finger Fish",
+     "1.251755",
+     "5.140372",
+     "84.240000",
+     "401.892000",
+     "close_call",
+     null
+    ],
+    [
+     3,
+     "Boiled Noodle with Hot Chicken",
+     "0.807570",
+     "3.945596",
+     "19.971335",
+     "None",
+     "close_call",
+     null
+    ]
+   ]
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_11_mothers_tacos_us_printed_dense.jpg",
+   "repeat": 1,
+   "run_id": "20261109-141509-b8801f",
+   "status": "done",
+   "seconds": 487.7,
+   "timings": {
+    "read_menu": 16.5,
+    "estimate_dishes": 471.0,
+    "compare_and_rank": 0.012,
+    "total": 487.6
+   },
+   "totals": {
+    "dishes_on_menu": 31,
+    "dishes_candidates": 28,
+    "dishes_selected": 28,
+    "dishes_evaluated": 21,
+    "dishes_ranked": 7,
+    "dishes_unranked": 15,
+    "dishes_no_recipes": 6,
+    "dishes_error": 0,
+    "dishes_excluded": 3,
+    "dishes_skipped": 0,
+    "dishes_budget_stopped": 0,
+    "search_credits": 8,
+    "llm_calls": 79,
+    "llm_cost_usd": "0.230724",
+    "llm_cost_usd_actual": "0.230724",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 23,
+    "pages_fetched": 335,
+    "rate_limit_waits": 263,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 1,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.230724",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.230724",
+    "model_calls": 79,
+    "model_calls_priced_by_provider": 79,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 98427,
+    "completion_tokens": 41841,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 8,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "1.4794",
+     "search_credits": 30,
+     "runs": 11
+    },
+    "daily_after_this_run": {
+     "model_usd": "1.7101",
+     "search_credits": 38
+    },
+    "interruptions": [],
+    "topups": 8
+   },
+   "ranking": [
+    [
+     1,
+     "CHILORIO",
+     "2.156198",
+     "3.341924",
+     "close_call"
+    ],
+    [
+     2,
+     "CHILORIO",
+     "1.249970",
+     "8.231577",
+     "close_call"
+    ],
+    [
+     3,
+     "CARNE ASADA",
+     "3.588290",
+     "6.450638",
+     "close_call"
+    ],
+    [
+     4,
+     "TORTILLAS & SALSA",
+     "0.014328",
+     "0.044315",
+     "tentative"
+    ],
+    [
+     5,
+     "BEANS",
+     "0.075528",
+     "0.379225",
+     "tentative"
+    ],
+    [
+     6,
+     "RED RICE",
+     "0.256383",
+     "3.162646",
+     "close_call"
+    ],
+    [
+     7,
+     "QUESADILLA",
+     "2.681225",
+     "11.732135",
+     "well_supported"
+    ]
+   ],
+   "unranked": [
+    [
+     "PASTOR",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "SUADERO",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "POLLO ASADO",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (carlsbadcravings.com: achiote paste (missing_fdc_id"
+    ],
+    [
+     "MUSHROOM",
+     "no recipe of this dish could be portioned (no scenario could be portioned (2 without an applicable portion model))"
+    ],
+    [
+     "JAMAICA",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "PURPLE POTATO",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "AVOCADO",
+     "no recipe of this dish could be portioned (no scenario could be portioned (2 without an applicable portion model))"
+    ],
+    [
+     "AL PASTOR",
+     "no recipe of this dish could be portioned (no scenario could be portioned (2 without an applicable portion model))"
+    ],
+    [
+     "SUADERO",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "MUSHROOM",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "CARNE ASADA",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "PAPAS FRITAS",
+     "the estimate has no upper bound: 2 of 2 recipes have no upper bound (batchrecipes.com: vegetable or peanut oil (missing_"
+    ],
+    [
+     "TACO MEAL",
+     "no recipe of this dish could be portioned (no scenario could be portioned (4 without an applicable portion model))"
+    ],
+    [
+     "POLLO ASADO",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "CARNE ASADA",
+     "our estimate disagrees with published figures for this kind of dish"
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "Among the 7 dishes I could estimate (28 tried; 21 had no usable estimate), lowest saturated fat first: 1) Chilorio, most plates about 2.2-3.2 g saturated fat per plate; 2) Chilorio, most plates 1.3-8.1 g; 3) Carne Asada, most plates 4.1-5.7 g. These ranges overlap, so treat the order as a toss-up. Chilorio cholesterol about 31-45 mg. Lightest side: Tortillas & Salsa, most plates 0.0-0.0 g. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 23,
+    "remaining_before": 3542,
+    "remaining_after": 3579,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 2480,
+    "store_misses": 96,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 1
+   },
+   "flags": [
+    {
+     "recorded_at": "2026-11-09T18:13:15+00:00",
+     "status": "open",
+     "run": "20261109-141509-b8801f",
+     "menu": "menu_11_mothers_tacos_us_printed_dense.jpg",
+     "dish": "CARNE ASADA",
+     "dish_type": "fried_potato_side",
+     "card": "PR12",
+     "comparison": "per_plate, per_100g",
+     "roli_middle": "16.879",
+     "published_low": "1.5",
+     "published_high": "11.0",
+     "direction": "above",
+     "independent_figures": 63,
+     "top_contributors": [
+      {
+       "line": "crema mexicana or sour cream",
+       "sat_fat_g": "9.16",
+       "share_of_middle": "0.54"
+      },
+      {
+       "line": "finely shredded sharp cheddar",
+       "sat_fat_g": "3.36",
+       "share_of_middle": "0.20"
+      },
+      {
+       "line": "cream cheese",
+       "sat_fat_g": "1.75",
+       "share_of_middle": "0.10"
+      }
+     ]
+    }
+   ],
+   "words": 77,
+   "menu_items": 31,
+   "dish_status": {
+    "PASTOR": [
+     "evaluated",
+     "taco",
+     4,
+     0,
+     144.3
+    ],
+    "SUADERO": [
+     "evaluated",
+     "quesadilla",
+     1,
+     0,
+     49.6
+    ],
+    "CHILORIO": [
+     "evaluated",
+     "quesadilla",
+     3,
+     1,
+     13.1
+    ],
+    "CARNE ASADA": [
+     "flagged",
+     "fried_potato_side",
+     6,
+     1,
+     151.0
+    ],
+    "POLLO ASADO": [
+     "evaluated",
+     "fried_potato_side",
+     3,
+     0,
+     86.2
+    ],
+    "PESCADO": [
+     "no_recipes",
+     "taco",
+     0,
+     0,
+     28.2
+    ],
+    "MUSHROOM": [
+     "evaluated",
+     "quesadilla",
+     3,
+     0,
+     41.8
+    ],
+    "JAMAICA": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "PURPLE POTATO": [
+     "evaluated",
+     "taco",
+     4,
+     0,
+     39.1
+    ],
+    "AVOCADO": [
+     "evaluated",
+     "taco",
+     2,
+     0,
+     10.3
+    ],
+    "AL PASTOR": [
+     "evaluated",
+     "quesadilla",
+     2,
+     0,
+     12.5
+    ],
+    "POLLO": [
+     "no_recipes",
+     "quesadilla",
+     0,
+     0,
+     0.4
+    ],
+    "BEANS": [
+     "evaluated",
+     "side_vegetable",
+     3,
+     1,
+     26.9
+    ],
+    "RED RICE": [
+     "evaluated",
+     "side_rice",
+     5,
+     5,
+     18.7
+    ],
+    "PAPAS FRITAS": [
+     "evaluated",
+     "fried_potato_side",
+     3,
+     2,
+     5.6
+    ],
+    "TORTILLAS & SALSA": [
+     "evaluated",
+     "side_bread",
+     3,
+     1,
+     6.7
+    ],
+    "QUESADILLA": [
+     "evaluated",
+     "kids_dish",
+     5,
+     1,
+     77.4
+    ],
+    "TACO MEAL": [
+     "evaluated",
+     "kids_dish",
+     4,
+     0,
+     74.4
+    ],
+    "HORCHATA": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "TAMARINDO": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "AL PASTOR O.G.": [
+     "no_recipes",
+     "fried_potato_side",
+     0,
+     0,
+     0.5
+    ],
+    "SUADERO DIRTY": [
+     "no_recipes",
+     "fried_potato_side",
+     0,
+     0,
+     0.1
+    ],
+    "VEGETARIAN": [
+     "no_recipes",
+     "fried_potato_side",
+     0,
+     0,
+     2.2
+    ],
+    "CHILORIO DIRTY": [
+     "no_recipes",
+     "fried_potato_side",
+     0,
+     0,
+     0.9
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "CHILORIO",
+     "2.156198",
+     "3.341924",
+     "30.338366",
+     "46.899889",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "CHILORIO",
+     "1.249970",
+     "8.231577",
+     "17.587458",
+     "115.520289",
+     "close_call",
+     null
+    ],
+    [
+     3,
+     "CARNE ASADA",
+     "3.588290",
+     "6.450638",
+     "64.707210",
+     "100.030470",
+     "close_call",
+     null
+    ]
+   ]
+  },
+  {
+   "photo": "menu_test_set/telegram_1280/menu_19_dwarf_grill_printed_card.jpg",
+   "repeat": 1,
+   "run_id": "20261109-181315-149a16",
+   "status": "done",
+   "seconds": 488.2,
+   "timings": {
+    "read_menu": 86.0,
+    "estimate_dishes": 399.4,
+    "compare_and_rank": 0.008,
+    "total": 488.1
+   },
+   "totals": {
+    "dishes_on_menu": 41,
+    "dishes_candidates": 28,
+    "dishes_selected": 28,
+    "dishes_evaluated": 20,
+    "dishes_ranked": 8,
+    "dishes_unranked": 12,
+    "dishes_no_recipes": 8,
+    "dishes_error": 0,
+    "dishes_excluded": 13,
+    "dishes_skipped": 0,
+    "dishes_budget_stopped": 0,
+    "search_credits": 8,
+    "llm_calls": 76,
+    "llm_cost_usd": "0.281380",
+    "llm_cost_usd_actual": "0.281380",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 35,
+    "pages_fetched": 334,
+    "rate_limit_waits": 297,
+    "rate_limit_retries": 0,
+    "dishes_flagged": 0,
+    "dishes_known_limit": 0,
+    "dishes_usda_unavailable": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.281380",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.281380",
+    "model_calls": 76,
+    "model_calls_priced_by_provider": 76,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 104399,
+    "completion_tokens": 54155,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 8,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "1.7101",
+     "search_credits": 38,
+     "runs": 12
+    },
+    "daily_after_this_run": {
+     "model_usd": "1.9915",
+     "search_credits": 46
+    },
+    "interruptions": [],
+    "topups": 8
+   },
+   "ranking": [
+    [
+     1,
+     "CHICKEN SALAD",
+     "1.366464",
+     "5.822847",
+     "close_call"
+    ],
+    [
+     2,
+     "LETTUCE AND TOMATO",
+     "1.366008",
+     "20.595709",
+     "close_call"
+    ],
+    [
+     3,
+     "BACON-TOMATO",
+     "2.599478",
+     "15.207119",
+     "close_call"
+    ],
+    [
+     4,
+     "DELUXE STEAK",
+     "5.510633",
+     "23.326005",
+     "close_call"
+    ],
+    [
+     5,
+     "Waffles",
+     "3.042019",
+     "20.76407465799363978028331888",
+     "close_call"
+    ],
+    [
+     6,
+     "BACON AND EGG",
+     "5.346612",
+     "35.876354",
+     "close_call"
+    ],
+    [
+     7,
+     "STEAK PLATE",
+     "11.941342",
+     "47.623930",
+     "well_supported"
+    ],
+    [
+     8,
+     "Shoestring Potatoes (Order)",
+     "1.8924",
+     "4.1334",
+     "close_call"
+    ]
+   ],
+   "unranked": [
+    [
+     "Buttered Toast with Jelly",
+     "no recipe of this dish could be portioned (no scenario could be portioned (2 without an applicable portion model))"
+    ],
+    [
+     "Doughnuts (Two)",
+     "no recipe of this dish could be portioned (no scenario could be portioned (5 without an applicable portion model))"
+    ],
+    [
+     "ICEBOX CHOCOLATE",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (kingarthurbaking.com: OUR HOMEMADE PIES (missing_gr"
+    ],
+    [
+     "HALF MOON PEACH",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (pinchofyum.com: OUR HOMEMADE PIES (missing_grams))"
+    ],
+    [
+     "HALF MOON APPLE",
+     "the estimate has no upper bound: 3 of 3 recipes have no upper bound (excitedfood.com: pie pastry (preparation_unresolved"
+    ],
+    [
+     "FRIED HAM",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "GRILLED CHEESE",
+     "no recipe of this dish could be portioned (no scenario could be portioned (6 without an applicable portion model))"
+    ],
+    [
+     "PIMENTO CHEESE",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (giftofhospitality.com: \"Fix-ed Our Style\" (missing_"
+    ],
+    [
+     "HAMBURGER STEAK PLATE",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (lecremedelacrumb.com: Two Hamburgers (missing_grams"
+    ],
+    [
+     "HAMBURGER",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (primaverakitchen.com: medium ground beef (preparati"
+    ],
+    [
+     "CHEESEBURGER",
+     "no recipe of this dish could be portioned (no scenario could be portioned (2 without an applicable portion model))"
+    ],
+    [
+     "No. 5",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (thekitchn.com: Golden Brown - Melted Butter - Maple"
+    ]
+   ],
+   "fat_lines": [],
+   "reading": "fresh",
+   "errors": [],
+   "recommendation": "Among the 8 dishes I could estimate (28 tried; 20 had no usable estimate), lowest saturated fat first: 1) Chicken Salad, most plates about 1.7-4.5 g saturated fat per plate; 2) Lettuce And Tomato, most plates 2.0-14 g; 3) Bacon-Tomato, most plates 4.7-12 g. These ranges overlap, so treat the order as a toss-up. Chicken Salad cholesterol about 73-198 mg. Lightest side: Shoestring Potatoes, most plates 2.1-3.9 g. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "usda": {
+    "requests": 35,
+    "remaining_before": 3579,
+    "remaining_after": 3565,
+    "limit": 3600,
+    "halted": false,
+    "reserve": 200,
+    "store_hits": 2649,
+    "store_misses": 131,
+    "release": {
+     "Foundation": {
+      "latest_publication_date": "2026-10-29",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     },
+     "Survey (FNDDS)": {
+      "latest_publication_date": "2024-10-31",
+      "checked_at": "2026-11-09T06:08:52+00:00"
+     }
+    },
+    "release_check": {
+     "checked_at": "2026-11-09T06:08:52+00:00",
+     "tables": {
+      "Foundation": {
+       "known": "2026-10-29",
+       "latest": "2026-10-29",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2779262,
+        "description": "Amaranth, flour, pre-gelatinized, organic"
+       }
+      },
+      "Survey (FNDDS)": {
+       "known": "2024-10-31",
+       "latest": "2024-10-31",
+       "new_release": false,
+       "error": null,
+       "example": {
+        "fdc_id": 2706337,
+        "description": "Abalone"
+       }
+      }
+     },
+     "requests": 2,
+     "new_release": false
+    },
+    "dishes_usda_unavailable": 0,
+    "dishes_flagged": 0
+   },
+   "flags": [],
+   "words": 79,
+   "menu_items": 41,
+   "dish_status": {
+    "OUR SPECIAL BLEND COFFEE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "FRESH ORANGE JUICE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Waffles": [
+     "evaluated",
+     "breakfast_pancakes",
+     11,
+     1,
+     214.4
+    ],
+    "Bacon, 3 Strips": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Sausage": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Ham": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Buttered Toast with Jelly": [
+     "evaluated",
+     "toast_plate",
+     2,
+     0,
+     10.4
+    ],
+    "Doughnuts (Two)": [
+     "evaluated",
+     "dessert",
+     5,
+     0,
+     64.7
+    ],
+    "Shoestring Potatoes (Order)": [
+     "evaluated",
+     "fried_potato_side",
+     4,
+     4,
+     6.8
+    ],
+    "Choice of Cereal, with Cream": [
+     "no_recipes",
+     "breakfast_cereal",
+     0,
+     0,
+     0.3
+    ],
+    "Coffee, Our Special Blend": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Iced Tea": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Coca-Cola": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Buttermilk": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Chocolate Milk": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Sweet Milk": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Fruit Juices": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Hot Chocolate": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "ICEBOX CHOCOLATE": [
+     "evaluated",
+     "dessert",
+     8,
+     1,
+     93.1
+    ],
+    "HALF MOON PEACH": [
+     "evaluated",
+     "dessert",
+     6,
+     1,
+     83.1
+    ],
+    "HALF MOON APPLE": [
+     "evaluated",
+     "dessert",
+     7,
+     5,
+     89.6
+    ],
+    "OTHER DELICIOUS BAKERY PIES": [
+     "no_recipes",
+     "dessert",
+     0,
+     0,
+     28.6
+    ],
+    "STEAK PLATE": [
+     "evaluated",
+     "meat_main",
+     4,
+     8,
+     18.0
+    ],
+    "BACON-TOMATO": [
+     "evaluated",
+     "sandwich",
+     7,
+     1,
+     32.6
+    ],
+    "DELUXE STEAK": [
+     "evaluated",
+     "sandwich",
+     7,
+     4,
+     19.0
+    ],
+    "BACON AND EGG": [
+     "evaluated",
+     "sandwich",
+     7,
+     4,
+     21.7
+    ],
+    "FRIED HAM": [
+     "evaluated",
+     "sandwich",
+     3,
+     0,
+     16.1
+    ],
+    "GRILLED CHEESE": [
+     "evaluated",
+     "sandwich",
+     6,
+     0,
+     12.8
+    ],
+    "LETTUCE AND TOMATO": [
+     "evaluated",
+     "sandwich",
+     6,
+     2,
+     18.0
+    ],
+    "MID-NITE SPECIAL": [
+     "no_recipes",
+     "sandwich",
+     0,
+     0,
+     1.6
+    ],
+    "PIMENTO CHEESE": [
+     "evaluated",
+     "sandwich",
+     5,
+     4,
+     39.0
+    ],
+    "CHICKEN SALAD": [
+     "evaluated",
+     "sandwich",
+     6,
+     5,
+     159.5
+    ],
+    "GRILLBURGER": [
+     "no_recipes",
+     "burger",
+     0,
+     0,
+     18.7
+    ],
+    "HAMBURGER STEAK PLATE": [
+     "evaluated",
+     "meat_main",
+     4,
+     5,
+     24.1
+    ],
+    "HAMBURGER": [
+     "evaluated",
+     "burger",
+     6,
+     2,
+     13.8
+    ],
+    "CHEESEBURGER": [
+     "evaluated",
+     "burger",
+     2,
+     0,
+     42.8
+    ],
+    "No. 1": [
+     "no_recipes",
+     "breakfast_eggs",
+     0,
+     0,
+     4.7
+    ],
+    "No. 2": [
+     "no_recipes",
+     "breakfast_eggs",
+     0,
+     0,
+     0.4
+    ],
+    "No. 3": [
+     "no_recipes",
+     "breakfast_eggs",
+     0,
+     0,
+     3.7
+    ],
+    "No. 4": [
+     "no_recipes",
+     "breakfast_eggs",
+     0,
+     0,
+     2.5
+    ],
+    "No. 5": [
+     "evaluated",
+     "breakfast_pancakes",
+     4,
+     2,
+     15.8
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "CHICKEN SALAD",
+     "1.366464",
+     "5.822847",
+     "61.069407",
+     "257.016326",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "LETTUCE AND TOMATO",
+     "1.366008",
+     "20.595709",
+     "1.751078",
+     "328.204991",
+     "close_call",
+     null
+    ],
+    [
+     3,
+     "BACON-TOMATO",
+     "2.599478",
+     "15.207119",
+     "13.357283",
+     "88.397383",
+     "close_call",
+     "bacon and lettuce (assumed amount)"
+    ]
+   ]
+  }
+ ],
+ "consistency": []
+}

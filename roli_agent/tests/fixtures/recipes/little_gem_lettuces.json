@@ -1,0 +1,1589 @@
+{
+ "menu_item": {
+  "name": "LITTLE GEM LETTUCES",
+  "description": "tahini vinaigrette, pecorino sardo, toasted sesame",
+  "section": "TO START",
+  "restaurant": ""
+ },
+ "queries": {
+  "open": "little gem lettuces recipe",
+  "structured_hosts": "little gem lettuces recipe tahini vinaigrette"
+ },
+ "stats": {
+  "searches": 2,
+  "search_credits": 2,
+  "hits_open": 10,
+  "hits_structured": 10,
+  "hits_after_url_dedup": 17,
+  "hits_in_both_modes": 0,
+  "blocked_hosts_skipped": 3,
+  "fetched": 12,
+  "fetch_ok": 7,
+  "fetch_from_cache": 7,
+  "robots_disallowed": 0,
+  "rate_limited": 0,
+  "http_errors": 5,
+  "extracted": 6,
+  "extracted_by": {
+   "recipe_scrapers": 6,
+   "none": 1
+  },
+  "content_duplicates": 0,
+  "distinct_recipes": 6,
+  "with_servings": 6,
+  "pct_lines_quantified": 83.6,
+  "pct_lines_grams_known": 6.0,
+  "recipes_with_all_lines_quantified": 1,
+  "seconds": 1.0
+ },
+ "recipes": [
+  {
+   "url": "https://www.recipetineats.com/little-gem-lettuce-salad",
+   "canonical_url": "https://recipetineats.com/little-gem-lettuce-salad",
+   "host": "recipetineats.com",
+   "title": "Baby Gem Lettuce Salad",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:36+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "3 baby gem lettuce (aka little gem lettuce), leaves separated, washed and dried (Note 1)",
+    "1 cup cherry tomatoes (, cut in half (or grape tomatoes, or 2 regular tomatoes cut into bite size pieces))",
+    "1/2 eschalot (US: shallot), finely diced (Note 2)",
+    "1 1/2 tbsp chives (, finely chopped)",
+    "1 quantity Creamy French Dressing",
+    "1 cup white bread like baguette (, ciabatta, sourdough, cut into 1cm / 0.4\" cubes - preferably stale (Note 3))",
+    "1 tbsp extra virgin olive oil",
+    "Pinch of cooking salt / kosher salt"
+   ],
+   "cooking_verbs": [
+    "bake"
+   ],
+   "ingredients": [
+    {
+     "line": "3 baby gem lettuce (aka little gem lettuce), leaves separated, washed and dried (Note 1)",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "baby gem lettuce",
+     "preparation_words": [
+      "aka little gem lettuce",
+      "Note 1",
+      "leaves separated",
+      "washed and dried"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 cup cherry tomatoes (, cut in half (or grape tomatoes, or 2 regular tomatoes cut into bite size pieces))",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "cherry tomatoes )",
+     "preparation_words": [
+      ", cut in half (or grape tomatoes, or 2 regular tomatoes cut into bite size pieces"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 eschalot (US: shallot), finely diced (Note 2)",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "eschalot",
+     "preparation_words": [
+      "US: shallot",
+      "Note 2",
+      "finely diced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 1/2 tbsp chives (, finely chopped)",
+     "quantity_text": "1 1/2",
+     "quantity": "1.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "chives",
+     "preparation_words": [
+      ", finely chopped"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 quantity Creamy French Dressing",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "quantity creamy french dressing",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 cup white bread like baguette (, ciabatta, sourdough, cut into 1cm / 0.4\" cubes - preferably stale (Note 3))",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "white bread like baguette )",
+     "preparation_words": [
+      ", ciabatta, sourdough, cut into 1cm / 0.4\" cubes - preferably stale (Note 3"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tbsp extra virgin olive oil",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Pinch of cooking salt / kosher salt",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "Pinch",
+     "unit": "pinch",
+     "unit_kind": "count",
+     "name": "cooking salt / kosher salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "1fc38018dc901d27",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://pinchandswirl.com/little-gem-salad",
+   "canonical_url": "https://pinchandswirl.com/little-gem-salad",
+   "host": "pinchandswirl.com",
+   "title": "Little Gem Salad",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:36+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "4 medium heads Little Gem Lettuce",
+    "2 tablespoons Champagne vinegar",
+    "1/2 teaspoon Dijon mustard",
+    "1/2 teaspoon honey",
+    "1 tablespoon finely chopped shallot",
+    "1/3 cup extra virgin olive oil",
+    "kosher salt and freshly ground black pepper (to taste)",
+    "1/4 cup chopped walnuts"
+   ],
+   "cooking_verbs": [],
+   "ingredients": [
+    {
+     "line": "4 medium heads Little Gem Lettuce",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "medium",
+     "unit": "medium",
+     "unit_kind": "count",
+     "name": "heads little gem lettuce",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 tablespoons Champagne vinegar",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "champagne vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "29.57352956250",
+     "grams_reference": "1 US tbsp = 14.78676478125 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "1/2 teaspoon Dijon mustard",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "dijon mustard",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 teaspoon honey",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "honey",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon finely chopped shallot",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "finely chopped shallot",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/3 cup extra virgin olive oil",
+     "quantity_text": "1/3",
+     "quantity": "0.3333333333333333333333333333",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "kosher salt and freshly ground black pepper (to taste)",
+     "quantity_text": "to taste",
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "kosher salt and freshly ground black pepper",
+     "preparation_words": [
+      "to taste"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "vague_quantity"
+     ]
+    },
+    {
+     "line": "1/4 cup chopped walnuts",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "chopped walnuts",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "61b042204d508678",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://somethingnewfordinner.com/recipe/grilled-little-gem-salad",
+   "canonical_url": "https://somethingnewfordinner.com/recipe/grilled-little-gem-salad",
+   "host": "somethingnewfordinner.com",
+   "title": "Grilled Little Gem salad",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:36+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "2 T finely chopped shallot",
+    "1 T balsamic vinegar",
+    "1 T Spanish sherry vinegar",
+    "6 T olive oil, plus some for brushing the lettuce",
+    "6 Little Gem lettuce heads, sliced in half from stem to stern",
+    "3 ounces crumbled feta cheese",
+    "1/4 t crushed red pepper flakes"
+   ],
+   "cooking_verbs": [
+    "charred",
+    "grill"
+   ],
+   "ingredients": [
+    {
+     "line": "2 T finely chopped shallot",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "t finely chopped shallot",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 T balsamic vinegar",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "t balsamic vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 T Spanish sherry vinegar",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "t spanish sherry vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "6 T olive oil, plus some for brushing the lettuce",
+     "quantity_text": "6",
+     "quantity": "6",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "t olive oil",
+     "preparation_words": [
+      "plus some for brushing the lettuce"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "6 Little Gem lettuce heads, sliced in half from stem to stern",
+     "quantity_text": "6",
+     "quantity": "6",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "little gem lettuce heads",
+     "preparation_words": [
+      "sliced in half from stem to stern"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 ounces crumbled feta cheese",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ounces",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "crumbled feta cheese",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "85.048569375",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "1/4 t crushed red pepper flakes",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "t crushed red pepper flakes",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "4ab178b47b47f4e2",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://cravingcalifornia.com/little-gem-wedge-salad",
+   "canonical_url": "https://cravingcalifornia.com/little-gem-wedge-salad",
+   "host": "cravingcalifornia.com",
+   "title": "Little Gem Wedge Salad with Bacon, Blue Cheese, and Warm Garlic Croutons",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:36+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "2 c torn day old bread",
+    "1/4 c olive oil",
+    "2 cloves garlic",
+    "1/2 c whole milk Greek yogurt",
+    "1/2 c crumbled blue cheese (plus extra for serving)",
+    "1 clove garlic (grated)",
+    "3 tbsp chopped chives (plus extra for serving)",
+    "3 tbsp white wine vinegar",
+    "salt and freshly cracked black pepper",
+    "4 heads little gem lettuce",
+    "8 slices bacon (cooked and crumbled)",
+    "3 hard-boiled eggs (grated or finely chopped)",
+    "1/4 red onion (thinly sliced)",
+    "1 c cherry tomatoes (halved)",
+    "4 radishes (thinly sliced)"
+   ],
+   "cooking_verbs": [
+    "boiled",
+    "saute"
+   ],
+   "ingredients": [
+    {
+     "line": "2 c torn day old bread",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "c",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "torn day old bread",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/4 c olive oil",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "c",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 cloves garlic",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cloves",
+     "unit": "clove",
+     "unit_kind": "count",
+     "name": "garlic",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 c whole milk Greek yogurt",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "c",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "whole milk greek yogurt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 c crumbled blue cheese (plus extra for serving)",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "c",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "crumbled blue cheese",
+     "preparation_words": [
+      "plus extra for serving"
+     ],
+     "preparation_hint": "as_used",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 clove garlic (grated)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "clove",
+     "unit": "clove",
+     "unit_kind": "count",
+     "name": "garlic",
+     "preparation_words": [
+      "grated"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 tbsp chopped chives (plus extra for serving)",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "chopped chives",
+     "preparation_words": [
+      "plus extra for serving"
+     ],
+     "preparation_hint": "unknown",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 tbsp white wine vinegar",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "white wine vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "44.36029434375",
+     "grams_reference": "1 US tbsp = 14.78676478125 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "salt and freshly cracked black pepper",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "salt and freshly cracked black pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "4 heads little gem lettuce",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "heads",
+     "unit": "head",
+     "unit_kind": "count",
+     "name": "little gem lettuce",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "8 slices bacon (cooked and crumbled)",
+     "quantity_text": "8",
+     "quantity": "8",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "slices",
+     "unit": "slice",
+     "unit_kind": "count",
+     "name": "bacon",
+     "preparation_words": [
+      "cooked and crumbled"
+     ],
+     "preparation_hint": "cooked",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 hard-boiled eggs (grated or finely chopped)",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "hard-boiled eggs",
+     "preparation_words": [
+      "grated or finely chopped"
+     ],
+     "preparation_hint": "cooked",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/4 red onion (thinly sliced)",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "red onion",
+     "preparation_words": [
+      "thinly sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 c cherry tomatoes (halved)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "c",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "cherry tomatoes",
+     "preparation_words": [
+      "halved"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "4 radishes (thinly sliced)",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "radishes",
+     "preparation_words": [
+      "thinly sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "2ad7a4bbdee6a303",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.alisoneroman.com/recipes/little-gems-with-garlicky-lemon-and-pistachio",
+   "canonical_url": "https://alisoneroman.com/recipes/little-gems-with-garlicky-lemon-and-pistachio",
+   "host": "alisoneroman.com",
+   "title": "Little Gems with Garlicky Lemon and Pistachio",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:36+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "2 lemons",
+    "½ cup raw pistachios, almonds, or walnuts, finely chopped",
+    "1 garlic clove, finely grated",
+    "¼ cup olive oil, plus more for drizzling",
+    "Kosher salt and freshly ground black pepper",
+    "4–6 heads of Little Gem lettuce (1½–2 pounds) or 1 large head of romaine or iceberg, quartered",
+    "½ cup fresh parsley, tender leaves and stems, coarsely chopped",
+    "½ cup fresh chopped chives",
+    "¼ cup fresh dill, coarsely chopped",
+    "Flaky sea salt"
+   ],
+   "cooking_verbs": [
+    "toast"
+   ],
+   "ingredients": [
+    {
+     "line": "2 lemons",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "lemons",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "½ cup raw pistachios, almonds, or walnuts, finely chopped",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "raw pistachios",
+     "preparation_words": [
+      "almonds",
+      "or walnuts",
+      "finely chopped"
+     ],
+     "preparation_hint": "raw",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 garlic clove, finely grated",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "garlic clove",
+     "preparation_words": [
+      "finely grated"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¼ cup olive oil, plus more for drizzling",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "olive oil",
+     "preparation_words": [
+      "plus more for drizzling"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Kosher salt and freshly ground black pepper",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "kosher salt and freshly ground black pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "4–6 heads of Little Gem lettuce (1½–2 pounds) or 1 large head of romaine or iceberg, quartered",
+     "quantity_text": "4–6",
+     "quantity": "5",
+     "quantity_low": "4",
+     "quantity_high": "6",
+     "unit_raw": "heads",
+     "unit": "head",
+     "unit_kind": "count",
+     "name": "little gem lettuce or 1 large head of romaine or iceberg",
+     "preparation_words": [
+      "1 1/2–2 pounds",
+      "quartered"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "½ cup fresh parsley, tender leaves and stems, coarsely chopped",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "fresh parsley",
+     "preparation_words": [
+      "tender leaves and stems",
+      "coarsely chopped"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "½ cup fresh chopped chives",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "fresh chopped chives",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¼ cup fresh dill, coarsely chopped",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "fresh dill",
+     "preparation_words": [
+      "coarsely chopped"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Flaky sea salt",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "flaky sea salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    }
+   ],
+   "content_hash": "93d277509c47eaff",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.laboiteny.com/blogs/recipes/little-gem-salad-with-herbed-breadcrumbs",
+   "canonical_url": "https://laboiteny.com/blogs/recipes/little-gem-salad-with-herbed-breadcrumbs",
+   "host": "laboiteny.com",
+   "title": "Little Gem Salad with Herbed Breadcrumbs",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:36+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 cup buttermilk",
+    "¼ cup crème fraîche",
+    "1 shallot, minced",
+    "2 Tbsp 12 year aged Muscatel vinegar",
+    "½ Tbsp extra virgin olive oil",
+    "Sea salt",
+    "Freshly ground black pepper",
+    "-",
+    "4 heads Little Gem lettuce, washed",
+    "1 small bulb fennel, halved lengthwise cored, and thinly sliced",
+    "3 healthy-size watermelon or French breakfast radishes, thinly sliced",
+    "12 leaves basil, torn",
+    "-",
+    "We really like making our bread crumbs like this. Heating the herbes de Provence in the butter and oil brings out the herbs’ aroma, which isn’t too overpowering – just nice and toasty and great as a base for topping with other flavors. Toss them into salads or over anything that might need a little crunch, such as grilled meat or fish.",
+    "3 Tbsp unsalted butter",
+    "3 Tbsp extra-virgin olive oil",
+    "2 tsp Herbes de Provence",
+    "Sea salt",
+    "6 slices sourdough bread"
+   ],
+   "cooking_verbs": [
+    "sauté",
+    "toast"
+   ],
+   "ingredients": [
+    {
+     "line": "1 cup buttermilk",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "buttermilk",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¼ cup crème fraîche",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "crème fraîche",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 shallot, minced",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "shallot",
+     "preparation_words": [
+      "minced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 Tbsp 12 year aged Muscatel vinegar",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "Tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "12 year aged muscatel vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "29.57352956250",
+     "grams_reference": "1 US tbsp = 14.78676478125 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "½ Tbsp extra virgin olive oil",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "Tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Sea salt",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "sea salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Freshly ground black pepper",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "freshly ground black pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "-",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "-",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "4 heads Little Gem lettuce, washed",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "heads",
+     "unit": "head",
+     "unit_kind": "count",
+     "name": "little gem lettuce",
+     "preparation_words": [
+      "washed"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 small bulb fennel, halved lengthwise cored, and thinly sliced",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "small",
+     "unit": "small",
+     "unit_kind": "count",
+     "name": "bulb fennel",
+     "preparation_words": [
+      "halved lengthwise cored",
+      "and thinly sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 healthy-size watermelon or French breakfast radishes, thinly sliced",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "healthy-size watermelon or french breakfast radishes",
+     "preparation_words": [
+      "thinly sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "12 leaves basil, torn",
+     "quantity_text": "12",
+     "quantity": "12",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "leaves",
+     "unit": "leaf",
+     "unit_kind": "count",
+     "name": "basil",
+     "preparation_words": [
+      "torn"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "-",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "-",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "We really like making our bread crumbs like this. Heating the herbes de Provence in the butter and oil brings out the herbs’ aroma, which isn’t too overpowering – just nice and toasty and great as a base for topping with other flavors. Toss them into salads or over anything that might need a little crunch, such as grilled meat or fish.",
+     "quantity_text": "a little",
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "we really like making our bread crumbs like this. heating the herbes de provence in the butter and oil brings out the herbs’ aroma",
+     "preparation_words": [
+      "which isn’t too overpowering",
+      "just nice and toasty and great as a base for topping with other flavors. Toss them into salads or over anything that might need a little crunch",
+      "such as grilled meat or fish."
+     ],
+     "preparation_hint": "cooked",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "vague_quantity"
+     ]
+    },
+    {
+     "line": "3 Tbsp unsalted butter",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "Tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "unsalted butter",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 Tbsp extra-virgin olive oil",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "Tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "extra-virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 tsp Herbes de Provence",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tsp",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "herbes de provence",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Sea salt",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "sea salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "6 slices sourdough bread",
+     "quantity_text": "6",
+     "quantity": "6",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "slices",
+     "unit": "slice",
+     "unit_kind": "count",
+     "name": "sourdough bread",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "85799d3fe34b8e81",
+   "duplicate_of": null,
+   "flags": []
+  }
+ ]
+}

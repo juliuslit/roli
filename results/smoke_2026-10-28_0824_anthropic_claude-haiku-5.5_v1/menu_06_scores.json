@@ -1,0 +1,68 @@
+{
+ "photo": "06",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8901098901098901,
+ "expected_items": 91,
+ "found_items": 81,
+ "unmatched_expected_names": [
+  "Make your own pizza - standard base with sauce and mozzarella",
+  "Garlic butter",
+  "Garlic oil (vgn)",
+  "Garlic mayo",
+  "Marinara sauce (vgn)",
+  "Sundried tomato (vgn) (contains garlic)",
+  "BBQ sauce (vgn)",
+  "Chilli jam (vgn)",
+  "Chilli oil (vgn)",
+  "Almond pesto (vgn)"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "DIPS"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 0.9135802469135802,
+ "price_wrong_names": [
+  "Basil: price '0.5' vs key '50p each'",
+  "Chipotle chilli: price '0.5' vs key '50p each'",
+  "Fresh & dried chillies: price '0.5' vs key '50p each'",
+  "Ghost chilli: price '0.5' vs key '50p each'",
+  "Garlic: price '0.5' vs key '50p each'",
+  "Oregano: price '0.5' vs key '50p each'",
+  "Rosemary: price '0.5' vs key '50p each'"
+ ],
+ "descriptions_right": 0.8780487804878049,
+ "descriptions_checked": 41,
+ "tags_right": 0.8518518518518519,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9876543209876543,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 19,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 30,
+   "share_wrong": 0.03333333333333333
+  },
+  "low": {
+   "wrong": 7,
+   "total": 33,
+   "share_wrong": 0.21212121212121213
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is of a two-page open menu with some small or skewed print; a hand covers the lower centre of the page and some prices/tags are faint. Items under 'Mainly Herbs' and some dip prices are uncertain. Lines with no readable price were left blank.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 28.75377679200028,
+ "cost_usd": 0.0051535,
+ "finish_reason": "stop"
+}

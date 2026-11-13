@@ -1,0 +1,65 @@
+{
+ "photo": "12",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9743589743589743,
+ "expected_items": 39,
+ "other_set_aside": 0,
+ "found_items": 38,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Fish Fingers & Chips"
+ ],
+ "invented": 9,
+ "invented_names": [
+  "CHILDREN'S",
+  "Cheese Sandwich",
+  "Cheese & Ham Sandwich",
+  "Cucumber & Hummus Sandwich (VE)",
+  "SANDWICHES",
+  "WRAPS",
+  "TOASTIES",
+  "PANINIS",
+  "SIDES"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9210526315789473,
+ "price_wrong_names": [
+  "Falafel, Hummus, Shredded Red Cabbage, Salad & Sweet Chilli: price '' vs key '7.85'",
+  "Crispy Chicken, Shredded Red Cabbage, Salad, Sweet Chilli & Mayo: price '' vs key '7.85'",
+  "Pulled Pork, Shredded Red Cabbage, Salad, Cheddar Cheese & Mayo: price '' vs key '7.85'"
+ ],
+ "descriptions_right": 0.7777777777777778,
+ "descriptions_checked": 9,
+ "tags_right": 0.8157894736842105,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9736842105263158,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 12,
+   "total": 47,
+   "share_wrong": 0.2553191489361702
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 187.02939666601014,
+ "cost_usd": 0.0037029,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 1803,
+ "completion_tokens": 3708,
+ "generation_id": "gen-1793302026-0lClzvAMoqWfcZG6rtJm",
+ "rep": 1
+}

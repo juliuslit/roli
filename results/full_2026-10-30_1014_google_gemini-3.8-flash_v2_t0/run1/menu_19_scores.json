@@ -1,0 +1,57 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 41,
+ "other_set_aside": 0,
+ "found_items": 41,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 1,
+ "grouping_names": [
+  "OUR HOMEMADE PIES -> ['Icebox Chocolate', 'Half Moon Peach', 'Half Moon Apple', 'Other Delicious Bakery Pies']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.8947368421052632,
+ "descriptions_checked": 19,
+ "tags_right": 1.0,
+ "portion_right": 0.8378378378378378,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 37,
+   "share_wrong": 0.02702702702702703
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 1,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 18.102425916993525,
+ "cost_usd": 0.012066,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 2508,
+ "completion_tokens": 2716,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793370043-ZCobMWCUgqwxOVEOMHEt"
+}

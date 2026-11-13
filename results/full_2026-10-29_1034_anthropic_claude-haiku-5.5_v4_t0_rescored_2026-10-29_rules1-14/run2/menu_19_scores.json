@@ -1,0 +1,73 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.7804878048780488,
+ "expected_items": 41,
+ "other_set_aside": 0,
+ "found_items": 32,
+ "joined_found": 3,
+ "unmatched_expected_names": [
+  "Our Special Blend Coffee",
+  "Coffee, Our Special Blend",
+  "Other Delicious Bakery Pies",
+  "Pimento Cheese",
+  "No. 1",
+  "No. 2",
+  "No. 3",
+  "No. 4",
+  "No. 5"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Coffee"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Porterhouse Cheese ~ Pimento Cheese (56%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.875,
+ "price_wrong_names": [
+  "Waffles: price '30' vs key '20c'",
+  "Steak Plate: price '45' vs key '65c'",
+  "Grilled Cheese: price '20' vs key ''",
+  "Grillburger: price '35' vs key '25c'"
+ ],
+ "descriptions_right": 0.4666666666666667,
+ "descriptions_checked": 15,
+ "tags_right": 1.0,
+ "portion_right": 0.9375,
+ "has_choice_right": 0.96875,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 5,
+   "total": 33,
+   "share_wrong": 0.15151515151515152
+  },
+  "low": {
+   "wrong": 1,
+   "total": 1,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is a small, low-resolution print on a tabletop, photographed at an angle. Small type in the description lines and dessert/breakfast details is blurred; some prices are only partly legible. Lines I could not read with confidence have been left out or given blank prices. The left-hand panel (restaurant name, address, slogans, owners) is ignored as non-item text.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 11.485338208993198,
+ "cost_usd": 0.0020253,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

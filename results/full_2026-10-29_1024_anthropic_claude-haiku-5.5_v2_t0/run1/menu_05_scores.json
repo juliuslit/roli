@@ -1,0 +1,61 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8653846153846154,
+ "expected_items": 52,
+ "found_items": 45,
+ "unmatched_expected_names": [
+  "ULTIMATE BREAKFAST SANDWICH - 1 FILLING",
+  "ULTIMATE BREAKFAST SANDWICH - 2 FILLINGS",
+  "ULTIMATE BREAKFAST SANDWICH - 3 FILLINGS",
+  "EXTRAS: Smoked bacon, Sausage, Chorizo, Black pudding, Halloumi, Avocado, 2 Eggs",
+  "EXTRAS: Field mushroom, Tomato, Hash Brown, Beans",
+  "SAVOURY PASTRIES",
+  "DAILY SPECIAL (PLEASE ASK)"
+ ],
+ "invented": 7,
+ "invented_names": [
+  "ULTIMATE BREAKFAST SANDWICH",
+  "Chorizo",
+  "smoked streaky bacon",
+  "poached eggs",
+  "EXTRAS",
+  "Field mushroom, Tomato, Hash Brown, Beans",
+  "SAVOURY PASTRIES FROM"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9259259259259259,
+ "descriptions_checked": 27,
+ "tags_right": 0.8666666666666667,
+ "portion_right": 0.7777777777777778,
+ "has_choice_right": 0.8888888888888888,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 42,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 7,
+   "total": 10,
+   "share_wrong": 0.7
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is photographed at an angle with a hand covering the left edge and a glass in the top-left corner; the left part of the photo is partly hidden, though the menu text is legible. Some small print (e.g. tea and drinks options) is slightly blurred. Items are read in column order.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 19.074303457979113,
+ "cost_usd": 0.0034433,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": ""
+}

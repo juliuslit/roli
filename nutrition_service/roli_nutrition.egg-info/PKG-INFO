@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: roli-nutrition
+Version: 0.1.0
+Summary: Saturated fat and cholesterol for one USDA food, retrieved and checked by plain code.
+Requires-Python: >=3.11
+Requires-Dist: httpx<1,>=0.27
+Requires-Dist: pydantic<3,>=2.5
+Provides-Extra: mcp
+Requires-Dist: mcp<3,>=2; extra == "mcp"
+Requires-Dist: uvicorn<1,>=0.30; extra == "mcp"
+Requires-Dist: python-dotenv<2,>=1; extra == "mcp"
+Provides-Extra: dev
+Requires-Dist: pytest<9,>=8; extra == "dev"
+Requires-Dist: python-dotenv<2,>=1; extra == "dev"

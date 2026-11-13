@@ -1,0 +1,91 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.7317073170731707,
+ "expected_items": 41,
+ "found_items": 30,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Our Special Blend Coffee",
+  "Fresh Orange Juice",
+  "Bacon, 3 Strips",
+  "Ham",
+  "Buttered Toast with Jelly",
+  "Shoestring Potatoes (Order)",
+  "Iced Tea",
+  "Other Delicious Bakery Pies",
+  "Steak Plate",
+  "Grillburger",
+  "Cheeseburger"
+ ],
+ "invented": 10,
+ "invented_names": [
+  "Bacon",
+  "Strawberry Shortcake (Chilled)",
+  "Soft Soda",
+  "Served on Large Toasted Bun",
+  "One Egg, Any Style",
+  "Two Eggs, Any Style",
+  "Two Eggs, Any Style",
+  "One Egg, Any Style",
+  "Waffles, Golden Brown",
+  "Maple Syrup"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 3,
+ "garbled_names": [
+  "Bacon, 2 Eggs ~ Bacon, 3 Strips (57%)",
+  "Bacon and Toast with Jelly ~ Buttered Toast with Jelly (73%)",
+  "HAMBURGER ~ Cheeseburger (58%)"
+ ],
+ "grouping": 1,
+ "grouping_names": [
+  "OUR HOMEMADE PIE -> ['Icebox Chocolate', 'Half Moon Peach', 'Half Moon Apple']"
+ ],
+ "prices_right": 0.5185185185185185,
+ "price_wrong_names": [
+  "Sweet Milk: price '5c' vs key '10c'",
+  "BACON TOMATO: price '20c' vs key '25c'",
+  "BACON AND EGG: price '20c' vs key '30c'",
+  "FRIED HAM: price '20c' vs key '25c'",
+  "GRILLED CHEESE: price '15c' vs key ''",
+  "MID-NITE SPECIAL: price '20c' vs key '30c'",
+  "CHICKEN SALAD: price '20c' vs key '25c'",
+  "HAMBURGER STEAK PLATE: price '25c' vs key '55c'",
+  "No. 1: price '10c' vs key '35c'",
+  "No. 2: price '15c' vs key '35c'",
+  "No. 3: price '20c' vs key '45c'",
+  "No. 4: price '25c' vs key '45c'",
+  "No. 5: price '30c' vs key '25c'"
+ ],
+ "descriptions_right": 0.14285714285714285,
+ "descriptions_checked": 14,
+ "tags_right": 1.0,
+ "portion_right": 0.7777777777777778,
+ "has_choice_right": 0.7777777777777778,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 27,
+   "total": 41,
+   "share_wrong": 0.6585365853658537
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is old and the print is very faint, particularly in the middle columns. Some prices and descriptions are difficult to read with certainty. The date '5-1-1961' is visible on the right side of the middle section.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 110.65092741700937,
+ "cost_usd": 0.00358895,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 2421,
+ "completion_tokens": 3523,
+ "generation_id": "gen-1793308914-0n0OtnqVUaL1gLU81Ryq",
+ "rep": 1
+}

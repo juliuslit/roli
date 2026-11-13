@@ -1,0 +1,3936 @@
+{
+ "fish_main": {
+  "basis": "protein alone (cooked fillet)",
+  "cooked_to_raw": "fish",
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2706241,
+    "description": "Fish, cod, baked or broiled",
+    "portions": [
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 whole fish, any size",
+      "gram_weight": 420.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 17.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 steak",
+      "gram_weight": 210.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 140.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large fillet",
+      "gram_weight": 210.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 oz yields",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small/regular fillet",
+      "gram_weight": 140.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706295,
+    "description": "Fish, bass, baked or broiled",
+    "portions": [
+     {
+      "label": "1 small/regular fillet",
+      "gram_weight": 90.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 large fillet",
+      "gram_weight": 135.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 17.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 oz yields",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 90.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706286,
+    "description": "Fish, salmon, baked or broiled",
+    "portions": [
+     {
+      "label": "1 large fillet",
+      "gram_weight": 210.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 oz yields",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small/regular fillet",
+      "gram_weight": 140.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 steak",
+      "gram_weight": 210.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 140.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 17.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Fish, cod, baked or broiled",
+   "Fish, cod, baked or broiled, coated",
+   "Fish, bass, baked or broiled",
+   "Fish, catfish, baked or broiled",
+   "Fish, flounder, baked or broiled",
+   "Fish, haddock, baked or broiled",
+   "Fish, mackerel, baked or broiled",
+   "Fish, perch, baked or broiled",
+   "Fish, pompano, baked or broiled",
+   "Fish, salmon, baked or broiled",
+   "Fish, salmon, baked or broiled, coated"
+  ],
+  "queries": [
+   "fish cod baked or broiled",
+   "fish salmon baked or broiled"
+  ]
+ },
+ "crudo_starter": {
+  "basis": "protein alone (raw fish)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2706284,
+    "description": "Fish, salmon, raw",
+    "portions": [
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 85.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706308,
+    "description": "Fish, tuna, raw",
+    "portions": [
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 85.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Fish, salmon, raw",
+   "Fish, tuna, raw",
+   "Fish, tuna, canned",
+   "Fish, tuna, cooked",
+   "Fish, tuna, NFS",
+   "Fish, raw",
+   "Fish with cream or white sauce, not tuna or lobster",
+   "Fish, canned",
+   "Fish curry",
+   "Fish sauce",
+   "Fish, salmon, canned",
+   "Fish, salmon, fried",
+   "Fish, salmon, grilled",
+   "Fish, salmon, NFS",
+   "Fish, salmon, smoked",
+   "Fish, salmon, steamed",
+   "Fish, salmon cake or patty",
+   "Fish, salmon, baked or broiled"
+  ],
+  "queries": [
+   "sashimi",
+   "fish tuna raw",
+   "fish salmon raw"
+  ]
+ },
+ "tomato_salad_starter": {
+  "basis": "whole dish",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2705818,
+    "description": "Mozzarella cheese, tomato, and basil, with oil and vinegar dressing",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 80.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 160.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Tomato and cucumber salad made with tomato, cucumber, oil, and vinegar",
+   "Mozzarella cheese, tomato, and basil, with oil and vinegar dressing",
+   "Lettuce, salad with assorted vegetables including tomatoes and/or carrots, no dressing",
+   "Lettuce, salad with assorted vegetables excluding tomatoes and carrots, no dressing",
+   "Lettuce, salad with avocado, tomato, and/or carrots, with or without other vegetables, no dressing",
+   "Lettuce, salad with cheese, tomato and/or carrots, with or without other vegetables, no dressing",
+   "Lettuce, salad with egg, tomato, and/or carrots, with or without other vegetables, no dressing",
+   "Lettuce, salad with egg, cheese, tomato, and/or carrots, with or without other vegetables, no dressing",
+   "Salad dressing, NFS, for salads",
+   "Seafood garden salad with seafood, lettuce, tomato and/or carrots, other vegetables, no dressing",
+   "Beef salad",
+   "Crab salad",
+   "Lobster salad",
+   "Pea salad",
+   "Salmon salad",
+   "Seafood salad",
+   "Shrimp salad",
+   "Seafood salad sandwich",
+   "Egg salad, made with mayonnaise-type salad dressing",
+   "Seafood garden salad with seafood, lettuce, vegetables excluding tomato and carrots, no dressing"
+  ],
+  "queries": [
+   "tomato and mozzarella salad",
+   "caprese salad",
+   "tomato salad"
+  ]
+ },
+ "pasta_main": {
+  "basis": "whole dish (plated pasta)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2708861,
+    "description": "Pasta with cream sauce and meat, restaurant",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 250.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 250.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708837,
+    "description": "Pasta with tomato-based sauce and meat, restaurant",
+    "portions": [
+     {
+      "label": "1 cup",
+      "gram_weight": 250.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 250.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708752,
+    "description": "Lasagna with meat, from restaurant",
+    "portions": [
+     {
+      "label": "1 piece (1/6 of 8\" square, approx 2-1/2\" x 4\")",
+      "gram_weight": 206.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 250.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 250.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece (1/8 of 7\" x 12\", approx 3-1/2\" x 3\")",
+      "gram_weight": 232.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 surface inch",
+      "gram_weight": 20.7,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Spaghetti sauce",
+   "Spaghetti sauce with meat",
+   "Spaghetti sauce with poultry",
+   "Spaghetti sauce with seafood",
+   "Spaghetti sauce with added vegetables",
+   "Spaghetti sauce, fat free",
+   "Spaghetti sauce, reduced sodium",
+   "Spaghetti sauce with seafood and added vegetables",
+   "Spaghetti sauce with meat and added vegetables",
+   "Spaghetti sauce with poultry and added vegetables",
+   "Pasta with cream sauce and meat, restaurant",
+   "Pasta with tomato-based sauce, cheese and meat",
+   "Pasta with tomato-based sauce and meat, restaurant",
+   "Pasta with cream sauce and meat, home recipe",
+   "Pasta with sauce and meat, from school lunch",
+   "Pasta with cream sauce and meat, ready-to-heat",
+   "Pasta with tomato-based sauce and meat, home recipe",
+   "Pasta, whole grain, with cream sauce and meat, restaurant",
+   "Pasta with tomato-based sauce and meat, ready-to-heat",
+   "Pasta with cream sauce, meat, and added vegetables, restaurant",
+   "Lasagna with meat",
+   "Lasagna with meat, canned",
+   "Lasagna with meat and spinach",
+   "Lasagna with meat, frozen",
+   "Lasagna with meat, from restaurant",
+   "Lasagna with meat, home recipe",
+   "Lasagna, meatless",
+   "Lasagna with chicken or turkey",
+   "Lasagna, meatless, with vegetables",
+   "Lasagna, with chicken or turkey, and spinach"
+  ],
+  "queries": [
+   "spaghetti with tomato sauce",
+   "pasta with meat sauce",
+   "lasagna with meat"
+  ]
+ },
+ "fish_starter": {
+  "basis": "whole dish (fried seafood plate)",
+  "cooked_to_raw": "fried_seafood",
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2706334,
+    "description": "Calamari, fried",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 85.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 item",
+      "gram_weight": 15.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706364,
+    "description": "Shrimp, fried",
+    "portions": [
+     {
+      "label": "1 prawn",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 tiny shrimp",
+      "gram_weight": 5.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large/jumbo shrimp",
+      "gram_weight": 15.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 85.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small/medium shrimp",
+      "gram_weight": 10.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706549,
+    "description": "Crab, cake",
+    "portions": [
+     {
+      "label": "1 cake or patty",
+      "gram_weight": 85.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 85.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Calamari, fried",
+   "Calamari, cooked",
+   "Clams, fried",
+   "Crayfish, fried",
+   "Dove, fried",
+   "Fried broccoli",
+   "Fried cauliflower",
+   "Fried eggplant",
+   "Fried mushrooms",
+   "Fried okra",
+   "Shrimp, fried",
+   "Rice, fried, with shrimp",
+   "Bread, dough, fried",
+   "Chicken, meatless, breaded, fried",
+   "Soybean curd, breaded, fried",
+   "Mozzarella sticks, breaded, baked, or fried",
+   "Roll with meat and/or shrimp, vegetables and rice paper, not fried",
+   "Turkey, light meat, breaded, baked or fried, skin eaten",
+   "Turkey, light meat, breaded, baked or fried, skin not eaten",
+   "Crab, cake",
+   "Crab cake sandwich",
+   "Crab",
+   "Crab salad made with imitation crab",
+   "Crab salad",
+   "Crab, canned",
+   "Sushi, topped with crab",
+   "Crab, soft shell",
+   "Flounder with crab stuffing",
+   "Imitation crab meat"
+  ],
+  "queries": [
+   "calamari fried",
+   "shrimp breaded fried",
+   "crab cake"
+  ]
+ },
+ "pizza_neapolitan": {
+  "basis": "whole dish (whole pizza)",
+  "cooked_to_raw": null,
+  "dough_share": true,
+  "records": [
+   {
+    "fdc_id": 2708674,
+    "description": "Pizza, no cheese, thin crust",
+    "portions": [
+     {
+      "label": "1 extra-large pizza (16-18\" diameter)",
+      "gram_weight": 809.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece, NFS",
+      "gram_weight": 75.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 150.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 surface inch",
+      "gram_weight": 3.9,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece, extra-large pizza",
+      "gram_weight": 81.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 personal size pizza (5-7\" diameter)",
+      "gram_weight": 110.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 medium pizza (11-12\" diameter)",
+      "gram_weight": 432.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 piece, small pizza",
+      "gram_weight": 51.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece, large pizza",
+      "gram_weight": 75.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece, medium pizza",
+      "gram_weight": 54.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large pizza (13-15\" diameter)",
+      "gram_weight": 599.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 small pizza (8-10\" diameter)",
+      "gram_weight": 306.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708623,
+    "description": "Pizza, extra cheese, thick crust",
+    "portions": [
+     {
+      "label": "1 medium pizza (11-12\" diameter)",
+      "gram_weight": 792.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 piece, NFS",
+      "gram_weight": 141.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1/2 English muffin",
+      "gram_weight": 58.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 piece, medium pizza",
+      "gram_weight": 99.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece, large pizza",
+      "gram_weight": 141.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1/2 bagel",
+      "gram_weight": 98.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 small pizza (8-10\" diameter)",
+      "gram_weight": 565.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 282.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 extra-large pizza (16-18\" diameter)",
+      "gram_weight": 1448.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 surface inch",
+      "gram_weight": 7.2,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large pizza (13-15\" diameter)",
+      "gram_weight": 1112.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 piece, extra-large pizza",
+      "gram_weight": 145.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece, small pizza",
+      "gram_weight": 94.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 personal size pizza (5-7\" diameter)",
+      "gram_weight": 232.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 French bread",
+      "gram_weight": 154.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708622,
+    "description": "Pizza, extra cheese, thin crust",
+    "portions": [
+     {
+      "label": "1 extra-large pizza (16-18\" diameter)",
+      "gram_weight": 1056.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece, medium pizza",
+      "gram_weight": 66.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large pizza (13-15\" diameter)",
+      "gram_weight": 732.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 personal size pizza (5-7\" diameter)",
+      "gram_weight": 136.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 surface inch",
+      "gram_weight": 4.8,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece, large pizza",
+      "gram_weight": 92.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 184.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece, NFS",
+      "gram_weight": 92.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece, small pizza",
+      "gram_weight": 63.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece, extra-large pizza",
+      "gram_weight": 106.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 medium pizza (11-12\" diameter)",
+      "gram_weight": 528.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 small pizza (8-10\" diameter)",
+      "gram_weight": 377.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Pizza, cheese, stuffed crust",
+   "Pizza, no cheese, thick crust",
+   "Pizza, no cheese, thin crust",
+   "Pizza, extra cheese, thick crust",
+   "White pizza, cheese, thick crust",
+   "Pizza, cheese, with fruit, thick crust",
+   "Pizza, cheese, with fruit, thin crust",
+   "Pizza, extra cheese, thin crust",
+   "Pizza, cheese, with fruit, medium crust",
+   "White pizza, cheese, thin crust",
+   "Pizza, cheese, from frozen, thin crust",
+   "Pizza with cheese and extra vegetables, thin crust",
+   "White pizza, cheese, with vegetables, thin crust",
+   "Pizza, cheese, gluten-free thin crust",
+   "Pizza, cheese, whole wheat thin crust",
+   "White pizza, cheese, with meat, thin crust",
+   "Topping from cheese pizza",
+   "Pizza with pepperoni, stuffed crust",
+   "Pizza with pepperoni, from frozen, thick crust",
+   "Pizza with pepperoni, from frozen, thin crust",
+   "Pizza with pepperoni, from frozen, medium crust",
+   "Pizza with pepperoni, from school lunch, thick crust",
+   "Pizza, with meat other than pepperoni, stuffed crust",
+   "Pizza with pepperoni, from school lunch, thin crust",
+   "Pizza, with pepperoni, from school lunch, medium crust",
+   "Pizza with pepperoni, from restaurant or fast food, thick crust",
+   "Pizza with pepperoni, from restaurant or fast food,  medium crust"
+  ],
+  "queries": [
+   "pizza cheese regular crust",
+   "pizza cheese thin crust",
+   "pizza cheese",
+   "pizza pepperoni"
+  ]
+ },
+ "leaf_salad_starter": {
+  "basis": "whole dish",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2709591,
+    "description": "Caesar salad, with romaine, no dressing",
+    "portions": [
+     {
+      "label": "1 cup",
+      "gram_weight": 79.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 79.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 Wendy's side salad",
+      "gram_weight": 113.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2709822,
+    "description": "Lettuce, salad with assorted vegetables including tomatoes and/or carrots, no dressing",
+    "portions": [
+     {
+      "label": "1 McDonald's side salad",
+      "gram_weight": 87.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 73.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 73.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 side salad",
+      "gram_weight": 94.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 Burger King side salad",
+      "gram_weight": 98.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 Wendy's side salad",
+      "gram_weight": 168.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Caesar salad, with romaine, no dressing",
+   "Caesar dressing",
+   "Chicken or turkey caesar garden salad, chicken and/or turkey, lettuce, tomato, cheese, no dressing",
+   "Caesar dressing, light",
+   "Chicken or turkey, breaded, fried, caesar garden salad, chicken and/or turkey, lettuce, tomatoes, cheese, no dressing",
+   "Caesar dressing, fat free",
+   "Salad dressing, NFS, for salads",
+   "Beef salad",
+   "Crab salad",
+   "Lobster salad",
+   "Lettuce, salad with assorted vegetables including tomatoes and/or carrots, no dressing",
+   "Lettuce, salad with assorted vegetables excluding tomatoes and carrots, no dressing",
+   "Lettuce, salad with avocado, tomato, and/or carrots, with or without other vegetables, no dressing",
+   "Lettuce, salad with cheese, tomato and/or carrots, with or without other vegetables, no dressing",
+   "Lettuce, salad with egg, tomato, and/or carrots, with or without other vegetables, no dressing",
+   "Lettuce, salad with egg, cheese, tomato, and/or carrots, with or without other vegetables, no dressing",
+   "Seafood garden salad with seafood, lettuce, tomato and/or carrots, other vegetables, no dressing",
+   "Seafood garden salad with seafood, lettuce, vegetables excluding tomato and carrots, no dressing",
+   "Seafood garden salad with seafood, lettuce, eggs, tomato and/or carrots, other vegetables, no dressing",
+   "Seafood garden salad with seafood, lettuce, eggs, vegetables excluding tomato and carrots, no dressing"
+  ],
+  "queries": [
+   "caesar salad",
+   "lettuce salad with assorted vegetables"
+  ]
+ },
+ "meat_main": {
+  "basis": "protein alone (cooked cut)",
+  "cooked_to_raw": "meat",
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2705824,
+    "description": "Beef, steak, NFS",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 160.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 oz yields",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 regular",
+      "gram_weight": 160.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 piece/slice, any size",
+      "gram_weight": 30.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 thick",
+      "gram_weight": 240.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 thin",
+      "gram_weight": 120.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 17.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2705841,
+    "description": "Beef, steak, tenderloin",
+    "portions": [
+     {
+      "label": "1 regular",
+      "gram_weight": 160.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece/slice, any size",
+      "gram_weight": 30.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 oz yields",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 thin",
+      "gram_weight": 120.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 thick",
+      "gram_weight": 240.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 160.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 17.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2705829,
+    "description": "Beef, steak, ribeye, lean and fat eaten",
+    "portions": [
+     {
+      "label": "1 thin",
+      "gram_weight": 180.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 oz yields",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 240.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 17.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 thick",
+      "gram_weight": 360.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 regular",
+      "gram_weight": 240.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 piece/slice, any size",
+      "gram_weight": 30.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2705968,
+    "description": "Chicken breast, grilled without sauce, skin not eaten",
+    "portions": [
+     {
+      "label": "1 medium breast",
+      "gram_weight": 120.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 large or thick slice",
+      "gram_weight": 85.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small breast",
+      "gram_weight": 105.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup, cooked, diced",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 oz, cooked",
+      "gram_weight": 28.35,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 breast quarter (yield after cooking, bone removed)",
+      "gram_weight": 155.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large breast",
+      "gram_weight": 135.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 small or thin slice",
+      "gram_weight": 30.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 medium slice",
+      "gram_weight": 60.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2705866,
+    "description": "Pork, chop, NS as to fat eaten",
+    "portions": [
+     {
+      "label": "1 oz yields",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 thick",
+      "gram_weight": 180.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 17.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 slice, any size",
+      "gram_weight": 30.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 regular",
+      "gram_weight": 120.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 thin",
+      "gram_weight": 90.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Beef, steak, round",
+   "Beef, sandwich steak",
+   "Beef, steak, chuck",
+   "Beef, steak, cube",
+   "Beef, steak, flank",
+   "Beef, steak, NFS",
+   "Beef, steak, tenderloin",
+   "Beef, steak, country fried",
+   "Beef steak with onions, Puerto Rican style",
+   "Beef, steak, ribeye, lean and fat eaten",
+   "Chicken breast, grilled with sauce, skin eaten",
+   "Chicken breast, grilled with sauce, skin not eaten",
+   "Chicken breast, grilled without sauce, skin eaten",
+   "Chicken breast, grilled without sauce, skin not eaten",
+   "Chicken fillet, grilled",
+   "Chicken wing, grilled with sauce",
+   "Chicken wing, grilled without sauce",
+   "Chicken breast, rotisserie, skin not eaten",
+   "Chicken drumstick, grilled with sauce, skin eaten",
+   "Chicken drumstick, grilled with sauce, skin not eaten",
+   "Pork, chop, stuffed",
+   "Pork, chop, lean and fat eaten",
+   "Pork, chop, lean only eaten",
+   "Pork, chop, NS as to fat eaten",
+   "Pork chow mein or chop suey with noodles",
+   "Pork chow mein or chop suey, no noodles",
+   "Pork, chop, coated, lean and fat eaten",
+   "Pork, chop, coated, lean only eaten",
+   "Pork, chop, coated, NS as to fat eaten",
+   "Clams, baked or broiled"
+  ],
+  "queries": [
+   "steak beef broiled",
+   "chicken breast grilled",
+   "pork chop broiled"
+  ]
+ },
+ "vegetable_starter": {
+  "basis": "whole dish",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2707652,
+    "description": "Bruschetta",
+    "portions": [
+     {
+      "label": "1 large or thick slice",
+      "gram_weight": 59.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 slice",
+      "gram_weight": 43.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 slice, snack-size",
+      "gram_weight": 14.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small or thin/very thin slice",
+      "gram_weight": 32.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 medium or regular slice",
+      "gram_weight": 43.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 43.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Scallops, grilled",
+   "Shrimp, grilled",
+   "Chicken fillet, grilled",
+   "Fish sandwich, grilled",
+   "Fish, bass, grilled",
+   "Fish, catfish, grilled",
+   "Fish, cod, grilled",
+   "Fish, flounder, grilled",
+   "Fish, haddock, grilled",
+   "Fish, mackerel, grilled",
+   "Bruschetta"
+  ],
+  "queries": [
+   "vegetables grilled",
+   "bruschetta"
+  ]
+ },
+ "fried_potato_side": {
+  "basis": "whole dish (an order of fries)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2709462,
+    "description": "Potato, french fries, restaurant",
+    "portions": [
+     {
+      "label": "1 crinkle cut",
+      "gram_weight": 5.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 value/dollar menu order",
+      "gram_weight": 85.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 medium fast food order",
+      "gram_weight": 145.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 straight cut",
+      "gram_weight": 5.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 fry, NS as to shape",
+      "gram_weight": 5.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 wedge",
+      "gram_weight": 9.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 waffle",
+      "gram_weight": 8.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 60.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 spiral or curly",
+      "gram_weight": 8.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 kids meal order",
+      "gram_weight": 70.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 small fast food order",
+      "gram_weight": 110.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 shoestring",
+      "gram_weight": 2.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 large fast food order",
+      "gram_weight": 180.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 110.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Potato, french fries, restaurant",
+   "Potato, french fries, with cheese, fast food / restaurant",
+   "Potato, french fries, with chili, fast food / restaurant",
+   "Potato, french fries, with chili and cheese, fast food / restaurant",
+   "Potato, french fries, with cheese",
+   "Potato, french fries, with chili",
+   "Potato, french fries, NFS",
+   "Potato, french fries, school",
+   "Potato, french fries, from fresh, fried",
+   "Potato, french fries, from frozen, fried"
+  ],
+  "queries": [
+   "potato french fries restaurant"
+  ]
+ },
+ "snack_bowl": {
+  "basis": "whole dish",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2710088,
+    "description": "Olives, NFS",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 15.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 olive",
+      "gram_weight": 5.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2707487,
+    "description": "Almonds, salted",
+    "portions": [
+     {
+      "label": "1 package",
+      "gram_weight": 50.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 141.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 100 calorie package",
+      "gram_weight": 18.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 oz",
+      "gram_weight": 28.35,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 nut",
+      "gram_weight": 1.2,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 28.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Olive tapenade",
+   "Olive oil",
+   "Olives, black",
+   "Olives, green",
+   "Olives, NFS",
+   "Olives, stuffed",
+   "Mayonnaise, reduced fat,  with olive oil",
+   "Bread, vegetable",
+   "Bread, vegetable, toasted",
+   "Codfish salad, Puerto Rican style, Serenata",
+   "Almonds, honey roasted",
+   "Almonds, unsalted",
+   "Almonds, flavored",
+   "Almonds, salted",
+   "Almond butter",
+   "Almond chicken",
+   "Almond oil",
+   "Almond paste",
+   "Almonds, NFS",
+   "Almonds, unroasted"
+  ],
+  "queries": [
+   "olives",
+   "almonds roasted"
+  ]
+ },
+ "fish_and_chips": {
+  "basis": "protein alone (fried fillet)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2706244,
+    "description": "Fish, cod, fried",
+    "portions": [
+     {
+      "label": "1 large fillet",
+      "gram_weight": 210.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 17.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small/regular fillet",
+      "gram_weight": 140.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 steak",
+      "gram_weight": 210.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 140.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 oz yields",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 whole fish, any size",
+      "gram_weight": 420.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706258,
+    "description": "Fish, haddock, fried",
+    "portions": [
+     {
+      "label": "1 small/regular fillet",
+      "gram_weight": 140.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 17.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 140.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 whole fish, any size",
+      "gram_weight": 420.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 oz yields",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large fillet",
+      "gram_weight": 210.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 steak",
+      "gram_weight": 210.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Fish curry",
+   "Fish sauce",
+   "Fish, anchovy",
+   "Fish, canned",
+   "Fish, carp",
+   "Fish, croaker",
+   "Fish, eel",
+   "Fish, halibut",
+   "Fish, herring",
+   "Fish, mullet",
+   "Fish, bass, fried",
+   "Fish, catfish, fried",
+   "Fish, cod, fried",
+   "Fish, flounder, fried",
+   "Fish, haddock, fried",
+   "Fish, mackerel, fried",
+   "Fish, perch, fried",
+   "Fish, pompano, fried",
+   "Fish, salmon, fried",
+   "Fish, tilapia, fried"
+  ],
+  "queries": [
+   "fish and chips",
+   "fish battered fried"
+  ]
+ },
+ "burger": {
+  "basis": "whole dish (whole item)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2706927,
+    "description": "Hamburger, on white bun, 1 small patty",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 115.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 hamburger",
+      "gram_weight": 115.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706932,
+    "description": "Hamburger, on white bun, 1 medium patty",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 145.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 hamburger",
+      "gram_weight": 145.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706934,
+    "description": "Hamburger, on white bun, 1 large patty",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 175.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 hamburger",
+      "gram_weight": 175.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706895,
+    "description": "Cheeseburger, on white bun, 1 small patty",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cheeseburger",
+      "gram_weight": 135.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706901,
+    "description": "Cheeseburger, on white bun, 1 medium patty",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 165.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cheeseburger",
+      "gram_weight": 165.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Roll, white, hamburger bun",
+   "Roll, multigrain, hamburger bun",
+   "Roll, whole wheat, hamburger bun",
+   "Hamburger, on white bun, 1 small patty",
+   "Hamburger, on white bun, 1 medium patty",
+   "Hamburger, on wheat bun, 1 large patty",
+   "Hamburger, on wheat bun, 1 medium patty",
+   "Hamburger, on wheat bun, 1 small patty",
+   "Hamburger, on white bun, 1 large patty",
+   "Roll, wheat or cracked wheat, hamburger bun",
+   "Cheeseburger, on white bun, 1 small patty",
+   "Cheeseburger, on white bun, 1 medium patty",
+   "Cheeseburger, on wheat bun, 1 large patty",
+   "Cheeseburger, on wheat bun, 1 medium patty",
+   "Cheeseburger, on wheat bun, 1 small patty",
+   "Cheeseburger, on white bun, 1 large patty",
+   "Double cheeseburger, on wheat bun, 2 large patties",
+   "Double cheeseburger, on wheat bun, 2 medium patties",
+   "Double cheeseburger, on wheat bun, 2 small patties",
+   "Double cheeseburger, on white bun, 2 large patties"
+  ],
+  "queries": [
+   "hamburger on bun",
+   "cheeseburger on bun"
+  ]
+ },
+ "sandwich": {
+  "basis": "whole dish (whole item)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2707000,
+    "description": "Chicken fillet sandwich, NFS",
+    "portions": [
+     {
+      "label": "1 sandwich, any size",
+      "gram_weight": 140.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 140.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706988,
+    "description": "Chicken deli sandwich or sub, restaurant",
+    "portions": [
+     {
+      "label": "1 regular",
+      "gram_weight": 130.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 195.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 130.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 miniature/slider",
+      "gram_weight": 65.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 regular or 6\" submarine",
+      "gram_weight": 195.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706985,
+    "description": "Turkey sandwich or sub, restaurant",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 130.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 miniature/slider",
+      "gram_weight": 65.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 regular",
+      "gram_weight": 130.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 195.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 regular or 6\" submarine",
+      "gram_weight": 195.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706969,
+    "description": "Ham sandwich or sub, with cheese, restaurant",
+    "portions": [
+     {
+      "label": "1 miniature/slider",
+      "gram_weight": 80.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 regular",
+      "gram_weight": 160.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 240.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 160.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 regular or 6\" submarine",
+      "gram_weight": 240.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Chicken fillet sandwich, NFS",
+   "Chicken salad sandwich on wheat",
+   "Chicken salad sandwich on white",
+   "Chicken salad sandwich wrap",
+   "Chicken deli sandwich or sub, restaurant",
+   "Barbecue chicken sandwich, on wheat bun",
+   "Barbecue chicken sandwich, on white bun",
+   "Chicken fillet sandwich, from school cafeteria",
+   "Chicken deli sandwich or sub, with cheese, restaurant",
+   "Chicken fillet sandwich, fried, on wheat bun",
+   "Turkey sandwich on wheat",
+   "Turkey sandwich on white",
+   "Turkey sandwich wrap",
+   "Turkey and ham sandwich on white",
+   "Turkey and ham sandwich on wheat",
+   "Turkey sandwich on wheat, with cheese",
+   "Turkey sandwich on white, with cheese",
+   "Turkey sandwich or sub, restaurant",
+   "Turkey and ham sandwich on white, with cheese",
+   "Turkey and ham sandwich or sub, restaurant",
+   "Ham sandwich on wheat, with cheese",
+   "Ham sandwich on white, with cheese",
+   "Turkey and ham sandwich on wheat, with cheese",
+   "Ham sandwich or sub, with cheese, restaurant",
+   "Turkey and ham sandwich or sub, with cheese, restaurant",
+   "Ham biscuit sandwich",
+   "Ham sandwich wrap",
+   "Ham sandwich on wheat",
+   "Ham sandwich on white"
+  ],
+  "queries": [
+   "chicken sandwich",
+   "turkey sandwich",
+   "ham and cheese sandwich"
+  ]
+ },
+ "wrap": {
+  "basis": "whole dish (whole item)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2707017,
+    "description": "Chicken fillet wrap sandwich, grilled, from fast food",
+    "portions": [
+     {
+      "label": "1 sandwich, any size",
+      "gram_weight": 161.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 161.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706987,
+    "description": "Turkey sandwich wrap",
+    "portions": [
+     {
+      "label": "1 sandwich, any size",
+      "gram_weight": 135.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2706881,
+    "description": "Sandwich wrap, NFS",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 140.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 sandwich, any size",
+      "gram_weight": 140.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Chicken salad sandwich wrap",
+   "Chicken fillet wrap sandwich, fried, from fast food",
+   "Chicken fillet wrap sandwich, grilled, from fast food",
+   "Turkey sandwich wrap",
+   "Fish wrap sandwich",
+   "Ham sandwich wrap",
+   "Sandwich wrap, NFS",
+   "Vegetable sandwich wrap",
+   "Multiple meat sandwich wrap",
+   "Tuna salad sandwich wrap",
+   "Hamburger wrap sandwich, from fast food"
+  ],
+  "queries": [
+   "chicken wrap",
+   "wrap sandwich"
+  ]
+ },
+ "taco": {
+  "basis": "whole dish (one taco)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2708526,
+    "description": "Taco, flour tortilla, chicken, cheese",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 105.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 160.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small/regular",
+      "gram_weight": 105.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 miniature",
+      "gram_weight": 50.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708529,
+    "description": "Taco, fish",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 100.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small/regular",
+      "gram_weight": 100.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 miniature",
+      "gram_weight": 50.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 150.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708514,
+    "description": "Taco, NFS",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 105.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 160.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 small/regular",
+      "gram_weight": 105.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 miniature",
+      "gram_weight": 50.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708522,
+    "description": "Taco, flour tortilla, beef, cheese",
+    "portions": [
+     {
+      "label": "1 small/regular",
+      "gram_weight": 105.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 160.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 105.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 miniature",
+      "gram_weight": 50.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Taco or tostada salad with chicken",
+   "Taco, flour tortilla, chicken, cheese",
+   "Taco, corn tortilla, chicken, cheese",
+   "Taco, flour tortilla, chicken, with beans, cheese",
+   "Taco, corn tortilla, chicken, with beans, cheese",
+   "Taco or tostada salad with chicken and sour cream",
+   "Taco sauce",
+   "Taco, fish",
+   "Taco, NFS",
+   "Taco shell, flour",
+   "Beef taco filling: beef, cheese, tomato, taco sauce",
+   "Taco, flour tortilla, beef, cheese",
+   "Taco, corn tortilla, beef, cheese",
+   "Taco, flour tortilla, beef, with beans, cheese",
+   "Taco, corn tortilla, beef, with beans, cheese",
+   "Taco, cheese only"
+  ],
+  "queries": [
+   "taco with chicken",
+   "taco with beef"
+  ]
+ },
+ "burrito": {
+  "basis": "whole dish (whole item)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2708537,
+    "description": "Burrito, beef, with beans, cheese",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 220.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small/regular",
+      "gram_weight": 220.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 miniature",
+      "gram_weight": 110.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 330.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708543,
+    "description": "Burrito, chicken, cheese",
+    "portions": [
+     {
+      "label": "1 miniature",
+      "gram_weight": 110.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 220.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small/regular",
+      "gram_weight": 220.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 330.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708546,
+    "description": "Burrito, chicken, with beans and rice, cheese",
+    "portions": [
+     {
+      "label": "1 miniature",
+      "gram_weight": 110.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 330.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 220.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small/regular",
+      "gram_weight": 220.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708534,
+    "description": "Burrito, NFS",
+    "portions": [
+     {
+      "label": "1 cup",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 220.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small/regular",
+      "gram_weight": 220.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 330.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 miniature",
+      "gram_weight": 110.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Burrito, beef, with beans, cheese",
+   "Burrito bowl, beef or pork, with beans",
+   "Burrito, beef, with beans and rice, cheese",
+   "Burrito bowl, beef or pork, with beans and rice",
+   "Burrito, beef, cheese",
+   "Burrito bowl, with beans",
+   "Burrito, with beans, cheese",
+   "Burrito, with beans, no cheese",
+   "Burrito bowl, beef or pork",
+   "Burrito, beef, with rice, cheese",
+   "Burrito bowl, chicken",
+   "Burrito, chicken, cheese",
+   "Burrito bowl, chicken, with beans",
+   "Burrito bowl, chicken, with rice",
+   "Burrito, chicken, with beans, cheese",
+   "Burrito, chicken, with rice, cheese",
+   "Burrito, chicken, with beans and rice, cheese",
+   "Burrito bowl, chicken, with beans and rice",
+   "Burrito, NFS",
+   "Egg burrito"
+  ],
+  "queries": [
+   "burrito with beef and beans",
+   "burrito chicken"
+  ]
+ },
+ "quesadilla": {
+  "basis": "whole dish (whole item)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2708593,
+    "description": "Quesadilla, chicken",
+    "portions": [
+     {
+      "label": "1 full circle",
+      "gram_weight": 140.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 95.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 half circle",
+      "gram_weight": 70.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 triangular piece",
+      "gram_weight": 35.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 70.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708590,
+    "description": "Quesadilla, NFS",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 70.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 triangular piece",
+      "gram_weight": 35.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 half circle",
+      "gram_weight": 70.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 full circle",
+      "gram_weight": 140.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 95.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708591,
+    "description": "Quesadilla, cheese only",
+    "portions": [
+     {
+      "label": "1 triangular piece",
+      "gram_weight": 30.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 half circle",
+      "gram_weight": 60.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 60.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 full circle",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 95.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Quesadilla, chicken",
+   "Quesadilla, chicken, with vegetables",
+   "Quesadilla, egg",
+   "Quesadilla, NFS",
+   "Quesadilla, with vegetables",
+   "Quesadilla, beef or pork",
+   "Quesadilla, cheese only",
+   "Quesadilla, egg, with meat",
+   "Quesadilla, beef or pork, with vegetables",
+   "Chicken, chicken roll, roasted",
+   "Cheese, processed cheese food"
+  ],
+  "queries": [
+   "quesadilla with chicken",
+   "quesadilla cheese"
+  ]
+ },
+ "breakfast_eggs": {
+  "basis": "whole dish",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2707212,
+    "description": "Egg omelet or scrambled egg, with cheese, no added fat",
+    "portions": [
+     {
+      "label": "1 egg",
+      "gram_weight": 60.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2707180,
+    "description": "Egg, Benedict",
+    "portions": [
+     {
+      "label": "1 egg",
+      "gram_weight": 155.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 155.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2707205,
+    "description": "Egg omelet or scrambled egg, no added fat",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 100.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 egg",
+      "gram_weight": 50.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Egg omelet or scrambled egg, with cheese, made with butter",
+   "Egg omelet or scrambled egg, with cheese, made with margarine",
+   "Egg omelet or scrambled egg, with cheese, made with oil",
+   "Egg omelet or scrambled egg, with cheese, no added fat",
+   "Egg substitute, omelet, scrambled, or fried, with cheese",
+   "Egg white, omelet, scrambled, or fried, with cheese",
+   "Egg omelet or scrambled egg, with cheese and meat, made with butter",
+   "Egg omelet or scrambled egg, with cheese and meat, made with margarine",
+   "Egg omelet or scrambled egg, with cheese and meat, made with oil",
+   "Egg omelet or scrambled egg, with cheese and meat, no added fat",
+   "Egg, Benedict",
+   "Egg, creamed",
+   "Egg, deviled",
+   "Congee, with egg",
+   "Egg burrito",
+   "Quesadilla, egg",
+   "Taquito, egg",
+   "Egg omelet or scrambled egg, made with butter",
+   "Egg omelet or scrambled egg, made with margarine",
+   "Egg omelet or scrambled egg, made with oil",
+   "Egg omelet or scrambled egg, no added fat",
+   "Egg omelet or scrambled egg, NS as to fat",
+   "Egg omelet or scrambled egg, made with cooking spray",
+   "Egg omelet or scrambled egg, NS as to fat type"
+  ],
+  "queries": [
+   "egg omelet with cheese",
+   "eggs benedict",
+   "scrambled eggs"
+  ]
+ },
+ "breakfast_pancakes": {
+  "basis": "whole dish",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2708299,
+    "description": "Pancakes, plain, fast food / restaurant",
+    "portions": [
+     {
+      "label": "1 silver dollar pancake",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large pancake",
+      "gram_weight": 90.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 extra large pancake",
+      "gram_weight": 150.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small pancake",
+      "gram_weight": 20.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 100.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 medium pancake",
+      "gram_weight": 50.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 surface inch",
+      "gram_weight": 1.9,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 miniature/bite size pancake",
+      "gram_weight": 10.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708320,
+    "description": "Waffle, plain, fast food / restaurant",
+    "portions": [
+     {
+      "label": "1 large waffle",
+      "gram_weight": 125.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 miniature/bite size waffle",
+      "gram_weight": 10.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 surface inch",
+      "gram_weight": 2.5,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 medium waffle",
+      "gram_weight": 75.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 thick / Belgian waffle",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 75.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small waffle",
+      "gram_weight": 40.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 surface inch, Belgian waffle",
+      "gram_weight": 3.7,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708333,
+    "description": "French toast, fast food / restaurant",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 85.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 slice, any size",
+      "gram_weight": 85.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Pancakes, plain",
+   "Pancakes, plain, frozen",
+   "Pancakes, plain, reduced fat",
+   "Pancakes, plain, fast food / restaurant",
+   "Chinese pancake",
+   "Pancake syrup",
+   "Pancakes, chocolate",
+   "Pancakes, fruit",
+   "Pancakes, NFS",
+   "Pancakes, pumpkin",
+   "Waffle, plain",
+   "Waffle, plain, frozen",
+   "Waffle, plain, reduced fat",
+   "Waffle, plain, fast food / restaurant",
+   "Waffle, chocolate",
+   "Waffle, cinnamon",
+   "Waffle, fruit",
+   "Waffle, NFS",
+   "Waffle, school",
+   "Cheesecake, plain",
+   "French toast sticks",
+   "French toast, frozen",
+   "French toast, NFS",
+   "French toast, plain",
+   "French toast, school",
+   "Bread, French or Vienna, toasted",
+   "French toast sticks, school",
+   "French toast, gluten free",
+   "French toast, whole grain",
+   "French toast, fast food / restaurant"
+  ],
+  "queries": [
+   "pancakes plain",
+   "waffle plain",
+   "french toast"
+  ]
+ },
+ "breakfast_cereal": {
+  "basis": "whole dish (a bowl)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2708380,
+    "description": "Oatmeal, NFS",
+    "portions": [
+     {
+      "label": "1 cup, cooked",
+      "gram_weight": 240.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup, dry, yields",
+      "gram_weight": 485.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 oz, dry, yields",
+      "gram_weight": 170.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 240.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708461,
+    "description": "Cereal, granola",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 110.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 prepackaged single serving",
+      "gram_weight": 30.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 110.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Oatmeal, multigrain",
+   "Oatmeal, NFS",
+   "Bread, oatmeal",
+   "Cookie, oatmeal",
+   "Crackers, oatmeal",
+   "Muffin, oatmeal",
+   "Pie, oatmeal",
+   "Roll, oatmeal",
+   "Cookie, oatmeal, with raisins",
+   "Snack bar, oatmeal",
+   "Cookie, granola",
+   "Cereal, granola",
+   "Cereal or granola bar (Quaker Granola Bites)",
+   "Cereal or granola bar (Quaker Chewy Granola Bar)",
+   "Cereal or granola bar (Quaker Chewy Dipps Granola Bar)",
+   "Cereal or granola bar (Quaker Chewy 90 Calorie Granola Bar)",
+   "Cereal or Granola bar, NFS",
+   "Cereal or granola bar (General Mills Nature Valley Crunchy Granola Bar)",
+   "Cereal or granola bar (Quaker Chewy 25% Less Sugar Granola Bar)",
+   "Cereal or granola bar, nonfat"
+  ],
+  "queries": [
+   "oatmeal cooked",
+   "granola"
+  ]
+ },
+ "toast_plate": {
+  "basis": "whole dish",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2707599,
+    "description": "Bread, white, toasted",
+    "portions": [
+     {
+      "label": "1 cup",
+      "gram_weight": 40.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 3.9,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 25.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 slice, snack-size",
+      "gram_weight": 9.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small or thin/very thin slice",
+      "gram_weight": 22.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 slice, crust not eaten",
+      "gram_weight": 12.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large or thick slice",
+      "gram_weight": 39.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 medium or regular slice",
+      "gram_weight": 25.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2707776,
+    "description": "Bread, multigrain, toasted",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 33.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large or thick slice",
+      "gram_weight": 39.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 slice, crust not eaten",
+      "gram_weight": 15.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small or thin/very thin slice",
+      "gram_weight": 22.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 medium or regular slice",
+      "gram_weight": 33.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 slice, snack-size",
+      "gram_weight": 9.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Bread, rye, toasted",
+   "Bread, vegetable, toasted",
+   "Bread, white, toasted",
+   "Bread, barley, toasted",
+   "Bread, black, toasted",
+   "Bread, cheese, toasted",
+   "Bread, cinnamon, toasted",
+   "Bread, Cuban, toasted",
+   "Bread, multigrain, toasted",
+   "Bread, oatmeal, toasted",
+   "Melba toast",
+   "Anisette toast",
+   "Shrimp toast",
+   "Zwieback toast",
+   "Cereal, cinnamon toast"
+  ],
+  "queries": [
+   "bread toasted",
+   "toast with butter"
+  ]
+ },
+ "soup": {
+  "basis": "whole dish (a bowl)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2709149,
+    "description": "Soup, chicken noodle",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 245.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 245.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2709757,
+    "description": "Soup, tomato",
+    "portions": [
+     {
+      "label": "1 cup",
+      "gram_weight": 245.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 245.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2710113,
+    "description": "Soup, vegetable",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 245.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 245.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Soup, chicken noodle",
+   "Soup, chicken noodle, canned",
+   "Soup, noodle, NFS",
+   "Soup, chicken",
+   "Soup, ramen noodles, water added",
+   "Chicken or turkey and noodles with gravy",
+   "Chicken or turkey and noodles, no sauce",
+   "Soup, chicken, canned",
+   "Soup, cream of chicken",
+   "Chicken or turkey and noodles with cheese sauce",
+   "Soup, tomato",
+   "Soup, cream of tomato",
+   "Soup, tomato, canned",
+   "Soup, tomato, canned / carton, reduced sodium",
+   "Soup, borscht",
+   "Soup, pepperpot",
+   "Soup, barley",
+   "Soup, bean",
+   "Soup, peanut",
+   "Soup, tortilla",
+   "Soup, vegetable",
+   "Soup, cream of vegetable",
+   "Soup, vegetable, canned",
+   "Soup, vegetable, with meat",
+   "Vegetables as ingredient in soups",
+   "Soup, vegetable, canned, reduced sodium"
+  ],
+  "queries": [
+   "soup chicken noodle",
+   "soup tomato",
+   "soup vegetable"
+  ]
+ },
+ "dip": {
+  "basis": "whole dish (a pot)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2707402,
+    "description": "Hummus, plain",
+    "portions": [
+     {
+      "label": "1 individual container",
+      "gram_weight": 70.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 tablespoon",
+      "gram_weight": 15.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 60.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2709307,
+    "description": "Guacamole, NFS",
+    "portions": [
+     {
+      "label": "1 tablespoon",
+      "gram_weight": 15.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 individual container",
+      "gram_weight": 70.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 60.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2705618,
+    "description": "Dip, NFS",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 60.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 tablespoon",
+      "gram_weight": 15.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 individual container",
+      "gram_weight": 70.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Hummus, flavored",
+   "Hummus, plain",
+   "Bean chips",
+   "Guacamole, NFS",
+   "Guacamole with tomatoes",
+   "Cheese dip",
+   "Cheese dip with chili pepper",
+   "Seafood dip",
+   "Dessert dip",
+   "Layer dip",
+   "Tzatziki dip",
+   "Dip, NFS",
+   "Artichoke dip",
+   "Chocolate dip",
+   "Eggplant dip"
+  ],
+  "queries": [
+   "hummus",
+   "guacamole",
+   "dip cheese"
+  ]
+ },
+ "side_salad": {
+  "basis": "whole dish",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2709822,
+    "description": "Lettuce, salad with assorted vegetables including tomatoes and/or carrots, no dressing",
+    "portions": [
+     {
+      "label": "1 McDonald's side salad",
+      "gram_weight": 87.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 73.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 73.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 side salad",
+      "gram_weight": 94.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 Burger King side salad",
+      "gram_weight": 98.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 Wendy's side salad",
+      "gram_weight": 168.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2709823,
+    "description": "Lettuce, salad with assorted vegetables excluding tomatoes and carrots, no dressing",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 74.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 74.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Lettuce, salad with assorted vegetables including tomatoes and/or carrots, no dressing",
+   "Lettuce, salad with assorted vegetables excluding tomatoes and carrots, no dressing",
+   "Lettuce, salad with avocado, tomato, and/or carrots, with or without other vegetables, no dressing",
+   "Lettuce, salad with cheese, tomato and/or carrots, with or without other vegetables, no dressing",
+   "Lettuce, salad with egg, tomato, and/or carrots, with or without other vegetables, no dressing",
+   "Lettuce, salad with egg, cheese, tomato, and/or carrots, with or without other vegetables, no dressing",
+   "Seafood garden salad with seafood, lettuce, tomato and/or carrots, other vegetables, no dressing",
+   "Seafood garden salad with seafood, lettuce, vegetables excluding tomato and carrots, no dressing",
+   "Seafood garden salad with seafood, lettuce, eggs, tomato and/or carrots, other vegetables, no dressing",
+   "Seafood garden salad with seafood, lettuce, eggs, vegetables excluding tomato and carrots, no dressing",
+   "Chicken or turkey caesar garden salad, chicken and/or turkey, lettuce, tomato, cheese, no dressing",
+   "Asian chicken or turkey garden salad, chicken and/or turkey, lettuce, fruit, nuts, no dressing",
+   "Chicken or turkey garden salad, chicken and/or turkey, tomato and/or carrots, other vegetables, no dressing",
+   "Shrimp garden salad, shrimp, lettuce, eggs, tomato and/or carrots, other vegetables, no dressing",
+   "Shrimp garden salad, shrimp, lettuce, eggs, vegetables excluding tomato and carrots, no dressing",
+   "Chicken or turkey garden salad, chicken and/or turkey, other vegetables excluding tomato and carrots, no dressing"
+  ],
+  "queries": [
+   "lettuce salad with assorted vegetables",
+   "garden salad"
+  ]
+ },
+ "side_vegetable": {
+  "basis": "whole dish (a side)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2709644,
+    "description": "Broccoli, cooked, from restaurant",
+    "portions": [
+     {
+      "label": "1 floweret",
+      "gram_weight": 10.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 160.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece",
+      "gram_weight": 10.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 80.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 spear",
+      "gram_weight": 40.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2709851,
+    "description": "Green beans, cooked, from restaurant",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 73.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 bean",
+      "gram_weight": 6.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 cut piece",
+      "gram_weight": 2.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 145.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2710012,
+    "description": "Classic mixed vegetables, cooked, from restaurant",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 93.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 185.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Broccoli raab, cooked",
+   "Broccoli, Chinese, cooked",
+   "Broccoli, cooked, as ingredient",
+   "Broccoli, cooked, from restaurant",
+   "Broccoli, fresh, cooked with oil",
+   "Broccoli, frozen, cooked with oil",
+   "Broccoli, NS as to form, cooked",
+   "Broccoli, fresh, cooked, no added fat",
+   "Broccoli, frozen, cooked, no added fat",
+   "Broccoli and cauliflower, cooked, no added fat",
+   "Green beans, cooked, as ingredient",
+   "Green beans, cooked, Szechuan-style",
+   "Green beans, cooked, from restaurant",
+   "Green beans, canned, cooked with oil",
+   "Green beans, fresh, cooked with oil",
+   "Green beans, frozen, cooked with oil",
+   "Green beans, NS as to form, cooked",
+   "Green beans, canned, cooked, no added fat",
+   "Green beans, fresh, cooked, no added fat",
+   "Green beans, frozen, cooked, no added fat",
+   "Classic mixed vegetables, NS as to form, cooked",
+   "Classic mixed vegetables, canned, cooked with oil",
+   "Classic mixed vegetables, cooked, from restaurant",
+   "Classic mixed vegetables, frozen, cooked with oil",
+   "Classic mixed vegetables, canned, cooked, no added fat",
+   "Classic mixed vegetables, frozen, cooked, no added fat",
+   "Classic mixed vegetables, canned, cooked with butter or margarine",
+   "Classic mixed vegetables, frozen, cooked with butter or margarine",
+   "Pasta, vegetable, cooked",
+   "Classic mixed vegetables, canned, reduced sodium, cooked with oil"
+  ],
+  "queries": [
+   "broccoli cooked",
+   "green beans cooked",
+   "vegetables mixed cooked"
+  ]
+ },
+ "side_rice": {
+  "basis": "whole dish (a side)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2708403,
+    "description": "Rice, white, cooked, NS as to fat",
+    "portions": [
+     {
+      "label": "1 cup, cooked",
+      "gram_weight": 163.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 122.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2709077,
+    "description": "Rice pilaf",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 155.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 206.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Rice, white, cooked, glutinous",
+   "Rice, white, cooked, as ingredient",
+   "Rice, white, cooked, made with oil",
+   "Rice, white, cooked, no added fat",
+   "Rice, white, cooked, NS as to fat",
+   "Rice, white, cooked, made with margarine",
+   "Rice, white, cooked, made with butter",
+   "Rice, white and wild, cooked, fat added",
+   "Rice, white and wild, cooked, no added fat",
+   "Rice, white and wild, cooked, NS as to fat",
+   "Rice pilaf",
+   "Dirty rice",
+   "Rice dressing",
+   "Crackers, rice",
+   "Rice paper",
+   "Rice cake",
+   "Chips, rice",
+   "Adobo, with rice",
+   "Bread, rice",
+   "Cream of rice"
+  ],
+  "queries": [
+   "rice white cooked",
+   "rice pilaf"
+  ]
+ },
+ "side_bread": {
+  "basis": "whole dish (an order)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2707627,
+    "description": "Garlic bread, from fast food / restaurant",
+    "portions": [
+     {
+      "label": "1 baguette (about 22\" long)",
+      "gram_weight": 376.0,
+      "qualifies": false,
+      "why": "a single roll, stick or knot is not an order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 74.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small slice",
+      "gram_weight": 37.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 medium slice",
+      "gram_weight": 74.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 mini baguette (about 9\" long)",
+      "gram_weight": 176.0,
+      "qualifies": false,
+      "why": "a single roll, stick or knot is not an order"
+     },
+     {
+      "label": "1 large slice",
+      "gram_weight": 111.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece/slice Texas Toast",
+      "gram_weight": 40.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2707662,
+    "description": "Roll, garlic",
+    "portions": [
+     {
+      "label": "1 medium/regular/sandwich size roll",
+      "gram_weight": 35.0,
+      "qualifies": false,
+      "why": "a single roll, stick or knot is not an order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 43.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 miniature/small roll",
+      "gram_weight": 28.0,
+      "qualifies": false,
+      "why": "a single roll, stick or knot is not an order"
+     },
+     {
+      "label": "1 large roll",
+      "gram_weight": 43.0,
+      "qualifies": false,
+      "why": "a single roll, stick or knot is not an order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2707693,
+    "description": "Breadsticks, soft, fast food / restaurant",
+    "portions": [
+     {
+      "label": "1 garlic knot",
+      "gram_weight": 34.0,
+      "qualifies": false,
+      "why": "a single roll, stick or knot is not an order"
+     },
+     {
+      "label": "1 small stick",
+      "gram_weight": 26.0,
+      "qualifies": false,
+      "why": "a single roll, stick or knot is not an order"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 50.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 medium stick",
+      "gram_weight": 40.0,
+      "qualifies": false,
+      "why": "a single roll, stick or knot is not an order"
+     },
+     {
+      "label": "1 large stick",
+      "gram_weight": 50.0,
+      "qualifies": false,
+      "why": "a single roll, stick or knot is not an order"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Garlic bread, NFS",
+   "Garlic bread, from frozen",
+   "Garlic bread, from fast food / restaurant",
+   "Garlic bread, with melted cheese, from frozen",
+   "Garlic bread, with parmesan cheese, from frozen",
+   "Garlic bread, with parmesan cheese, from fast food / restaurant",
+   "Garlic bread, with melted cheese, from fast food / restaurant",
+   "Garlic sauce",
+   "Garlic, cooked",
+   "Garlic, raw",
+   "Roll, egg bread",
+   "Roll, multigrain",
+   "Pizza rolls",
+   "Pork, roll",
+   "Roll, cheese",
+   "Roll, diet",
+   "Roll, garlic",
+   "Roll, oatmeal",
+   "Roll, pumpernickel",
+   "Roll, rye",
+   "Breadsticks, NFS",
+   "Breadsticks, hard, NFS",
+   "Breadsticks, soft, frozen",
+   "Breadsticks, soft, NFS",
+   "Breadsticks, hard, gluten free",
+   "Breadsticks, hard, reduced sodium",
+   "Breadsticks, hard, whole wheat",
+   "Breadsticks, soft, fast food / restaurant",
+   "Breadsticks, soft, stuffed or topped with melted cheese",
+   "Breadsticks, soft, with parmesan cheese, fast food / restaurant"
+  ],
+  "queries": [
+   "garlic bread",
+   "bread roll",
+   "breadsticks"
+  ]
+ },
+ "dessert": {
+  "basis": "whole dish (one dessert)",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2707866,
+    "description": "Cake or cupcake, chocolate with chocolate icing, bakery",
+    "portions": [
+     {
+      "label": "1 regular cupcake",
+      "gram_weight": 90.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 175.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 regular or small piece/slice, 2+ layer cake",
+      "gram_weight": 175.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 100.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 regular or small piece/slice, 1 layer cake",
+      "gram_weight": 115.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 6.8,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 miniature/bite size",
+      "gram_weight": 30.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 large piece/slice, 1 layer cake",
+      "gram_weight": 170.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 large piece/slice, 2+ layer cake",
+      "gram_weight": 260.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2707861,
+    "description": "Cheesecake, plain",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 175.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 180.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 piece/slice, any size",
+      "gram_weight": 175.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2707904,
+    "description": "Cookie, brownie, without icing",
+    "portions": [
+     {
+      "label": "1 small or bite size",
+      "gram_weight": 30.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "1 medium",
+      "gram_weight": 50.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 50.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 large",
+      "gram_weight": 90.0,
+      "qualifies": false,
+      "why": "not a whole-dish, fillet or restaurant portion"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2705630,
+    "description": "Ice cream, vanilla",
+    "portions": [
+     {
+      "label": "1 individual container",
+      "gram_weight": 75.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 medium ice cream cup",
+      "gram_weight": 240.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 small ice cream cup",
+      "gram_weight": 120.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 scoop",
+      "gram_weight": 120.0,
+      "qualifies": true,
+      "why": "whole dish, fillet, steak or restaurant order"
+     },
+     {
+      "label": "1 large ice cream cup",
+      "gram_weight": 360.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cubic inch",
+      "gram_weight": 9.2,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 135.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Cake or cupcake, chocolate, no icing",
+   "Cake or cupcake, chocolate with chocolate icing, bakery",
+   "Doughnut, cake type, chocolate icing",
+   "Cake or cupcake, chocolate with chocolate icing, from mix",
+   "Cake or cupcake, white with chocolate icing, bakery",
+   "Cake or cupcake, chocolate with white icing, bakery",
+   "Ice cream cake",
+   "Cake or cupcake, white with chocolate icing, from mix",
+   "Cake or cupcake, chocolate with white icing, from mix",
+   "Cake or cupcake, white, no icing",
+   "Cheesecake, chocolate",
+   "Cheesecake, fruit",
+   "Cheesecake, plain",
+   "Cookie, butterscotch, brownie",
+   "Cookie, brownie, without icing",
+   "Cookie, brownie, with icing or filling",
+   "Cookie, brownie, NS as to icing",
+   "Cookie, brownie, reduced fat, NS as to icing",
+   "Anisette toast",
+   "Cookie bar, with chocolate, nuts, and graham crackers",
+   "Cookie, almond",
+   "Cookie, animal",
+   "Cookie, animal, with frosting or icing",
+   "Ice cream, chocolate",
+   "Ice cream, fried",
+   "Ice cream, NFS",
+   "Ice cream, vanilla",
+   "Ice cream candy bar",
+   "Light ice cream, vanilla",
+   "Pastry, puff, custard or cream filled, iced or not iced",
+   "Cream puff, no filling or icing",
+   "Ice cream bar, chocolate"
+  ],
+  "queries": [
+   "cake chocolate with icing",
+   "cheesecake",
+   "brownie",
+   "ice cream"
+  ]
+ },
+ "kids_dish": {
+  "basis": "whole dish",
+  "cooked_to_raw": null,
+  "dough_share": false,
+  "records": [
+   {
+    "fdc_id": 2706094,
+    "description": "Chicken nuggets, from restaurant",
+    "portions": [
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 80.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 nugget",
+      "gram_weight": 16.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "1 cup",
+      "gram_weight": 140.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   },
+   {
+    "fdc_id": 2708811,
+    "description": "Macaroni or noodles with cheese",
+    "portions": [
+     {
+      "label": "1 cup",
+      "gram_weight": 230.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     },
+     {
+      "label": "Quantity not specified",
+      "gram_weight": 230.0,
+      "qualifies": false,
+      "why": "a measure, slice, piece, sharing size or unspecified default"
+     }
+    ]
+   }
+  ],
+  "searched": [
+   "Chicken nuggets, NFS",
+   "Chicken nuggets, from frozen",
+   "Chicken nuggets, from restaurant",
+   "Chicken nuggets, from fast food",
+   "Chicken nuggets, from other sources",
+   "Chicken nuggets, from school lunch",
+   "Turkey, nuggets",
+   "Chicken patty, or nuggets, boneless, breaded, potatoes, vegetable, frozen meal",
+   "Chicken, chicken roll, roasted",
+   "Orange chicken",
+   "Macaroni or noodles with cheese",
+   "Beef and macaroni with cheese sauce",
+   "Macaroni or noodles with cheese and egg",
+   "Macaroni or noodles with cheese and meat",
+   "Macaroni or noodles with cheese and tomato",
+   "Macaroni or noodles with cheese and tuna",
+   "Macaroni or noodles with cheese, canned",
+   "Macaroni or noodles, creamed, with cheese",
+   "Macaroni or pasta salad with cheese",
+   "Macaroni or noodles with cheese and chicken or turkey"
+  ],
+  "queries": [
+   "chicken nuggets",
+   "macaroni and cheese"
+  ]
+ }
+}

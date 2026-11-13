@@ -1,0 +1,125 @@
+{
+ "file": "menu_23_en_boardwalk_bistro_chalkboard.jpg",
+ "telegram_file": "telegram_1280/menu_23_en_boardwalk_bistro_chalkboard.jpg",
+ "expected": {
+  "readable": "yes",
+  "problems": "",
+  "items": [
+   {
+    "section": "(specials)",
+    "category": "food",
+    "name": "Crudo of Swordfish",
+    "description": "roasted peppers, fetta, lemon pangratta",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TASTE OF THE SEA",
+    "category": "other",
+    "name": "Taste of the Sea",
+    "description": "Ocean trout / tuna poke salad; Crumbed whiting; Battered oysters; Chilled Mooloolaba prawns",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TASTE OF THE SEA",
+    "category": "food",
+    "name": "Ocean trout / tuna poke salad",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TASTE OF THE SEA",
+    "category": "food",
+    "name": "Crumbed whiting",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TASTE OF THE SEA",
+    "category": "food",
+    "name": "Battered oysters",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TASTE OF THE SEA",
+    "category": "food",
+    "name": "Chilled Mooloolaba prawns",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "FISH OF THE DAY",
+    "category": "food",
+    "name": "Ocean Trout",
+    "description": "watermelon, fetta, mint, almond, salsa verde salad",
+    "price": "37",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "FISH OF THE DAY",
+    "category": "food",
+    "name": "North Qld Barramundi",
+    "description": "watermelon, fetta, mint, almond, salsa verde salad",
+    "price": "38",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "FISH OF THE DAY",
+    "category": "food",
+    "name": "Cobia",
+    "description": "watermelon, fetta, mint, almond, salsa verde salad",
+    "price": "39",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "FISH OF THE DAY",
+    "category": "food",
+    "name": "Snapper",
+    "description": "watermelon, fetta, mint, almond, salsa verde salad",
+    "price": "39",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   }
+  ]
+ },
+ "scoring_hints": {
+  "cut_off_lines_left_out": [],
+  "low_confidence_items": [],
+  "medium_confidence_items": []
+ }
+}

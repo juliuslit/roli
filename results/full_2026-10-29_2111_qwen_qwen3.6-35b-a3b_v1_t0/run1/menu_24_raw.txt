@@ -1,0 +1,90 @@
+{
+"readable": "partly",
+"problems": "The top heading is cut off, showing only 'HOT SANDWICHES'. The prices on the right side are partially cut off, showing only the first two digits of the cents (e.g., '67' instead of '6.75').",
+"items": [
+{
+"section": "HOT SANDWICHES",
+"category": "food",
+"name": "BEST BEEF",
+"description": "",
+"price": "67",
+"tags": "",
+"portion": "REG",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "medium"
+},
+{
+"section": "HOT SANDWICHES",
+"category": "food",
+"name": "BEEF SUPREME",
+"description": "",
+"price": "74",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "medium"
+},
+{
+"section": "HOT SANDWICHES",
+"category": "food",
+"name": "BEEF, BACON & CHEESE",
+"description": "",
+"price": "78",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "medium"
+},
+{
+"section": "HOT SANDWICHES",
+"category": "food",
+"name": "BEEF & CHEDDAR",
+"description": "",
+"price": "73",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "medium"
+},
+{
+"section": "HOT SANDWICHES",
+"category": "food",
+"name": "BEEF, BAC. & CHEDDAR",
+"description": "",
+"price": "78",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "medium"
+},
+{
+"section": "HOT SANDWICHES",
+"category": "food",
+"name": "FRENCH DIP",
+"description": "",
+"price": "735",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "",
+"confidence": "medium"
+},
+{
+"section": "HOT SANDWICHES",
+"category": "add-on",
+"name": "W/CHEDDAR",
+"description": "",
+"price": "79",
+"tags": "",
+"portion": "",
+"has_choice": "no",
+"belongs_to": "FRENCH DIP",
+"confidence": "medium"
+}
+]
+}

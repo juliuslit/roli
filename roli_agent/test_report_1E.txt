@@ -1,0 +1,58 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.13.5, pytest-9.2.0, pluggy-1.7.0 -- /Users/juliuslitinskas/projects/roli/.venv/bin/python
+cachedir: .pytest_cache
+rootdir: /Users/juliuslitinskas/projects/roli
+configfile: pytest.ini
+testpaths: roli_agent/tests
+plugins: anyio-4.15.1, langsmith-0.14.14
+collecting ... collected 31 items
+
+roli_agent/tests/test_failures.py::test_timeout_three_times_is_unavailable PASSED [  3%]
+roli_agent/tests/test_failures.py::test_rate_limited_no_retry_no_values PASSED [  6%]
+roli_agent/tests/test_failures.py::test_record_not_found PASSED          [  9%]
+roli_agent/tests/test_failures.py::test_mismatched_id_values_are_discarded PASSED [ 12%]
+roli_agent/tests/test_failures.py::test_validation_failure_discards_values PASSED [ 16%]
+roli_agent/tests/test_failures.py::test_malformed_usda_reply PASSED      [ 19%]
+roli_agent/tests/test_failures.py::test_search_failure_means_no_values_and_no_selection_attempt[failure0] PASSED [ 22%]
+roli_agent/tests/test_failures.py::test_search_failure_means_no_values_and_no_selection_attempt[failure1] PASSED [ 25%]
+roli_agent/tests/test_failures.py::test_search_failure_means_no_values_and_no_selection_attempt[failure2] PASSED [ 29%]
+roli_agent/tests/test_failures.py::test_search_failure_means_no_values_and_no_selection_attempt[failure3] PASSED [ 32%]
+roli_agent/tests/test_failures.py::test_irrelevant_results_llm_declines_no_values PASSED [ 35%]
+roli_agent/tests/test_failures.py::test_llm_proposes_id_not_in_candidates_is_rejected PASSED [ 38%]
+roli_agent/tests/test_failures.py::test_llm_proposes_bool_or_string_id_is_rejected PASSED [ 41%]
+roli_agent/tests/test_failures.py::test_no_candidates_at_all PASSED      [ 45%]
+roli_agent/tests/test_failures.py::test_unparsable_interpretation_is_unclear PASSED [ 48%]
+roli_agent/tests/test_failures.py::test_invalid_query_from_llm_is_handled_by_the_service PASSED [ 51%]
+roli_agent/tests/test_failures.py::test_usda_values_never_leak_from_a_failed_run_into_the_next PASSED [ 54%]
+roli_agent/tests/test_food_path.py::test_chinook_complete_lookup PASSED  [ 58%]
+roli_agent/tests/test_food_path.py::test_pink_complete_lookup PASSED     [ 61%]
+roli_agent/tests/test_food_path.py::test_king_salmon_resolves_to_chinook_not_mackerel PASSED [ 64%]
+roli_agent/tests/test_food_path.py::test_values_stay_with_their_own_fdc_id PASSED [ 67%]
+roli_agent/tests/test_food_path.py::test_partial_record_says_not_reported_never_zero PASSED [ 70%]
+roli_agent/tests/test_food_path.py::test_other_intent_gets_no_numbers_and_no_usda_call PASSED [ 74%]
+roli_agent/tests/test_live.py::test_live_chinook SKIPPED (set ROLI_L...) [ 77%]
+roli_agent/tests/test_live.py::test_live_pink SKIPPED (set ROLI_LIVE...) [ 80%]
+roli_agent/tests/test_live.py::test_live_king_salmon SKIPPED (set RO...) [ 83%]
+roli_agent/tests/test_live.py::test_live_menu_photo SKIPPED (set ROL...) [ 87%]
+roli_agent/tests/test_menu_path.py::test_menu_photo_lists_dishes_without_totals PASSED [ 90%]
+roli_agent/tests/test_menu_path.py::test_menu_reply_preserves_readability_problems PASSED [ 93%]
+roli_agent/tests/test_menu_path.py::test_unreadable_reader_output_is_reported_not_invented PASSED [ 96%]
+roli_agent/tests/test_menu_path.py::test_missing_photo_file_is_reported PASSED [100%]
+
+=============================== warnings summary ===============================
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ============================
+SKIPPED [1] roli_agent/tests/test_live.py:34: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:41: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:48: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:55: set ROLI_LIVE_TESTS=1 for live calls
+=================== 27 passed, 4 skipped, 1 warning in 0.59s ===================
+[live] chinook 5.3s
+PASSED
+[live] pink 4.0s
+PASSED
+[live] king 3.5s
+PASSED
+[live] menu 10.4s
+PASSED

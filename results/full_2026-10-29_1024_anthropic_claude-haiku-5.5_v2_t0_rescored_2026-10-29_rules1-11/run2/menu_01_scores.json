@@ -1,0 +1,59 @@
+{
+ "photo": "01",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9859154929577465,
+ "expected_items": 71,
+ "found_items": 70,
+ "joined_found": 12,
+ "unmatched_expected_names": [
+  "Badger Sparkling Yuzu Lime"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Yuzu Lime"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Badger Sparkling ~ Badger Sparkling Yuzu Lime (62%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 0.9714285714285714,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 16,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 2,
+   "total": 56,
+   "share_wrong": 0.03571428571428571
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is taken at an angle with glare and reflections on the upper part of the menu; the lower-left drinks section is small and slightly blurred, so some drink prices and names are medium confidence. The Zuni header and fair-wage notices were ignored.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 20.214278333005495,
+ "cost_usd": 0.0037399,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

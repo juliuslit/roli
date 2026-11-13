@@ -1,0 +1,61 @@
+{
+ "photo": "06",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.989010989010989,
+ "expected_items": 91,
+ "other_set_aside": 0,
+ "found_items": 90,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Make your own pizza - standard base with sauce and mozzarella"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 1,
+ "grouping_names": [
+  "DIPS -> ['Garlic butter', 'Garlic oil (vgn)', 'Garlic mayo', 'Marinara sauce (vgn)', 'Sundried tomato (vgn) (contains garlic)', 'BBQ sauce (vgn)', 'Chilli jam (vgn)', 'Chilli oil (vgn)', 'Almond pesto (vgn)']"
+ ],
+ "prices_right": 0.9753086419753086,
+ "price_wrong_names": [
+  "NDUJA WANNA: price '17' vs key '£17.5'",
+  "THE MOBY: price '17.5' vs key '£17'"
+ ],
+ "descriptions_right": 0.8780487804878049,
+ "descriptions_checked": 41,
+ "tags_right": 0.7777777777777778,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9876543209876543,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 21,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 3,
+   "total": 61,
+   "share_wrong": 0.04918032786885246
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is taken at an angle with a hand covering the bottom-right edge of the right page; some lower-right items are partly hidden. Some small print (e.g., spare parts ingredient prices, dips list) is tight and was read with medium confidence. Non-readable/partly hidden items were omitted.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 28.789708833006443,
+ "cost_usd": 0.0054388,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

@@ -1,0 +1,8 @@
+{"readable": "partly", "problems": "The photo is cropped at the right edge, so most prices are cut off and only the first two or three digits show. Glare and reflections cover part of the board. The heading 'HOT SANDWICHES' is partly cut off at the top. The French Dip price reads 735 but the 'W/CHEDDAR' line next to it is cut off at the bottom and its price is only partly visible. Only the Best Beef price is shown with REG, and its price is cut off at the right edge. Prices are left blank where the digits are truncated.", "items": [
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEST BEEF", "description": "", "price": "", "tags": "", "portion": "REG", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF SUPREME", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BACON & CHEESE", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF & CHEDDAR", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "BEEF, BAC. & CHEDDAR", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "HOT SANDWICHES", "category": "food", "name": "FRENCH DIP", "description": "", "price": "735", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"}
+]}

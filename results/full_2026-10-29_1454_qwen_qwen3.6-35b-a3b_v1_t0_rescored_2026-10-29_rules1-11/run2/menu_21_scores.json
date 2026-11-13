@@ -1,0 +1,52 @@
+{
+ "photo": "21",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.875,
+ "expected_items": 8,
+ "found_items": 7,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Vegetarian"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 1,
+ "grouping_names": [
+  "Pizza By The Slice -> ['Combo', 'Pepperoni']"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 4,
+ "tags_right": 1.0,
+ "portion_right": 0.6,
+ "has_choice_right": 0.8,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 6,
+   "share_wrong": 0.16666666666666666
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 33.29456504099653,
+ "cost_usd": 0.00073795,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 1803,
+ "completion_tokens": 587,
+ "generation_id": "gen-1793306216-iTroNJ0u6torU6t2omzy",
+ "rep": 2
+}

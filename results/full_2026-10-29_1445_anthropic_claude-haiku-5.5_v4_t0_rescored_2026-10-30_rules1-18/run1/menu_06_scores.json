@@ -1,0 +1,71 @@
+{
+ "photo": "06",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9010989010989011,
+ "expected_items": 91,
+ "other_set_aside": 0,
+ "found_items": 82,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Make your own pizza - standard base with sauce and mozzarella",
+  "Garlic butter",
+  "Garlic oil (vgn)",
+  "Garlic mayo",
+  "Marinara sauce (vgn)",
+  "BBQ sauce (vgn)",
+  "Chilli jam (vgn)",
+  "Chilli oil (vgn)",
+  "Almond pesto (vgn)"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.8780487804878049,
+ "descriptions_checked": 41,
+ "tags_right": 0.8292682926829268,
+ "portion_right": 1.0,
+ "has_choice_right": 0.975609756097561,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 23,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 39,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 0,
+   "total": 20,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is a two-page spread of a pizza menu; some small print is blurred and hand covers the bottom right of the right page. Several prices in the Spare Parts add-on list are only partly legible. The 'Dips' and 'Meat & stuff' price lines are grouped and were recorded as printed. Some Cheese etc. and Herbs lines are small and blurred, so confidence is lowered for them.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 29.804005957994377,
+ "cost_usd": 0.0050973,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3748,
+ "completion_tokens": 9445,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793299583-1auaw2AOs5Q7PsGtC43D",
+ "rep": 1
+}

@@ -1,0 +1,1901 @@
+{
+ "menu_item": {
+  "name": "BLUEFIN CRUDO",
+  "description": "bottarga, muscat grape, chive",
+  "section": "TO START",
+  "restaurant": ""
+ },
+ "queries": {
+  "open": "bluefin crudo recipe",
+  "structured_hosts": "bluefin crudo recipe bottarga"
+ },
+ "stats": {
+  "searches": 2,
+  "search_credits": 2,
+  "hits_open": 10,
+  "hits_structured": 10,
+  "hits_after_url_dedup": 18,
+  "hits_in_both_modes": 0,
+  "blocked_hosts_skipped": 2,
+  "fetched": 12,
+  "fetch_ok": 11,
+  "fetch_from_cache": 11,
+  "robots_disallowed": 0,
+  "rate_limited": 0,
+  "http_errors": 1,
+  "extracted": 6,
+  "extracted_by": {
+   "none": 5,
+   "recipe_scrapers": 6
+  },
+  "content_duplicates": 0,
+  "distinct_recipes": 6,
+  "with_servings": 5,
+  "pct_lines_quantified": 83.1,
+  "pct_lines_grams_known": 27.7,
+  "recipes_with_all_lines_quantified": 1,
+  "seconds": 1.1
+ },
+ "recipes": [
+  {
+   "url": "https://foodmymuse.com/tuna-crudo",
+   "canonical_url": "https://foodmymuse.com/tuna-crudo",
+   "host": "foodmymuse.com",
+   "title": "Spicy Tuna Crudo with Shoyu Ponzu Sauce",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:35+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "2 servings",
+   "servings": "2",
+   "servings_note": "parsed from '2 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 carrot (cut into very thin matchsticks)",
+    "olive oil (to cover the carrots)",
+    "2 scallions (chopped)",
+    "1/4 cup tamari (or soy sauce)",
+    "2 tbsp mirin",
+    "1 tbsp rice vinegar",
+    "1/2 orange (juiced)",
+    "1 tsp ginger (freshly grated)",
+    "1.5 tsp sesame oil",
+    "1 fresno chile (thinly sliced)",
+    "1 tbsp salsa macha (plus more for garnish)",
+    "1 tsp white miso",
+    "6-8 oz bluefin tuna (sushi grade, sliced)",
+    "1 lemon (zested)",
+    "micro cilantro (for topping)"
+   ],
+   "cooking_verbs": [
+    "fried",
+    "fry"
+   ],
+   "ingredients": [
+    {
+     "line": "1 carrot (cut into very thin matchsticks)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "carrot",
+     "preparation_words": [
+      "cut into very thin matchsticks"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "olive oil (to cover the carrots)",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "olive oil",
+     "preparation_words": [
+      "to cover the carrots"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "2 scallions (chopped)",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "scallions",
+     "preparation_words": [
+      "chopped"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/4 cup tamari (or soy sauce)",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "tamari",
+     "preparation_words": [
+      "or soy sauce"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 tbsp mirin",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "mirin",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tbsp rice vinegar",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "rice vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "14.78676478125",
+     "grams_reference": "1 US tbsp = 14.78676478125 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "1/2 orange (juiced)",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "orange",
+     "preparation_words": [
+      "juiced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tsp ginger (freshly grated)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tsp",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "ginger",
+     "preparation_words": [
+      "freshly grated"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1.5 tsp sesame oil",
+     "quantity_text": "1.5",
+     "quantity": "1.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tsp",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "sesame oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 fresno chile (thinly sliced)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "fresno chile",
+     "preparation_words": [
+      "thinly sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tbsp salsa macha (plus more for garnish)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "salsa macha",
+     "preparation_words": [
+      "plus more for garnish"
+     ],
+     "preparation_hint": "unknown",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tsp white miso",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tsp",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "white miso",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "6-8 oz bluefin tuna (sushi grade, sliced)",
+     "quantity_text": "6-8",
+     "quantity": "7",
+     "quantity_low": "6",
+     "quantity_high": "8",
+     "unit_raw": "oz",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "bluefin tuna",
+     "preparation_words": [
+      "sushi grade, sliced"
+     ],
+     "preparation_hint": "raw",
+     "optional": false,
+     "grams": "198.446661875",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": [
+      "range_midpoint"
+     ]
+    },
+    {
+     "line": "1 lemon (zested)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "lemon",
+     "preparation_words": [
+      "zested"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "micro cilantro (for topping)",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "micro cilantro",
+     "preparation_words": [
+      "for topping"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    }
+   ],
+   "content_hash": "d880836fe7af40c6",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://coleycooks.com/tuna-crudo",
+   "canonical_url": "https://coleycooks.com/tuna-crudo",
+   "host": "coleycooks.com",
+   "title": "Sicilian Tuna Crudo with Olives and Pistachios",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:35+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1/2 lb fresh sushi-grade tuna",
+    "1 lemon (zested and juiced)",
+    "2 tablespoons extra virgin olive oil",
+    "coarse flaky sea salt (to taste)",
+    "1 pinch red pepper flakes (to taste)",
+    "1 tablespoon Castelvetrano olives (pitted and finely chopped)",
+    "1 tablespoon pistachios (shelled and chopped)",
+    "1 tablespoon fresh basil (finely minced)"
+   ],
+   "cooking_verbs": [],
+   "ingredients": [
+    {
+     "line": "1/2 lb fresh sushi-grade tuna",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "lb",
+     "unit": "lb",
+     "unit_kind": "weight",
+     "name": "fresh sushi-grade tuna",
+     "preparation_words": [],
+     "preparation_hint": "raw",
+     "optional": false,
+     "grams": "226.796185",
+     "grams_reference": "1 lb = 453.59237 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "1 lemon (zested and juiced)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "lemon",
+     "preparation_words": [
+      "zested and juiced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 tablespoons extra virgin olive oil",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "coarse flaky sea salt (to taste)",
+     "quantity_text": "to taste",
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "coarse flaky sea salt",
+     "preparation_words": [
+      "to taste"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "vague_quantity"
+     ]
+    },
+    {
+     "line": "1 pinch red pepper flakes (to taste)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "pinch",
+     "unit": "pinch",
+     "unit_kind": "count",
+     "name": "red pepper flakes",
+     "preparation_words": [
+      "to taste"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon Castelvetrano olives (pitted and finely chopped)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "castelvetrano olives",
+     "preparation_words": [
+      "pitted and finely chopped"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon pistachios (shelled and chopped)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "pistachios",
+     "preparation_words": [
+      "shelled and chopped"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon fresh basil (finely minced)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "fresh basil",
+     "preparation_words": [
+      "finely minced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "62dd5c10f8df9ca9",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.twopurplefigs.com/tuna-crudo",
+   "canonical_url": "https://twopurplefigs.com/tuna-crudo",
+   "host": "twopurplefigs.com",
+   "title": "Tuna Crudo",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:35+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 saku tuna or ahi tuna (block)",
+    "1 teaspoon lemon juice",
+    "1 Tablespoons orange juice",
+    "1 teaspoon orange zest",
+    "1 teaspoon lemon zest",
+    "1 tabelspoons white balsamic vinegar",
+    "1/3 cup olive oil (quality olive oil like Mina)",
+    "1-2 tabelspoons capers (drained)",
+    "1/4 teaspoon salt and pepper",
+    "1 cup cucumbers (sliced)",
+    "3-4 garlic cloves (thinly sliced and pan fried in olive oil )",
+    "1/4 teaspoon chilli flakes (optional)",
+    "1-2 tabespoons olive oil"
+   ],
+   "cooking_verbs": [
+    "fried"
+   ],
+   "ingredients": [
+    {
+     "line": "1 saku tuna or ahi tuna (block)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "saku tuna or ahi tuna",
+     "preparation_words": [
+      "block"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 teaspoon lemon juice",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "lemon juice",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "4.92892159375",
+     "grams_reference": "1 US tsp = 4.92892159375 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "1 Tablespoons orange juice",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "Tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "orange juice",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 teaspoon orange zest",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "orange zest",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 teaspoon lemon zest",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "lemon zest",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tabelspoons white balsamic vinegar",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "tabelspoons white balsamic vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/3 cup olive oil (quality olive oil like Mina)",
+     "quantity_text": "1/3",
+     "quantity": "0.3333333333333333333333333333",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "olive oil",
+     "preparation_words": [
+      "quality olive oil like Mina"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1-2 tabelspoons capers (drained)",
+     "quantity_text": "1-2",
+     "quantity": "1.5",
+     "quantity_low": "1",
+     "quantity_high": "2",
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "tabelspoons capers",
+     "preparation_words": [
+      "drained"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/4 teaspoon salt and pepper",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "salt and pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 cup cucumbers (sliced)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "cucumbers",
+     "preparation_words": [
+      "sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3-4 garlic cloves (thinly sliced and pan fried in olive oil )",
+     "quantity_text": "3-4",
+     "quantity": "3.5",
+     "quantity_low": "3",
+     "quantity_high": "4",
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "garlic cloves",
+     "preparation_words": [
+      "thinly sliced and pan fried in olive oil"
+     ],
+     "preparation_hint": "cooked",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/4 teaspoon chilli flakes (optional)",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "chilli flakes",
+     "preparation_words": [
+      "optional"
+     ],
+     "preparation_hint": "unknown",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1-2 tabespoons olive oil",
+     "quantity_text": "1-2",
+     "quantity": "1.5",
+     "quantity_low": "1",
+     "quantity_high": "2",
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "tabespoons olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "a57df87c86eb4e81",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://lindseyeatsla.com/tuna-crudo-with-citrus-caper-vinaigrette",
+   "canonical_url": "https://lindseyeatsla.com/tuna-crudo-with-citrus-caper-vinaigrette",
+   "host": "lindseyeatsla.com",
+   "title": "Tuna Crudo with Citrus Caper Vinaigrette",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:35+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 pound sushi grade ahi tuna",
+    "1 Persian cucumber (thinly sliced)",
+    "1/4 cup extra virgin olive oil",
+    "zest of half a lemon and half an orange",
+    "juice of 1 small lemon",
+    "juice of 1 small orange",
+    "2 tablespoons caper juice/caper brine",
+    "1 to 2 tablespoons capers",
+    "finish off with toasted sesame seeds, flakey salt, black pepper and rice paper crisps (optional)"
+   ],
+   "cooking_verbs": [
+    "toasted"
+   ],
+   "ingredients": [
+    {
+     "line": "1 pound sushi grade ahi tuna",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "pound",
+     "unit": "lb",
+     "unit_kind": "weight",
+     "name": "sushi grade ahi tuna",
+     "preparation_words": [],
+     "preparation_hint": "raw",
+     "optional": false,
+     "grams": "453.59237",
+     "grams_reference": "1 lb = 453.59237 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "1 Persian cucumber (thinly sliced)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "persian cucumber",
+     "preparation_words": [
+      "thinly sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/4 cup extra virgin olive oil",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "zest of half a lemon and half an orange",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "zest of half a lemon and half an orange",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "juice of 1 small lemon",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "juice of 1 small lemon",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "juice of 1 small orange",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "juice of 1 small orange",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "2 tablespoons caper juice/caper brine",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "caper juice/caper brine",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 to 2 tablespoons capers",
+     "quantity_text": "1 to 2",
+     "quantity": "1.5",
+     "quantity_low": "1",
+     "quantity_high": "2",
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "capers",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "finish off with toasted sesame seeds, flakey salt, black pepper and rice paper crisps (optional)",
+     "quantity_text": "optional",
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "finish off with toasted sesame seeds",
+     "preparation_words": [
+      "optional",
+      "flakey salt",
+      "black pepper and rice paper crisps"
+     ],
+     "preparation_hint": "cooked",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "vague_quantity"
+     ]
+    }
+   ],
+   "content_hash": "6eec8ed25a194df0",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://cooking.nytimes.com/recipes/1024003-spaghettini-with-bottarga-and-colatura",
+   "canonical_url": "https://cooking.nytimes.com/recipes/1024003-spaghettini-with-bottarga-and-colatura",
+   "host": "cooking.nytimes.com",
+   "title": "Spaghettini With Bottarga and Colatura",
+   "found_by": [
+    "structured_hosts"
+   ],
+   "fetched_at": "2026-11-02T13:36:36+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "1 serving",
+   "servings": "1",
+   "servings_note": "parsed from '1 serving'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "Salt",
+    "3 ounces spaghettini (thin spaghetti)",
+    "3 tablespoons jarred yellow cherry tomato sauce, see Tip",
+    "½ ounce bottarga di muggine (cured grey mullet roe), finely grated (2 ½ tablespoons), see Tip",
+    "1 ½ teaspoons colatura di alici (anchovy extract), see Tip",
+    "1 large basil leaf, finely chopped",
+    "¼ small garlic clove, finely grated (optional)",
+    "Fresh lemon juice, to taste",
+    "Red-pepper flakes, to taste"
+   ],
+   "cooking_verbs": [
+    "boil"
+   ],
+   "ingredients": [
+    {
+     "line": "Salt",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "3 ounces spaghettini (thin spaghetti)",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ounces",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "spaghettini",
+     "preparation_words": [
+      "thin spaghetti"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "85.048569375",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "3 tablespoons jarred yellow cherry tomato sauce, see Tip",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "jarred yellow cherry tomato sauce",
+     "preparation_words": [
+      "see Tip"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "½ ounce bottarga di muggine (cured grey mullet roe), finely grated (2 ½ tablespoons), see Tip",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ounce",
+     "unit": "oz",
+     "unit_kind": "weight",
+     "name": "bottarga di muggine",
+     "preparation_words": [
+      "cured grey mullet roe",
+      "2 1/2 tablespoons",
+      "finely grated",
+      "see Tip"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "14.1747615625",
+     "grams_reference": "1 oz = 28.349523125 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "1 ½ teaspoons colatura di alici (anchovy extract), see Tip",
+     "quantity_text": "1 1/2",
+     "quantity": "1.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoons",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "colatura di alici",
+     "preparation_words": [
+      "anchovy extract",
+      "see Tip"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 large basil leaf, finely chopped",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "large",
+     "unit": "large",
+     "unit_kind": "count",
+     "name": "basil leaf",
+     "preparation_words": [
+      "finely chopped"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¼ small garlic clove, finely grated (optional)",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "small",
+     "unit": "small",
+     "unit_kind": "count",
+     "name": "garlic clove",
+     "preparation_words": [
+      "optional",
+      "finely grated"
+     ],
+     "preparation_hint": "unknown",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Fresh lemon juice, to taste",
+     "quantity_text": "to taste",
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "fresh lemon juice",
+     "preparation_words": [
+      "to taste"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "vague_quantity"
+     ]
+    },
+    {
+     "line": "Red-pepper flakes, to taste",
+     "quantity_text": "to taste",
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "red-pepper flakes",
+     "preparation_words": [
+      "to taste"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "vague_quantity"
+     ]
+    }
+   ],
+   "content_hash": "c113e1677553b1b2",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.greatitalianchefs.com/recipes/spaghetti-with-bottarga-sauce",
+   "canonical_url": "https://greatitalianchefs.com/recipes/spaghetti-with-bottarga-sauce",
+   "host": "greatitalianchefs.com",
+   "title": "Spaghetti with bottarga sauce",
+   "found_by": [
+    "structured_hosts"
+   ],
+   "fetched_at": "2026-11-02T13:36:36+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "",
+   "servings": null,
+   "servings_note": "no yield stated",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "150g of grouper cheek",
+    "extra virgin olive oil",
+    "1 handful of mint, leaves picked",
+    "1 handful of lemon verbena, leaves picked",
+    "5 sprigs of lemon thyme, leaves picked",
+    "1 lemongrass, leaves removed",
+    "50ml of olive oil",
+    "1 garlic clove",
+    "6g of parsley",
+    "50g of tuna bottarga, Ciccio uses his own brand",
+    "60g of olive oil, Ciccio uses Biancololla",
+    "18ml of lemon juice, fresh",
+    "60g of breadcrumbs, toasted",
+    "1 orange, zested plus half the juice",
+    "10g of sugar",
+    "1 tsp white wine vinegar",
+    "30g of pine nuts",
+    "2 anchovies, (salt packed)",
+    "50g of vegetable stock",
+    "dried red chillies, to your taste",
+    "18ml of lime juice",
+    "10g of ground cinnamon",
+    "4g of ground cloves",
+    "100g of ground almonds",
+    "500g of spaghetti",
+    "salt",
+    "50g of tuna bottarga, Ciccio uses his own brand",
+    "400ml of carrot juice",
+    "lime zest"
+   ],
+   "cooking_verbs": [],
+   "ingredients": [
+    {
+     "line": "150g of grouper cheek",
+     "quantity_text": "150",
+     "quantity": "150",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "grouper cheek",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "150",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "extra virgin olive oil",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "extra virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "1 handful of mint, leaves picked",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "handful",
+     "unit": "handful",
+     "unit_kind": "count",
+     "name": "mint",
+     "preparation_words": [
+      "leaves picked"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 handful of lemon verbena, leaves picked",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "handful",
+     "unit": "handful",
+     "unit_kind": "count",
+     "name": "lemon verbena",
+     "preparation_words": [
+      "leaves picked"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "5 sprigs of lemon thyme, leaves picked",
+     "quantity_text": "5",
+     "quantity": "5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "sprigs",
+     "unit": "sprig",
+     "unit_kind": "count",
+     "name": "lemon thyme",
+     "preparation_words": [
+      "leaves picked"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 lemongrass, leaves removed",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "lemongrass",
+     "preparation_words": [
+      "leaves removed"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "50ml of olive oil",
+     "quantity_text": "50",
+     "quantity": "50",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ml",
+     "unit": "ml",
+     "unit_kind": "volume",
+     "name": "olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 garlic clove",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "garlic clove",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "6g of parsley",
+     "quantity_text": "6",
+     "quantity": "6",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "parsley",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "6",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "50g of tuna bottarga, Ciccio uses his own brand",
+     "quantity_text": "50",
+     "quantity": "50",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "tuna bottarga",
+     "preparation_words": [
+      "Ciccio uses his own brand"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "50",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "60g of olive oil, Ciccio uses Biancololla",
+     "quantity_text": "60",
+     "quantity": "60",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "olive oil",
+     "preparation_words": [
+      "Ciccio uses Biancololla"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "60",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "18ml of lemon juice, fresh",
+     "quantity_text": "18",
+     "quantity": "18",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ml",
+     "unit": "ml",
+     "unit_kind": "volume",
+     "name": "lemon juice",
+     "preparation_words": [
+      "fresh"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "18",
+     "grams_reference": "1 ml; density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "60g of breadcrumbs, toasted",
+     "quantity_text": "60",
+     "quantity": "60",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "breadcrumbs",
+     "preparation_words": [
+      "toasted"
+     ],
+     "preparation_hint": "cooked",
+     "optional": false,
+     "grams": "60",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "1 orange, zested plus half the juice",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "orange",
+     "preparation_words": [
+      "zested plus half the juice"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "10g of sugar",
+     "quantity_text": "10",
+     "quantity": "10",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "sugar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "10",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "1 tsp white wine vinegar",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tsp",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "white wine vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "4.92892159375",
+     "grams_reference": "1 US tsp = 4.92892159375 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "30g of pine nuts",
+     "quantity_text": "30",
+     "quantity": "30",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "pine nuts",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "30",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "2 anchovies, (salt packed)",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "anchovies",
+     "preparation_words": [
+      "salt packed"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "50g of vegetable stock",
+     "quantity_text": "50",
+     "quantity": "50",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "vegetable stock",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "50",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "dried red chillies, to your taste",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "dried red chillies",
+     "preparation_words": [
+      "to your taste"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "18ml of lime juice",
+     "quantity_text": "18",
+     "quantity": "18",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ml",
+     "unit": "ml",
+     "unit_kind": "volume",
+     "name": "lime juice",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "18",
+     "grams_reference": "1 ml; density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "10g of ground cinnamon",
+     "quantity_text": "10",
+     "quantity": "10",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "ground cinnamon",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "10",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "4g of ground cloves",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "ground cloves",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "4",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "100g of ground almonds",
+     "quantity_text": "100",
+     "quantity": "100",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "ground almonds",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "100",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "500g of spaghetti",
+     "quantity_text": "500",
+     "quantity": "500",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "spaghetti",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "500",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "salt",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "50g of tuna bottarga, Ciccio uses his own brand",
+     "quantity_text": "50",
+     "quantity": "50",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "tuna bottarga",
+     "preparation_words": [
+      "Ciccio uses his own brand"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "50",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "400ml of carrot juice",
+     "quantity_text": "400",
+     "quantity": "400",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ml",
+     "unit": "ml",
+     "unit_kind": "volume",
+     "name": "carrot juice",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "lime zest",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "lime zest",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    }
+   ],
+   "content_hash": "1ffbf84c8ec9bba6",
+   "duplicate_of": null,
+   "flags": []
+  }
+ ]
+}

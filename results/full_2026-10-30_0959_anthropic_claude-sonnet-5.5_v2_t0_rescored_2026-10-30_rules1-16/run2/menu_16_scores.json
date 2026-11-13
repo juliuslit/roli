@@ -1,0 +1,60 @@
+{
+ "photo": "16",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 14,
+ "other_set_aside": 0,
+ "found_items": 14,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 14,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 10,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 2,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 0,
+   "total": 2,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The left edge of the photo cuts off the start of some items. 'CHILE COLORADO' is shown as 'HILE COLORADO' with the description partly cut off ('...eak & onion in rich sauce'). 'ARROZ CON POLLO' is cut off at the left ('ROZ CON POLLO'), so its description is partial. The right edge cuts off the end of the POLLO FUNDIDO price and the TACOS AL CARBON description and price. Glare covers parts of the Taquitos, Tortilla Soup and Pollo Fundido text. Those cut-off items are left out or marked with lower confidence.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 10.414259083976503,
+ "cost_usd": 0.023892,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3106,
+ "completion_tokens": 1768,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793369372-ECQhr8xmtOLaInTh1C5Y",
+ "rep": 2
+}

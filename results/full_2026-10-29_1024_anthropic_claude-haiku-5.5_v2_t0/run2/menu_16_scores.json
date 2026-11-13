@@ -1,0 +1,53 @@
+{
+ "photo": "16",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 14,
+ "found_items": 14,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 2,
+ "cut_off_names": [
+  "Chile Colorado",
+  "Roz con Pollo"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9285714285714286,
+ "descriptions_checked": 14,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 9,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 4,
+   "share_wrong": 0.25
+  },
+  "low": {
+   "wrong": 1,
+   "total": 3,
+   "share_wrong": 0.3333333333333333
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Photo is taken at an angle with glare; the right edge is cut off, so some right-column names and prices (e.g. Pollo Fundido price, Tacos al Carbon price, Pollo Asado price partially visible) are truncated. Left-edge items 'Chile Verde', 'Chile Colorado', 'Roz con Pollo' are partly cut off at the left edge; their names are only partly readable and are listed as printed where legible. The 'Tortilla Soup' heading is partly obscured by glare and the 'Taquitos' description is partly covered. Items with names fully cut off were omitted.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 7.415039499988779,
+ "cost_usd": 0.0012814,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": ""
+}

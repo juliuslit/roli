@@ -1,0 +1,70 @@
+{
+ "photo": "24",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "French Dip w/Cheddar",
+   "key_price": "",
+   "model_name": "W/CHEDDAR",
+   "model_price": "79",
+   "reason": "name differs (52% similar)"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 7,
+ "found_items": 6,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "W/CHEDDAR ~ French Dip w/Cheddar (52%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.3333333333333333,
+ "price_wrong_names": [
+  "BEST BEEF: price '' vs key '6.74'",
+  "BEEF SUPREME: price '' vs key '7.44'",
+  "BEEF, BACON & CHEESE: price '' vs key '7.84'",
+  "BEEF & CHEDDAR: price '' vs key '7.34'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 2,
+   "total": 4,
+   "share_wrong": 0.5
+  },
+  "low": {
+   "wrong": 3,
+   "total": 3,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The photo is cropped at the top and right edges, so the section heading 'HOT SANDWICHES' is cut off and the price columns are truncated (e.g. prices for Best Beef, Beef Supreme and Beef, Bacon & Cheddar are cut off at the edge). Only the prices fully visible are recorded; the rest are left blank. The 'REG' label above the Best Beef row is a size/column label and is recorded as a portion-like marker where relevant.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 3.923082916997373,
+ "cost_usd": 0.0006551,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2516,
+ "completion_tokens": 807,
+ "generation_id": "gen-1793298708-rtEhQb0vjCHN2bIqwllA",
+ "rep": 1
+}

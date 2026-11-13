@@ -1,0 +1,99 @@
+{
+  "fdcId": 172442,
+  "description": "Miso",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 43,
+        "code": "JO",
+        "description": "Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",
+        "foodNutrientSource": {
+          "id": 8,
+          "code": "11",
+          "description": "Aggregated data involving comb. of codes other then 1,12 or6"
+        }
+      },
+      "id": 1695481,
+      "amount": 1.025,
+      "dataPoints": 2,
+      "max": 1.23,
+      "min": 0.82
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "id": 1695503,
+      "amount": 0.0,
+      "dataPoints": 0
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 90630,
+      "gramWeight": 275.0,
+      "sequenceNumber": 2,
+      "amount": 1.0,
+      "modifier": "cup",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 90629,
+      "gramWeight": 17.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "modifier": "tbsp",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 14752,
+      "proteinValue": 3.47,
+      "fatValue": 8.37,
+      "carbohydrateValue": 4.07,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 20204,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "inputFoods": [],
+  "ndbNumber": 16112,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 16,
+    "code": "1600",
+    "description": "Legumes and Legume Products"
+  }
+}

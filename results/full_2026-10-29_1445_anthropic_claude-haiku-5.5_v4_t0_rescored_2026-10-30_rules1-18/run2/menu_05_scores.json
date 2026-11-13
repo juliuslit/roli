@@ -1,0 +1,69 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9545454545454546,
+ "expected_items": 66,
+ "other_set_aside": 1,
+ "found_items": 63,
+ "joined_found": 2,
+ "unmatched_expected_names": [
+  "DAILY SPECIAL (PLEASE ASK)",
+  "add shot of spirulina",
+  "add scoop of vegan protein"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "ULTIMATE BREAKFAST SANDWICH 3 FILLINGS"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 3,
+ "grouping_names": [
+  "parent FRESHLY BAKED JACKETS -> ['Ham and Cheese', 'Beans and Cheese', 'Barbecue Pulled Pork', 'Mediterranean roast vegetables (vegan)']",
+  "EXTRAS -> ['Sausage', 'Chorizo', 'Black pudding', 'Halloumi', 'Avocado', '2 Eggs']",
+  "EXTRAS -> ['Field mushroom', 'Tomato', 'Hash Brown', 'Beans']"
+ ],
+ "prices_right": 0.9591836734693877,
+ "price_wrong_names": [
+  "ULTIMATE BREAKFAST SANDWICH 1 FILLING: price '5.50' vs key '5.50 / 6.50 / 7.50'",
+  "ULTIMATE BREAKFAST SANDWICH 2 FILLINGS: price '6.50' vs key '2.00 each'"
+ ],
+ "descriptions_right": 0.9615384615384616,
+ "descriptions_checked": 26,
+ "tags_right": 0.8571428571428571,
+ "portion_right": 0.7551020408163265,
+ "has_choice_right": 0.8571428571428571,
+ "belongs_to_right": 0.6666666666666666,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 39,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 5,
+   "total": 13,
+   "share_wrong": 0.38461538461538464
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 18.84741099999519,
+ "cost_usd": 0.0035293,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3748,
+ "completion_tokens": 6309,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793299834-CpC5e79eSWp0BkTeTeaP",
+ "rep": 2
+}

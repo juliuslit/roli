@@ -1,0 +1,10 @@
+{"readable": "yes", "problems": "Other menus and papers at the edges of the photo (upside-down menu at top right, card at right) were ignored. The central menu is a set menu, so its dishes have no individual prices. The italic wine pairing lines under each dish are not items and were left out.", "items": [
+{"section": "", "category": "food", "name": "BLUEFIN CRUDO", "description": "bottarga, muscat grape, meyer lemon", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "food", "name": "TALEGGIO SCARPINOCC", "description": "aceto balsamico, parmigiano reggiano", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "food", "name": "STROZZAPRETI", "description": "chanterelle, turnip, wasabi, pecorino toscano", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "food", "name": "TORTELLINI IN BRODO", "description": "ham hock, shelling bean, chives", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "food", "name": "PORK BELLY", "description": "apple, agrodolce, collard greens", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "food", "name": "CHOCOLATE BUDINO", "description": "espresso-caramel crema, sea salt", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "other", "name": "per person", "description": "", "price": "90", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "other", "name": "optional wine pairing", "description": "", "price": "45", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"}
+]}

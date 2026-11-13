@@ -1,0 +1,67 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9508196721311475,
+ "expected_items": 61,
+ "found_items": 58,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Add chorizo",
+  "Add smoked streaky bacon or poached eggs",
+  "DAILY SPECIAL (PLEASE ASK)"
+ ],
+ "invented": 9,
+ "invented_names": [
+  "1 FILLING",
+  "2 FILLINGS",
+  "3 FILLINGS",
+  "EXTRAS",
+  "REN'S BURGERS",
+  "Ham and Cheese",
+  "Beans and Cheese",
+  "Barbecue Pulled Pork",
+  "Mediterranean roast vegetables (vegan)"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 2,
+ "grouping_names": [
+  "Smoked bacon, Sausage, Chorizo, Black pudding, Halloumi, Avocado, 2 Eggs -> ['Smoked bacon', 'Sausage', 'Chorizo', 'Black pudding', 'Halloumi', 'Avocado', '2 Eggs']",
+  "Field mushroom, Tomato, Hash Brown, Beans -> ['Field mushroom', 'Tomato', 'Hash Brown', 'Beans']"
+ ],
+ "prices_right": 0.9787234042553191,
+ "price_wrong_names": [
+  "ULTIMATE BREAKFAST SANDWICH: price '' vs key '1 filling 5.50 / 2 fillings 6.50 / 3 fillings 7.50'"
+ ],
+ "descriptions_right": 0.9310344827586207,
+ "descriptions_checked": 29,
+ "tags_right": 0.8723404255319149,
+ "portion_right": 0.7659574468085106,
+ "has_choice_right": 0.8085106382978723,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 12,
+   "total": 58,
+   "share_wrong": 0.20689655172413793
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 27.80237325001508,
+ "cost_usd": 0.0043653,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2649,
+ "completion_tokens": 4644,
+ "generation_id": "gen-1793323681-cWxp8NG0X4XcyFD6dS1C"
+}

@@ -1,0 +1,1326 @@
+{
+ "searches": [
+  {
+   "dish": "Bluefin Crudo",
+   "mode": "open",
+   "query": "bluefin tuna crudo recipe with bottarga",
+   "search_sec": 1.12,
+   "n_results": 10,
+   "n_kept": 7,
+   "n_fetched": 7,
+   "n_200": 7,
+   "n_usable": 3,
+   "n_full_coverage": 0,
+   "n_with_servings": 3,
+   "usable_missing": [
+    [
+     "grape",
+     "chive"
+    ],
+    [
+     "bottarga",
+     "grape",
+     "chive"
+    ],
+    [
+     "bottarga",
+     "grape",
+     "chive"
+    ]
+   ],
+   "rows": [
+    {
+     "url": "https://www.lacucinaitaliana.com/recipe/appetizers/tuna-and-bottarga-toast",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 11,
+     "yield": "4 servings",
+     "instr": false,
+     "missing": [
+      "grape",
+      "chive"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://allthingssicilianandmore.com/tag/bottarga-sicilian-tuna-roe",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": "scraper:NoSchemaFoundInWildMode"
+    },
+    {
+     "url": "https://www.seaforager.com/recipes/tuna-crudo",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": "scraper:NoSchemaFoundInWildMode"
+    },
+    {
+     "url": "https://brownetrading.com/blogs/recipes/maine-bluefin-tuna-crudo-with-summer-produce",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": "scraper:NoSchemaFoundInWildMode"
+    },
+    {
+     "url": "https://honest-food.net/tuna-crudo-recipe",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 5,
+     "yield": "3 servings",
+     "instr": true,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.jamesbeard.org/recipes/tuna-crudo",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 0,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://juliasalbum.com/tuna-crudo",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 12,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": ""
+    }
+   ]
+  },
+  {
+   "dish": "Bluefin Crudo",
+   "mode": "structured_hosts",
+   "query": "bluefin tuna crudo recipe with bottarga",
+   "search_sec": 2.27,
+   "n_results": 10,
+   "n_kept": 10,
+   "n_fetched": 8,
+   "n_200": 8,
+   "n_usable": 4,
+   "n_full_coverage": 0,
+   "n_with_servings": 1,
+   "usable_missing": [
+    [
+     "grape",
+     "chive"
+    ],
+    [
+     "bottarga",
+     "grape",
+     "chive"
+    ],
+    [
+     "bottarga",
+     "grape",
+     "chive"
+    ],
+    [
+     "grape",
+     "chive"
+    ]
+   ],
+   "rows": [
+    {
+     "url": "https://www.greatbritishchefs.com/features/pesce-crudo-sicily",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": "scraper:RecipeSchemaNotFound"
+    },
+    {
+     "url": "https://www.greatitalianchefs.com/collections/tuna-recipes",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": "scraper:NoSchemaFoundInWildMode"
+    },
+    {
+     "url": "https://www.greatitalianchefs.com/collections/bottarga-recipes",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": "scraper:NoSchemaFoundInWildMode"
+    },
+    {
+     "url": "https://www.greatitalianchefs.com/recipes/anchovy-bottarga-mayonnaise-recipe",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 12,
+     "yield": "",
+     "instr": true,
+     "missing": [
+      "grape",
+      "chive"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.greatitalianchefs.com/recipes/fior-di-tonno-recipe",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 9,
+     "yield": "",
+     "instr": true,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.greatbritishchefs.com/recipes/maldivian-tuna-curry-recipe",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 16,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.greatitalianchefs.com/recipes/fennel-apple-sea-bass-recipe",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 12,
+     "yield": "",
+     "instr": true,
+     "missing": [
+      "grape",
+      "chive"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.greatbritishchefs.com/collections/tuna-recipes",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "bottarga",
+      "grape",
+      "chive"
+     ],
+     "err": "scraper:RecipeSchemaNotFound"
+    }
+   ]
+  },
+  {
+   "dish": "Little Gem Lettuces",
+   "mode": "open",
+   "query": "little gem lettuce salad tahini vinaigrette pecorino sesame recipe",
+   "search_sec": 1.31,
+   "n_results": 10,
+   "n_kept": 6,
+   "n_fetched": 6,
+   "n_200": 4,
+   "n_usable": 3,
+   "n_full_coverage": 0,
+   "n_with_servings": 3,
+   "usable_missing": [
+    [
+     "pecorino"
+    ],
+    [
+     "pecorino"
+    ],
+    [
+     "tahini",
+     "pecorino",
+     "sesame"
+    ]
+   ],
+   "rows": [
+    {
+     "url": "https://www.clearspring.co.uk/blogs/recipes/grilled-little-gem-salad-with-white-tahini-dressing",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "tahini",
+      "pecorino",
+      "sesame",
+      "little gem"
+     ],
+     "err": "scraper:NoSchemaFoundInWildMode"
+    },
+    {
+     "url": "https://www.epicurious.com/recipes/food/views/little-gem-wedge-salad-with-tahini-ranch",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 12,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "pecorino"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.bonappetit.com/recipe/little-gem-wedge-salad-with-tahini-ranch",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 13,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "pecorino"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://immigrantstable.com/little-gem-salad-recipe",
+     "http": 403,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "tahini",
+      "pecorino",
+      "sesame",
+      "little gem"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.modernfoodstories.com/recipes/sides/chargrilled-baby-gem-lemon-tahini",
+     "http": 403,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "tahini",
+      "pecorino",
+      "sesame",
+      "little gem"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://thedefineddish.com/little-gem-salad-cacio-e-pepe-dressing",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 15,
+     "yield": "6 servings",
+     "instr": true,
+     "missing": [
+      "tahini",
+      "pecorino",
+      "sesame"
+     ],
+     "err": ""
+    }
+   ]
+  },
+  {
+   "dish": "Little Gem Lettuces",
+   "mode": "structured_hosts",
+   "query": "little gem lettuce salad tahini vinaigrette pecorino sesame recipe",
+   "search_sec": 2.37,
+   "n_results": 10,
+   "n_kept": 10,
+   "n_fetched": 8,
+   "n_200": 7,
+   "n_usable": 3,
+   "n_full_coverage": 0,
+   "n_with_servings": 3,
+   "usable_missing": [
+    [
+     "pecorino"
+    ],
+    [
+     "tahini",
+     "sesame"
+    ],
+    [
+     "tahini",
+     "pecorino",
+     "sesame"
+    ]
+   ],
+   "rows": [
+    {
+     "url": "https://www.epicurious.com/ingredient/romaine",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "tahini",
+      "pecorino",
+      "sesame",
+      "little gem"
+     ],
+     "err": "scraper:RecipeSchemaNotFound"
+    },
+    {
+     "url": "https://www.bonappetit.com/recipe/sesame-caesar-salad",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 11,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "pecorino"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/758028330-grilled-little-gems-with-creamy-tarragon-dressing",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 15,
+     "yield": "6 servings",
+     "instr": true,
+     "missing": [
+      "tahini",
+      "sesame"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.epicurious.com/recipes-menus/satisfying-summer-salads-gallery",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "tahini",
+      "pecorino",
+      "sesame",
+      "little gem"
+     ],
+     "err": "scraper:RecipeSchemaNotFound"
+    },
+    {
+     "url": "https://www.epicurious.com/recipes-menus/side-salad-recipes-gallery",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "tahini",
+      "pecorino",
+      "sesame",
+      "little gem"
+     ],
+     "err": "scraper:RecipeSchemaNotFound"
+    },
+    {
+     "url": "https://www.bonappetit.com/recipe/little-gem-salad-with-lemon-cream-and-hazelnuts",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 12,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "tahini",
+      "pecorino",
+      "sesame"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.epicurious.com/ingredients/12-easy-farro-recipes-gallery",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "tahini",
+      "pecorino",
+      "sesame",
+      "little gem"
+     ],
+     "err": "scraper:RecipeSchemaNotFound"
+    },
+    {
+     "url": "https://food52.com/story/26839-non-traditional-christmas-dinner-ideas",
+     "http": 429,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "tahini",
+      "pecorino",
+      "sesame",
+      "little gem"
+     ],
+     "err": ""
+    }
+   ]
+  },
+  {
+   "dish": "Heirloom Tomatoes",
+   "mode": "open",
+   "query": "heirloom tomato salad pluot shiso basil sourdough recipe",
+   "search_sec": 1.66,
+   "n_results": 10,
+   "n_kept": 6,
+   "n_fetched": 6,
+   "n_200": 5,
+   "n_usable": 3,
+   "n_full_coverage": 0,
+   "n_with_servings": 3,
+   "usable_missing": [
+    [
+     "pluot",
+     "shiso"
+    ],
+    [
+     "pluot",
+     "sourdough"
+    ],
+    [
+     "pluot",
+     "shiso",
+     "sourdough"
+    ]
+   ],
+   "rows": [
+    {
+     "url": "https://kate-cooks.com/blog/late-summer-pluot-heirloom-tomato-burrata-salad",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "pluot",
+      "shiso",
+      "basil",
+      "sourdough",
+      "tomato"
+     ],
+     "err": "scraper:NoSchemaFoundInWildMode"
+    },
+    {
+     "url": "https://www.sbs.com.au/food/the-cook-up-with-adam-liaw/recipe/heirloom-tomato-mozzarella-and-basil-salad-with-sourdough/gh93jnwm4",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 8,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "pluot",
+      "shiso"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://flamingoestate.com/blogs/recipes/heirloom-tomato-with-pluot-opal-basil-and-yogurt",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "pluot",
+      "shiso",
+      "basil",
+      "sourdough",
+      "tomato"
+     ],
+     "err": "scraper:NoSchemaFoundInWildMode"
+    },
+    {
+     "url": "https://www.denisonfarm.com/heirloom-tomato-salad-with-shiso-and-shallots",
+     "http": 403,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "pluot",
+      "shiso",
+      "basil",
+      "sourdough",
+      "tomato"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/785873526-heirloom-tomatoes-with-fish-sauce-vinaigrette",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 15,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "pluot",
+      "sourdough"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://toriavey.com/heirloom-tomato-salad",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 8,
+     "yield": "12 servings",
+     "instr": true,
+     "missing": [
+      "pluot",
+      "shiso",
+      "sourdough"
+     ],
+     "err": ""
+    }
+   ]
+  },
+  {
+   "dish": "Heirloom Tomatoes",
+   "mode": "structured_hosts",
+   "query": "heirloom tomato salad pluot shiso basil sourdough recipe",
+   "search_sec": 1.78,
+   "n_results": 10,
+   "n_kept": 10,
+   "n_fetched": 8,
+   "n_200": 8,
+   "n_usable": 7,
+   "n_full_coverage": 0,
+   "n_with_servings": 5,
+   "usable_missing": [
+    [
+     "pluot",
+     "shiso",
+     "sourdough"
+    ],
+    [
+     "pluot",
+     "sourdough"
+    ],
+    [
+     "pluot",
+     "shiso",
+     "sourdough"
+    ],
+    [
+     "pluot",
+     "shiso",
+     "sourdough"
+    ],
+    [
+     "pluot",
+     "sourdough"
+    ],
+    [
+     "pluot",
+     "shiso",
+     "sourdough"
+    ],
+    [
+     "pluot",
+     "basil",
+     "sourdough",
+     "tomato"
+    ]
+   ],
+   "rows": [
+    {
+     "url": "https://www.epicurious.com/recipes/food/views/heirloom-tomato-salad-with-burrata-torn-croutons-and-opal-basil-390889",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 15,
+     "yield": "",
+     "instr": true,
+     "missing": [
+      "pluot",
+      "shiso",
+      "sourdough"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/1021340-herby-tomato-salad-with-tamarind-maple-dressing?eafs_enabled=false",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 17,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "pluot",
+      "sourdough"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.bonappetit.com/recipe/heirloom-tomato-and-burrata-cheese-salad",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 7,
+     "yield": "4 items",
+     "instr": true,
+     "missing": [
+      "pluot",
+      "shiso",
+      "sourdough"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://bonappetit.com/recipe/tomato-salad-with-basil-vinaigrette-recipe",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 7,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "pluot",
+      "shiso",
+      "sourdough"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/785873526-heirloom-tomatoes-with-fish-sauce-vinaigrette?eafs_enabled=false",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 15,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "pluot",
+      "sourdough"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.thekitchn.com/ina-garten-heirloom-tomato-salad-recipe-review-23408650",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "pluot",
+      "shiso",
+      "basil",
+      "sourdough",
+      "tomato"
+     ],
+     "err": "scraper:RecipeSchemaNotFound"
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/1027087-heirloom-tomato-salad-with-ricotta-and-chile-oil?unlocked_article_code=1.YE8.-Ya9.PeDOvXgK4aSZ&smid=share-url",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 11,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "pluot",
+      "shiso",
+      "sourdough"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/1016836-yum-yai-salad?eafs_enabled=false",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 15,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "pluot",
+      "basil",
+      "sourdough",
+      "tomato"
+     ],
+     "err": ""
+    }
+   ]
+  },
+  {
+   "dish": "Margherita",
+   "mode": "open",
+   "query": "pizza margherita recipe fior di latte basil",
+   "search_sec": 1.14,
+   "n_results": 10,
+   "n_kept": 6,
+   "n_fetched": 6,
+   "n_200": 6,
+   "n_usable": 5,
+   "n_full_coverage": 1,
+   "n_with_servings": 3,
+   "usable_missing": [
+    [
+     "tomato",
+     "fior di latte"
+    ],
+    [],
+    [
+     "fior di latte"
+    ],
+    [
+     "fior di latte"
+    ],
+    [
+     "fior di latte"
+    ]
+   ],
+   "rows": [
+    {
+     "url": "https://veenaazmanov.com/classic-margherita-pizza",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 11,
+     "yield": "12 slices",
+     "instr": true,
+     "missing": [
+      "tomato",
+      "fior di latte"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.newidea.com.au/recipe/food/margherita-pizza-with-fior-di-latte",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 8,
+     "yield": "1 item",
+     "instr": true,
+     "missing": [],
+     "err": ""
+    },
+    {
+     "url": "https://haywirewinery.com/grilled-tomato-fior-di-latte-pizza-with-basil-oil",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "tomato",
+      "fior di latte",
+      "basil"
+     ],
+     "err": "scraper:NoSchemaFoundInWildMode"
+    },
+    {
+     "url": "https://ohsweetbasil.com/margherita-pizza",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 6,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "fior di latte"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://coleycooks.com/pizza-margherita",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 7,
+     "yield": "2 servings",
+     "instr": true,
+     "missing": [
+      "fior di latte"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.loveandlemons.com/margherita-pizza",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 9,
+     "yield": "3 servings",
+     "instr": true,
+     "missing": [
+      "fior di latte"
+     ],
+     "err": ""
+    }
+   ]
+  },
+  {
+   "dish": "Margherita",
+   "mode": "structured_hosts",
+   "query": "pizza margherita recipe fior di latte basil",
+   "search_sec": 2.62,
+   "n_results": 10,
+   "n_kept": 10,
+   "n_fetched": 8,
+   "n_200": 8,
+   "n_usable": 7,
+   "n_full_coverage": 0,
+   "n_with_servings": 5,
+   "usable_missing": [
+    [
+     "tomato"
+    ],
+    [
+     "fior di latte"
+    ],
+    [
+     "fior di latte"
+    ],
+    [
+     "fior di latte"
+    ],
+    [
+     "fior di latte"
+    ],
+    [
+     "fior di latte"
+    ],
+    [
+     "fior di latte"
+    ]
+   ],
+   "rows": [
+    {
+     "url": "https://www.greatbritishchefs.com/recipes/classic-margherita-pizza-recipe",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 15,
+     "yield": "2 servings",
+     "instr": true,
+     "missing": [
+      "tomato"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.epicurious.com/recipes/food/views/margherita-mozzarella-tomato-and-basil-393644",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 7,
+     "yield": "1 item",
+     "instr": true,
+     "missing": [
+      "fior di latte"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/1016231-pizza-margherita?eafs_enabled=false",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 5,
+     "yield": "2 servings",
+     "instr": true,
+     "missing": [
+      "fior di latte"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/1014332-pizza-margherita",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 9,
+     "yield": "",
+     "instr": true,
+     "missing": [
+      "fior di latte"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/1016231-pizza-margherita",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 5,
+     "yield": "2 servings",
+     "instr": true,
+     "missing": [
+      "fior di latte"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.tasteofhome.com/recipes/margherita-pizza",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 14,
+     "yield": "6 servings",
+     "instr": true,
+     "missing": [
+      "fior di latte"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/1016231-pizza-margherita?mcubz=3",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 5,
+     "yield": "2 servings",
+     "instr": true,
+     "missing": [
+      "fior di latte"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://bonappetit.com/story/fior-di-latte-gelato",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "tomato",
+      "fior di latte",
+      "basil"
+     ],
+     "err": "scraper:RecipeSchemaNotFound"
+    }
+   ]
+  },
+  {
+   "dish": "King Salmon",
+   "mode": "open",
+   "query": "roasted king salmon summer squash corn basil shishito recipe",
+   "search_sec": 0.97,
+   "n_results": 10,
+   "n_kept": 6,
+   "n_fetched": 6,
+   "n_200": 5,
+   "n_usable": 3,
+   "n_full_coverage": 0,
+   "n_with_servings": 3,
+   "usable_missing": [
+    [
+     "corn",
+     "shishito"
+    ],
+    [
+     "squash",
+     "basil",
+     "shishito"
+    ],
+    [
+     "squash",
+     "shishito"
+    ]
+   ],
+   "rows": [
+    {
+     "url": "https://www.spiritrock.org/recipes/roasted-summer-squash-with-shishito-peppers-and-basil",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "salmon",
+      "squash",
+      "corn",
+      "basil",
+      "shishito"
+     ],
+     "err": "scraper:NoSchemaFoundInWildMode"
+    },
+    {
+     "url": "https://www.landolakes.com/recipe/9679/salmon-summer-squash-with-basil",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 7,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "corn",
+      "shishito"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://jessicalevinson.com/mediterranean-sheet-pan-salmon",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 11,
+     "yield": "6 servings",
+     "instr": true,
+     "missing": [
+      "squash",
+      "basil",
+      "shishito"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://dishingupthedirt.com/recipes/baked-salmon-corn-burst-tomatoes-basil-vinaigrette",
+     "http": 429,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "salmon",
+      "squash",
+      "corn",
+      "basil",
+      "shishito"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://marleyspoon.com/menu/459812-pan-roasted-salmon-with-basil-aioli-bacon-corn-succotash",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "salmon",
+      "squash",
+      "corn",
+      "basil",
+      "shishito"
+     ],
+     "err": "scraper:NoSchemaFoundInWildMode"
+    },
+    {
+     "url": "https://giadzy.com/blogs/recipes/pan-roasted-salmon-with-summer-succotash",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 17,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "squash",
+      "shishito"
+     ],
+     "err": ""
+    }
+   ]
+  },
+  {
+   "dish": "King Salmon",
+   "mode": "structured_hosts",
+   "query": "roasted king salmon summer squash corn basil shishito recipe",
+   "search_sec": 2.01,
+   "n_results": 10,
+   "n_kept": 10,
+   "n_fetched": 8,
+   "n_200": 6,
+   "n_usable": 3,
+   "n_full_coverage": 0,
+   "n_with_servings": 3,
+   "usable_missing": [
+    [
+     "salmon",
+     "shishito"
+    ],
+    [
+     "salmon",
+     "squash",
+     "corn",
+     "shishito"
+    ],
+    [
+     "salmon",
+     "basil",
+     "shishito"
+    ]
+   ],
+   "rows": [
+    {
+     "url": "https://cooking.nytimes.com/recipes/1013801-shells-with-summer-squash-corn-beans-and-tomato",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 12,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "salmon",
+      "shishito"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.epicurious.com/recipes-menus/healthy-light-grilling-recipes-chicken-fish-seafood-gallery",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "salmon",
+      "squash",
+      "corn",
+      "basil",
+      "shishito"
+     ],
+     "err": "scraper:RecipeSchemaNotFound"
+    },
+    {
+     "url": "https://food52.com/recipes/dinner?page=39",
+     "http": 429,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "salmon",
+      "squash",
+      "corn",
+      "basil",
+      "shishito"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/1022087-one-pan-feta-pasta-with-cherry-tomatoes",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 13,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "salmon",
+      "squash",
+      "corn",
+      "shishito"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://www.epicurious.com/sitemap/2011/12/9",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "salmon",
+      "squash",
+      "corn",
+      "basil",
+      "shishito"
+     ],
+     "err": "scraper:RecipeSchemaNotFound"
+    },
+    {
+     "url": "https://food52.com/watch",
+     "http": 429,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "salmon",
+      "squash",
+      "corn",
+      "basil",
+      "shishito"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/recipes/1026355-kristen-kishs-squash-and-coconut-milk-custard",
+     "http": 200,
+     "jsonld": true,
+     "n_ing": 13,
+     "yield": "4 servings",
+     "instr": true,
+     "missing": [
+      "salmon",
+      "basil",
+      "shishito"
+     ],
+     "err": ""
+    },
+    {
+     "url": "https://cooking.nytimes.com/article/4-california-salads",
+     "http": 200,
+     "jsonld": false,
+     "n_ing": 0,
+     "yield": "",
+     "instr": false,
+     "missing": [
+      "salmon",
+      "squash",
+      "corn",
+      "basil",
+      "shishito"
+     ],
+     "err": "scraper:RecipeSchemaNotFound"
+    }
+   ]
+  }
+ ],
+ "credits_used": 10
+}

@@ -1,0 +1,65 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9285714285714286,
+ "expected_items": 42,
+ "other_set_aside": 4,
+ "found_items": 39,
+ "joined_found": 3,
+ "unmatched_expected_names": [
+  "Dylan",
+  "Oysters - Humboldt Bay",
+  "add cheese"
+ ],
+ "invented": 7,
+ "invented_names": [
+  "Humboldt Grassfed Beef",
+  "Chicken sandwiches",
+  "Oysters",
+  "Oysters",
+  "Oysters",
+  "Oysters",
+  "The works w/cole slaw"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Dylau ~ Dylan (80%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9743589743589743,
+ "price_wrong_names": [
+  "Tempeh Reuben: price '10.50' vs key '16.00'"
+ ],
+ "descriptions_right": 0.42857142857142855,
+ "descriptions_checked": 21,
+ "tags_right": 0.8974358974358975,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 9,
+   "total": 47,
+   "share_wrong": 0.19148936170212766
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": 0,
+ "false_alarm": 0,
+ "seconds": 130.93159870800446,
+ "cost_usd": 0.00404848,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "SiliconFlow",
+ "error": "",
+ "prompt_tokens": 2012,
+ "completion_tokens": 3465,
+ "generation_id": "gen-1793363868-g3ac1FM4Ga89GBpM0300"
+}

@@ -1,0 +1,60 @@
+{
+ "photo": "23",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 10,
+ "other_set_aside": 0,
+ "found_items": 10,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 1,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 4,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 1,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 0,
+   "total": 5,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Glare from the board's surface covers parts of the text, especially around 'Ocean Trout / Tuna Poke Salad' and 'Crumbed Whiting'. The items under 'Taste of the Sea' have no printed prices. The last lines ('Watermelon, Fetta, Mint / Almond, Salsa Verde / Salad') are unclear: it is uncertain whether they are a separate salad item and whether they have a price, so they are listed as one item with low confidence. The 'Ocean Trout / Tuna' and 'Poke Salad' wording could be one item or two.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 8.294486208993476,
+ "cost_usd": 0.01861,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3520,
+ "completion_tokens": 1157,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793369418-PpKtlYKB92dydRLljQGv"
+}

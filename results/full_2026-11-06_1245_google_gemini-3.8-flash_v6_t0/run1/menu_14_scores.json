@@ -1,0 +1,53 @@
+{
+ "photo": "14",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 16,
+ "other_set_aside": 0,
+ "found_items": 16,
+ "joined_found": 0,
+ "unmatched_expected_names": [],
+ "invented": 1,
+ "invented_names": [
+  "Best of Gaggan"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 16,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 17,
+   "share_wrong": 0.058823529411764705
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 9.335619207995478,
+ "cost_usd": 0.00770175,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 3029,
+ "completion_tokens": 1448,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793987378-w9KWb0WGnHXP2lpmtNZo"
+}

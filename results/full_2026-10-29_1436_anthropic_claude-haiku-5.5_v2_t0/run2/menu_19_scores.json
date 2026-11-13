@@ -1,0 +1,74 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.7560975609756098,
+ "expected_items": 41,
+ "found_items": 31,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Our Special Blend Coffee",
+  "Icebox Chocolate",
+  "Half Moon Peach",
+  "Half Moon Apple",
+  "Other Delicious Bakery Pies",
+  "No. 1",
+  "No. 2",
+  "No. 3",
+  "No. 4",
+  "No. 5"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 3,
+ "garbled_names": [
+  "Icebox Chocolate Pie ~ Icebox Chocolate (80%)",
+  "Half Moon Peach Pie ~ Half Moon Peach (79%)",
+  "Half Moon Apple Pie ~ Half Moon Apple (79%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8387096774193549,
+ "price_wrong_names": [
+  "Waffles: price '30' vs key '20c'",
+  "Steak Plate: price '45' vs key '65c'",
+  "Bacon and Egg: price '20' vs key '30c'",
+  "Grilled Cheese: price '15' vs key ''",
+  "Grillburger: price '35' vs key '25c'"
+ ],
+ "descriptions_right": 0.5384615384615384,
+ "descriptions_checked": 13,
+ "tags_right": 1.0,
+ "portion_right": 0.967741935483871,
+ "has_choice_right": 0.967741935483871,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 0,
+   "total": 2,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 8,
+   "total": 32,
+   "share_wrong": 0.25
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is photographed at a steep angle and small print is faint; many prices and descriptions are hard to read, and some entries are unclear. Items with unreadable prices are left blank or marked low confidence.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 10.824073957977816,
+ "cost_usd": 0.0019698,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3518,
+ "completion_tokens": 3236,
+ "generation_id": "gen-1793299482-lJEGbfwUK3pVAvyaRpHl"
+}

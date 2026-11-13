@@ -1,0 +1,295 @@
+{
+  "discontinuedDate": "",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 2208285,
+      "value": 9,
+      "name": "Added Package Weight",
+      "foodAttributeType": {
+        "id": 998,
+        "name": "Update Log",
+        "description": "Changes that were made to this food"
+      }
+    }
+  ],
+  "foodPortions": [],
+  "fdcId": 2016166,
+  "description": "SALMON",
+  "publicationDate": "10/28/2021",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 70,
+        "code": "LCCS",
+        "description": "Calculated from value per serving size measure",
+        "foodNutrientSource": {
+          "id": 9,
+          "code": "12",
+          "description": "Manufacturer's analytical; partial documentation"
+        }
+      },
+      "id": 24501386,
+      "amount": 1.32
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 70,
+        "code": "LCCS",
+        "description": "Calculated from value per serving size measure",
+        "foodNutrientSource": {
+          "id": 9,
+          "code": "12",
+          "description": "Manufacturer's analytical; partial documentation"
+        }
+      },
+      "id": 24501384,
+      "amount": 46.0
+    }
+  ],
+  "dataType": "Branded",
+  "foodClass": "Branded",
+  "modifiedDate": "1/8/2018",
+  "availableDate": "1/8/2018",
+  "brandOwner": "High Liner Foods (USA) Incorporated",
+  "brandName": "SEA CUISINE",
+  "dataSource": "LI",
+  "brandedFoodCategory": "Frozen Fish & Seafood",
+  "gtinUpc": "35493013374",
+  "householdServingFullText": "5.4 ONZ",
+  "ingredients": "SALMON, WATER, VEGETABLE OIL (CANOLA, COTTONSEED, AND/OR SOYBEAN), CONTAINS 2% OR LESS OF: TOMATO PASTE, RICE STARCH, CITRIC ACID, SALT, DEHYDRATED GARLIC, DEHYDRATED ONION, SPICES, LIME OIL;, NATURAL FLAVORS, SOY LECITHIN, SODIUM TRIPOLYPHOSPHATE (TO RETAIN MOISTURE).",
+  "marketCountry": "United States",
+  "servingSize": 151.0,
+  "servingSizeUnit": "g",
+  "foodUpdateLog": [
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2016166,
+      "description": "SALMON",
+      "publicationDate": "10/28/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "1/8/2018",
+      "availableDate": "1/8/2018",
+      "brandOwner": "High Liner Foods (USA) Incorporated",
+      "brandName": "SEA CUISINE",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Frozen Fish & Seafood",
+      "gtinUpc": "35493013374",
+      "householdServingFullText": "5.4 ONZ",
+      "ingredients": "SALMON, WATER, VEGETABLE OIL (CANOLA, COTTONSEED, AND/OR SOYBEAN), CONTAINS 2% OR LESS OF: TOMATO PASTE, RICE STARCH, CITRIC ACID, SALT, DEHYDRATED GARLIC, DEHYDRATED ONION, SPICES, LIME OIL;, NATURAL FLAVORS, SOY LECITHIN, SODIUM TRIPOLYPHOSPHATE (TO RETAIN MOISTURE).",
+      "marketCountry": "United States",
+      "servingSize": 151.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1870516,
+      "description": "SEA CUISINE, WILD ALASKA SALMON FILLETS WITH A CAJUN SPICE, LIME AND BUTTER SAUCE, CAJUN LIME, CAJUN LIME",
+      "publicationDate": "7/29/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "1/2/2018",
+      "availableDate": "1/2/2018",
+      "brandOwner": "High Liner Foods (USA) Incorporated",
+      "brandName": "SEA CUISINE",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Frozen Fish & Seafood",
+      "gtinUpc": "035493013374",
+      "householdServingFullText": "5.4 ONZ",
+      "ingredients": "SALMON, WATER, VEGETABLE OIL (CANOLA, COTTONSEED, AND/OR SOYBEAN), CONTAINS 2% OR LESS OF: TOMATO PASTE, RICE STARCH, CITRIC ACID, SALT, DEHYDRATED GARLIC, DEHYDRATED ONION, SPICES, LIME OIL, NATURAL FLAVOR, SOY LECITHIN, SODIUM TRIPOLYPHOSPHATE (TO RETAIN MOISTURE).",
+      "marketCountry": "United States",
+      "servingSize": 151.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "10.75 oz/305 g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1509102,
+      "description": "SEA CUISINE, WILD ALASKA SALMON FILLETS WITH A CAJUN SPICE, LIME AND BUTTER SAUCE, CAJUN LIME",
+      "publicationDate": "3/19/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "1/2/2018",
+      "availableDate": "1/2/2018",
+      "brandOwner": "High Liner Foods (USA) Incorporated",
+      "brandName": "SEA CUISINE",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Frozen Fish & Seafood",
+      "gtinUpc": "035493013374",
+      "householdServingFullText": "5.4 ONZ",
+      "ingredients": "SALMON, WATER, VEGETABLE OIL (CANOLA, COTTONSEED, AND/OR SOYBEAN), CONTAINS 2% OR LESS OF: TOMATO PASTE, RICE STARCH, CITRIC ACID, SALT, DEHYDRATED GARLIC, DEHYDRATED ONION, SPICES, LIME OIL, NATURAL FLAVOR, SOY LECITHIN, SODIUM TRIPOLYPHOSPHATE (TO RETAIN MOISTURE).",
+      "marketCountry": "United States",
+      "servingSize": 151.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1475864,
+      "description": "SALMON",
+      "publicationDate": "3/19/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "1/8/2018",
+      "availableDate": "1/8/2018",
+      "brandOwner": "High Liner Foods (USA) Incorporated",
+      "brandName": "SEA CUISINE",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Frozen Fish & Seafood",
+      "gtinUpc": "35493013374",
+      "householdServingFullText": "5.4 ONZ",
+      "ingredients": "SALMON, WATER, VEGETABLE OIL (CANOLA, COTTONSEED, AND/OR SOYBEAN), CONTAINS 2% OR LESS OF: TOMATO PASTE, RICE STARCH, CITRIC ACID, SALT, DEHYDRATED GARLIC, DEHYDRATED ONION, SPICES, LIME OIL;, NATURAL FLAVORS, SOY LECITHIN, SODIUM TRIPOLYPHOSPHATE (TO RETAIN MOISTURE).",
+      "marketCountry": "United States",
+      "servingSize": 151.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1217045,
+      "description": "SEA CUISINE, WILD ALASKA SALMON FILLETS WITH A CAJUN SPICE, LIME AND BUTTER SAUCE, CAJUN LIME",
+      "publicationDate": "2/26/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "1/2/2018",
+      "availableDate": "1/2/2018",
+      "brandOwner": "High Liner Foods (USA) Incorporated",
+      "brandName": "SEA CUISINE",
+      "subbrandName": "",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Frozen Fish & Seafood",
+      "gtinUpc": "035493013374",
+      "householdServingFullText": "5.4 ONZ",
+      "ingredients": "SALMON, WATER, VEGETABLE OIL (CANOLA, COTTONSEED, AND/OR SOYBEAN), CONTAINS 2% OR LESS OF: TOMATO PASTE, RICE STARCH, CITRIC ACID, SALT, DEHYDRATED GARLIC, DEHYDRATED ONION, SPICES, LIME OIL, NATURAL FLAVOR, SOY LECITHIN, SODIUM TRIPOLYPHOSPHATE (TO RETAIN MOISTURE).",
+      "marketCountry": "United States",
+      "servingSize": 151.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "",
+      "notaSignificantSourceOf": ""
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1183828,
+      "description": "SALMON",
+      "publicationDate": "2/26/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "1/8/2018",
+      "availableDate": "1/8/2018",
+      "brandOwner": "High Liner Foods (USA) Incorporated",
+      "brandName": "SEA CUISINE",
+      "subbrandName": "",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Frozen Fish & Seafood",
+      "gtinUpc": "35493013374",
+      "householdServingFullText": "5.4 ONZ",
+      "ingredients": "SALMON, WATER, VEGETABLE OIL (CANOLA, COTTONSEED, AND/OR SOYBEAN), CONTAINS 2% OR LESS OF: TOMATO PASTE, RICE STARCH, CITRIC ACID, SALT, DEHYDRATED GARLIC, DEHYDRATED ONION, SPICES, LIME OIL;, NATURAL FLAVORS, SOY LECITHIN, SODIUM TRIPOLYPHOSPHATE (TO RETAIN MOISTURE).",
+      "marketCountry": "United States",
+      "servingSize": 151.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "",
+      "notaSignificantSourceOf": ""
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "modifiedDate": "1/2/2018",
+      "availableDate": "1/2/2018",
+      "brandOwner": "High Liner Foods (USA) Incorporated",
+      "dataSource": "LI",
+      "gpcCategoryGroup": "Frozen Fish & Seafood",
+      "gtinUpc": "035493013374",
+      "householdServingFullText": "5.4 ONZ",
+      "ingredients": "SALMON, WATER, VEGETABLE OIL (CANOLA, COTTONSEED, AND/OR SOYBEAN), CONTAINS 2% OR LESS OF: TOMATO PASTE, RICE STARCH, CITRIC ACID, SALT, DEHYDRATED GARLIC, DEHYDRATED ONION, SPICES, LIME OIL, NATURAL FLAVOR, SOY LECITHIN, SODIUM TRIPOLYPHOSPHATE (TO RETAIN MOISTURE).",
+      "marketCountry": "United States",
+      "servingSize": 151.0,
+      "servingSizeUnit": "g",
+      "fdcId": 408415,
+      "description": "SEA CUISINE, WILD ALASKA SALMON FILLETS WITH A CAJUN SPICE, LIME AND BUTTER SAUCE, CAJUN LIME",
+      "publicationDate": "4/1/2019",
+      "workingFoodId": 45120058,
+      "dataType": "Branded",
+      "foodClass": "Branded"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "modifiedDate": "1/8/2018",
+      "availableDate": "1/8/2018",
+      "brandOwner": "High Liner Foods (USA) Incorporated",
+      "dataSource": "LI",
+      "gpcCategoryGroup": "Frozen Fish & Seafood",
+      "gtinUpc": "35493013374",
+      "householdServingFullText": "5.4 ONZ",
+      "ingredients": "SALMON, WATER, VEGETABLE OIL (CANOLA, COTTONSEED, AND/OR SOYBEAN), CONTAINS 2% OR LESS OF: TOMATO PASTE, RICE STARCH, CITRIC ACID, SALT, DEHYDRATED GARLIC, DEHYDRATED ONION, SPICES, LIME OIL;, NATURAL FLAVORS, SOY LECITHIN, SODIUM TRIPOLYPHOSPHATE (TO RETAIN MOISTURE).",
+      "marketCountry": "United States",
+      "servingSize": 151.0,
+      "servingSizeUnit": "g",
+      "fdcId": 371293,
+      "description": "SALMON",
+      "publicationDate": "4/1/2019",
+      "workingFoodId": 45031116,
+      "dataType": "Branded",
+      "foodClass": "Branded"
+    }
+  ],
+  "labelNutrients": {
+    "fat": {
+      "value": 12.0
+    },
+    "saturatedFat": {
+      "value": 1.99
+    },
+    "transFat": {
+      "value": 0.0
+    },
+    "cholesterol": {
+      "value": 69.5
+    },
+    "sodium": {
+      "value": 500
+    },
+    "carbohydrates": {
+      "value": 4.0
+    },
+    "fiber": {
+      "value": 1.06
+    },
+    "sugars": {
+      "value": 0.0
+    },
+    "protein": {
+      "value": 23.0
+    },
+    "calcium": {
+      "value": 19.6
+    },
+    "iron": {
+      "value": 0.725
+    },
+    "calories": {
+      "value": 210
+    }
+  }
+}

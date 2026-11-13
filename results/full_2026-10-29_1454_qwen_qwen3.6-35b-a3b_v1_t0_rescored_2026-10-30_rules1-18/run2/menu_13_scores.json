@@ -1,0 +1,83 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.4166666666666667,
+ "expected_items": 24,
+ "other_set_aside": 0,
+ "found_items": 10,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Malfatti Indiana",
+  "Amalfi",
+  "Wafer / Masala Papad / Boiled Eggs",
+  "Garlic Toast / Green Salad",
+  "French Fries / Hash Brown (6 pcs)",
+  "Cheese Cherry Pineapple Stick",
+  "Onion Rings / Cheese Balls (Schezwan)",
+  "Chilly Cheese Toast",
+  "Cutlet & Fries (Veg / Chicken)",
+  "Koliwada (Paneer / Prawns)",
+  "Mondy's Steak Boti",
+  "Masala Omelette with French Fries",
+  "Kheema Pao / Kheema Gotala",
+  "Extra Sauce"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 8,
+ "cut_off_names": [
+  "Achari Gobi Tikka / Baby Corn Tikka",
+  "Paneer Tikka / Malai / Achari / Sh",
+  "Chicken Tikka / Malai / Resh",
+  "Chicken Sheek / Achari / Tan",
+  "Fish Tikka / Achari / Kalami",
+  "King Prawns Tikka / Harya",
+  "Tandoor Naan / Butter R",
+  "Butter Naan / Garlic / May"
+ ],
+ "garbled": 2,
+ "garbled_names": [
+  "Malai Indiana ~ Malfatti Indiana (81%)",
+  "Anali ~ Amalfi (67%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.2,
+ "descriptions_checked": 5,
+ "tags_right": 0.2,
+ "portion_right": 1.0,
+ "has_choice_right": 0.8,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 3,
+   "total": 12,
+   "share_wrong": 0.25
+  },
+  "medium": {
+   "wrong": 7,
+   "total": 8,
+   "share_wrong": 0.875
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is partially obscured by two salt and pepper shakers in the center. The left column is cut off at the bottom and the right column is partially blocked. Some text is visible but not fully readable.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 103.19290383299813,
+ "cost_usd": 0.00180385,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 1803,
+ "completion_tokens": 1709,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793305188-yzLVJpqhE4dQwU1bedK4",
+ "rep": 2
+}

@@ -1,0 +1,69 @@
+{
+ "photo": "05",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9393939393939394,
+ "expected_items": 66,
+ "other_set_aside": 1,
+ "found_items": 62,
+ "joined_found": 2,
+ "unmatched_expected_names": [
+  "Add chorizo",
+  "DAILY SPECIAL (PLEASE ASK)",
+  "add shot of spirulina",
+  "add scoop of vegan protein"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 3,
+ "grouping_names": [
+  "parent FRESHLY BAKED JACKETS -> ['Ham and Cheese', 'Beans and Cheese', 'Barbecue Pulled Pork', 'Mediterranean roast vegetables (vegan)']",
+  "EXTRAS -> ['Sausage', 'Black pudding', 'Halloumi', 'Avocado', '2 Eggs']",
+  "Field mushroom, Tomato, Hash Brown, Beans -> ['Field mushroom', 'Tomato', 'Hash Brown', 'Beans']"
+ ],
+ "prices_right": 0.9387755102040817,
+ "price_wrong_names": [
+  "ULTIMATE BREAKFAST SANDWICH: price '5.50 1 filling / 6.50 2 fillings / 7.50 3 fillings' vs key '5.50 / 6.50 / 7.50'",
+  "Chorizo: price '1.50' vs key '2.00 each'",
+  "smoked streaky bacon: price '1.25' vs key '2.00 each'"
+ ],
+ "descriptions_right": 0.9615384615384616,
+ "descriptions_checked": 26,
+ "tags_right": 0.8775510204081632,
+ "portion_right": 0.7959183673469388,
+ "has_choice_right": 0.8775510204081632,
+ "belongs_to_right": 0.3333333333333333,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 41,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 5,
+   "total": 10,
+   "share_wrong": 0.5
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The menu is photographed at an angle with a hand covering the left edge and a glass in the top-left corner; the left part of the photo is partly hidden, though the menu text is legible. Some small print (e.g. tea and drinks options) is slightly blurred. Items are read in column order.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 19.074303457979113,
+ "cost_usd": 0.0034433,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "reasoning_tokens": null,
+ "generation_id": null,
+ "rep": 1
+}

@@ -1,0 +1,54 @@
+{
+ "photo": "16",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 14,
+ "found_items": 14,
+ "unmatched_expected_names": [],
+ "invented": 1,
+ "invented_names": [
+  "POLLO CON ROZ"
+ ],
+ "cut_off_listed": 1,
+ "cut_off_names": [
+  "CHILE COLORADO"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.9285714285714286,
+ "descriptions_checked": 14,
+ "tags_right": 1.0,
+ "portion_right": 0.8571428571428571,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 10,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 3,
+   "share_wrong": 0.3333333333333333
+  },
+  "low": {
+   "wrong": 1,
+   "total": 3,
+   "share_wrong": 0.3333333333333333
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Left and right edges are cut off: 'Chile Verde' and other left-column items are partially cropped, and right-column prices for Pollo Fundido, Tacos al Carbon, and the Pollo Fundido/Asada Mix descriptions are cut off at the edge. Some lines are hidden by glare or a glossy sheen (e.g. Tortilla Sopa, Pollo Fundido, Tacos al Carbon price). Items whose names are cut off were omitted: none fully missing; but the Chile Colorado and Pollo Verde descriptions are partly hidden. The Entrees section heading is a sub-banner; the closing note text is not an item.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 7.155121457995847,
+ "cost_usd": 0.0013264,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": ""
+}

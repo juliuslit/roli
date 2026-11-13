@@ -1,0 +1,12 @@
+{"readable": "partly", "problems": "Glare on the middle of the chalkboard makes some lines faint (Crumbed Whiting, Battered Oysters). No prices are printed for the Crudo and the Taste of the Sea items. The last block (Watermelon, Fetta, Mint / Almond, Salsa Verde / SALAD) is ambiguous: the description lines sit above the word SALAD, so I recorded it as one item with a medium confidence. 0 lines left out.", "items": [
+{"section": "", "category": "food", "name": "CRUDO OF SWORDFISH", "description": "ROASTED PEPPERS, FETTA LEMON PANGRATTA", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "OCEAN TROUT / TUNA POKE SALAD", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "medium"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "CRUMBED WHITING", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "BATTERED OYSTERS", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "TASTE OF THE SEA", "category": "food", "name": "CHILLED HOOLOOLABA PRAWNS", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "OCEAN TROUT", "description": "", "price": "37", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "NORTH QLD BARAMUNDI", "description": "", "price": "38", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "COBIA", "description": "", "price": "39", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "SNAPPER", "description": "", "price": "39", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "FISH OF THE DAY", "category": "food", "name": "SALAD", "description": "WATERMELON, FETTA, MINT ALMOND, SALSA VERDE", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"}
+]}

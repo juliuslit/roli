@@ -1,0 +1,22 @@
+{
+"readable": "yes",
+"problems": "",
+"items": [
+{"section": "ENTREES", "category": "food", "name": "MOLCAJETE", "description": "Choice of chicken, steak or combo in a Spicy Mexican stew with onion, mushroom, pico de gallo, cheese, black beans, avocado & grilled cactus", "price": "19", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "TAQUITOS", "description": "Three fried taquitos filled with shredded beef or chicken, topped with sour cream, lettuce, tomato, cotija cheese & guacamole", "price": "16", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "CHILE VERDE", "description": "Pork in spicy tomatillo sauce", "price": "16", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "CHILE COLORADO", "description": "Steak & onion in rich sauce", "price": "17", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "CHORIZO CON POLLO", "description": "Chicken breast sautéed with cream and onion, served on rice then melted cheese, & green onion", "price": "16", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "POLLO EN MOLE", "description": "Chicken breast in mole sauce made with pasilla chile, toasted pepitas, peanuts & chocolate", "price": "17", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "POLLO A LA CREMA", "description": "Chicken sautéed with onion & mushroom in cream sauce", "price": "17", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "TORTILLA SOUP", "description": "Grilled chicken, avocado, tomato, cheese & fried tortilla strips", "price": "15", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "CHILES RELLENOS", "description": "Poblano chiles filled with asadero cheese, topped with sauce & Monterey cheese", "price": "16", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "CARNITAS", "description": "Slow cooked pulled pork topped with cilantro, onion & pico de gallo", "price": "17", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "TAMPICO", "description": "Grilled steak and sautéed prawns in butter with onion, mushroom & crushed chili peppers", "price": "26", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "CARNE ASADA", "description": "Grilled skirt steak traditional or ranchera style", "price": "21", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "POLLO ASADO", "description": "Grilled chicken breast", "price": "17", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "POLLO FUNDIDO", "description": "Grilled chicken topped with jack cheese, cilantro & guacamole", "price": "17", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "ASADA MIX", "description": "Grilled steak and chicken", "price": "19", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "ENTREES", "category": "food", "name": "TACOS AL CARBON", "description": "Three steak tacos in sauce to with pico de gallo & cotija", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"}
+]
+}

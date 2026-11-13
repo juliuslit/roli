@@ -1,0 +1,66 @@
+{
+ "photo": "06",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8571428571428571,
+ "expected_items": 91,
+ "found_items": 78,
+ "unmatched_expected_names": [
+  "WHOLEGRAIN SPELT BASE",
+  "BASE MADE WITH NON GLUTEN FLOUR",
+  "Make your own pizza - standard base with sauce and mozzarella",
+  "KIDS MEAL",
+  "Garlic butter",
+  "Garlic oil (vgn)",
+  "Garlic mayo",
+  "Marinara sauce (vgn)",
+  "Sundried tomato (vgn) (contains garlic)",
+  "BBQ sauce (vgn)",
+  "Chilli jam (vgn)",
+  "Chilli oil (vgn)",
+  "Almond pesto (vgn)"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "DIPS"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.868421052631579,
+ "descriptions_checked": 38,
+ "tags_right": 0.5256410256410257,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 22,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 20,
+   "share_wrong": 0.05
+  },
+  "low": {
+   "wrong": 0,
+   "total": 37,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is slightly skewed and some small print is hard to read at the edges (e.g., right-hand column fine print, some tags). Prices and names mostly legible; a few lower-confidence items noted. The 'Spare Parts' add-on prices are shown per group with 'each' and a few sub-items lack their own prices.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 29.98600037500728,
+ "cost_usd": 0.005169,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": ""
+}

@@ -1,0 +1,63 @@
+{
+ "photo": "12",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8409090909090909,
+ "expected_items": 44,
+ "other_set_aside": 2,
+ "found_items": 37,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Ham sandwich",
+  "Cheese Sandwich",
+  "Cheese & Ham Sandwich",
+  "Cucumber & Hummus Sandwich (VE)",
+  "Mozarella Pesto",
+  "Cheese & Beans",
+  "Tuna Mayo"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 7,
+ "tags_right": 0.8378378378378378,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 29,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 8,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Diagonal shadows fall across the menu and make some small text harder to read. Some prices sit slightly off the line of their items, so the matching of price to item may be uncertain. Where several items share one price in the Children's section, the price is repeated on each of them.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 18.94453212499502,
+ "cost_usd": 0.0434,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3520,
+ "completion_tokens": 3636,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793368951-CalbkaiaYpPGKtdsvLN0",
+ "rep": 1
+}

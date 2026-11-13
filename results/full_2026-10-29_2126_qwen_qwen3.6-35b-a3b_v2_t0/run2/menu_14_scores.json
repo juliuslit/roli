@@ -1,0 +1,52 @@
+{
+ "photo": "14",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9375,
+ "expected_items": 16,
+ "found_items": 15,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Street eats from India"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Yogurt Chaat"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 15,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 16,
+   "share_wrong": 0.0625
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 13.282891417009523,
+ "cost_usd": 0.0013032,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2529,
+ "completion_tokens": 1343,
+ "generation_id": "gen-1793324568-nTBVsOkBRlQK29RryYbw"
+}

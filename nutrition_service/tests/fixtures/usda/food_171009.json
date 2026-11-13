@@ -1,0 +1,106 @@
+{
+  "fdcId": 171009,
+  "description": "Salad dressing, mayonnaise, regular",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 49,
+        "code": "NC",
+        "description": "Calculated",
+        "foodNutrientSource": {
+          "id": 2,
+          "code": "4",
+          "description": "Calculated or imputed"
+        }
+      },
+      "id": 1572341,
+      "amount": 11.703,
+      "dataPoints": 0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 1,
+        "code": "A",
+        "description": "Analytical",
+        "foodNutrientSource": {
+          "id": 1,
+          "code": "1",
+          "description": "Analytical or derived from analytical"
+        }
+      },
+      "id": 1572339,
+      "amount": 42.0,
+      "dataPoints": 12,
+      "max": 50.0,
+      "min": 39.0
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 87758,
+      "gramWeight": 13.8,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "modifier": "tbsp",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 87759,
+      "gramWeight": 220.0,
+      "sequenceNumber": 2,
+      "amount": 1.0,
+      "modifier": "cup",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 87760,
+      "gramWeight": 10.0,
+      "sequenceNumber": 3,
+      "amount": 1.0,
+      "modifier": "packet",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [],
+  "inputFoods": [],
+  "ndbNumber": 4025,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 4,
+    "code": "0400",
+    "description": "Fats and Oils"
+  }
+}

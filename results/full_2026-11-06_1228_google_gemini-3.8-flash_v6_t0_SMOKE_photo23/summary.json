@@ -1,0 +1,140 @@
+{
+ "model": "google/gemini-3.8-flash",
+ "prompt_version": "v6",
+ "temperature": 0,
+ "max_answer_tokens": 24000,
+ "deadline_seconds": 300,
+ "thinking": {
+  "effort": "low",
+  "exclude": true
+ },
+ "provider_order": [
+  "google-ai-studio",
+  "google-vertex"
+ ],
+ "photos": 1,
+ "repetitions": 1,
+ "calls_in_sequence": true,
+ "run_dir": "/Users/juliuslitinskas/projects/roli/results/full_2026-11-06_1228_google_gemini-3.8-flash_v6_t0",
+ "rules": "scoring_rules.md interpretations 1-18 (2026-10-30)",
+ "calls": [
+  {
+   "photo": "23",
+   "rep": 1,
+   "seconds": 6.42946612497326,
+   "cost_usd": 0.004851,
+   "finish_reason": "stop",
+   "provider": "Google AI Studio",
+   "error": "",
+   "prompt_tokens": 3013,
+   "completion_tokens": 691,
+   "reasoning_tokens": 0,
+   "generation_id": "gen-1793986119-UQmxkKn6E934xK4Ev8nC"
+  }
+ ],
+ "as_written": {
+  "photos_set_aside": [],
+  "dishes_found_avg": 0.9,
+  "dishes_found_min_photo": 0.9,
+  "invented_total_by_run": {
+   "1": 0
+  },
+  "prices_right_avg": 1.0,
+  "descriptions_right_avg": 1.0,
+  "format_right_avg": 1.0,
+  "fenced_total": 1,
+  "partly_caught_by_run": {
+   "1": "0/0"
+  },
+  "false_alarms_by_run": {
+   "1": 0
+  },
+  "seconds_avg": 6.42946612497326,
+  "cost_avg_usd": 0.004851,
+  "cost_total_usd": 0.004851,
+  "cut_off_listed_total": 0,
+  "cut_off_listed_by_run": {
+   "1": 0
+  },
+  "other_set_aside_total": 0,
+  "garbled_total": 0,
+  "grouping_total": 0,
+  "joined_found_total": 0,
+  "prompt_tokens_avg": 3013.0,
+  "completion_tokens_avg": 691.0,
+  "reasoning_tokens_total": 0,
+  "dishes_found_by_run": {
+   "1": 0.9
+  },
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": true,
+   "2 invented 0 on both runs": true,
+   "2b cut-off lines listed 0 on both runs": true,
+   "3 prices >=95%": true,
+   "4 descriptions >=90%": true,
+   "6 format >=98%": true,
+   "7 all partly photos caught, both runs": true,
+   "7 false alarms <=3 per run": true,
+   "8 speed <60 s avg": true
+  },
+  "passes": false
+ },
+ "photo_17_set_aside": {
+  "photos_set_aside": [
+   "17"
+  ],
+  "dishes_found_avg": 0.9,
+  "dishes_found_min_photo": 0.9,
+  "invented_total_by_run": {
+   "1": 0
+  },
+  "prices_right_avg": 1.0,
+  "descriptions_right_avg": 1.0,
+  "format_right_avg": 1.0,
+  "fenced_total": 1,
+  "partly_caught_by_run": {
+   "1": "0/0"
+  },
+  "false_alarms_by_run": {
+   "1": 0
+  },
+  "seconds_avg": 6.42946612497326,
+  "cost_avg_usd": 0.004851,
+  "cost_total_usd": 0.004851,
+  "cut_off_listed_total": 0,
+  "cut_off_listed_by_run": {
+   "1": 0
+  },
+  "other_set_aside_total": 0,
+  "garbled_total": 0,
+  "grouping_total": 0,
+  "joined_found_total": 0,
+  "prompt_tokens_avg": 3013.0,
+  "completion_tokens_avg": 691.0,
+  "reasoning_tokens_total": 0,
+  "dishes_found_by_run": {
+   "1": 0.9
+  },
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": true,
+   "2 invented 0 on both runs": true,
+   "2b cut-off lines listed 0 on both runs": true,
+   "3 prices >=95%": true,
+   "4 descriptions >=90%": true,
+   "6 format >=98%": true,
+   "7 all partly photos caught, both runs": true,
+   "7 false alarms <=3 per run": true,
+   "8 speed <60 s avg": true
+  },
+  "passes": false
+ },
+ "hosts": {
+  "Google AI Studio": {
+   "median_tokens_per_second": 107,
+   "calls_measured": 1,
+   "calls_total": 1
+  }
+ }
+}

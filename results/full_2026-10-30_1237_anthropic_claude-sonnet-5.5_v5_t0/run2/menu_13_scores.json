@@ -1,0 +1,82 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.375,
+ "expected_items": 24,
+ "other_set_aside": 0,
+ "found_items": 9,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Malfatti Indiana",
+  "Roast Chicken",
+  "Wafer / Masala Papad / Boiled Eggs",
+  "Garlic Toast / Green Salad",
+  "French Fries / Hash Brown (6 pcs)",
+  "Cheese Cherry Pineapple Stick",
+  "Onion Rings / Cheese Balls (Schezwan)",
+  "Chilly Cheese Toast",
+  "Cutlet & Fries (Veg / Chicken)",
+  "Koliwada (Paneer / Prawns)",
+  "Mondy's Steak Boti",
+  "Masala Omelette with French Fries",
+  "Kheema Pao / Kheema Gotala",
+  "Extra Sauce",
+  "Aloo Tikka / Mushroom Tikka"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 1,
+ "cut_off_names": [
+  "King Prawns Tikka / Haryali"
+ ],
+ "garbled": 1,
+ "garbled_names": [
+  "Maifati Indiana ~ Malfatti Indiana (88%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.4444444444444444,
+ "price_wrong_names": [
+  "A.T.M. (Any Time Meal): price '' vs key '530'",
+  "Funghi Con Crema: price '' vs key '530'",
+  "Vegetable Au Gratin: price '' vs key '530'",
+  "Amalfi: price '' vs key '530'",
+  "Brochettes de Legumes: price '' vs key '530'"
+ ],
+ "descriptions_right": 0.0,
+ "descriptions_checked": 5,
+ "tags_right": 0.1111111111111111,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 0,
+   "total": 4,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 7,
+   "total": 7,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The photo mainly shows two salt and pepper shakers standing on a table with menus printed under the glass. Most menu text is hidden behind the shakers, cut off at the edges, or too small and skewed to read. Only the lines whose names are printed in full are listed. Prices are mostly cut off or unclear, so they are left blank. Roughly 15 or more lines were left out: the wine list at the top right, the continental menu's dish descriptions at the bottom left, the right edges of the Tandoor menu lines (names cut off), and the lines hidden by the shakers.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 11.490212875010911,
+ "cost_usd": 0.021676,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 4188,
+ "completion_tokens": 1330,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793378934-WOwYGaEnYLqyHNIElvCe"
+}

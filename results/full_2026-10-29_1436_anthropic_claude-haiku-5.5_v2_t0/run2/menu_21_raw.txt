@@ -1,0 +1,8 @@
+{"readable": "yes", "problems": "The menu is a handwritten 'Happy Hour Specials' board. Other menus and signs are visible at the left and right edges and were ignored. The 'Riblets' line has a white tape patch over part of it, but the name and price are legible.", "items": [
+{"section": "Happy Hour Specials", "category": "food", "name": "Pizza By The Slice", "description": "Vegetarian, Combo, Pepperoni", "price": "5", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "high"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Wood Fire Oysters", "description": "Pesto, BBQ", "price": "3.50", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "high"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Meatballs (3)", "description": "Served with homemade sauce & bread", "price": "9", "tags": "", "portion": "(3)", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Riblets", "description": "", "price": "10", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Mini Gyros (2)", "description": "Lamb", "price": "10", "tags": "", "portion": "(2)", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Happy Hour Specials", "category": "food", "name": "Focaccia / Onion Focaccia", "description": "Served with olive tapenade", "price": "8", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "high"}
+]}

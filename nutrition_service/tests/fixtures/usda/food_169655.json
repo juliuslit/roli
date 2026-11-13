@@ -1,0 +1,192 @@
+{
+  "fdcId": 169655,
+  "description": "Sugars, granulated",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "id": 1459277,
+      "amount": 0.0,
+      "dataPoints": 0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "id": 1459291,
+      "amount": 0.0,
+      "dataPoints": 1
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 85288,
+      "gramWeight": 200.0,
+      "sequenceNumber": 3,
+      "amount": 1.0,
+      "modifier": "cup",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 85289,
+      "dataPoints": 22,
+      "gramWeight": 2.3,
+      "sequenceNumber": 4,
+      "amount": 1.0,
+      "modifier": "serving 1 cube",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 85287,
+      "gramWeight": 4.2,
+      "sequenceNumber": 2,
+      "amount": 1.0,
+      "modifier": "tsp",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 85286,
+      "dataPoints": 27,
+      "gramWeight": 2.8,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "modifier": "serving packet",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 2418,
+      "value": "sucrose",
+      "sequenceNumber": 0,
+      "foodAttributeType": {
+        "id": 1000,
+        "name": "Common Name",
+        "description": "Common names associated with a food."
+      }
+    },
+    {
+      "id": 3404474,
+      "value": "NA",
+      "name": "NCBI Taxon",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3404475,
+      "value": "NA",
+      "name": "NCBI Taxon Parent",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3404476,
+      "value": "NA",
+      "name": "Scientific Name",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3404477,
+      "value": "http://purl.obolibrary.org/obo/FOODON_03301073",
+      "name": "FoodOn Ontology ID #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3404478,
+      "value": "sugar (granulated)",
+      "name": "FoodOn Ontology Name #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3404479,
+      "value": "http://purl.obolibrary.org/obo/FOODON_00002300",
+      "name": "Ontology ID For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3404480,
+      "value": "sweetener",
+      "name": "Ontology Name For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    }
+  ],
+  "nutrientConversionFactors": [
+    {
+      "id": 13058,
+      "carbohydrateValue": 3.87,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 18030,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "inputFoods": [],
+  "ndbNumber": 19335,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 19,
+    "code": "1900",
+    "description": "Sweets"
+  }
+}

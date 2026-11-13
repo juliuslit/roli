@@ -1,0 +1,573 @@
+{
+ "model": "anthropic/claude-haiku-5.5",
+ "prompt_version": "v1",
+ "temperature": 0,
+ "max_answer_tokens": 16000,
+ "deadline_seconds": 300,
+ "repetitions": 2,
+ "rules": "scoring_rules.md interpretations 1-16 (2026-10-29)",
+ "rescored_from": "results/full_2026-10-29_1015_anthropic_claude-haiku-5.5_v1_t0",
+ "run_dir": "results/full_2026-10-29_1015_anthropic_claude-haiku-5.5_v1_t0_rescored_2026-10-30_rules1-16",
+ "calls": [
+  {
+   "photo": "01",
+   "rep": 1,
+   "seconds": 10.497173624986317,
+   "cost_usd": 0.0014176,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "02",
+   "rep": 1,
+   "seconds": 10.228098124993267,
+   "cost_usd": 0.001478,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "03",
+   "rep": 1,
+   "seconds": 9.406948290998116,
+   "cost_usd": 0.0012441,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "04",
+   "rep": 1,
+   "seconds": 7.036672165995697,
+   "cost_usd": 0.000722,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "05",
+   "rep": 1,
+   "seconds": 24.686663375003263,
+   "cost_usd": 0.003853,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "06",
+   "rep": 1,
+   "seconds": 17.654574584012153,
+   "cost_usd": 0.002945,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "07",
+   "rep": 1,
+   "seconds": 18.555044790991815,
+   "cost_usd": 0.00244,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "08",
+   "rep": 1,
+   "seconds": 14.320495874999324,
+   "cost_usd": 0.0024525,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "09",
+   "rep": 1,
+   "seconds": 8.768278708012076,
+   "cost_usd": 0.00105,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "10",
+   "rep": 1,
+   "seconds": 40.96694350001053,
+   "cost_usd": 0.0069994,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "11",
+   "rep": 1,
+   "seconds": 14.96600854099961,
+   "cost_usd": 0.00214,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "12",
+   "rep": 1,
+   "seconds": 16.25755500001833,
+   "cost_usd": 0.002274,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "13",
+   "rep": 1,
+   "seconds": 5.878148165997118,
+   "cost_usd": 0.000737,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "14",
+   "rep": 1,
+   "seconds": 7.713590374973137,
+   "cost_usd": 0.0011656,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "15",
+   "rep": 1,
+   "seconds": 14.431187417008914,
+   "cost_usd": 0.00243,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "16",
+   "rep": 1,
+   "seconds": 8.345681915991008,
+   "cost_usd": 0.0012301,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "17",
+   "rep": 1,
+   "seconds": 8.444608999998309,
+   "cost_usd": 0.0014271,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "18",
+   "rep": 1,
+   "seconds": 7.3689993750012945,
+   "cost_usd": 0.0011685,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "19",
+   "rep": 1,
+   "seconds": 10.765251291013556,
+   "cost_usd": 0.0018335,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "20",
+   "rep": 1,
+   "seconds": 4.286940624995623,
+   "cost_usd": 0.0005505,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "21",
+   "rep": 1,
+   "seconds": 4.315611041005468,
+   "cost_usd": 0.0005705,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "22",
+   "rep": 1,
+   "seconds": 3.7069005829980597,
+   "cost_usd": 0.000556,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "23",
+   "rep": 1,
+   "seconds": 4.464341374987271,
+   "cost_usd": 0.000754,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "24",
+   "rep": 1,
+   "seconds": 5.614256958011538,
+   "cost_usd": 0.0006471,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "25",
+   "rep": 1,
+   "seconds": 5.656422375002876,
+   "cost_usd": 0.0009025,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "01",
+   "rep": 2,
+   "seconds": 8.771612832992105,
+   "cost_usd": 0.0014986,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "02",
+   "rep": 2,
+   "seconds": 9.155552458978491,
+   "cost_usd": 0.001512,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "03",
+   "rep": 2,
+   "seconds": 7.271014416997787,
+   "cost_usd": 0.0012441,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "04",
+   "rep": 2,
+   "seconds": 5.768702457979089,
+   "cost_usd": 0.0006575,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "05",
+   "rep": 2,
+   "seconds": 19.490503875014838,
+   "cost_usd": 0.0033485,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "06",
+   "rep": 2,
+   "seconds": 16.781872958992608,
+   "cost_usd": 0.002912,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "07",
+   "rep": 2,
+   "seconds": 11.949339042010251,
+   "cost_usd": 0.0022235,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "08",
+   "rep": 2,
+   "seconds": 13.548671625001589,
+   "cost_usd": 0.002454,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "09",
+   "rep": 2,
+   "seconds": 6.4225566659879405,
+   "cost_usd": 0.0010255,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "10",
+   "rep": 2,
+   "seconds": 37.97409291699296,
+   "cost_usd": 0.0071719,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "11",
+   "rep": 2,
+   "seconds": 13.09038400001009,
+   "cost_usd": 0.002138,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "12",
+   "rep": 2,
+   "seconds": 13.487503249984002,
+   "cost_usd": 0.0022945,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "13",
+   "rep": 2,
+   "seconds": 8.836767374974443,
+   "cost_usd": 0.0013555,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "14",
+   "rep": 2,
+   "seconds": 6.83013495898922,
+   "cost_usd": 0.0011616,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "15",
+   "rep": 2,
+   "seconds": 15.447848249983508,
+   "cost_usd": 0.002359,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "16",
+   "rep": 2,
+   "seconds": 8.241321457986487,
+   "cost_usd": 0.0012026,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "17",
+   "rep": 2,
+   "seconds": 9.117578499979572,
+   "cost_usd": 0.0013541,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "18",
+   "rep": 2,
+   "seconds": 7.419352291995892,
+   "cost_usd": 0.001171,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "19",
+   "rep": 2,
+   "seconds": 11.07586412501405,
+   "cost_usd": 0.0019385,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "20",
+   "rep": 2,
+   "seconds": 4.104784709023079,
+   "cost_usd": 0.0005505,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "21",
+   "rep": 2,
+   "seconds": 5.232861791999312,
+   "cost_usd": 0.0006935,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "22",
+   "rep": 2,
+   "seconds": 3.817368624993833,
+   "cost_usd": 0.0005645,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "23",
+   "rep": 2,
+   "seconds": 4.190243791003013,
+   "cost_usd": 0.000789,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "24",
+   "rep": 2,
+   "seconds": 4.781002875010017,
+   "cost_usd": 0.0006761,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "25",
+   "rep": 2,
+   "seconds": 5.797724500007462,
+   "cost_usd": 0.0009025,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  }
+ ],
+ "hosts": {},
+ "reruns": [],
+ "as_written": {
+  "photos_set_aside": [],
+  "dishes_found_avg": 0.8548155656743057,
+  "dishes_found_min_photo": 0.0989010989010989,
+  "invented_total_by_run": {
+   "1": 7,
+   "2": 8
+  },
+  "prices_right_avg": 0.9364559928946055,
+  "descriptions_right_avg": 0.8773422723601965,
+  "format_right_avg": 1.0,
+  "partly_caught_by_run": {
+   "1": "7/7",
+   "2": "7/7"
+  },
+  "false_alarms_by_run": {
+   "1": 4,
+   "2": 5
+  },
+  "seconds_avg": 10.858821136598126,
+  "cost_avg_usd": 0.00172373,
+  "cost_total_usd": 0.0861865,
+  "cut_off_listed_total": 12,
+  "cut_off_listed_by_run": {
+   "1": 3,
+   "2": 9
+  },
+  "other_set_aside_total": 15,
+  "garbled_total": 14,
+  "grouping_total": 8,
+  "joined_found_total": 103,
+  "prompt_tokens_avg": null,
+  "completion_tokens_avg": null,
+  "reasoning_tokens_total": 0,
+  "dishes_found_by_run": {
+   "1": 0.8550164977093395,
+   "2": 0.8546146336392719
+  },
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": false,
+   "2 invented 0 on both runs": false,
+   "2b cut-off lines listed 0 on both runs": false,
+   "3 prices >=95%": false,
+   "4 descriptions >=90%": false,
+   "6 format >=98%": true,
+   "7 all partly photos caught, both runs": true,
+   "7 false alarms <=3 per run": false,
+   "8 speed <60 s avg": true
+  },
+  "passes": false,
+  "unstable_runs_differ_over_5_points": false
+ },
+ "photo_17_set_aside": {
+  "photos_set_aside": [
+   "17"
+  ],
+  "dishes_found_avg": 0.8859553142784723,
+  "dishes_found_min_photo": 0.20833333333333334,
+  "invented_total_by_run": {
+   "1": 7,
+   "2": 8
+  },
+  "prices_right_avg": 0.9387066394239443,
+  "descriptions_right_avg": 0.8773422723601965,
+  "format_right_avg": 1.0,
+  "partly_caught_by_run": {
+   "1": "6/6",
+   "2": "6/6"
+  },
+  "false_alarms_by_run": {
+   "1": 4,
+   "2": 5
+  },
+  "seconds_avg": 10.945393111040175,
+  "cost_avg_usd": 0.0017376104166666668,
+  "cost_total_usd": 0.0834053,
+  "cut_off_listed_total": 12,
+  "cut_off_listed_by_run": {
+   "1": 3,
+   "2": 9
+  },
+  "other_set_aside_total": 15,
+  "garbled_total": 12,
+  "grouping_total": 7,
+  "joined_found_total": 102,
+  "prompt_tokens_avg": null,
+  "completion_tokens_avg": null,
+  "reasoning_tokens_total": 0,
+  "dishes_found_by_run": {
+   "1": 0.885807930970249,
+   "2": 0.8861026975866958
+  },
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": false,
+   "2 invented 0 on both runs": false,
+   "2b cut-off lines listed 0 on both runs": false,
+   "3 prices >=95%": false,
+   "4 descriptions >=90%": false,
+   "6 format >=98%": true,
+   "7 all partly photos caught, both runs": true,
+   "7 false alarms <=3 per run": false,
+   "8 speed <60 s avg": true
+  },
+  "passes": false,
+  "unstable_runs_differ_over_5_points": false
+ }
+}

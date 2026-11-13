@@ -1,0 +1,14 @@
+{"readable": "partly", "problems": "Two salt/pepper shakers cover much of the menu; the visible menu is cut off at the edges and the bottom portion is partly hidden. Only items clearly legible were transcribed; several names and prices are cut off or obscured by the shakers and photo edge.", "items": [
+{"section": "TANDOOR MENU", "category": "food", "name": "Aloo Tikka / Mushroom Tikka", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "low"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Achari Gobi Tikka / Baby Corn Tikka", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "low"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Paneer Tikka / Malai / Achari", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "low"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Mixed Tandoor Platter", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Chicken Tandoori (Half / Full)", "description": "", "price": "", "tags": "", "portion": "half / full", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Chicken Tikka / Malai / Reshmi", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "low"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Chicken Sheek / Achari / Tangdi", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "low"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Fish Tikka / Achari / Kalamari", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "low"},
+{"section": "TANDOOR MENU", "category": "food", "name": "King Prawns Tikka / Hariyali", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "low"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Mixed Tandoor Platter", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "ACCOMPANIMENTS", "category": "food", "name": "Tandoori Roti", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "ACCOMPANIMENTS", "category": "food", "name": "Tandoori Naan / Butter Naan", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "low"}
+]}

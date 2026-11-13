@@ -1,0 +1,150 @@
+{
+  "readable": "partly",
+  "problems": "The image is dominated by salt and pepper shakers in the foreground, which significantly obscure the majority of the menu items. The left section is mostly unreadable. The top right section is visible but cut off at the edges. Only the bottom right sections are fully readable.",
+  "items": [
+    {
+      "section": "VEGETARIAN",
+      "category": "food",
+      "name": "Aloo Tikka / Mushroom Tikka",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "yes",
+      "belongs_to": "",
+      "confidence": "high"
+    },
+    {
+      "section": "VEGETARIAN",
+      "category": "food",
+      "name": "Achari Gobi Tikka / Baby Corn Tk",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "yes",
+      "belongs_to": "",
+      "confidence": "high"
+    },
+    {
+      "section": "VEGETARIAN",
+      "category": "food",
+      "name": "Paneer Tikka / Malai / Achari / Sk",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "yes",
+      "belongs_to": "",
+      "confidence": "medium"
+    },
+    {
+      "section": "VEGETARIAN",
+      "category": "food",
+      "name": "Mixed Tandoor Platter",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "no",
+      "belongs_to": "",
+      "confidence": "high"
+    },
+    {
+      "section": "NON - VEGETARIAN",
+      "category": "food",
+      "name": "Chicken Tandoori (Half / Full)",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "yes",
+      "belongs_to": "",
+      "confidence": "high"
+    },
+    {
+      "section": "NON - VEGETARIAN",
+      "category": "food",
+      "name": "Chicken Tikka / Malai / Resh",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "yes",
+      "belongs_to": "",
+      "confidence": "medium"
+    },
+    {
+      "section": "NON - VEGETARIAN",
+      "category": "food",
+      "name": "Chicken Sheek / Achari / Tay",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "yes",
+      "belongs_to": "",
+      "confidence": "medium"
+    },
+    {
+      "section": "NON - VEGETARIAN",
+      "category": "food",
+      "name": "Fish Tikka / Achari / Kalami",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "yes",
+      "belongs_to": "",
+      "confidence": "medium"
+    },
+    {
+      "section": "NON - VEGETARIAN",
+      "category": "food",
+      "name": "King Prawns Tikka / Harya",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "yes",
+      "belongs_to": "",
+      "confidence": "medium"
+    },
+    {
+      "section": "NON - VEGETARIAN",
+      "category": "food",
+      "name": "Mixed Tandoor Platter",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "no",
+      "belongs_to": "",
+      "confidence": "high"
+    },
+    {
+      "section": "ACCOMPANIMENTS -",
+      "category": "food",
+      "name": "Tandoor Roti",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "no",
+      "belongs_to": "",
+      "confidence": "high"
+    },
+    {
+      "section": "ACCOMPANIMENTS -",
+      "category": "food",
+      "name": "Tandoor Naan / Butter R",
+      "description": "",
+      "price": "",
+      "tags": "",
+      "portion": "",
+      "has_choice": "yes",
+      "belongs_to": "",
+      "confidence": "medium"
+    }
+  ]
+}

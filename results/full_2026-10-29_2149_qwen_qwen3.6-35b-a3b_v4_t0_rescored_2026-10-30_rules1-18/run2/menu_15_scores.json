@@ -1,0 +1,69 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 42,
+ "other_set_aside": 7,
+ "found_items": 42,
+ "joined_found": 4,
+ "unmatched_expected_names": [],
+ "invented": 4,
+ "invented_names": [
+  "Humboldt Grassfed Beef",
+  "Big Foot Burger",
+  "*The works w/ cole slaw",
+  "Sauerkraut"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9523809523809523,
+ "price_wrong_names": [
+  "Cheese Burger: price '13' vs key '11.50'",
+  "Oysters: price '' vs key '3 for 8.50 / 6 for 14.50 / 12 for 25.50'"
+ ],
+ "descriptions_right": 0.391304347826087,
+ "descriptions_checked": 23,
+ "tags_right": 0.8809523809523809,
+ "portion_right": 0.9761904761904762,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 4,
+   "total": 38,
+   "share_wrong": 0.10526315789473684
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 7,
+   "share_wrong": 0.14285714285714285
+  },
+  "low": {
+   "wrong": 1,
+   "total": 1,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The middle section of the menu is heavily obscured by glare and a reflection of a person taking the photo. Several items in the 'Chicken Sandwiches' and 'From The Sea' sections are partially or fully unreadable. Specifically, the 'Dylan' sandwich description is partially obscured, 'Mediterranean' is partially obscured, 'Wild West' is partially obscured, 'Aloha' is partially obscured, 'Brie' is partially obscured, 'Salmon Burgers' is partially obscured, and 'Oysters' is partially obscured. Prices for some items in the obscured area are difficult to read with certainty.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 16.410327582998434,
+ "cost_usd": 0.0035081,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2825,
+ "completion_tokens": 3760,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793325769-7OpEBgGT1JoSnz1VhTet",
+ "rep": 2
+}

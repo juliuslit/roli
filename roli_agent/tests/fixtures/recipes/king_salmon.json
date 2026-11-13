@@ -1,0 +1,1990 @@
+{
+ "menu_item": {
+  "name": "KING SALMON",
+  "description": "squash, corn, basil, shishito",
+  "section": "ENTREE",
+  "restaurant": ""
+ },
+ "queries": {
+  "open": "king salmon recipe",
+  "structured_hosts": "king salmon recipe squash"
+ },
+ "stats": {
+  "searches": 2,
+  "search_credits": 2,
+  "hits_open": 10,
+  "hits_structured": 10,
+  "hits_after_url_dedup": 17,
+  "hits_in_both_modes": 0,
+  "blocked_hosts_skipped": 3,
+  "fetched": 12,
+  "fetch_ok": 11,
+  "fetch_from_cache": 11,
+  "robots_disallowed": 0,
+  "rate_limited": 0,
+  "http_errors": 1,
+  "extracted": 8,
+  "extracted_by": {
+   "none": 3,
+   "recipe_scrapers": 7,
+   "json_ld": 1
+  },
+  "content_duplicates": 0,
+  "distinct_recipes": 8,
+  "with_servings": 6,
+  "pct_lines_quantified": 81.4,
+  "pct_lines_grams_known": 18.6,
+  "recipes_with_all_lines_quantified": 1,
+  "seconds": 0.7
+ },
+ "recipes": [
+  {
+   "url": "https://thishealthytable.com/blog/baked-king-salmon",
+   "canonical_url": "https://thishealthytable.com/blog/baked-king-salmon",
+   "host": "thishealthytable.com",
+   "title": "Baked King Salmon",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:48+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 1/2 pounds king salmon",
+    "3 tablespoons butter (melted)",
+    "1 tablespoon lemon juice",
+    "2 teaspoons honey",
+    "1 teaspoon Dijon mustard",
+    "1/2 teaspoon paprika",
+    "1/2 teaspoon kosher salt",
+    "1/4 teaspoon cumin",
+    "1/4 teaspoon garlic powder",
+    "Optional toppings - fresh dill (fresh parsley, lemon wedges)"
+   ],
+   "cooking_verbs": [
+    "bake"
+   ],
+   "ingredients": [
+    {
+     "line": "1 1/2 pounds king salmon",
+     "quantity_text": "1 1/2",
+     "quantity": "1.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "pounds",
+     "unit": "lb",
+     "unit_kind": "weight",
+     "name": "king salmon",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "680.388555",
+     "grams_reference": "1 lb = 453.59237 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "3 tablespoons butter (melted)",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "butter",
+     "preparation_words": [
+      "melted"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon lemon juice",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "lemon juice",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "14.78676478125",
+     "grams_reference": "1 US tbsp = 14.78676478125 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "2 teaspoons honey",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoons",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "honey",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 teaspoon Dijon mustard",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "dijon mustard",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 teaspoon paprika",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "paprika",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 teaspoon kosher salt",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "kosher salt",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/4 teaspoon cumin",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "cumin",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/4 teaspoon garlic powder",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "garlic powder",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Optional toppings - fresh dill (fresh parsley, lemon wedges)",
+     "quantity_text": "optional",
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "optional toppings",
+     "preparation_words": [
+      "fresh parsley, lemon wedges",
+      "fresh dill"
+     ],
+     "preparation_hint": "unknown",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "vague_quantity"
+     ]
+    }
+   ],
+   "content_hash": "2adec5d1a458116e",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://wagyushop.com/blogs/recipes/pan-seared-buttery-ora-king-salmon-fillets",
+   "canonical_url": "https://wagyushop.com/blogs/recipes/pan-seared-buttery-ora-king-salmon-fillets",
+   "host": "wagyushop.com",
+   "title": "Pan-Seared Buttery Ora King Salmon Fillets",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:48+00:00",
+   "extraction": "json_ld",
+   "yield_text": "",
+   "servings": null,
+   "servings_note": "no yield stated",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 lb. salmon fille",
+    "2 Tbsp + ¼ stick butter",
+    "1 Tbsp lemon juice, freshly squeezed",
+    "2 tsp fresh parsley, chopped",
+    "Salt and pepper"
+   ],
+   "cooking_verbs": [],
+   "ingredients": [
+    {
+     "line": "1 lb. salmon fille",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "lb",
+     "unit": "lb",
+     "unit_kind": "weight",
+     "name": "salmon fille",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "453.59237",
+     "grams_reference": "1 lb = 453.59237 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "2 Tbsp + ¼ stick butter",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "Tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "+ 1/4 stick butter",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 Tbsp lemon juice, freshly squeezed",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "Tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "lemon juice",
+     "preparation_words": [
+      "freshly squeezed"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "14.78676478125",
+     "grams_reference": "1 US tbsp = 14.78676478125 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "2 tsp fresh parsley, chopped",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tsp",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "fresh parsley",
+     "preparation_words": [
+      "chopped"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Salt and pepper",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "salt and pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    }
+   ],
+   "content_hash": "176411a0524392e1",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.premiercatch.com/blogs/seafood-recipes/simple-king-salmon-en-papillote",
+   "canonical_url": "https://premiercatch.com/blogs/seafood-recipes/simple-king-salmon-en-papillote",
+   "host": "premiercatch.com",
+   "title": "Simple King Salmon en Papillote",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:48+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "1 serving",
+   "servings": "1",
+   "servings_note": "parsed from '1 serving'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 portion Wild Alaska King Salmon",
+    "1 lemon, sliced",
+    "1 tbsp olive oil",
+    "2 cloves minced garlic",
+    "1 tsp Dijon mustard",
+    "salt and pepper",
+    "fresh herbs (parsley, dill, oregano)",
+    "mixed greens",
+    "optional: toasted sourdough bread"
+   ],
+   "cooking_verbs": [
+    "bake"
+   ],
+   "ingredients": [
+    {
+     "line": "1 portion Wild Alaska King Salmon",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "portion wild alaska king salmon",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 lemon, sliced",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "lemon",
+     "preparation_words": [
+      "sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tbsp olive oil",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tbsp",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 cloves minced garlic",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cloves",
+     "unit": "clove",
+     "unit_kind": "count",
+     "name": "minced garlic",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tsp Dijon mustard",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tsp",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "dijon mustard",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "salt and pepper",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "salt and pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "fresh herbs (parsley, dill, oregano)",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "fresh herbs",
+     "preparation_words": [
+      "parsley, dill, oregano"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "mixed greens",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "mixed greens",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "optional: toasted sourdough bread",
+     "quantity_text": "optional",
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "optional: toasted sourdough bread",
+     "preparation_words": [],
+     "preparation_hint": "cooked",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "vague_quantity"
+     ]
+    }
+   ],
+   "content_hash": "9dae2362e2c46710",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.lecremedelacrumb.com/best-easy-healthy-baked-salmon",
+   "canonical_url": "https://lecremedelacrumb.com/best-easy-healthy-baked-salmon",
+   "host": "lecremedelacrumb.com",
+   "title": "Best Easy Healthy Baked Salmon",
+   "found_by": [
+    "open"
+   ],
+   "fetched_at": "2026-11-02T13:36:48+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "4 salmon fillets (about 6 ounces each)",
+    "2 tablespoons olive oil",
+    "½ teaspoon salt (or to taste)",
+    "¼ teaspoon cracked black pepper (just a pinch if using finely ground black pepper)",
+    "2 teaspoons minced garlic",
+    "1 teaspoon Italian herb seasoning blend (OR herbs de provence, or ¼ teaspoon each dried thyme, parsley, oregano, and basil)",
+    "1 medium lemon"
+   ],
+   "cooking_verbs": [
+    "bake",
+    "broil"
+   ],
+   "ingredients": [
+    {
+     "line": "4 salmon fillets (about 6 ounces each)",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "salmon fillets",
+     "preparation_words": [
+      "about 6 ounces each"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 tablespoons olive oil",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "½ teaspoon salt (or to taste)",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "salt",
+     "preparation_words": [
+      "or to taste"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "¼ teaspoon cracked black pepper (just a pinch if using finely ground black pepper)",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "cracked black pepper",
+     "preparation_words": [
+      "just a pinch if using finely ground black pepper"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 teaspoons minced garlic",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoons",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "minced garlic",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 teaspoon Italian herb seasoning blend (OR herbs de provence, or ¼ teaspoon each dried thyme, parsley, oregano, and basil)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "italian herb seasoning blend",
+     "preparation_words": [
+      "OR herbs de provence, or 1/4 teaspoon each dried thyme, parsley, oregano, and basil"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 medium lemon",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "medium",
+     "unit": "medium",
+     "unit_kind": "count",
+     "name": "lemon",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "2c57e31f49a4f19a",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.foodnetwork.com/recipes/pan-seared-wild-pacific-king-salmon-with-lemon-and-thyme-polenta-cake-recipe-1948036",
+   "canonical_url": "https://foodnetwork.com/recipes/pan-seared-wild-pacific-king-salmon-with-lemon-and-thyme-polenta-cake-recipe-1948036",
+   "host": "foodnetwork.com",
+   "title": "Pan-Seared Wild Pacific King Salmon with Lemon and Thyme Polenta Cake",
+   "found_by": [
+    "structured_hosts"
+   ],
+   "fetched_at": "2026-11-02T13:36:48+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "6 servings",
+   "servings": "6",
+   "servings_note": "parsed from '6 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "2 cups water",
+    "2 cups milk",
+    "1 cup polenta",
+    "2 tablespoons lemon zest",
+    "2 tablespoons grated Parmesan",
+    "1 bunch fresh lemon thyme, picked",
+    "Olive oil, as needed",
+    "2 pounds wild Pacific king salmon",
+    "10 to 12 yellow pattypan squash, quartered",
+    "1 large green zucchini, diced",
+    "1 tablespoon minced shallots",
+    "1 tablespoon extra-virgin olive oil",
+    "1 tablespoon butter",
+    "1 shallot, minced",
+    "1/2 teaspoon fresh minced thyme",
+    "2 teaspoons sherry vinegar",
+    "1/4 cup demi-glace",
+    "1 tablespoon tomato concasse* (See Cook's Note)"
+   ],
+   "cooking_verbs": [
+    "boil",
+    "saute",
+    "sear"
+   ],
+   "ingredients": [
+    {
+     "line": "2 cups water",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cups",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "water",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "473.1764730",
+     "grams_reference": "1 US cup = 236.5882365 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "2 cups milk",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cups",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "milk",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 cup polenta",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "polenta",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 tablespoons lemon zest",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "lemon zest",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 tablespoons grated Parmesan",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "grated parmesan",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 bunch fresh lemon thyme, picked",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "bunch",
+     "unit": "bunch",
+     "unit_kind": "count",
+     "name": "fresh lemon thyme",
+     "preparation_words": [
+      "picked"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Olive oil, as needed",
+     "quantity_text": "as needed",
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "olive oil",
+     "preparation_words": [
+      "as needed"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "vague_quantity"
+     ]
+    },
+    {
+     "line": "2 pounds wild Pacific king salmon",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "pounds",
+     "unit": "lb",
+     "unit_kind": "weight",
+     "name": "wild pacific king salmon",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "907.18474",
+     "grams_reference": "1 lb = 453.59237 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "10 to 12 yellow pattypan squash, quartered",
+     "quantity_text": "10 to 12",
+     "quantity": "11",
+     "quantity_low": "10",
+     "quantity_high": "12",
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "yellow pattypan squash",
+     "preparation_words": [
+      "quartered"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "range_midpoint",
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 large green zucchini, diced",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "large",
+     "unit": "large",
+     "unit_kind": "count",
+     "name": "green zucchini",
+     "preparation_words": [
+      "diced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon minced shallots",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "minced shallots",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon extra-virgin olive oil",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "extra-virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon butter",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "butter",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 shallot, minced",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "shallot",
+     "preparation_words": [
+      "minced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1/2 teaspoon fresh minced thyme",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoon",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "fresh minced thyme",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 teaspoons sherry vinegar",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoons",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "sherry vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "9.85784318750",
+     "grams_reference": "1 US tsp = 4.92892159375 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "1/4 cup demi-glace",
+     "quantity_text": "1/4",
+     "quantity": "0.25",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "demi-glace",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 tablespoon tomato concasse* (See Cook's Note)",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "tomato concasse*",
+     "preparation_words": [
+      "See Cook's Note"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "61f1f273d8b6f339",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.bbcgoodfood.com/recipes/salmon-squash-prawn-laksa",
+   "canonical_url": "https://bbcgoodfood.com/recipes/salmon-squash-prawn-laksa",
+   "host": "bbcgoodfood.com",
+   "title": "Salmon, squash & prawn laksa",
+   "found_by": [
+    "structured_hosts"
+   ],
+   "fetched_at": "2026-11-02T13:36:48+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "6 servings",
+   "servings": "6",
+   "servings_note": "parsed from '6 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "185g jar laksa paste (or use 2-3 tbsp Thai red curry paste)",
+    "1 small butternut squash (about 600g/1lb 5oz once peeled), cut into chunks",
+    "400g can coconut milk",
+    "600ml chicken stock",
+    "140g medium rice noodle soaked in boiling water and drained",
+    "300g pack beansprout",
+    "400g skinless salmon fillet cut into large chunks",
+    "200g tail-on prawn",
+    "bunch spring onions sliced",
+    "small bunch coriander leaves, to serve",
+    "lime wedges, to serve"
+   ],
+   "cooking_verbs": [
+    "boil",
+    "fry",
+    "simmer"
+   ],
+   "ingredients": [
+    {
+     "line": "185g jar laksa paste (or use 2-3 tbsp Thai red curry paste)",
+     "quantity_text": "185",
+     "quantity": "185",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "jar laksa paste",
+     "preparation_words": [
+      "or use 2-3 tbsp Thai red curry paste"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "185",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "1 small butternut squash (about 600g/1lb 5oz once peeled), cut into chunks",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "small",
+     "unit": "small",
+     "unit_kind": "count",
+     "name": "butternut squash",
+     "preparation_words": [
+      "about 600g/1lb 5oz once peeled",
+      "cut into chunks"
+     ],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "400g can coconut milk",
+     "quantity_text": "400",
+     "quantity": "400",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "can coconut milk",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "400",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "600ml chicken stock",
+     "quantity_text": "600",
+     "quantity": "600",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "ml",
+     "unit": "ml",
+     "unit_kind": "volume",
+     "name": "chicken stock",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "600",
+     "grams_reference": "1 ml; density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "140g medium rice noodle soaked in boiling water and drained",
+     "quantity_text": "140",
+     "quantity": "140",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "medium rice noodle soaked in boiling water and drained",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "140",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "300g pack beansprout",
+     "quantity_text": "300",
+     "quantity": "300",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "pack beansprout",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "300",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "400g skinless salmon fillet cut into large chunks",
+     "quantity_text": "400",
+     "quantity": "400",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "skinless salmon fillet cut into large chunks",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "400",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "200g tail-on prawn",
+     "quantity_text": "200",
+     "quantity": "200",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "g",
+     "unit": "g",
+     "unit_kind": "weight",
+     "name": "tail-on prawn",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "200",
+     "grams_reference": "1 g",
+     "flags": []
+    },
+    {
+     "line": "bunch spring onions sliced",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "bunch",
+     "unit": "bunch",
+     "unit_kind": "count",
+     "name": "spring onions sliced",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "small bunch coriander leaves, to serve",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "small",
+     "unit": "small",
+     "unit_kind": "count",
+     "name": "bunch coriander leaves",
+     "preparation_words": [
+      "to serve"
+     ],
+     "preparation_hint": "unknown",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "lime wedges, to serve",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "lime wedges",
+     "preparation_words": [
+      "to serve"
+     ],
+     "preparation_hint": "unknown",
+     "optional": true,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    }
+   ],
+   "content_hash": "dd102c7f31c1328c",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://cooking.nytimes.com/recipes/1025361-oven-seared-salmon-with-corn-and-tomatoes",
+   "canonical_url": "https://cooking.nytimes.com/recipes/1025361-oven-seared-salmon-with-corn-and-tomatoes",
+   "host": "cooking.nytimes.com",
+   "title": "Oven-Seared Salmon With Corn and Tomatoes",
+   "found_by": [
+    "structured_hosts"
+   ],
+   "fetched_at": "2026-11-02T13:36:48+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 servings",
+   "servings": "4",
+   "servings_note": "parsed from '4 servings'",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "4 cups fresh corn kernels (from about 4 ears)",
+    "2 tablespoons extra-virgin olive oil",
+    "Kosher salt and black pepper",
+    "4 (6- to 8-ounce) skin-on salmon fillets, patted dry",
+    "1½ tablespoons mayonnaise",
+    "1 pint cherry tomatoes, halved",
+    "1 lime",
+    "3 scallions, thinly sliced",
+    "½ cup basil or cilantro leaves"
+   ],
+   "cooking_verbs": [
+    "broil"
+   ],
+   "ingredients": [
+    {
+     "line": "4 cups fresh corn kernels (from about 4 ears)",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cups",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "fresh corn kernels",
+     "preparation_words": [
+      "from about 4 ears"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 tablespoons extra-virgin olive oil",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "extra-virgin olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Kosher salt and black pepper",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "kosher salt and black pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "4 (6- to 8-ounce) skin-on salmon fillets, patted dry",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "skin-on salmon fillets",
+     "preparation_words": [
+      "6- to 8-ounce",
+      "patted dry"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1½ tablespoons mayonnaise",
+     "quantity_text": "1 1/2",
+     "quantity": "1.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "mayonnaise",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 pint cherry tomatoes, halved",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "pint",
+     "unit": "pint",
+     "unit_kind": "volume",
+     "name": "cherry tomatoes",
+     "preparation_words": [
+      "halved"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 lime",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "lime",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 scallions, thinly sliced",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "scallions",
+     "preparation_words": [
+      "thinly sliced"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "½ cup basil or cilantro leaves",
+     "quantity_text": "1/2",
+     "quantity": "0.5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "basil or cilantro leaves",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "0efdf836deebc07b",
+   "duplicate_of": null,
+   "flags": []
+  },
+  {
+   "url": "https://www.epicurious.com/recipes/food/views/crispy-skin-king-salmon-with-roasted-asparagus-fingerling-potatoes-and-hollandaise-sauce-51186210",
+   "canonical_url": "https://epicurious.com/recipes/food/views/crispy-skin-king-salmon-with-roasted-asparagus-fingerling-potatoes-and-hollandaise-sauce-51186210",
+   "host": "epicurious.com",
+   "title": "Crispy-Skin King Salmon with Roasted Asparagus, Fingerling Potatoes, and Hollandaise Sauce",
+   "found_by": [
+    "structured_hosts"
+   ],
+   "fetched_at": "2026-11-02T13:36:48+00:00",
+   "extraction": "recipe_scrapers",
+   "yield_text": "4 items",
+   "servings": null,
+   "servings_note": "yield '4 items' is not a serving count",
+   "servings_low": null,
+   "servings_high": null,
+   "ingredient_lines": [
+    "1 pound fingerling potatoes",
+    "5 tablespoons olive oil",
+    "Kosher salt and freshly ground black pepper",
+    "1 bunch asparagus, trimmed",
+    "4 tablespoons olive oil",
+    "Kosher salt and freshly ground black pepper",
+    "Juice of 1/2 lemon",
+    "1 cup white wine vinegar",
+    "2 teaspoons finely chopped fresh tarragon leaves",
+    "2 teaspoons whole peppercorns",
+    "3 large egg yolks",
+    "1 cup clarified butter",
+    "4 (6- to 8-ounce) center-cut salmon fillets",
+    "Kosher salt and freshly ground black pepper",
+    "1 tablespoon olive oil",
+    "Juice of two lemons",
+    "2 large baking sheets"
+   ],
+   "cooking_verbs": [
+    "roast",
+    "sauté",
+    "sear",
+    "simmer"
+   ],
+   "ingredients": [
+    {
+     "line": "1 pound fingerling potatoes",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "pound",
+     "unit": "lb",
+     "unit_kind": "weight",
+     "name": "fingerling potatoes",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": "453.59237",
+     "grams_reference": "1 lb = 453.59237 g (NIST SP 811)",
+     "flags": []
+    },
+    {
+     "line": "5 tablespoons olive oil",
+     "quantity_text": "5",
+     "quantity": "5",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Kosher salt and freshly ground black pepper",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "kosher salt and freshly ground black pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "1 bunch asparagus, trimmed",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "bunch",
+     "unit": "bunch",
+     "unit_kind": "count",
+     "name": "asparagus",
+     "preparation_words": [
+      "trimmed"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "4 tablespoons olive oil",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoons",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Kosher salt and freshly ground black pepper",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "kosher salt and freshly ground black pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "Juice of 1/2 lemon",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "juice of 1/2 lemon",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "1 cup white wine vinegar",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "white wine vinegar",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": "236.5882365",
+     "grams_reference": "1 US cup = 236.5882365 ml (NIST HB 44); density 1.0 g/ml assumed (water-like liquid)",
+     "flags": [
+      "density_assumed_1"
+     ]
+    },
+    {
+     "line": "2 teaspoons finely chopped fresh tarragon leaves",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoons",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "finely chopped fresh tarragon leaves",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "2 teaspoons whole peppercorns",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "teaspoons",
+     "unit": "tsp",
+     "unit_kind": "volume",
+     "name": "whole peppercorns",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "3 large egg yolks",
+     "quantity_text": "3",
+     "quantity": "3",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "large",
+     "unit": "large",
+     "unit_kind": "count",
+     "name": "egg yolks",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "1 cup clarified butter",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "cup",
+     "unit": "cup",
+     "unit_kind": "volume",
+     "name": "clarified butter",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "4 (6- to 8-ounce) center-cut salmon fillets",
+     "quantity_text": "4",
+     "quantity": "4",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": "each",
+     "unit_kind": "count",
+     "name": "center-cut salmon fillets",
+     "preparation_words": [
+      "6- to 8-ounce"
+     ],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Kosher salt and freshly ground black pepper",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "kosher salt and freshly ground black pepper",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "1 tablespoon olive oil",
+     "quantity_text": "1",
+     "quantity": "1",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "tablespoon",
+     "unit": "tbsp",
+     "unit_kind": "volume",
+     "name": "olive oil",
+     "preparation_words": [],
+     "preparation_hint": "as_used",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    },
+    {
+     "line": "Juice of two lemons",
+     "quantity_text": null,
+     "quantity": null,
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": null,
+     "unit": null,
+     "unit_kind": "none",
+     "name": "juice of two lemons",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": []
+    },
+    {
+     "line": "2 large baking sheets",
+     "quantity_text": "2",
+     "quantity": "2",
+     "quantity_low": null,
+     "quantity_high": null,
+     "unit_raw": "large",
+     "unit": "large",
+     "unit_kind": "count",
+     "name": "baking sheets",
+     "preparation_words": [],
+     "preparation_hint": "unknown",
+     "optional": false,
+     "grams": null,
+     "grams_reference": null,
+     "flags": [
+      "conversion_pending_usda_portion"
+     ]
+    }
+   ],
+   "content_hash": "bcdf04173aa1eb63",
+   "duplicate_of": null,
+   "flags": []
+  }
+ ]
+}

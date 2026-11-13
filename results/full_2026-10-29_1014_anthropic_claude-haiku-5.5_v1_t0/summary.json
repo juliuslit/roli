@@ -1,0 +1,118 @@
+{
+ "model": "anthropic/claude-haiku-5.5",
+ "prompt_version": "v1",
+ "temperature": 0,
+ "max_answer_tokens": 16000,
+ "deadline_seconds": 300,
+ "thinking": false,
+ "provider_order": [
+  "anthropic"
+ ],
+ "photos": 3,
+ "repetitions": 1,
+ "calls_in_sequence": true,
+ "run_dir": "/Users/juliuslitinskas/projects/roli/results/full_2026-10-29_1014_anthropic_claude-haiku-5.5_v1_t0",
+ "calls": [
+  {
+   "photo": "06",
+   "rep": 1,
+   "seconds": 29.98600037500728,
+   "cost_usd": 0.005169,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "13",
+   "rep": 1,
+   "seconds": 9.097575042018434,
+   "cost_usd": 0.00132,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  },
+  {
+   "photo": "17",
+   "rep": 1,
+   "seconds": 16.166531249997206,
+   "cost_usd": 0.0022666,
+   "finish_reason": "stop",
+   "provider": "Anthropic",
+   "error": ""
+  }
+ ],
+ "as_written": {
+  "photos_set_aside": [],
+  "dishes_found_avg": 0.6625342090859332,
+  "dishes_found_min_photo": 0.21379310344827587,
+  "invented_total_by_run": {
+   "1": 12
+  },
+  "prices_right_avg": 0.7104377104377105,
+  "descriptions_right_avg": 0.6008771929824561,
+  "format_right_avg": 1.0,
+  "partly_caught_by_run": {
+   "1": "2/2"
+  },
+  "false_alarms_by_run": {
+   "1": 1
+  },
+  "seconds_avg": 18.416702222340973,
+  "cost_avg_usd": 0.0029185333333333337,
+  "cost_total_usd": 0.0087556,
+  "cut_off_listed_total": 6,
+  "dishes_found_by_run": {
+   "1": 0.6625342090859332
+  },
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": false,
+   "2 invented 0 on both runs": false,
+   "3 prices >=95%": false,
+   "4 descriptions >=90%": false,
+   "6 format >=98%": true,
+   "7 all partly photos caught, both runs": true,
+   "7 false alarms <=3 per run": true,
+   "8 speed <60 s avg": true
+  },
+  "passes": false
+ },
+ "photo_17_set_aside": {
+  "photos_set_aside": [
+   "17"
+  ],
+  "dishes_found_avg": 0.8869047619047619,
+  "dishes_found_min_photo": 0.8571428571428571,
+  "invented_total_by_run": {
+   "1": 2
+  },
+  "prices_right_avg": 0.9545454545454546,
+  "descriptions_right_avg": 0.6008771929824561,
+  "format_right_avg": 1.0,
+  "partly_caught_by_run": {
+   "1": "1/1"
+  },
+  "false_alarms_by_run": {
+   "1": 1
+  },
+  "seconds_avg": 19.541787708512857,
+  "cost_avg_usd": 0.0032445,
+  "cost_total_usd": 0.006489,
+  "cut_off_listed_total": 6,
+  "dishes_found_by_run": {
+   "1": 0.8869047619047619
+  },
+  "bars": {
+   "1 dishes found >=95% avg": false,
+   "1 no photo <80%": true,
+   "2 invented 0 on both runs": false,
+   "3 prices >=95%": true,
+   "4 descriptions >=90%": false,
+   "6 format >=98%": true,
+   "7 all partly photos caught, both runs": true,
+   "7 false alarms <=3 per run": true,
+   "8 speed <60 s avg": true
+  },
+  "passes": false
+ }
+}

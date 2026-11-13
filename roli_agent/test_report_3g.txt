@@ -1,0 +1,20 @@
+Checkpoint 3G test report, 2026-11-06
+
+Agent suite: .venv/bin/python -m pytest roli_agent/tests (LANGSMITH_TRACING=false), from the repo root
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ============================
+SKIPPED [1] roli_agent/tests/test_live.py:34: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:41: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:48: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:55: set ROLI_LIVE_TESTS=1 for live calls
+419 passed, 4 skipped, 1 warning in 9.20s
+
+of which roli_agent/tests/test_3g.py:
+38 passed, 1 warning in 1.48s
+
+Library suite: nutrition_service/.venv/bin/python -m pytest, from nutrition_service/
+SKIPPED [1] tests/test_live.py:40: set ROLI_LIVE_TESTS=1 to call USDA
+SKIPPED [1] tests/test_live.py:46: set ROLI_LIVE_TESTS=1 to call USDA
+333 passed, 4 skipped in 3.01s
+
+3F: agent 381 passed, library 333 passed. 3G: no regressions. Four earlier test files were changed because 12.12 changes what they assert: test_mvp_local (D25 now searches every table), test_3d_reference_usda and test_3d_tags_cards (the olive card reads oil as a medium), test_3f (the page now escapes &).

@@ -1,0 +1,92 @@
+{
+ "file": "menu_22_woodford_store_chalkboard.jpg",
+ "telegram_file": "telegram_1280/menu_22_woodford_store_chalkboard.jpg",
+ "expected": {
+  "readable": "yes",
+  "problems": "",
+  "items": [
+   {
+    "section": "SERVING",
+    "category": "food",
+    "name": "Deli Sandwiches",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SERVING",
+    "category": "food",
+    "name": "Hot Chicken Sandwiches",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SERVING",
+    "category": "food",
+    "name": "Breakfast Sandwiches",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SERVING",
+    "category": "food",
+    "name": "BLT",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SERVING",
+    "category": "food",
+    "name": "Mac 'n' Cheese",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SERVING",
+    "category": "food",
+    "name": "Hot Dogs",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "SERVING",
+    "category": "food",
+    "name": "Baked Goods",
+    "description": "",
+    "price": "",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   }
+  ]
+ },
+ "scoring_hints": {
+  "cut_off_lines_left_out": [],
+  "low_confidence_items": [],
+  "medium_confidence_items": []
+ }
+}

@@ -1,0 +1,168 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Wafer / Masala Papad / Boiled Eggs",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Garlic Toast / Green Salad",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "French Fries / Hash Brown (6 pcs)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Cheese Cherry Pineapple Stick",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Onion Rings / Cheese Balls (Schezwan)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Chilly Cheese Toast",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Cutlet & Fries (Veg / Chicken)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Koliwada (Paneer / Prawns)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Mondy's Steak Boti",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Masala Omelette with French Fries",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Kheema Pao / Kheema Gotala",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Extra Sauce",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  }
+ ],
+ "dishes_found": 0.4166666666666667,
+ "expected_items": 24,
+ "found_items": 5,
+ "unmatched_expected_names": [
+  "A.T.M. (Any Time Meal)",
+  "Funghi Con Crema",
+  "Vegetable Au Gratin",
+  "Malfatti Indiana",
+  "Amalfi",
+  "Brochettes de Legumes",
+  "Roast Chicken"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Tandoori Naan / Butter Naan"
+ ],
+ "cut_off_listed": 6,
+ "cut_off_names": [
+  "Achari Gobi Tikka / Baby Corn Ti",
+  "Paneer Tikka / Malai / Achari / Sh",
+  "Chicken Tikka / Malai / Reshm",
+  "Chicken Sheek / Achari / Tang",
+  "Fish Tikka / Achari / Kalamı",
+  "King Prawns Tikka / Haryali"
+ ],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 0.2,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 0,
+   "total": 4,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 7,
+   "total": 8,
+   "share_wrong": 0.875
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Two salt/pepper shakers cover the middle of the menu, and the photo is cropped at the edges, so many item names and prices are hidden or cut off. Only fragments are visible in the Continental section (Vegetarian and Non-Vegetarian columns) and the Tandoor menu. Items with hidden names or prices have been omitted rather than guessed.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 5.392413249996025,
+ "cost_usd": 0.0010343,
+ "finish_reason": "stop"
+}

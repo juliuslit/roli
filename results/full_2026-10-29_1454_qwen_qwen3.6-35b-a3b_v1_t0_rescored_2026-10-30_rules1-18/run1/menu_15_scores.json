@@ -1,0 +1,72 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9523809523809523,
+ "expected_items": 42,
+ "other_set_aside": 2,
+ "found_items": 40,
+ "joined_found": 4,
+ "unmatched_expected_names": [
+  "Dylan",
+  "Solaraide (lemonade + Tea)"
+ ],
+ "invented": 5,
+ "invented_names": [
+  "Humboldt Grassfed Beef",
+  "The works w/Cheddar and Bacon",
+  "Brie Boat Burger",
+  "the works",
+  "Solaraide"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Dylau ~ Dylan (80%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9,
+ "price_wrong_names": [
+  "Cheese Burger: price '' vs key '11.50'",
+  "Pastrami Reuben: price '16.00' vs key '16.50'",
+  "Oysters: price '' vs key '3 for 8.50 / 6 for 14.50 / 12 for 25.50'",
+  "the works: price '' vs key '16.50'"
+ ],
+ "descriptions_right": 0.45454545454545453,
+ "descriptions_checked": 22,
+ "tags_right": 0.875,
+ "portion_right": 0.975,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 7,
+   "total": 43,
+   "share_wrong": 0.16279069767441862
+  },
+  "medium": {
+   "wrong": 3,
+   "total": 3,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The menu is written on a blackboard with significant glare and reflections obscuring parts of the text, particularly in the middle right section (Sandwiches, Beverages, Desserts) and the bottom left. Some prices and descriptions are difficult to read clearly due to the lighting and handwriting style.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 194.58029020900722,
+ "cost_usd": 0.00395465,
+ "finish_reason": "stop",
+ "provider": "DeepInfra",
+ "error": "",
+ "prompt_tokens": 1803,
+ "completion_tokens": 3973,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793302293-K2hGsHjT1fdYgxPWM0dm",
+ "rep": 1
+}

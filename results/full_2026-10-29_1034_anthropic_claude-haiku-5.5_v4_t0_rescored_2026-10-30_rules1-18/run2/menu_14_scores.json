@@ -1,0 +1,55 @@
+{
+ "photo": "14",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9375,
+ "expected_items": 16,
+ "other_set_aside": 1,
+ "found_items": 15,
+ "joined_found": 15,
+ "unmatched_expected_names": [
+  "Alchemist's Cake"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Dhokla"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 15,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 16,
+   "share_wrong": 0.0625
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "This is a single set-menu tasting course listing with one price line for the whole menu; individual courses have no separate prices. Each course is recorded as a food item and the set price is recorded as an 'other' line.",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 8.77296358300373,
+ "cost_usd": 0.0013039,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "reasoning_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

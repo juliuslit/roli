@@ -1,0 +1,70 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9782608695652174,
+ "expected_items": 46,
+ "other_set_aside": 0,
+ "found_items": 45,
+ "joined_found": 7,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream"
+ ],
+ "invented": 3,
+ "invented_names": [
+  "Tea Pot for 2",
+  "Victorian Lemonade, Ginger",
+  "Beer, Sparkling Elderflower"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9111111111111111,
+ "price_wrong_names": [
+  "Babyccino: price '4' vs key '1.5'",
+  "Tea Mug: price '1.5' vs key '2.5'",
+  "Tea Pot for 1: price '2.5' vs key '3.0'",
+  "Tea Pot for 2: price '3.0' vs key '4.2'"
+ ],
+ "descriptions_right": 0.6666666666666666,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.8888888888888888,
+ "has_choice_right": 0.9333333333333333,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 32,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 6,
+   "total": 15,
+   "share_wrong": 0.4
+  },
+  "low": {
+   "wrong": 1,
+   "total": 1,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 15.03063820800162,
+ "cost_usd": 0.002456,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2700,
+ "completion_tokens": 4372,
+ "generation_id": "gen-1793298522-tPPynIE4ewCHCFOrwmEX",
+ "rep": 1
+}

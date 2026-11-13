@@ -1,0 +1,17 @@
+# Test report, local-testing milestone (2026-11-04)
+
+## roli_agent (root .venv), LANGSMITH_TRACING=false
+=========================== short test summary info ============================
+SKIPPED [1] roli_agent/tests/test_live.py:34: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:41: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:48: set ROLI_LIVE_TESTS=1 for live calls
+SKIPPED [1] roli_agent/tests/test_live.py:55: set ROLI_LIVE_TESTS=1 for live calls
+266 passed, 4 skipped, 1 warning in 3.15s
+
+## nutrition_service (its own .venv)
+SKIPPED [1] tests/test_live.py:33: set ROLI_LIVE_TESTS=1 to call USDA
+SKIPPED [1] tests/test_live.py:40: set ROLI_LIVE_TESTS=1 to call USDA
+SKIPPED [1] tests/test_live.py:46: set ROLI_LIVE_TESTS=1 to call USDA
+315 passed, 4 skipped in 2.68s
+
+New tests this milestone: roli_agent/tests/test_mvp_local.py (18: budget, selection, wording, bacon state, fried-recipe fat line, dish-typed rows, match cache, local web mode); nutrition_service/tests/test_recipe_preparation.py (+7 cases); updates in test_mvp.py and test_recipes_adapt.py. Baseline before the milestone: 248 agent / 308 library; after: 266 / 315.

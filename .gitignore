@@ -1,0 +1,32 @@
+# secrets
+.env
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# mac
+.DS_Store
+.cache/
+
+# local prototype runtime files
+roli_agent/runs/.web.pid
+roli_agent/runs/web.log
+.cache/
+
+# local notes and plans (not part of the project)
+notes to self/
+.pytest_cache/
+
+# every virtual environment
+*/.venv/
+
+# saved runs (large; the spend ledger and flags are kept)
+roli_agent/runs/*
+!roli_agent/runs/spend_ledger.jsonl
+!roli_agent/runs/flags.jsonl
+
+# roli2 is its own repository (github.com/juliuslit/roli2)
+roli2/
+roli2_local.sh

@@ -1,0 +1,8 @@
+# Test report, Checkpoint 3B (2026-11-05)
+
+## roli_agent
+SKIPPED [1] roli_agent/tests/test_live.py:55: set ROLI_LIVE_TESTS=1 for live calls
+271 passed, 4 skipped, 1 warning in 4.02s
+
+## nutrition_service
+315 passed, 4 skipped in 3.09s

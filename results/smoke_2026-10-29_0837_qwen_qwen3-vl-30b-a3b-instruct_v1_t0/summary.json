@@ -1,0 +1,85 @@
+{
+ "model": "qwen/qwen3-vl-30b-a3b-instruct",
+ "prompt": "v1",
+ "photos": [
+  "06",
+  "17",
+  "13"
+ ],
+ "temperature": 0,
+ "calls": [
+  {
+   "photo": "06",
+   "model": "qwen/qwen3-vl-30b-a3b-instruct",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_06_pizzaface_uk_printed_spread.jpg",
+   "photo_size": [
+    1280,
+    964
+   ],
+   "seconds": 290.1545193339989,
+   "prompt_tokens": 2012,
+   "completion_tokens": 7193,
+   "cost_usd": 0.00777648,
+   "provider": "SiliconFlow",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793277472-inFxX8WT6Th41MToFYRu",
+   "error": ""
+  },
+  {
+   "photo": "17",
+   "model": "qwen/qwen3-vl-30b-a3b-instruct",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_17_duck_house_takeout_printed_wall.jpg",
+   "photo_size": [
+    719,
+    1280
+   ],
+   "seconds": 642.5967504169967,
+   "prompt_tokens": 1692,
+   "completion_tokens": 32000,
+   "cost_usd": 0.03249068,
+   "provider": "SiliconFlow",
+   "finish_reason": "length",
+   "generation_id": "gen-1793277770-vFTuXx3FYI1qCUS38HQm",
+   "error": ""
+  },
+  {
+   "photo": "13",
+   "model": "qwen/qwen3-vl-30b-a3b-instruct",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_13_hard_obstructed_cafe_mondegar.jpg",
+   "photo_size": [
+    960,
+    1280
+   ],
+   "seconds": 3.742696083005285,
+   "prompt_tokens": 2012,
+   "completion_tokens": 49,
+   "cost_usd": 0.00063248,
+   "provider": "SiliconFlow",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793279032-qndr2p5qG6Hif2paLEG9",
+   "error": ""
+  }
+ ],
+ "answers": 3,
+ "dishes_found_avg": 0.304029304029304,
+ "dishes_found_min": 0.0,
+ "invented_total": 7,
+ "cut_off_listed_total": 0,
+ "prices_right_avg": 1.0,
+ "descriptions_right_avg": 0.7222222222222222,
+ "tags_right_avg": 0.6867469879518072,
+ "portion_right_avg": 1.0,
+ "has_choice_right_avg": 0.9879518072289156,
+ "belongs_to_right_avg": 0.1836734693877551,
+ "format_right_avg": 0.6666666666666666,
+ "bad_photos_caught": 1,
+ "bad_photos_total": 2,
+ "false_alarms": 0,
+ "check_list_items": 12,
+ "seconds_avg": 312.1646552780003,
+ "cost_total_usd": 0.04089964,
+ "cost_avg_usd": 0.013633213333333333
+}

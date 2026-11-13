@@ -1,0 +1,224 @@
+{
+ "file": "menu_03_own_IMG_5185.jpg",
+ "telegram_file": "telegram_1280/menu_03_own_IMG_5185.jpg",
+ "expected": {
+  "readable": "yes",
+  "problems": "",
+  "items": [
+   {
+    "section": "TO START",
+    "category": "food",
+    "name": "TODAY'S RICOTTA",
+    "description": "honeycomb, sicilian olive oil, sourdough tigelle",
+    "price": "18",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TO START",
+    "category": "food",
+    "name": "BLUEFIN CRUDO",
+    "description": "bottarga, muscat grape, chive",
+    "price": "22",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TO START",
+    "category": "food",
+    "name": "POLE BEANS",
+    "description": "burrata, smoked tomato, miso bagna cauda",
+    "price": "21",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TO START",
+    "category": "food",
+    "name": "LITTLE GEM LETTUCES",
+    "description": "tahini vinaigrette, pecorino sardo, toasted sesame",
+    "price": "18",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TO START",
+    "category": "food",
+    "name": "KOSHIHIKARI ARANCINI",
+    "description": "eggplant, smoked mozzarella, tomato, basil",
+    "price": "19",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "TO START",
+    "category": "food",
+    "name": "HEIRLOOM TOMATOES",
+    "description": "pluot, shiso, genovese basil, sourdough",
+    "price": "22",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "PIZZA",
+    "category": "food",
+    "name": "PUTTANESCA",
+    "description": "tomato, castelvetrano, caper, chili, boquerones",
+    "price": "28",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "PIZZA",
+    "category": "food",
+    "name": "SALSICCIA BIANCA",
+    "description": "pork sausage, broccoli rabe, caciocavallo, guindilla peppers",
+    "price": "29",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "PIZZA",
+    "category": "food",
+    "name": "MARGHERITA",
+    "description": "tomato, fior di latte, basil",
+    "price": "24",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "PASTA",
+    "category": "food",
+    "name": "CORN CAPPELLETTI",
+    "description": "brown butter, ricotta salata, fresno chili",
+    "price": "31",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "PASTA",
+    "category": "food",
+    "name": "SAFFRON SOPRESE",
+    "description": "mussels escabeche, calabrian chili, garlic scapes",
+    "price": "32",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "PASTA",
+    "category": "food",
+    "name": "ORECCHIETTE",
+    "description": "chanterelle, turnip, wasabi, pecorino toscano",
+    "price": "31",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "PASTA",
+    "category": "food",
+    "name": "DUCK TRIANGOLI",
+    "description": "pistachio, cocoa, sicilian granola",
+    "price": "33",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "PASTA",
+    "category": "food",
+    "name": "TALEGGIO SCARPINOCC",
+    "description": "parmigiano reggiano, aceto balsamico",
+    "price": "30",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "PASTA",
+    "category": "food",
+    "name": "PAPPARDELLE",
+    "description": "lamb merguez ragu, shishito, tomato xo",
+    "price": "32",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "ENTREE",
+    "category": "food",
+    "name": "KING SALMON",
+    "description": "squash, corn, basil, shishito",
+    "price": "44",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "ENTREE",
+    "category": "food",
+    "name": "PORK CHOP",
+    "description": "mustard greens, stone fruit, salsa verde",
+    "price": "48",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "BREAD",
+    "category": "food",
+    "name": "JOSEY BAKER SOURDOUGH",
+    "description": "parmigiano reggiano cultured butter",
+    "price": "10",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   },
+   {
+    "section": "(no section)",
+    "category": "other",
+    "name": "FLOUR+WATER PASTA COOKBOOK",
+    "description": "",
+    "price": "35",
+    "tags": "",
+    "portion": "",
+    "has_choice": "no",
+    "belongs_to": ""
+   }
+  ]
+ },
+ "scoring_hints": {
+  "cut_off_lines_left_out": [],
+  "low_confidence_items": [],
+  "medium_confidence_items": []
+ }
+}

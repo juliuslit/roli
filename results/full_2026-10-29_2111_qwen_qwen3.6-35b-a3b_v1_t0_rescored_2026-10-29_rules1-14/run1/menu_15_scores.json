@@ -1,0 +1,73 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8571428571428571,
+ "expected_items": 42,
+ "other_set_aside": 2,
+ "found_items": 36,
+ "joined_found": 4,
+ "unmatched_expected_names": [
+  "Chicken",
+  "Dylan",
+  "Mediterraean",
+  "Wild west",
+  "Aloha",
+  "Brie"
+ ],
+ "invented": 6,
+ "invented_names": [
+  "Humboldt Grassfed Beef",
+  "the works",
+  "Humboldt Bay",
+  "Humboldt Bay",
+  "The works w/ cole slaw",
+  "Sauerkraut"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8888888888888888,
+ "price_wrong_names": [
+  "Cheese Burger: price '13' vs key '11.50'",
+  "Sunset Burger: price '15' vs key '13'",
+  "Lost Coast Burger: price '13' vs key '15'",
+  "Humboldt Bay: price '' vs key '3 for 8.50 / 6 for 14.50 / 12 for 25.50'"
+ ],
+ "descriptions_right": 0.3888888888888889,
+ "descriptions_checked": 18,
+ "tags_right": 0.8611111111111112,
+ "portion_right": 0.9722222222222222,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 9,
+   "total": 41,
+   "share_wrong": 0.21951219512195122
+  },
+  "medium": {
+   "wrong": 1,
+   "total": 1,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The middle section of the menu is obscured by a large glare and reflection, making the 'Chicken Sandwiches' and 'From The Sea' sections difficult to read. Some prices and descriptions are partially hidden.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 17.667084665998118,
+ "cost_usd": 0.0034485,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2031,
+ "completion_tokens": 3606,
+ "generation_id": "gen-1793322957-Mc6dzeQlIt6EtAoBdP0y",
+ "rep": 1
+}

@@ -1,0 +1,79 @@
+{
+ "photo": "24",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "Beef, Bac. & Cheddar",
+   "key_price": "",
+   "model_name": "BEEF, BAC. & CHEDDAR",
+   "model_price": "7 8",
+   "reason": "price differs"
+  },
+  {
+   "photo": "24",
+   "key_confidence": "low",
+   "key_name": "French Dip w/Cheddar",
+   "key_price": "",
+   "model_name": "W/CHEDDAR",
+   "model_price": "7 9",
+   "reason": "price differs"
+  }
+ ],
+ "dishes_found": 1.0,
+ "expected_items": 7,
+ "other_set_aside": 0,
+ "found_items": 7,
+ "joined_found": 1,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.2,
+ "price_wrong_names": [
+  "BEST BEEF: price '6' vs key '6.74'",
+  "BEEF SUPREME: price '7' vs key '7.44'",
+  "BEEF, BACON & CHEESE: price '7' vs key '7.84'",
+  "BEEF & CHEDDAR: price '7' vs key '7.34'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 2,
+   "share_wrong": 0.5
+  },
+  "low": {
+   "wrong": 5,
+   "total": 5,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The top of the board is cut off: the heading 'HOT SANDWICHES' is only partly visible at the top edge, and the price columns on the right are cut off at the edge of the photo, so some trailing digits are missing. The 'REG' column header is visible above the top row. Prices are only partly readable: first row shows 6 7 4 (cut off), second row 7 4 4 (cut off), third 7 8 4 (cut off), fourth 7 3 4 (cut off), fifth 7 8, sixth 7 9 for the W/CHEDDAR column, and French Dip shows 7 3 5. Prices that are cut off are left blank or partial as noted in the items.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 4.766103583999211,
+ "cost_usd": 0.0007999,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3564,
+ "completion_tokens": 887,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793300037-jQHfkw2uMRPBdbEGJiaA",
+ "rep": 2
+}

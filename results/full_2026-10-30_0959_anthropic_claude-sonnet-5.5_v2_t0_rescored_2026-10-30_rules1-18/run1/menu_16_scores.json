@@ -1,0 +1,63 @@
+{
+ "photo": "16",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9285714285714286,
+ "expected_items": 14,
+ "other_set_aside": 0,
+ "found_items": 13,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "TACOS AL CARBON"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 13,
+ "tags_right": 1.0,
+ "portion_right": 0.9230769230769231,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 9,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 3,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 0,
+   "total": 1,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The left edge of the photo cuts off the start of CHILE COLORADO (name partly cut off, shown as 'CHILE COLORADO' with the first letter missing) and ARROZ CON POLLO (name and description cut off at the left edge). The right edge cuts off the end of the POLLO FUNDIDO price and the TACOS AL CARBON description and price. Glare covers parts of the TAQUITOS, TORTILLA SOUP, POLLO FUNDIDO and CARNE ASADA text.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 9.870763874991098,
+ "cost_usd": 0.022452,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 3106,
+ "completion_tokens": 1624,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793369006-v7URqSV8PBsn1YBlCumX",
+ "rep": 1
+}

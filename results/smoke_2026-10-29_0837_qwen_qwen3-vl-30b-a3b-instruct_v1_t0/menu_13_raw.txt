@@ -1,0 +1,1 @@
+{"readable": "partly", "problems": "The photo is partially obscured by salt and pepper shakers, and the lower portion of the menu is cut off. Some text is also blurred or in shadow.", "items": []}

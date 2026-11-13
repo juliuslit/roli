@@ -1,0 +1,68 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9347826086956522,
+ "expected_items": 46,
+ "found_items": 43,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream",
+  "House Spirit & mixer - single/double",
+  "Premium spirit & mixer - single/double"
+ ],
+ "invented": 3,
+ "invented_names": [
+  "Tea Mug",
+  "Victorian Lemonade, Ginger",
+  "Beer, Sparkling Elderflower"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 2,
+ "garbled_names": [
+  "House Spirit & mixer ~ House Spirit & mixer - single/double (61%)",
+  "Premium spirit & mixer ~ Premium spirit & mixer - single/double (63%)"
+ ],
+ "grouping": 1,
+ "grouping_names": [
+  "Alternative milks (no charge) -> ['Oat milk', 'Soya milk', 'Coconut milk']"
+ ],
+ "prices_right": 0.975,
+ "price_wrong_names": [
+  "Babyccino: price '4' vs key '1.5'"
+ ],
+ "descriptions_right": 0.6666666666666666,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.875,
+ "has_choice_right": 0.875,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 2,
+   "total": 39,
+   "share_wrong": 0.05128205128205128
+  },
+  "medium": {
+   "wrong": 5,
+   "total": 7,
+   "share_wrong": 0.7142857142857143
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 13.308191040996462,
+ "cost_usd": 0.0023505,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 2700,
+ "completion_tokens": 4161,
+ "generation_id": "gen-1793298790-PqYrgq8791lQtbQGVBv2"
+}

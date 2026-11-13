@@ -1,0 +1,51 @@
+chain,dish,family,dependent,published,published_chol,llm_low,llm_best,llm_high,llm_chol_low,llm_chol_best,llm_chol_high,roli_estimated,roli_mid,roli_low,roli_high
+Pizza Express,The Full Works - scrambled eggs,breakfast_eggs,False,33.0,,15.0,26.0,40.0,450.0,650.0,900.0,True,8.41991,3.790695,16.286642
+Pizza Express,Tiramisu,dessert,False,17.8,,12.0,20.0,32.0,90.0,160.0,260.0,True,11.194042,10.896855,19.614339
+Pizza Express,Smoky BBQ Chicken,pizza_neapolitan,True,10.4,,10.0,18.0,30.0,60.0,100.0,160.0,False,,,
+Pizza Express,Garlic & Herbs dip,dip,False,0.8,,2.0,5.0,12.0,10.0,25.0,50.0,True,7.262124,4.124344,13.798036
+Pizza Express,Bruschetta Originale,vegetable_starter,False,3.3,,1.0,3.0,7.0,0.0,5.0,15.0,True,2.097747,1.476384,2.811454
+Pizza Express,Pollo Pesto,pasta_main,False,26.3,,18.0,28.0,45.0,110.0,170.0,250.0,True,12.500193,4.726512,17.515358
+Pizza Express,Grand Chicken Caesar Salad,leaf_salad_starter,False,8.8,,4.0,8.0,15.0,70.0,110.0,170.0,False,,,
+Pizza Express,Garlic Bread,side_bread,False,2.5,,4.0,9.0,18.0,10.0,25.0,50.0,True,10.842735,6.619775,16.413628
+Pizza Express,Blueberries & Mascarpone Pancakes,breakfast_pancakes,False,6.3,,14.0,24.0,38.0,100.0,180.0,280.0,False,,,
+Pizza Express,Cajun Prawns,fish_starter,False,9.4,,3.0,8.0,16.0,140.0,210.0,300.0,True,2.459523,0.130326,14.926575
+Pizza Express,Polenta Chips,side_vegetable,False,4.0,,2.0,6.0,14.0,5.0,20.0,45.0,True,6.095674,2.726864,14.202042
+Pizza Express,Fresh Fruit & Yoghurt Bowl,breakfast_cereal,False,2.0,,1.0,4.0,9.0,5.0,20.0,40.0,True,0.063847,0.021067,0.193446
+Bonefish Grill,Grilled Rainbow Trout,fish_main,True,3.5,180.0,3.0,7.0,14.0,75.0,115.0,170.0,True,10.948555,2.927759,15.505078
+Bonefish Grill,Grilled 9 oz Sirloin,meat_main,False,11.0,145.0,7.0,13.0,22.0,120.0,175.0,240.0,True,11.750189,8.721027,16.367302
+Bonefish Grill,Creamy Tomato Linguine with Chicken,pasta_main,False,33.0,295.0,14.0,26.0,45.0,100.0,165.0,250.0,True,22.714824,7.071287,30.281171
+Bonefish Grill,"Calamari, Appetizer",fish_starter,False,11.0,665.0,3.0,7.0,15.0,220.0,360.0,550.0,False,,,
+Bonefish Grill,Tomato Bisque Soup cup,soup,False,12.0,50.0,4.0,9.0,18.0,15.0,35.0,65.0,True,9.513638,3.87194,17.564379
+Bonefish Grill,Bourbon Brownie,dessert,False,63.0,450.0,12.0,24.0,40.0,60.0,110.0,180.0,True,14.728611,6.801397,25.035331
+Bonefish Grill,Kids Chicken Bites,kids_dish,False,2.0,65.0,3.0,6.0,12.0,35.0,65.0,110.0,True,4.216748,1.461436,8.472121
+Bonefish Grill,Shaved Brussels Sprouts Side Salad,side_salad,False,2.5,10.0,1.5,4.5,10.0,5.0,15.0,40.0,True,2.01478,1.162259,3.295911
+Zizzi,Kids Spaghetti Bolognese,kids_dish,False,2.0,,3.0,6.0,12.0,20.0,40.0,75.0,True,2.220896,1.132757,4.075997
+Zizzi,Vanilla Gelato,dessert,False,1.8,,5.0,10.0,16.0,30.0,60.0,95.0,False,,,
+Zizzi,Bolognese Classico,pasta_main,False,4.3,,6.0,12.0,22.0,45.0,85.0,140.0,True,4.282186,1.446685,5.902473
+Zizzi,Hot Honey Glazed Duck,meat_main,False,14.0,,8.0,16.0,28.0,100.0,170.0,260.0,False,,,
+Zizzi,Garlic Bread,side_bread,False,3.4,,4.0,9.0,18.0,10.0,25.0,50.0,True,11.271194,6.733909,16.617786
+Zizzi,Mediterranean Sea Bass,fish_main,False,5.2,,2.0,5.0,10.0,60.0,95.0,150.0,True,24.883812,2.309421,38.762875
+Zizzi,Chips,fried_potato_side,False,3.6,,2.0,4.0,9.0,0.0,0.0,10.0,True,0.419053,0.267371,3.631877
+Zizzi,Olives,snack_bowl,False,1.3,,1.0,2.5,5.0,0.0,0.0,0.0,True,2.989475,2.1777,7.762573
+Vapiano,Pesto basilico,pasta_main,False,2.6,,6.0,12.0,20.0,15.0,35.0,60.0,True,9.800525,5.349631,23.859356
+Vapiano,Verdure,pizza_neapolitan,False,16.1,,8.0,15.0,24.0,30.0,60.0,95.0,False,,,
+Vapiano,Pistachio Truffle Dolci,dessert,False,4.8,,12.0,22.0,35.0,40.0,85.0,140.0,True,19.969011,13.441961,28.832385
+Vapiano,Pizza prosciutto e funghi,kids_dish,False,6.8,,6.0,11.0,18.0,25.0,50.0,80.0,True,3.84764,2.616937,5.575468
+Vapiano,Insalata Mista Della Casa with no dressing,leaf_salad_starter,False,2.1,,0.0,0.2,1.0,0.0,0.0,5.0,True,4.29039,1.689242,8.867901
+Vapiano,Pizza Bread Garlic,side_bread,False,1.9,,2.0,6.0,14.0,0.0,10.0,30.0,True,6.148113,3.613458,10.302243
+Vapiano,Insalata Mista Piccola,side_salad,False,0.0,,0.5,1.5,4.0,0.0,0.0,5.0,True,2.158535,1.237866,4.891135
+Vapiano,Antipasti Caprese,tomato_salad_starter,True,20.8,,8.0,15.0,24.0,35.0,65.0,100.0,True,14.752893,5.432099,25.379121
+Carrabba's Italian Grill,Shrimp and Scallop Linguine Alla Vodka,pasta_main,False,13.0,185.0,14.0,26.0,42.0,180.0,280.0,420.0,True,8.439333,2.624171,11.273437
+Carrabba's Italian Grill,Salmon Caperi,fish_main,False,16.0,175.0,4.0,10.0,18.0,85.0,125.0,175.0,True,15.088928,7.565246,49.884452
+Carrabba's Italian Grill,"Tuscan Grilled Ribeye, 16 oz.",meat_main,False,18.0,265.0,28.0,42.0,62.0,220.0,310.0,420.0,True,19.938679,13.601697,27.024043
+Carrabba's Italian Grill,Shrimp Scampi,fish_starter,False,26.0,325.0,10.0,18.0,30.0,190.0,270.0,380.0,True,5.825476,2.423754,14.45945
+Carrabba's Italian Grill,Tomato Caprese with Fresh Burrata,tomato_salad_starter,True,17.0,70.0,12.0,20.0,32.0,40.0,70.0,110.0,True,9.352711,7.461074,11.012759
+Carrabba's Italian Grill,Filet and Shrimp Pasta Toscana,pasta_main,False,83.0,490.0,16.0,28.0,45.0,180.0,260.0,370.0,True,24.197953,8.489468,40.221357
+Prezzo,"Salmon, Tomato & Basil Rigatoni",pasta_main,False,12.0,,3.0,8.0,16.0,50.0,95.0,160.0,True,8.684268,3.022969,29.605789
+Prezzo,Truffle Gorgonzola Burger - Chicken,burger,False,15.0,,8.0,16.0,28.0,85.0,140.0,220.0,True,11.971369,5.117185,18.511666
+Prezzo,House Fries,fried_potato_side,False,1.4,,2.0,5.0,10.0,0.0,0.0,10.0,True,3.012401,2.111351,3.888605
+Prezzo,Garlic Bread With Mozzarella,side_bread,False,10.0,,8.0,17.0,30.0,25.0,55.0,95.0,True,15.198904,8.907844,32.538775
+Prezzo,Olives,snack_bowl,False,1.7,,1.0,2.0,4.0,0.0,0.0,0.0,True,5.079773,2.786058,7.532695
+Wasabi,Spicy chicken tom yum,soup,False,17.95,,1.0,2.5,6.0,40.0,75.0,120.0,False,,,
+Wasabi,Korean chicken katsu sando,sandwich,False,1.8,,6.0,12.0,22.0,80.0,140.0,220.0,True,2.572924,2.280555,2.853461
+Wasabi,Porridge pot with berry compote,breakfast_cereal,False,2.95,,0.5,2.5,6.0,0.0,10.0,25.0,False,,,

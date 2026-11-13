@@ -1,0 +1,71 @@
+{
+ "photo": "19",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.975609756097561,
+ "expected_items": 41,
+ "other_set_aside": 0,
+ "found_items": 40,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Pimento Cheese"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 1,
+ "garbled_names": [
+  "Porterhouse Cheese ~ Pimento Cheese (56%)"
+ ],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.75,
+ "price_wrong_names": [
+  "Grilled Cheese: price '15' vs key ''",
+  "Chicken Salad: price '35' vs key '25c'",
+  "Grillburger: price '35' vs key '25c'",
+  "Waffles: price '30' vs key '20c'",
+  "Ham: price '30' vs key '20c'",
+  "Steak Plate: price '60' vs key '65c'",
+  "No. 2: price '40' vs key '35c'",
+  "No. 3: price '40' vs key '45c'",
+  "No. 4: price '40' vs key '45c'",
+  "No. 5: price '35' vs key '25c'"
+ ],
+ "descriptions_right": 0.47619047619047616,
+ "descriptions_checked": 21,
+ "tags_right": 1.0,
+ "portion_right": 0.85,
+ "has_choice_right": 0.875,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 0,
+   "total": 2,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 11,
+   "total": 39,
+   "share_wrong": 0.28205128205128205
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Small, low-resolution print on a blue menu panel at a slight angle; several lines are faint. Left panel is the restaurant intro (ignored). All lines below were read; a few small prices and descriptions are doubtful and marked low confidence.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 14.582781875011278,
+ "cost_usd": 0.0024096,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": 4186,
+ "completion_tokens": 3982,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793377936-WRu4vEAVc46vhlimMqf5"
+}

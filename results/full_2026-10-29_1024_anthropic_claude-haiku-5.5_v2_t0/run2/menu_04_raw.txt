@@ -1,0 +1,9 @@
+{"readable": "partly", "problems": "The main SF Restaurant Week menu card is legible, but the second menu card at top right is upside down and partly cut off at the edge, and the small card at right is mostly obscured by the card and shadow, so those items were not transcribed. The wine pairing lines are shown on the main card but the prices are printed without a clear currency context; the service charge note is not an item.", "items": [
+{"section": "", "category": "food", "name": "BLUEFIN CRUDO", "description": "bottarga, muscat grape, meyer lemon", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "food", "name": "TALEGGIO SCARPINOCC", "description": "aceto balsamico, parmigiano reggiano", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "food", "name": "STROZZAPRETI", "description": "chanterelle, turnip, wasabi, pecorino toscano", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "food", "name": "TORTELLINI IN BRODO", "description": "ham hock, shelling bean, chives", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "food", "name": "PORK BELLY", "description": "apple, agrodolce, collard greens", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "food", "name": "CHOCOLATE BUDINO", "description": "espresso-caramel crema, sea salt", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "", "category": "other", "name": "90 per person", "description": "45 optional wine pairing", "price": "90", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"}
+]}

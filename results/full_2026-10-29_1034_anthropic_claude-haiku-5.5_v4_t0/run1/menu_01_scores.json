@@ -1,0 +1,51 @@
+{
+ "photo": "01",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9859154929577465,
+ "expected_items": 71,
+ "found_items": 70,
+ "unmatched_expected_names": [
+  "Badger Sparkling Yuzu Lime"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Badger Sparkling"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 0.9857142857142858,
+ "price_wrong_names": [
+  "Espresso: price '4.50' vs key '4.00'"
+ ],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": 1.0,
+ "portion_right": 0.9571428571428572,
+ "has_choice_right": 0.9857142857142858,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 12,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 2,
+   "total": 59,
+   "share_wrong": 0.03389830508474576
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is of a glossy, reflective menu with glare; small print in the bottom drinks section and the add-on line is faint. Some bottom-section lines (e.g. beer and aperitif entries) are small and may be imperfect. Wine-by-bottle/other notes at the very bottom were ignored.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 20.49896433300455,
+ "cost_usd": 0.0038029,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": ""
+}

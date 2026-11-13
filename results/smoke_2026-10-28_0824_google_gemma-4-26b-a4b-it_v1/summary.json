@@ -1,0 +1,81 @@
+{
+ "model": "google/gemma-4-26b-a4b-it",
+ "prompt": "v1",
+ "photos": [
+  "06",
+  "17",
+  "13"
+ ],
+ "calls": [
+  {
+   "photo": "06",
+   "model": "google/gemma-4-26b-a4b-it",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_06_pizzaface_uk_printed_spread.jpg",
+   "photo_size": [
+    1280,
+    964
+   ],
+   "seconds": 33.801020875005634,
+   "prompt_tokens": 1101,
+   "completion_tokens": 5302,
+   "cost_usd": 0.00226393,
+   "provider": "Parasail",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793190284-ldQwN4QgmDmNhrIt7Rzb",
+   "error": ""
+  },
+  {
+   "photo": "17",
+   "model": "google/gemma-4-26b-a4b-it",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_17_duck_house_takeout_printed_wall.jpg",
+   "photo_size": [
+    719,
+    1280
+   ],
+   "seconds": 27.944233291986166,
+   "prompt_tokens": 1099,
+   "completion_tokens": 4288,
+   "cost_usd": 0.00180687,
+   "provider": "Parasail",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793190324-gMft7Z9eMsFebjetucTJ",
+   "error": ""
+  },
+  {
+   "photo": "13",
+   "model": "google/gemma-4-26b-a4b-it",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_13_hard_obstructed_cafe_mondegar.jpg",
+   "photo_size": [
+    960,
+    1280
+   ],
+   "seconds": 7.253123999995296,
+   "prompt_tokens": 1101,
+   "completion_tokens": 1032,
+   "cost_usd": 0.00055593,
+   "provider": "Parasail",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793190360-odU6Wrewes9WWf5aBxeY",
+   "error": ""
+  }
+ ],
+ "answers": 3,
+ "dishes_found_avg": 0.016431924882629106,
+ "dishes_found_min": 0.0,
+ "invented_total": 53,
+ "cut_off_listed_total": 2,
+ "prices_right_avg": 0.6666666666666666,
+ "descriptions_right_avg": 0.0,
+ "tags_right_avg": 0.5714285714285714,
+ "portion_right_avg": 1.0,
+ "has_choice_right_avg": 0.7142857142857143,
+ "belongs_to_right_avg": null,
+ "format_right_avg": 0.3333333333333333,
+ "bad_photos_caught": 1,
+ "bad_photos_total": 2,
+ "false_alarms": 0,
+ "check_list_items": 41
+}

@@ -1,0 +1,153 @@
+{
+ "photo": "13",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Wafer / Masala Papad / Boiled Eggs",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Garlic Toast / Green Salad",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "French Fries / Hash Brown (6 pcs)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Cheese Cherry Pineapple Stick",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Onion Rings / Cheese Balls (Schezwan)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Chilly Cheese Toast",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Cutlet & Fries (Veg / Chicken)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Koliwada (Paneer / Prawns)",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Mondy's Steak Boti",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Masala Omelette with French Fries",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Kheema Pao / Kheema Gotala",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  },
+  {
+   "photo": "13",
+   "key_confidence": "medium",
+   "key_name": "Extra Sauce",
+   "key_price": "",
+   "model_name": "",
+   "model_price": "",
+   "reason": "model did not list this item"
+  }
+ ],
+ "dishes_found": 0.0,
+ "expected_items": 24,
+ "found_items": 0,
+ "unmatched_expected_names": [
+  "A.T.M. (Any Time Meal)",
+  "Funghi Con Crema",
+  "Vegetable Au Gratin",
+  "Malfatti Indiana",
+  "Amalfi",
+  "Brochettes de Legumes",
+  "Roast Chicken",
+  "Aloo Tikka / Mushroom Tikka",
+  "Mixed Tandoor Platter",
+  "Chicken Tandoori (Half / Full)",
+  "Mixed Tandoor Platter",
+  "Tandoor Roti"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": null,
+ "price_wrong_names": [],
+ "descriptions_right": null,
+ "descriptions_checked": 0,
+ "tags_right": null,
+ "portion_right": null,
+ "has_choice_right": null,
+ "belongs_to_right": null,
+ "confidence_calibration": {},
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "The photo is partially obscured by salt and pepper shakers, and the lower portion of the menu is cut off. Some text is also blurred or in shadow.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 3.742696083005285,
+ "cost_usd": 0.00063248,
+ "finish_reason": "stop"
+}

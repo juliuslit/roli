@@ -1,0 +1,93 @@
+{
+  "fdcId": 172675,
+  "description": "Bread, french or vienna (includes sourdough)",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 49,
+        "code": "NC",
+        "description": "Calculated",
+        "foodNutrientSource": {
+          "id": 2,
+          "code": "4",
+          "description": "Calculated or imputed"
+        }
+      },
+      "id": 1714258,
+      "amount": 0.529,
+      "dataPoints": 0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 40,
+        "code": "FLC",
+        "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Claim on label/serving",
+        "foodNutrientSource": {
+          "id": 2,
+          "code": "4",
+          "description": "Calculated or imputed"
+        }
+      },
+      "id": 1714323,
+      "amount": 0.0,
+      "dataPoints": 0
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 91075,
+      "gramWeight": 28.35,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "modifier": "oz",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 91076,
+      "dataPoints": 12,
+      "gramWeight": 139.0,
+      "sequenceNumber": 2,
+      "amount": 1.0,
+      "modifier": "slice",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [],
+  "inputFoods": [],
+  "ndbNumber": 18029,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 18,
+    "code": "1800",
+    "description": "Baked Products"
+  }
+}

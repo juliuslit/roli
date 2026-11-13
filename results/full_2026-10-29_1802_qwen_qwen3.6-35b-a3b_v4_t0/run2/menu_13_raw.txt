@@ -1,0 +1,25 @@
+{
+"readable": "partly",
+"problems": "The menu is partially obscured by two salt and pepper shakers in the foreground. The left column (Continental Menu) is heavily blocked, and the right column (Tandoor Menu) is partially blocked. Many prices are illegible or completely hidden. The text is dense and small, making some items difficult to read with certainty.",
+"items": [
+{"section": "VEGETARIAN", "category": "food", "name": "A.T.M. (Any Time Meal)", "description": "(Seasonal Vegetables in a Creamy Cheese White Wine Sauce with Buttered Yellow Rice)", "price": "530", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "VEGETARIAN", "category": "food", "name": "Punght Con Crema", "description": "(Chicken's of Bell Peppers & Mushroom in a Creamy Cheese Wine Sauce with Buttered Rice)", "price": "530", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "VEGETARIAN", "category": "food", "name": "Vegetable Au Grain", "description": "Mixed Dish of Mix Veg & Pineapple with Rice", "price": "530", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "VEGETARIAN", "category": "food", "name": "Malai Indiana", "description": "Spinach, Paneer & Cottage Cheese Dumplings with Herbs topped with Indian Cheese Sauce", "price": "530", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "VEGETARIAN", "category": "food", "name": "Anali", "description": "Baked Paneer Stuffed with Spinach, Corn, Mushrooms and Herbs topped with Indian Cheese Sauce", "price": "530", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "VEGETARIAN", "category": "food", "name": "Brochettes de Legumes", "description": "Vegetable Skewers with Yoghurt, Corn, Mushrooms, Bell Peppers, Pineapple and Herbs", "price": "530", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "CHICKEN / POLLO", "category": "food", "name": "Roast Chicken", "description": "(Roast & Garlic Basted)", "price": "590", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Aloo Tikka / Mushroom Tikka", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Achari Gobi Tikka / Baby Corn Tikka", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Paneer Tikka / Malai / Achari / Shashlik", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "TANDOOR MENU", "category": "food", "name": "Mixed Tandoor Platter", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "NON - VEGETARIAN", "category": "food", "name": "Chicken Tandoori", "description": "(Half / Full)", "price": "", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "low"},
+{"section": "NON - VEGETARIAN", "category": "food", "name": "Chicken Tikka / Malai / Reshmi", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "NON - VEGETARIAN", "category": "food", "name": "Chicken Sheek / Achari / Tandoori", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "NON - VEGETARIAN", "category": "food", "name": "Fish Tikka / Achari / Kalami", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "NON - VEGETARIAN", "category": "food", "name": "King Prawns Tikka / Haryanvi", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "NON - VEGETARIAN", "category": "food", "name": "Mixed Tandoor Platter", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "ACCOMPANIMENTS", "category": "food", "name": "Tandoor Roti", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "ACCOMPANIMENTS", "category": "food", "name": "Tandoor Naan / Butter Naan", "description": "", "price": "", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"}
+]
+}

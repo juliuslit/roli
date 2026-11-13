@@ -1,0 +1,449 @@
+{
+ "date": "2026-11-05",
+ "runs": [
+  {
+   "photo": "menu_test_set/telegram_1280/menu_08_greyhound_pub_uk_printed.jpg",
+   "repeat": 1,
+   "run_id": "20261105-210830-9ab5f4",
+   "status": "done",
+   "seconds": 111.9,
+   "timings": {
+    "read_menu": 16.9,
+    "estimate_dishes": 94.9,
+    "compare_and_rank": 0.002,
+    "total": 111.8
+   },
+   "totals": {
+    "dishes_on_menu": 38,
+    "dishes_candidates": 15,
+    "dishes_selected": 14,
+    "dishes_evaluated": 14,
+    "dishes_ranked": 5,
+    "dishes_unranked": 9,
+    "dishes_no_recipes": 0,
+    "dishes_error": 0,
+    "dishes_excluded": 23,
+    "dishes_skipped": 1,
+    "dishes_budget_stopped": 0,
+    "search_credits": 0,
+    "llm_calls": 29,
+    "llm_cost_usd": "0.054021",
+    "llm_cost_usd_actual": "0.054021",
+    "llm_cost_usd_estimated": "0.000000",
+    "usda_http_requests": 467,
+    "pages_fetched": 168,
+    "rate_limit_waits": 9,
+    "rate_limit_retries": 0
+   },
+   "spend": {
+    "model_usd_actual": "0.054021",
+    "model_usd_estimated": "0.000000",
+    "model_usd_total": "0.054021",
+    "model_calls": 29,
+    "model_calls_priced_by_provider": 29,
+    "model_calls_estimated_from_tokens": 0,
+    "model_calls_unpriced_flat_reserve": 0,
+    "prompt_tokens": 25168,
+    "completion_tokens": 9372,
+    "price_source": "openrouter public price list, cached 2026-11-03",
+    "search_credits": 0,
+    "limits": {
+     "menu_usd": "0.50",
+     "menu_search_credits": 30,
+     "daily_usd": "5.00",
+     "daily_search_credits": 300
+    },
+    "daily_before_this_run": {
+     "model_usd": "1.2632",
+     "search_credits": 9,
+     "runs": 23
+    },
+    "daily_after_this_run": {
+     "model_usd": "1.3172",
+     "search_credits": 9
+    },
+    "interruptions": []
+   },
+   "ranking": [
+    [
+     1,
+     "PADRON PEPPERS",
+     "0.562287",
+     "4.007767",
+     "close_call"
+    ],
+    [
+     2,
+     "CRISPY SQUID & PRAWNS",
+     "1.76560",
+     "3.53850",
+     "tentative"
+    ],
+    [
+     3,
+     "CORNISH FISH & CHIPS",
+     "10.83914",
+     "22.48371",
+     "close_call"
+    ],
+    [
+     4,
+     "CHICKEN SCHNITZEL",
+     "12.51452",
+     "34.44064",
+     "close_call"
+    ],
+    [
+     5,
+     "PIGS IN BLANKETS",
+     "18.683878",
+     "46.709694",
+     "well_supported"
+    ]
+   ],
+   "unranked": [
+    [
+     "CRACKLING PIG STICKS",
+     "no recipe of this dish could be portioned (no scenario could be portioned (3 without an applicable portion model))"
+    ],
+    [
+     "SICILIAN OLIVES",
+     "no recipe of this dish could be portioned (no scenario could be portioned (1 without an applicable portion model))"
+    ],
+    [
+     "ROASTED HARISSA AUBERGINE",
+     "no recipe of this dish could be portioned (no scenario could be portioned (8 without an applicable portion model))"
+    ],
+    [
+     "THE GREYHOUND SCOTCH EGG",
+     "no recipe of this dish could be portioned (no scenario could be portioned (5 without an applicable portion model))"
+    ],
+    [
+     "CAMEMBERT & SAGE CROQUETTES",
+     "no recipe of this dish could be portioned (no scenario could be portioned (2 without an applicable portion model))"
+    ],
+    [
+     "SIRLOIN STEAK 10oz",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (cookingwithcurls.com: brown sugar (missing_grams), "
+    ],
+    [
+     "PAN FRIED SEABASS",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (carolinescooking.com: anchovy fillets (as_used_not_"
+    ],
+    [
+     "CONISBEE BUTCHER LAMB & MINT SAUSAGES",
+     "the estimate has no upper bound: 1 of 1 recipes have no upper bound (foodnetwork.com: 8-foot hog casing (missing_fdc_id)"
+    ],
+    [
+     "TAGLIATELLE CARBONARA",
+     "the estimate has no upper bound: 4 of 4 recipes have no upper bound (mandytanner.com: Wild Mushroom & Asparagus (missing"
+    ]
+   ],
+   "errors": [],
+   "recommendation": "Among the 5 dishes I could estimate (14 tried; 9 had no usable estimate; 1 not tried), lowest saturated fat first: 1) Padron Peppers, about 0.6-4.0 g saturated fat per plate; 2) Crispy Squid & Prawns, 1.8-3.5 g; 3) Cornish Fish & Chips, 11-22 g. Padron Peppers and Crispy Squid & Prawns overlap, so treat that order as a toss-up. Padron Peppers has no cholesterol in its ingredients. Modeled from published recipes and typical portions, not this kitchen's numbers.",
+   "words": 79,
+   "menu_items": 38,
+   "dish_status": {
+    "CRACKLING PIG STICKS": [
+     "evaluated",
+     "vegetable_starter",
+     3,
+     0,
+     11.2
+    ],
+    "PADRON PEPPERS": [
+     "evaluated",
+     "vegetable_starter",
+     4,
+     4,
+     14.5
+    ],
+    "SICILIAN OLIVES": [
+     "evaluated",
+     "vegetable_starter",
+     1,
+     0,
+     5.8
+    ],
+    "PIGS IN BLANKETS": [
+     "evaluated",
+     "vegetable_starter",
+     6,
+     2,
+     14.4
+    ],
+    "ROASTED HARISSA AUBERGINE": [
+     "evaluated",
+     "vegetable_starter",
+     8,
+     0,
+     24.2
+    ],
+    "HOUSE BAKED BREAD": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "THE GREYHOUND SCOTCH EGG": [
+     "evaluated",
+     "vegetable_starter",
+     5,
+     0,
+     54.4
+    ],
+    "CRISPY SQUID & PRAWNS": [
+     "evaluated",
+     "fish_starter",
+     1,
+     0,
+     7.9
+    ],
+    "CAMEMBERT & SAGE CROQUETTES": [
+     "evaluated",
+     "vegetable_starter",
+     2,
+     0,
+     47.7
+    ],
+    "CHICKEN & MUSHROOM ARANCINI": [
+     "skipped",
+     "vegetable_starter",
+     0,
+     0,
+     0.0
+    ],
+    "THE FARMHOUSE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "FISHERMAN'S BOARD": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CORNISH FISH & CHIPS": [
+     "evaluated",
+     "fish_main",
+     4,
+     8,
+     39.1
+    ],
+    "SIRLOIN STEAK 10oz": [
+     "evaluated",
+     "meat_main",
+     4,
+     5,
+     9.3
+    ],
+    "WAGYU BEEF BURGER": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Emmental Cheese": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Bacon": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "Blue Cheese": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "THE GREYHOUND VEGAN BURGER": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CHICKEN SCHNITZEL": [
+     "evaluated",
+     "meat_main",
+     7,
+     2,
+     16.7
+    ],
+    "PAN FRIED SEABASS": [
+     "evaluated",
+     "fish_main",
+     4,
+     8,
+     7.1
+    ],
+    "CONISBEE BUTCHER LAMB & MINT SAUSAGES": [
+     "evaluated",
+     "meat_main",
+     1,
+     2,
+     14.2
+    ],
+    "TAGLIATELLE CARBONARA": [
+     "evaluated",
+     "pasta_main",
+     4,
+     8,
+     12.0
+    ],
+    "MIXED LEAF SALAD": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "TENDER STEM BROCOLLI": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "TOMATO & RED ONION SALAD": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "ONION RINGS": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CHILLI & GARLIC GREEN BEANS": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "SMOKED GARLIC MASH": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "SKINNY FRIES": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "KOFFMANN'S HAND CUT CHIPS": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "BAKED VANILA CHEESECAKE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "STICKY TOFFEE PUDDING": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "APPLE & CRUMBLE RHUBARB": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "THE GREYHOUND CHEESE SLATE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "BISCOFF DOUGHNUTS": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "CHOCOLATE BROWNIE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ],
+    "TRIO OF DOUGHNUTS TO SHARE": [
+     "excluded",
+     null,
+     0,
+     0,
+     0.0
+    ]
+   },
+   "top3": [
+    [
+     1,
+     "PADRON PEPPERS",
+     "0.562287",
+     "4.007767",
+     "0.000000",
+     "0.000000",
+     "close_call",
+     null
+    ],
+    [
+     2,
+     "CRISPY SQUID & PRAWNS",
+     "1.76560",
+     "3.53850",
+     "131.670",
+     "263.055",
+     "tentative",
+     null
+    ],
+    [
+     3,
+     "CORNISH FISH & CHIPS",
+     "10.83914",
+     "22.48371",
+     "91.148",
+     "185.032",
+     "close_call",
+     null
+    ]
+   ]
+  }
+ ],
+ "consistency": []
+}

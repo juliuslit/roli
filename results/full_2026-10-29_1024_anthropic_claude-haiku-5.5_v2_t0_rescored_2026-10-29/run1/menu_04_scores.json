@@ -1,0 +1,50 @@
+{
+ "photo": "04",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.8571428571428571,
+ "expected_items": 7,
+ "found_items": 6,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "optional wine pairing"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": null,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 0,
+   "total": 6,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "The main menu card is in focus and readable. Another menu behind it (upside down, top right) is rotated and partly cut off at the edge, so its items are not transcribed. The wine pairing wine notes on the right are not part of this menu and are ignored. The set-menu price line is recorded as 'other'.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 4.039413249993231,
+ "cost_usd": 0.0007618,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "generation_id": null,
+ "rep": 1
+}

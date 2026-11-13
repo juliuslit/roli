@@ -1,0 +1,2239 @@
+{
+  "fdcId": 328637,
+  "description": "Cheese, cheddar",
+  "publicationDate": "4/1/2019",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1258,
+        "number": "606",
+        "name": "Fatty acids, total saturated",
+        "rank": 9700,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 4,
+        "code": "AS",
+        "description": "Summed",
+        "foodNutrientSource": {
+          "id": 1,
+          "code": "1",
+          "description": "Analytical or derived from analytical"
+        }
+      },
+      "id": 2247831,
+      "amount": 19.2,
+      "nutrientAnalysisDetails": []
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1253,
+        "number": "601",
+        "name": "Cholesterol",
+        "rank": 15700,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 1,
+        "code": "A",
+        "description": "Analytical",
+        "foodNutrientSource": {
+          "id": 1,
+          "code": "1",
+          "description": "Analytical or derived from analytical"
+        }
+      },
+      "id": 2247830,
+      "amount": 100.0,
+      "dataPoints": 28,
+      "max": 106.0,
+      "min": 95.0,
+      "median": 99.0,
+      "minYearAcquired": 2013,
+      "nutrientAnalysisDetails": [
+        {
+          "subSampleId": 327979,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 327963,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            },
+            {
+              "sampleUnitId": 327965,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            },
+            {
+              "sampleUnitId": 327967,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            },
+            {
+              "sampleUnitId": 327966,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "WATERBURY",
+              "storeState": "CT"
+            },
+            {
+              "sampleUnitId": 327961,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            },
+            {
+              "sampleUnitId": 327968,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "WATERBURY",
+              "storeState": "CT"
+            },
+            {
+              "sampleUnitId": 327964,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "WATERBURY",
+              "storeState": "CT"
+            },
+            {
+              "sampleUnitId": 327962,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "WATERBURY",
+              "storeState": "CT"
+            }
+          ],
+          "amount": 106.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 327986,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 327983,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "PORT HURON",
+              "storeState": "MI"
+            },
+            {
+              "sampleUnitId": 327981,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "PORT HURON",
+              "storeState": "MI"
+            },
+            {
+              "sampleUnitId": 327982,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "PORT HURON",
+              "storeState": "MI"
+            },
+            {
+              "sampleUnitId": 327984,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "PORT HURON",
+              "storeState": "MI"
+            }
+          ],
+          "amount": 104.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328031,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328022,
+              "purchaseDate": "3/24/2013",
+              "storeCity": "ANDERSON",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328025,
+              "purchaseDate": "3/24/2013",
+              "storeCity": "ANDERSON",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328027,
+              "purchaseDate": "3/24/2013",
+              "storeCity": "PLEASANTON",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328028,
+              "purchaseDate": "3/24/2013",
+              "storeCity": "ANDERSON",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328026,
+              "purchaseDate": "3/24/2013",
+              "storeCity": "PLEASANTON",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328024,
+              "purchaseDate": "3/24/2013",
+              "storeCity": "ANDERSON",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328021,
+              "purchaseDate": "3/24/2013",
+              "storeCity": "PLEASANTON",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328023,
+              "purchaseDate": "3/24/2013",
+              "storeCity": "PLEASANTON",
+              "storeState": "CA"
+            }
+          ],
+          "amount": 104.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328081,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328072,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            },
+            {
+              "sampleUnitId": 328074,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "PARADISE",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328075,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            },
+            {
+              "sampleUnitId": 328076,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            },
+            {
+              "sampleUnitId": 328071,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "PARADISE",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328078,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            },
+            {
+              "sampleUnitId": 328077,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "PARADISE",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328073,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "PARADISE",
+              "storeState": "CA"
+            }
+          ],
+          "amount": 99.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328104,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328101,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "WATERBURY",
+              "storeState": "CT"
+            },
+            {
+              "sampleUnitId": 328097,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "PORT HURON",
+              "storeState": "MI"
+            },
+            {
+              "sampleUnitId": 328102,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "PORT HURON",
+              "storeState": "MI"
+            },
+            {
+              "sampleUnitId": 328095,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "WATERBURY",
+              "storeState": "CT"
+            },
+            {
+              "sampleUnitId": 328098,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "WATERBURY",
+              "storeState": "CT"
+            },
+            {
+              "sampleUnitId": 328100,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "WATERBURY",
+              "storeState": "CT"
+            },
+            {
+              "sampleUnitId": 328096,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "PORT HURON",
+              "storeState": "MI"
+            },
+            {
+              "sampleUnitId": 328099,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "PORT HURON",
+              "storeState": "MI"
+            }
+          ],
+          "amount": 98.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328140,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328133,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "DENVER",
+              "storeState": "CO"
+            },
+            {
+              "sampleUnitId": 328134,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "PARADISE",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328138,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "PARADISE",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328132,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "DENVER",
+              "storeState": "CO"
+            },
+            {
+              "sampleUnitId": 328135,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "PARADISE",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328137,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "DENVER",
+              "storeState": "CO"
+            },
+            {
+              "sampleUnitId": 328131,
+              "purchaseDate": "3/25/2013",
+              "storeCity": "DENVER",
+              "storeState": "CO"
+            },
+            {
+              "sampleUnitId": 328136,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "PARADISE",
+              "storeState": "CA"
+            }
+          ],
+          "amount": 97.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328164,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328155,
+              "purchaseDate": "3/27/2013",
+              "storeCity": "SAPULPA",
+              "storeState": "OK"
+            },
+            {
+              "sampleUnitId": 328161,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            },
+            {
+              "sampleUnitId": 328159,
+              "purchaseDate": "3/27/2013",
+              "storeCity": "SAPULPA",
+              "storeState": "OK"
+            },
+            {
+              "sampleUnitId": 328160,
+              "purchaseDate": "3/27/2013",
+              "storeCity": "SAPULPA",
+              "storeState": "OK"
+            },
+            {
+              "sampleUnitId": 328158,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            },
+            {
+              "sampleUnitId": 328157,
+              "purchaseDate": "3/27/2013",
+              "storeCity": "SAPULPA",
+              "storeState": "OK"
+            },
+            {
+              "sampleUnitId": 328156,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            },
+            {
+              "sampleUnitId": 328154,
+              "purchaseDate": "3/23/2013",
+              "storeCity": "BESSEMER",
+              "storeState": "AL"
+            }
+          ],
+          "amount": 97.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328181,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328178,
+              "purchaseDate": "3/24/2013",
+              "storeCity": "LAKE WORTH",
+              "storeState": "FL"
+            },
+            {
+              "sampleUnitId": 328179,
+              "purchaseDate": "3/24/2013",
+              "storeCity": "LAKE WORTH",
+              "storeState": "FL"
+            },
+            {
+              "sampleUnitId": 328176,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "WATERBURY",
+              "storeState": "CT"
+            },
+            {
+              "sampleUnitId": 328177,
+              "purchaseDate": "3/26/2013",
+              "storeCity": "WATERBURY",
+              "storeState": "CT"
+            }
+          ],
+          "amount": 99.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328197,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328195,
+              "purchaseDate": "3/22/2013",
+              "storeCity": "CARRBORO",
+              "storeState": "NC"
+            },
+            {
+              "sampleUnitId": 328194,
+              "purchaseDate": "3/22/2013",
+              "storeCity": "CARRBORO",
+              "storeState": "NC"
+            },
+            {
+              "sampleUnitId": 328192,
+              "purchaseDate": "3/22/2013",
+              "storeCity": "CARRBORO",
+              "storeState": "NC"
+            },
+            {
+              "sampleUnitId": 328193,
+              "purchaseDate": "3/22/2013",
+              "storeCity": "CARRBORO",
+              "storeState": "NC"
+            }
+          ],
+          "amount": 101.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328225,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328214,
+              "purchaseDate": "11/17/2014",
+              "storeCity": "PALMDALE",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328213,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HASTINGS",
+              "storeState": "NE"
+            },
+            {
+              "sampleUnitId": 328210,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HASTINGS",
+              "storeState": "NE"
+            },
+            {
+              "sampleUnitId": 328209,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HASTINGS",
+              "storeState": "NE"
+            },
+            {
+              "sampleUnitId": 328212,
+              "purchaseDate": "11/17/2014",
+              "storeCity": "PALMDALE",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328211,
+              "purchaseDate": "11/17/2014",
+              "storeCity": "PALMDALE",
+              "storeState": "CA"
+            }
+          ],
+          "amount": 98.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328246,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328229,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328228,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HASTINGS",
+              "storeState": "NE"
+            },
+            {
+              "sampleUnitId": 328230,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "ROANOKE RAPIDS",
+              "storeState": "NC"
+            },
+            {
+              "sampleUnitId": 328232,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328231,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "ROANOKE RAPIDS",
+              "storeState": "NC"
+            }
+          ],
+          "amount": 95.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328265,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328254,
+              "purchaseDate": "11/9/2014",
+              "storeCity": "TUCSON",
+              "storeState": "AZ"
+            },
+            {
+              "sampleUnitId": 328251,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328249,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "MCDONOUGH",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328252,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328253,
+              "purchaseDate": "11/9/2014",
+              "storeCity": "TUCSON",
+              "storeState": "AZ"
+            },
+            {
+              "sampleUnitId": 328250,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "MCDONOUGH",
+              "storeState": "GA"
+            }
+          ],
+          "amount": 103.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328284,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328268,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "ROANOKE RAPIDS",
+              "storeState": "NC"
+            },
+            {
+              "sampleUnitId": 328267,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "MCDONOUGH",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328273,
+              "purchaseDate": "11/9/2014",
+              "storeCity": "PITTSBURGH",
+              "storeState": "PA"
+            },
+            {
+              "sampleUnitId": 328272,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "MCDONOUGH",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328270,
+              "purchaseDate": "11/9/2014",
+              "storeCity": "PITTSBURGH",
+              "storeState": "PA"
+            },
+            {
+              "sampleUnitId": 328271,
+              "purchaseDate": "11/9/2014",
+              "storeCity": "TUCSON",
+              "storeState": "AZ"
+            },
+            {
+              "sampleUnitId": 328269,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "ROANOKE RAPIDS",
+              "storeState": "NC"
+            }
+          ],
+          "amount": 99.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328304,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328287,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "SAN DIEGO",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328290,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328291,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "SAN DIEGO",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328292,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "HOUSTON",
+              "storeState": "TX"
+            },
+            {
+              "sampleUnitId": 328289,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "HOUSTON",
+              "storeState": "TX"
+            },
+            {
+              "sampleUnitId": 328288,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            }
+          ],
+          "amount": 97.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328324,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328308,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HASTINGS",
+              "storeState": "NE"
+            },
+            {
+              "sampleUnitId": 328311,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328310,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HASTINGS",
+              "storeState": "NE"
+            },
+            {
+              "sampleUnitId": 328309,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328307,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "ROANOKE RAPIDS",
+              "storeState": "NC"
+            },
+            {
+              "sampleUnitId": 328306,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "ROANOKE RAPIDS",
+              "storeState": "NC"
+            }
+          ],
+          "amount": 104.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328375,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328363,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328361,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328362,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328359,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328364,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328360,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            }
+          ],
+          "amount": 98.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328392,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328378,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328380,
+              "purchaseDate": "11/17/2014",
+              "storeCity": "PALMDALE",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328379,
+              "purchaseDate": "11/17/2014",
+              "storeCity": "PALMDALE",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328377,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HASTINGS",
+              "storeState": "NE"
+            },
+            {
+              "sampleUnitId": 328381,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            }
+          ],
+          "amount": 95.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328412,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328398,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "ROANOKE RAPIDS",
+              "storeState": "NC"
+            },
+            {
+              "sampleUnitId": 328397,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328401,
+              "purchaseDate": "11/9/2014",
+              "storeCity": "TUCSON",
+              "storeState": "AZ"
+            },
+            {
+              "sampleUnitId": 328400,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "ROANOKE RAPIDS",
+              "storeState": "NC"
+            },
+            {
+              "sampleUnitId": 328399,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328395,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "WOODBRIDGE",
+              "storeState": "NJ"
+            },
+            {
+              "sampleUnitId": 328396,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "WOODBRIDGE",
+              "storeState": "NJ"
+            }
+          ],
+          "amount": 95.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328431,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328418,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "HOUSTON",
+              "storeState": "TX"
+            },
+            {
+              "sampleUnitId": 328415,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "SAN DIEGO",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328416,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "HOUSTON",
+              "storeState": "TX"
+            },
+            {
+              "sampleUnitId": 328417,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "SAN DIEGO",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328419,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "HOUSTON",
+              "storeState": "TX"
+            },
+            {
+              "sampleUnitId": 328414,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "SAN DIEGO",
+              "storeState": "CA"
+            }
+          ],
+          "amount": 99.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328471,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328458,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "HOUSTON",
+              "storeState": "TX"
+            },
+            {
+              "sampleUnitId": 328460,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328457,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328459,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328456,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328455,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "HOUSTON",
+              "storeState": "TX"
+            }
+          ],
+          "amount": 103.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328488,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328474,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328476,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328475,
+              "purchaseDate": "11/17/2014",
+              "storeCity": "PALMDALE",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328473,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HASTINGS",
+              "storeState": "NE"
+            }
+          ],
+          "amount": 103.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328507,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328491,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328495,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328494,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328492,
+              "purchaseDate": "11/9/2014",
+              "storeCity": "TUCSON",
+              "storeState": "AZ"
+            },
+            {
+              "sampleUnitId": 328493,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            }
+          ],
+          "amount": 101.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328527,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328509,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HASTINGS",
+              "storeState": "NE"
+            },
+            {
+              "sampleUnitId": 328510,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328512,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328513,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "ROANOKE RAPIDS",
+              "storeState": "NC"
+            },
+            {
+              "sampleUnitId": 328511,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "ROANOKE RAPIDS",
+              "storeState": "NC"
+            }
+          ],
+          "amount": 99.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328540,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328533,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328530,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328532,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "NEWBURGH",
+              "storeState": "IN"
+            },
+            {
+              "sampleUnitId": 328531,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            }
+          ],
+          "amount": 103.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328557,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328550,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "SAN DIEGO",
+              "storeState": "CA"
+            },
+            {
+              "sampleUnitId": 328552,
+              "purchaseDate": "11/8/2014",
+              "storeCity": "HOUSTON",
+              "storeState": "TX"
+            },
+            {
+              "sampleUnitId": 328551,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "SAN DIEGO",
+              "storeState": "CA"
+            }
+          ],
+          "amount": 100.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328583,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328570,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328569,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HASTINGS",
+              "storeState": "NE"
+            },
+            {
+              "sampleUnitId": 328568,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            }
+          ],
+          "amount": 104.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328619,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328602,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328607,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "WOODBRIDGE",
+              "storeState": "NJ"
+            },
+            {
+              "sampleUnitId": 328604,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "WOODBRIDGE",
+              "storeState": "NJ"
+            },
+            {
+              "sampleUnitId": 328605,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "WOODBRIDGE",
+              "storeState": "NJ"
+            },
+            {
+              "sampleUnitId": 328606,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            },
+            {
+              "sampleUnitId": 328603,
+              "purchaseDate": "11/11/2014",
+              "storeCity": "LOCUST GROVE",
+              "storeState": "GA"
+            }
+          ],
+          "amount": 101.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        },
+        {
+          "subSampleId": 328635,
+          "nutrientId": 1253,
+          "nutrientAcquisitionDetails": [
+            {
+              "sampleUnitId": 328622,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HASTINGS",
+              "storeState": "NE"
+            },
+            {
+              "sampleUnitId": 328621,
+              "purchaseDate": "11/10/2014",
+              "storeCity": "HARRODSBURG",
+              "storeState": "KY"
+            },
+            {
+              "sampleUnitId": 328623,
+              "purchaseDate": "11/17/2014",
+              "storeCity": "PALMDALE",
+              "storeState": "CA"
+            }
+          ],
+          "amount": 99.0,
+          "labMethodTechnique": "GC",
+          "labMethodDescription": "doi.10.1021/jf051505h",
+          "labMethodOriginalDescription": "Phillips, Ruggio, Ashraf-Khorassani  J. Agric. Food Chem 53(2005)p. 9436-9445",
+          "labMethodLink": "https://pubs.acs.org/doi/abs/10.1021/jf051505h"
+        }
+      ]
+    }
+  ],
+  "foodPortions": [
+    {
+      "id": 119619,
+      "dataPoints": 31,
+      "gramWeight": 17.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "minDateAcquired": "3/22/2013",
+      "measureUnit": {
+        "id": 1050,
+        "name": "slice",
+        "abbreviation": "slice"
+      },
+      "minYearAcquired": 2013
+    },
+    {
+      "id": 119620,
+      "portionDescription": "shredded",
+      "dataPoints": 41,
+      "gramWeight": 105.0,
+      "sequenceNumber": 2,
+      "amount": 1.0,
+      "minDateAcquired": "11/8/2014",
+      "measureUnit": {
+        "id": 1000,
+        "name": "cup",
+        "abbreviation": "cup"
+      },
+      "minYearAcquired": 2014
+    },
+    {
+      "id": 312628,
+      "dataPoints": 0,
+      "gramWeight": 30.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "measureUnit": {
+        "id": 1121,
+        "name": "RACC",
+        "abbreviation": "RACC"
+      }
+    }
+  ],
+  "dataType": "Foundation",
+  "foodClass": "FinalFood",
+  "inputFoods": [
+    {
+      "id": 10996,
+      "foodDescription": "Cheddar cheese, sliced, CRACKER BARREL (FL,MO) - CY120I7",
+      "inputFood": {
+        "fdcId": 327948,
+        "description": "Cheddar cheese, sliced, CRACKER BARREL (FL,MO) - CY120I7",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11005,
+      "foodDescription": "Cheddar cheese, sliced, SARGENTO SHARP  (CT,MI) - CY120IC",
+      "inputFood": {
+        "fdcId": 328094,
+        "description": "Cheddar cheese, sliced, SARGENTO SHARP  (CT,MI) - CY120IC",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11003,
+      "foodDescription": "Cheddar cheese, sliced, store brand, CRYSTAL FARMS & SHULLSBURG WISCONSIN (MO,NY) - CY120IF",
+      "inputFood": {
+        "fdcId": 328057,
+        "description": "Cheddar cheese, sliced, store brand, CRYSTAL FARMS & SHULLSBURG WISCONSIN (MO,NY) - CY120IF",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11015,
+      "foodDescription": "Cheese, cheddar, natural shredded sharp, store brand (AZ, GA, NC, PA) -  CY121GX",
+      "inputFood": {
+        "fdcId": 328266,
+        "description": "Cheese, cheddar, natural shredded sharp, store brand (AZ, GA, NC, PA) -  CY121GX",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11032,
+      "foodDescription": "Cheese, cheddar, sharp, block/chunk KRAFT (IN, GA) -  CY121H8",
+      "inputFood": {
+        "fdcId": 328529,
+        "description": "Cheese, cheddar, sharp, block/chunk KRAFT (IN, GA) -  CY121H8",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11037,
+      "foodDescription": "Cheese, cheddar, sharp, block/chunk, store brand (GA, IA, NJ) -  CY121HB",
+      "inputFood": {
+        "fdcId": 328585,
+        "description": "Cheese, cheddar, sharp, block/chunk, store brand (GA, IA, NJ) -  CY121HB",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11001,
+      "foodDescription": "Cheddar cheese, sliced, TILLAMOOK (CA2,IN) - CY120I4",
+      "inputFood": {
+        "fdcId": 328020,
+        "description": "Cheddar cheese, sliced, TILLAMOOK (CA2,IN) - CY120I4",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11000,
+      "foodDescription": "Cheddar cheese, sliced, SARGENTO NATURAL SHARP CHEDDAR DELI STYLE (CA2,IN) - CY120IB",
+      "inputFood": {
+        "fdcId": 328008,
+        "description": "Cheddar cheese, sliced, SARGENTO NATURAL SHARP CHEDDAR DELI STYLE (CA2,IN) - CY120IB",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11025,
+      "foodDescription": "Cheese, cheddar, natural shredded mild, store brand, sKROGER (CA2, TX) -  CY121GR",
+      "inputFood": {
+        "fdcId": 328413,
+        "description": "Cheese, cheddar, natural shredded mild, store brand, sKROGER (CA2, TX) -  CY121GR",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11021,
+      "foodDescription": "Cheese, cheddar, natural shredded sharp, store brand (IA, IN, NJ) -  CY121GV",
+      "inputFood": {
+        "fdcId": 328351,
+        "description": "Cheese, cheddar, natural shredded sharp, store brand (IA, IN, NJ) -  CY121GV",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 10994,
+      "foodDescription": "Cheddar cheese, sliced, CRACKER BARREL (NY,NC) - CY120I5",
+      "inputFood": {
+        "fdcId": 327924,
+        "description": "Cheddar cheese, sliced, CRACKER BARREL (NY,NC) - CY120I5",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11039,
+      "foodDescription": "Cheese, cheddar, sharp, block/chunk CABOT, SERIOUSLY SHARP (GA, NJ) -  CY121H9",
+      "inputFood": {
+        "fdcId": 328601,
+        "description": "Cheese, cheddar, sharp, block/chunk CABOT, SERIOUSLY SHARP (GA, NJ) -  CY121H9",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11030,
+      "foodDescription": "Cheese, cheddar, mild, block/chunk, store brand  (AZ, IN, GA) -  CY121H5",
+      "inputFood": {
+        "fdcId": 328490,
+        "description": "Cheese, cheddar, mild, block/chunk, store brand  (AZ, IN, GA) -  CY121H5",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 10995,
+      "foodDescription": "Cheddar cheese, sliced, TILLAMOOK (CO,CA1) - CY120I3",
+      "inputFood": {
+        "fdcId": 327936,
+        "description": "Cheddar cheese, sliced, TILLAMOOK (CO,CA1) - CY120I3",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11029,
+      "foodDescription": "Cheese, cheddar, mild, block/chunk, store brand, GREAT VALUE (CA1, KY, NE) -  CY121H3",
+      "inputFood": {
+        "fdcId": 328472,
+        "description": "Cheese, cheddar, mild, block/chunk, store brand, GREAT VALUE (CA1, KY, NE) -  CY121H3",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11022,
+      "foodDescription": "Cheese, cheddar, natural shredded mild, KRAFT (IN, GA) -  CY121GN",
+      "inputFood": {
+        "fdcId": 328358,
+        "description": "Cheese, cheddar, natural shredded mild, KRAFT (IN, GA) -  CY121GN",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11016,
+      "foodDescription": "Cheese, cheddar, natural shredded sharp, store brand, sKROGER (CA2, KY, TX) -  CY121GW",
+      "inputFood": {
+        "fdcId": 328286,
+        "description": "Cheese, cheddar, natural shredded sharp, store brand, sKROGER (CA2, KY, TX) -  CY121GW",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11010,
+      "foodDescription": "Cheddar cheese, sliced, store brand, PUBLIX & SHOPRITE (CT,FL) - CY120II",
+      "inputFood": {
+        "fdcId": 328175,
+        "description": "Cheddar cheese, sliced, store brand, PUBLIX & SHOPRITE (CT,FL) - CY120II",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11004,
+      "foodDescription": "Cheddar cheese, sliced, SARGENTO SHARP  (AL,CA1) - CY120IA",
+      "inputFood": {
+        "fdcId": 328070,
+        "description": "Cheddar cheese, sliced, SARGENTO SHARP  (AL,CA1) - CY120IA",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11014,
+      "foodDescription": "Cheese, cheddar, natural shredded sharp, KRAFT (AZ, IN , GA) -  CY121GU",
+      "inputFood": {
+        "fdcId": 328248,
+        "description": "Cheese, cheddar, natural shredded sharp, KRAFT (AZ, IN , GA) -  CY121GU",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11008,
+      "foodDescription": "Cheddar cheese, sliced, store brand, LUCERNE SLICED SHARP CHEDDAR NATURAL CHEESE (CO,CA1) - CY120IE",
+      "inputFood": {
+        "fdcId": 328130,
+        "description": "Cheddar cheese, sliced, store brand, LUCERNE SLICED SHARP CHEDDAR NATURAL CHEESE (CO,CA1) - CY120IE",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11002,
+      "foodDescription": "Cheddar cheese, sliced, storebrand, KROGER (IN,MI) - CY120ID",
+      "inputFood": {
+        "fdcId": 328045,
+        "description": "Cheddar cheese, sliced, storebrand, KROGER (IN,MI) - CY120ID",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11023,
+      "foodDescription": "Cheese, cheddar, natural shredded mild, store brand, GREAT VALUE (CA1, KY, NE) -  CY121GP",
+      "inputFood": {
+        "fdcId": 328376,
+        "description": "Cheese, cheddar, natural shredded mild, store brand, GREAT VALUE (CA1, KY, NE) -  CY121GP",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11020,
+      "foodDescription": "Cheese, cheddar, natural shredded sharp, KRAFT (PA, CA1, IA, TX) -  CY121GS",
+      "inputFood": {
+        "fdcId": 328344,
+        "description": "Cheese, cheddar, natural shredded sharp, KRAFT (PA, CA1, IA, TX) -  CY121GS",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11019,
+      "foodDescription": "Cheese, cheddar, natural shredded mild, store brand  (GA, IA, PA) -  CY121GO",
+      "inputFood": {
+        "fdcId": 328335,
+        "description": "Cheese, cheddar, natural shredded mild, store brand  (GA, IA, PA) -  CY121GO",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11007,
+      "foodDescription": "Cheddar cheese, sliced, store brand, HYVEE CRACKER CUTS & PUBLIX (FL,MO) - CY120IJ",
+      "inputFood": {
+        "fdcId": 328122,
+        "description": "Cheddar cheese, sliced, store brand, HYVEE CRACKER CUTS & PUBLIX (FL,MO) - CY120IJ",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11036,
+      "foodDescription": "Cheese, cheddar, sharp, block/chunk KRAFT (KY, NE) -  CY121H7",
+      "inputFood": {
+        "fdcId": 328567,
+        "description": "Cheese, cheddar, sharp, block/chunk KRAFT (KY, NE) -  CY121H7",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11035,
+      "foodDescription": "Cheese, cheddar, mild, block/chunk, store brand  (PA, CA2, IA) -  CY121H4",
+      "inputFood": {
+        "fdcId": 328559,
+        "description": "Cheese, cheddar, mild, block/chunk, store brand  (PA, CA2, IA) -  CY121H4",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11024,
+      "foodDescription": "Cheese, cheddar, natural shredded mild, white, store brand (AZ, IN, NJ, NC) -  CY121GQ",
+      "inputFood": {
+        "fdcId": 328394,
+        "description": "Cheese, cheddar, natural shredded mild, white, store brand (AZ, IN, NJ, NC) -  CY121GQ",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11038,
+      "foodDescription": "Cheese, cheddar, sharp, block/chunk, store brand (NC, PA) -  CY121HD",
+      "inputFood": {
+        "fdcId": 328594,
+        "description": "Cheese, cheddar, sharp, block/chunk, store brand (NC, PA) -  CY121HD",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11018,
+      "foodDescription": "Cheese, cheddar, natural shredded mild, KRAFT (PA, IA) -  CY121GL",
+      "inputFood": {
+        "fdcId": 328326,
+        "description": "Cheese, cheddar, natural shredded mild, KRAFT (PA, IA) -  CY121GL",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11040,
+      "foodDescription": "Cheese, cheddar, sharp, block/chunk, store brand, GREAT VALUE (CA1, KY, NE) -  CY121HC",
+      "inputFood": {
+        "fdcId": 328620,
+        "description": "Cheese, cheddar, sharp, block/chunk, store brand, GREAT VALUE (CA1, KY, NE) -  CY121HC",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11026,
+      "foodDescription": "Cheese, cheddar, mild, block/chunk KRAFT (PA, CA1, VA) -  CY121GZ",
+      "inputFood": {
+        "fdcId": 328432,
+        "description": "Cheese, cheddar, mild, block/chunk KRAFT (PA, CA1, VA) -  CY121GZ",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11012,
+      "foodDescription": "Cheese, cheddar, natural shredded sharp, store brand, GREAT VALUE (CA1, NE) -  CY121GY",
+      "inputFood": {
+        "fdcId": 328208,
+        "description": "Cheese, cheddar, natural shredded sharp, store brand, GREAT VALUE (CA1, NE) -  CY121GY",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11011,
+      "foodDescription": "Cheddar cheese, sliced, store brand, FOOD LION (NC) - CY120IK",
+      "inputFood": {
+        "fdcId": 328191,
+        "description": "Cheddar cheese, sliced, store brand, FOOD LION (NC) - CY120IK",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11033,
+      "foodDescription": "Cheese, cheddar, mild, block/chunk, store brand   (NC, NJ, TX) -  CY121H2",
+      "inputFood": {
+        "fdcId": 328541,
+        "description": "Cheese, cheddar, mild, block/chunk, store brand   (NC, NJ, TX) -  CY121H2",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11017,
+      "foodDescription": "Cheese, cheddar, natural shredded sharp, KRAFT (KY, NE, NC) -  CY121GT",
+      "inputFood": {
+        "fdcId": 328305,
+        "description": "Cheese, cheddar, natural shredded sharp, KRAFT (KY, NE, NC) -  CY121GT",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 10998,
+      "foodDescription": "Cheddar cheese, sliced, CRACKER BARREL (MI) - CY120I8",
+      "inputFood": {
+        "fdcId": 327980,
+        "description": "Cheddar cheese, sliced, CRACKER BARREL (MI) - CY120I8",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11031,
+      "foodDescription": "Cheese, cheddar, mild, block/chunk KRAFT (KY, NE, NC) -  CY121H0",
+      "inputFood": {
+        "fdcId": 328508,
+        "description": "Cheese, cheddar, mild, block/chunk KRAFT (KY, NE, NC) -  CY121H0",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 10997,
+      "foodDescription": "Cheddar cheese, sliced, CRACKER BARREL (AL,CT) - CY120I6",
+      "inputFood": {
+        "fdcId": 327960,
+        "description": "Cheddar cheese, sliced, CRACKER BARREL (AL,CT) - CY120I6",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11034,
+      "foodDescription": "Cheese, cheddar, sharp, block/chunk, store brand, KROGER (CA2, TX) -  CY121HE",
+      "inputFood": {
+        "fdcId": 328549,
+        "description": "Cheese, cheddar, sharp, block/chunk, store brand, KROGER (CA2, TX) -  CY121HE",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11006,
+      "foodDescription": "Cheddar cheese, sliced, store brand, SUNNYSIDE FARMS DELI STYLE SLICED MEDIUM (CA2) - CY120IH",
+      "inputFood": {
+        "fdcId": 328114,
+        "description": "Cheddar cheese, sliced, store brand, SUNNYSIDE FARMS DELI STYLE SLICED MEDIUM (CA2) - CY120IH",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11028,
+      "foodDescription": "Cheese, cheddar, mild, block/chunk KRAFT (IN, GA, TX) -  CY121H1",
+      "inputFood": {
+        "fdcId": 328454,
+        "description": "Cheese, cheddar, mild, block/chunk KRAFT (IN, GA, TX) -  CY121H1",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11009,
+      "foodDescription": "Cheddar cheese, sliced, store brand, GREAT VALUE DELI STYLE SLICED SHARP  (AL,OK) - CY120IG",
+      "inputFood": {
+        "fdcId": 328153,
+        "description": "Cheddar cheese, sliced, store brand, GREAT VALUE DELI STYLE SLICED SHARP  (AL,OK) - CY120IG",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11013,
+      "foodDescription": "Cheese, cheddar, natural shredded mild, KRAFT (KY, NE, NC) -  CY121GM",
+      "inputFood": {
+        "fdcId": 328227,
+        "description": "Cheese, cheddar, natural shredded mild, KRAFT (KY, NE, NC) -  CY121GM",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 11027,
+      "foodDescription": "Cheese, cheddar, sharp, block/chunk KRAFT (PA, CA1, IA) -  CY121H6",
+      "inputFood": {
+        "fdcId": 328442,
+        "description": "Cheese, cheddar, sharp, block/chunk KRAFT (PA, CA1, IA) -  CY121H6",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    },
+    {
+      "id": 10999,
+      "foodDescription": "Cheddar cheese, sliced, SARGENTO SHARP  (NY) - CY120I9",
+      "inputFood": {
+        "fdcId": 327998,
+        "description": "Cheddar cheese, sliced, SARGENTO SHARP  (NY) - CY120I9",
+        "publicationDate": "4/1/2019",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 1,
+          "code": "0100",
+          "description": "Dairy and Egg Products"
+        }
+      }
+    }
+  ],
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 22582,
+      "proteinValue": 4.27,
+      "fatValue": 8.79,
+      "carbohydrateValue": 3.87,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 22583,
+      "value": 6.38,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "ndbNumber": 1009,
+  "isHistoricalReference": false,
+  "foodCategory": {
+    "id": 1,
+    "code": "0100",
+    "description": "Dairy and Egg Products"
+  }
+}

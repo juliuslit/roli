@@ -1,0 +1,58 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 1.0,
+ "expected_items": 42,
+ "other_set_aside": 2,
+ "found_items": 42,
+ "joined_found": 3,
+ "unmatched_expected_names": [],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.9761904761904762,
+ "price_wrong_names": [
+  "Oysters Humboldt Bay: price '8.50 / 14.50 / 25.50' vs key '3 for 8.50 / 6 for 14.50 / 12 for 25.50'"
+ ],
+ "descriptions_right": 0.8695652173913043,
+ "descriptions_checked": 23,
+ "tags_right": 0.8809523809523809,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 1,
+   "total": 39,
+   "share_wrong": 0.02564102564102564
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 3,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": 0,
+ "false_alarm": 0,
+ "seconds": 19.576875291997567,
+ "cost_usd": 0.0140385,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 3013,
+ "completion_tokens": 3141,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793987845-1TG5U1Rx3sNaPMc0ebm7"
+}

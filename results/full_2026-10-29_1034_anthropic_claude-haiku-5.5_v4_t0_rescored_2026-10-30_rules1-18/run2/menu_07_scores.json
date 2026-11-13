@@ -1,0 +1,70 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.8913043478260869,
+ "expected_items": 46,
+ "other_set_aside": 0,
+ "found_items": 41,
+ "joined_found": 3,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream",
+  "Oat milk",
+  "Soya milk",
+  "Coconut milk",
+  "Mixers: Coca Cola/Diet, Lemonade, Tonic/Diet"
+ ],
+ "invented": 2,
+ "invented_names": [
+  "Victorian Lemonade, Ginger",
+  "Beer, Sparkling Elderflower"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 0.5,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.8780487804878049,
+ "has_choice_right": 0.8780487804878049,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 35,
+   "share_wrong": 0.0
+  },
+  "medium": {
+   "wrong": 0,
+   "total": 6,
+   "share_wrong": 0.0
+  },
+  "low": {
+   "wrong": 2,
+   "total": 2,
+   "share_wrong": 1.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "Menu is a drinks menu only. Slight glare/skew on right column but text is legible. Small print footer lines (service charge, allergy note) ignored as non-items.",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 13.059557792003034,
+ "cost_usd": 0.0023153,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "reasoning_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

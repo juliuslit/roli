@@ -1,0 +1,62 @@
+{
+ "photo": "07",
+ "format_right": 1,
+ "format_reason": "",
+ "fenced": 0,
+ "check_list": [],
+ "dishes_found": 0.9782608695652174,
+ "expected_items": 46,
+ "other_set_aside": 2,
+ "found_items": 45,
+ "joined_found": 1,
+ "unmatched_expected_names": [
+  "Hot Chocolate with marshmallows & whipped cream"
+ ],
+ "invented": 1,
+ "invented_names": [
+  "Victorian Lemonade, Ginger Beer, Sparkling Elderflower"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 0.8666666666666667,
+ "price_wrong_names": [
+  "Babyccino: price '4' vs key '1.5'",
+  "Mug: price '1.5' vs key '2.5'",
+  "Pot for 1: price '2.5' vs key '3.0'",
+  "Pot for 2: price '3.0' vs key '4.2'",
+  "Caramel, Vanilla, Hazelnut: price '0.6' vs key '0.5'",
+  "Kombucha: price '2' vs key '4.95'"
+ ],
+ "descriptions_right": 0.16666666666666666,
+ "descriptions_checked": 6,
+ "tags_right": 1.0,
+ "portion_right": 0.8888888888888888,
+ "has_choice_right": 0.7777777777777778,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 7,
+   "total": 46,
+   "share_wrong": 0.15217391304347827
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 16.587418832990807,
+ "cost_usd": 0.0034377,
+ "finish_reason": "stop",
+ "provider": "Parasail",
+ "error": "",
+ "prompt_tokens": 2031,
+ "completion_tokens": 3594,
+ "reasoning_tokens": null,
+ "generation_id": "gen-1793322806-73TaiLIScw1Jige7Xa1k",
+ "rep": 1
+}

@@ -1,0 +1,11 @@
+{"readable": "yes", "problems": "Left edge shows part of another menu (partial prices and dish names) which is not part of this menu and was left out; the right-side sign is also excluded.", "items": [
+{"section": "Pizza By The Slice", "category": "food", "name": "Vegetarian", "description": "", "price": "5", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Pizza By The Slice", "category": "food", "name": "Combo", "description": "", "price": "5", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Pizza By The Slice", "category": "food", "name": "Pepperoni", "description": "", "price": "5", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Wood Fire Oysters", "category": "food", "name": "Pesto", "description": "", "price": "3.50", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "Wood Fire Oysters", "category": "food", "name": "BBQ", "description": "", "price": "3.50", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "food", "name": "Meatballs (3)", "description": "served with homemade sauce & bread", "price": "9", "tags": "", "portion": "(3)", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "food", "name": "Riblets", "description": "", "price": "10", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "food", "name": "Mini Gyros (2)", "description": "Lamb", "price": "10", "tags": "", "portion": "(2)", "has_choice": "no", "belongs_to": "", "confidence": "high"},
+{"section": "", "category": "food", "name": "Focaccia / Onion Focaccia", "description": "served with olive tapenade", "price": "8", "tags": "", "portion": "", "has_choice": "yes", "belongs_to": "", "confidence": "high"}
+]}

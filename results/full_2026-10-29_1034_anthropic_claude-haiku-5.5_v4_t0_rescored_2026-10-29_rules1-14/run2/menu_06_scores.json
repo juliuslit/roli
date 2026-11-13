@@ -1,0 +1,71 @@
+{
+ "photo": "06",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.967032967032967,
+ "expected_items": 91,
+ "other_set_aside": 0,
+ "found_items": 88,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "ALBORE",
+  "Make your own pizza - standard base with sauce and mozzarella",
+  "Proscuitto ham"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 2,
+ "garbled_names": [
+  "Alborе ~ ALBORE (83%)",
+  "Prosciutto ham ~ Proscuitto ham (86%)"
+ ],
+ "grouping": 1,
+ "grouping_names": [
+  "Dips -> ['Garlic butter', 'Garlic oil (vgn)', 'Garlic mayo', 'Marinara sauce (vgn)', 'Sundried tomato (vgn) (contains garlic)', 'BBQ sauce (vgn)', 'Chilli jam (vgn)', 'Chilli oil (vgn)', 'Almond pesto (vgn)']"
+ ],
+ "prices_right": 0.9746835443037974,
+ "price_wrong_names": [
+  "Olives: price '4' vs key '£1.15 each'",
+  "Olives: price '1.15' vs key '£4'"
+ ],
+ "descriptions_right": 0.8,
+ "descriptions_checked": 40,
+ "tags_right": 0.6075949367088608,
+ "portion_right": 1.0,
+ "has_choice_right": 0.9873417721518988,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 2,
+   "total": 22,
+   "share_wrong": 0.09090909090909091
+  },
+  "medium": {
+   "wrong": 2,
+   "total": 40,
+   "share_wrong": 0.05
+  },
+  "low": {
+   "wrong": 1,
+   "total": 20,
+   "share_wrong": 0.05
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "partly",
+ "problems_model": "Photo is a two-page spread at angle; some small print is blurred, especially Veg N' That and Spare Parts ingredient lists and dips. Left page bottom row (BBQ Billy, Fumo, Matto) partly obscured by the thumb. Several prices in the Spare Parts/Mainly Herbs area are small; confidence reduced accordingly.",
+ "bad_photo_caught": null,
+ "false_alarm": 1,
+ "seconds": 28.940527792001376,
+ "cost_usd": 0.0051878,
+ "finish_reason": "stop",
+ "provider": "Anthropic",
+ "error": "",
+ "prompt_tokens": null,
+ "completion_tokens": null,
+ "generation_id": null,
+ "rep": 2
+}

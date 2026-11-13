@@ -1,0 +1,49 @@
+{
+ "model": "anthropic/claude-haiku-5.5",
+ "prompt": "v1",
+ "photos": [
+  "06"
+ ],
+ "temperature": 0,
+ "max_answer_tokens": 16000,
+ "deadline_seconds": 300,
+ "calls": [
+  {
+   "photo": "06",
+   "model": "anthropic/claude-haiku-5.5",
+   "prompt_version": "v1",
+   "telegram_file": "telegram_1280/menu_06_pizzaface_uk_printed_spread.jpg",
+   "photo_size": [
+    1280,
+    964
+   ],
+   "seconds": 27.6909136249742,
+   "prompt_tokens": 2700,
+   "completion_tokens": 9535,
+   "cost_usd": 0.0050375,
+   "provider": "Anthropic",
+   "finish_reason": "stop",
+   "generation_id": "gen-1793281148-zMkicN3GNL4xLdzyF9uk",
+   "error": ""
+  }
+ ],
+ "answers": 1,
+ "dishes_found_avg": 0.8681318681318682,
+ "dishes_found_min": 0.8681318681318682,
+ "invented_total": 1,
+ "cut_off_listed_total": 0,
+ "prices_right_avg": 0.8987341772151899,
+ "descriptions_right_avg": 0.8461538461538461,
+ "tags_right_avg": 0.7848101265822784,
+ "portion_right_avg": 1.0,
+ "has_choice_right_avg": 0.9873417721518988,
+ "belongs_to_right_avg": 0.0,
+ "format_right_avg": 1.0,
+ "bad_photos_caught": 0,
+ "bad_photos_total": 0,
+ "false_alarms": 1,
+ "check_list_items": 0,
+ "seconds_avg": 27.6909136249742,
+ "cost_total_usd": 0.0050375,
+ "cost_avg_usd": 0.0050375
+}

@@ -1,0 +1,54 @@
+{
+ "photo": "15",
+ "format_right": 1,
+ "format_reason": "",
+ "check_list": [],
+ "dishes_found": 0.9523809523809523,
+ "expected_items": 42,
+ "found_items": 40,
+ "unmatched_expected_names": [
+  "Oysters - Humboldt Bay",
+  "Solaraide (lemonade + Tea)"
+ ],
+ "invented": 3,
+ "invented_names": [
+  "Oysters",
+  "Make it Vegan",
+  "Solaraide"
+ ],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "prices_right": 0.975,
+ "price_wrong_names": [
+  "Lost Coast Root Beer: price '2.50' vs key '4.50'"
+ ],
+ "descriptions_right": 0.6818181818181818,
+ "descriptions_checked": 22,
+ "tags_right": 0.875,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 1.0,
+ "confidence_calibration": {
+  "medium": {
+   "wrong": 1,
+   "total": 30,
+   "share_wrong": 0.03333333333333333
+  },
+  "low": {
+   "wrong": 3,
+   "total": 13,
+   "share_wrong": 0.23076923076923078
+  }
+ },
+ "readable_expected": "partly",
+ "readable_model": "partly",
+ "problems_model": "Photo is a chalkboard with glare and a reflection across the middle and lower sections; some prices and descriptions are faint or hard to read. The left edge is partly cut off (a sign with 'dogs' is visible at the edge and ignored). Items marked with low confidence have uncertain prices or descriptions.",
+ "bad_photo_caught": 1,
+ "false_alarm": 0,
+ "seconds": 15.151528125017649,
+ "cost_usd": 0.0025313,
+ "finish_reason": "stop",
+ "rep": 1,
+ "provider": "Anthropic",
+ "error": ""
+}

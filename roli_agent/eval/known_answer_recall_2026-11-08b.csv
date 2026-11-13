@@ -1,0 +1,51 @@
+chain,dish,published,published_chol,menu_named,menu_right,dish_chain,dish_confidence,dish_right,quoted_known,quoted_sat,quoted_chol,name_only_guess
+Pizza Express,The Full Works - scrambled eggs,33.0,,PizzaExpress,True,PizzaExpress,high,True,False,,,26.0
+Pizza Express,Tiramisu,17.8,,PizzaExpress,True,PizzaExpress,medium,True,True,19.3,,20.0
+Pizza Express,Smoky BBQ Chicken,10.4,,PizzaExpress,True,PizzaExpress,high,True,False,,,18.0
+Pizza Express,Garlic & Herbs dip,0.8,,PizzaExpress,True,PizzaExpress,high,True,True,1.7,,5.0
+Pizza Express,Bruschetta Originale,3.3,,PizzaExpress,True,PizzaExpress,high,True,True,2.1,,3.0
+Pizza Express,Pollo Pesto,26.3,,PizzaExpress,True,PizzaExpress,high,True,True,16.2,,28.0
+Pizza Express,Grand Chicken Caesar Salad,8.8,,PizzaExpress,True,PizzaExpress,high,True,True,8.0,,8.0
+Pizza Express,Garlic Bread,2.5,,PizzaExpress,True,PizzaExpress,medium,True,True,6.8,,9.0
+Pizza Express,Blueberries & Mascarpone Pancakes,6.3,,PizzaExpress,True,PizzaExpress,high,True,False,,,24.0
+Pizza Express,Cajun Prawns,9.4,,PizzaExpress,True,PizzaExpress,high,True,False,,,8.0
+Pizza Express,Polenta Chips,4.0,,PizzaExpress,True,PizzaExpress,high,True,True,3.7,,6.0
+Pizza Express,Fresh Fruit & Yoghurt Bowl,2.0,,PizzaExpress,True,PizzaExpress,high,True,False,,,4.0
+Bonefish Grill,Grilled Rainbow Trout,3.5,180.0,Moxies,False,unknown,low,False,True,8.0,130.0,7.0
+Bonefish Grill,Grilled 9 oz Sirloin,11.0,145.0,Moxies,False,unknown,low,False,True,9.0,150.0,13.0
+Bonefish Grill,Creamy Tomato Linguine with Chicken,33.0,295.0,Moxies,False,unknown,low,False,False,,,26.0
+Bonefish Grill,"Calamari, Appetizer",11.0,665.0,Moxies,False,Moxies,high,False,True,4.0,285.0,7.0
+Bonefish Grill,Tomato Bisque Soup cup,12.0,50.0,Moxies,False,unknown,low,False,False,,,9.0
+Bonefish Grill,Bourbon Brownie,63.0,450.0,Moxies,False,Moxies,high,False,False,,,24.0
+Bonefish Grill,Kids Chicken Bites,2.0,65.0,Moxies,False,Moxies,high,False,True,2.5,65.0,6.0
+Bonefish Grill,Shaved Brussels Sprouts Side Salad,2.5,10.0,Moxies,False,unknown,low,False,False,,,4.5
+Zizzi,Kids Spaghetti Bolognese,2.0,,Bella Italia,False,Bella Italia,high,False,True,3.7,,6.0
+Zizzi,Vanilla Gelato,1.8,,Bella Italia,False,Bella Italia,medium,False,True,6.8,,10.0
+Zizzi,Bolognese Classico,4.3,,Bella Italia,False,Bella Italia,high,False,True,10.0,,12.0
+Zizzi,Hot Honey Glazed Duck,14.0,,Bella Italia,False,Bella Italia,high,False,False,,,16.0
+Zizzi,Garlic Bread,3.4,,Bella Italia,False,Bella Italia,medium,False,True,8.0,,9.0
+Zizzi,Mediterranean Sea Bass,5.2,,Bella Italia,False,Bella Italia,high,False,False,,,5.0
+Zizzi,Chips,3.6,,Bella Italia,False,Bella Italia,medium,False,True,1.9,,4.0
+Zizzi,Olives,1.3,,Bella Italia,False,Bella Italia,medium,False,True,1.7,,2.5
+Vapiano,Pesto basilico,2.6,,Vapiano,True,Vapiano,high,True,True,13.9,,12.0
+Vapiano,Verdure,16.1,,Vapiano,True,Vapiano,high,True,True,6.8,,15.0
+Vapiano,Pistachio Truffle Dolci,4.8,,Vapiano,True,Vapiano,high,True,False,,,22.0
+Vapiano,Pizza prosciutto e funghi,6.8,,Vapiano,True,Vapiano,medium,True,True,18.0,,11.0
+Vapiano,Insalata Mista Della Casa with no dressing,2.1,,Vapiano,True,Vapiano,high,True,True,0.1,,0.2
+Vapiano,Pizza Bread Garlic,1.9,,Vapiano,True,Vapiano,high,True,True,2.2,,6.0
+Vapiano,Insalata Mista Piccola,0.0,,Vapiano,True,Vapiano,high,True,True,0.1,,1.5
+Vapiano,Antipasti Caprese,20.8,,Vapiano,True,Vapiano,high,True,True,13.1,,15.0
+Carrabba's Italian Grill,Shrimp and Scallop Linguine Alla Vodka,13.0,185.0,Carrabba's Italian Grill,True,Carrabba's Italian Grill,high,True,True,39.0,280.0,26.0
+Carrabba's Italian Grill,Salmon Caperi,16.0,175.0,Carrabba's Italian Grill,True,Carrabba's Italian Grill,high,True,True,20.0,210.0,10.0
+Carrabba's Italian Grill,"Tuscan Grilled Ribeye, 16 oz.",18.0,265.0,Carrabba's Italian Grill,True,Carrabba's Italian Grill,high,True,True,38.0,305.0,42.0
+Carrabba's Italian Grill,Shrimp Scampi,26.0,325.0,Carrabba's Italian Grill,True,Carrabba's Italian Grill,high,True,True,29.0,315.0,18.0
+Carrabba's Italian Grill,Tomato Caprese with Fresh Burrata,17.0,70.0,Carrabba's Italian Grill,True,Carrabba's Italian Grill,high,True,True,19.0,70.0,20.0
+Carrabba's Italian Grill,Filet and Shrimp Pasta Toscana,83.0,490.0,Carrabba's Italian Grill,True,Carrabba's Italian Grill,high,True,False,,,28.0
+Prezzo,"Salmon, Tomato & Basil Rigatoni",12.0,,Wildwood,False,Wildwood,high,False,False,,,8.0
+Prezzo,Truffle Gorgonzola Burger - Chicken,15.0,,Wildwood,False,Wildwood,high,False,False,,,16.0
+Prezzo,House Fries,1.4,,Wildwood,False,Wildwood,medium,False,False,,,5.0
+Prezzo,Garlic Bread With Mozzarella,10.0,,Wildwood,False,Wildwood,high,False,False,,,17.0
+Prezzo,Olives,1.7,,Wildwood,False,Wildwood,medium,False,False,,,2.0
+Wasabi,Spicy chicken tom yum,17.95,,Waitrose,False,itsu,high,False,True,6.8,,2.5
+Wasabi,Korean chicken katsu sando,1.8,,Waitrose,False,unknown,low,False,True,3.7,,12.0
+Wasabi,Porridge pot with berry compote,2.95,,Waitrose,False,unknown,low,False,True,1.7,,2.5

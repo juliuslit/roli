@@ -1,0 +1,1257 @@
+{
+ "date": "2026-11-03",
+ "reviewer_model": "anthropic/claude-sonnet-5.5",
+ "set_sha256": "f9b7b6fc3ec257abe243235b2275c15485e03f8afd6f3c504c864db5020ba422",
+ "reviews": [
+  {
+   "dish": "bluefin_crudo",
+   "title": "Flatiron NoMad Foodie: L’Adresse NoMad’s Bluefin Tuna Crudo - Flatiron NoMad",
+   "canonical_url": "https://flatironnomad.nyc/2023/07/19/flatiron-nomad-foodie-ladresse-nomads-bluefin-tuna-crudo",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "The method says \"Thinly slice the sushi-grade tuna\" and tops it with mango salsa and a sweet chili poke sauce, so it is raw sliced bluefin crudo served as a starter. It differs from the menu dish, which uses bottarga, muscat grape and chive; this recipe has no bottarga and adds a large amount of sesame oil sauce, so it is a variant, not the same dish."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Summertime Tuna Crudo with Caviar – SoPo Seafood",
+   "canonical_url": "https://soposeafood.com/blogs/recipes/bluefin-tuna-crudo-with-caviar",
+   "reference": {
+    "ref_gate": "rejected",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "The recipe slices raw bluefin tuna ('Slice the tuna thinly', 'Add the tuna crudo on top') and serves it immediately without cooking, like the menu crudo. It uses Hackleback caviar, lemon zest and olive oil instead of bottarga and muscat grape, and has chive flowers as garnish, so it is a close variant rather than the same dish."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "gate: reviewer passed vs reference rejected",
+    "dish_type: reviewer variant vs reference same"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Tuna Crudo — Sea Forager",
+   "canonical_url": "https://seaforager.com/recipes/tuna-crudo",
+   "reference": {
+    "ref_gate": "rejected",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Raw sushi-grade bluefin is sliced and plated with a strained tamari-citrus sauce, so it is a crudo. Only the carrots are fried ('fry the carrots in olive oil'), not the fish. It differs from the menu dish, which has bottarga, muscat grape and chive, and the recipe adds soy, salsa macha and fried carrot."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "gate: reviewer passed vs reference rejected",
+    "dish_type: reviewer variant vs reference same",
+    "preparation: reviewer similar vs reference same"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Spicy Tuna Crudo with Shoyu Ponzu Sauce",
+   "canonical_url": "https://foodmymuse.com/tuna-crudo",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Both are raw sliced bluefin crudo ('Arrange sliced bluefin tuna over the liquid'), and only the carrot garnish is fried, not the fish. The recipe's soy-ponzu, salsa macha and fried carrots differ from the menu's bottarga, muscat grape and chive, so it is a variant rather than the same dish."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same",
+    "preparation: reviewer similar vs reference same"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Sicilian Tuna Crudo with Olives and Pistachios",
+   "canonical_url": "https://coleycooks.com/tuna-crudo",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Method says \"slice the tuna against the grain, as thinly as you can\" and serves it raw, so it is a raw tuna crudo like the menu dish. The toppings differ (olives, pistachios, lemon, basil, olive oil instead of bottarga, muscat grape, chive), so it is a close variant. Bottarga would add cholesterol and saturated fat that this recipe lacks, and the pistachios and olive oil add some fat."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Tuna Crudo with Citrus Caper Vinaigrette",
+   "canonical_url": "https://lindseyeatsla.com/tuna-crudo-with-citrus-caper-vinaigrette",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Recipe is raw sliced ahi ('Slice your sushi grade ahi tuna... as thin as you can') served as a crudo starter, same as the menu's bluefin crudo, but it uses a citrus caper vinaigrette, cucumber and sesame instead of bottarga, muscat grape and chive, so it is a close relative."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Tuna Crudo | James Beard Foundation",
+   "canonical_url": "https://jamesbeard.org/recipes/tuna-crudo",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "The recipe is a raw crudo: \"Lay the tuna slices over the seasoned olive oil\" and \"Let stand for 2 to 4 minutes\" with no cooking. It uses yellowfin instead of bluefin and lemon, caper brine and chiles instead of bottarga, muscat grape and chive, but the fat profile is similar: lean raw tuna with a little olive oil."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Tuna Crudo",
+   "canonical_url": "https://twopurplefigs.com/tuna-crudo",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Method says to 'thinly slice the tuna' and arrange it raw over the vinaigrette, which matches a bluefin crudo. Only the garlic chips are pan-fried, and the tuna stays raw. The recipe lacks the menu's bottarga, muscat grape and chive and adds olive oil, capers and cucumber, so the flavor profile differs."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Spaghettini With Bottarga and Colatura",
+   "canonical_url": "https://cooking.nytimes.com/recipes/1024003-spaghettini-with-bottarga-and-colatura",
+   "reference": {
+    "ref_gate": "rejected",
+    "ref_dish_type": "different",
+    "ref_preparation": "different",
+    "ref_course": "different",
+    "ref_grade": "low",
+    "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "different",
+    "preparation": "different",
+    "course_portion": "different",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "The menu dish is a raw bluefin tuna crudo starter, while the recipe is a cooked pasta ('add the pasta... drain the pasta') that uses bottarga only as a seasoning. It contains no raw fish, grape or chive, and a pasta course is not a crudo starter. The main ingredient of the menu dish (bluefin) is not in the recipe, so none is cooked."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "low",
+   "reviewer_hard_exclusion": "hard_exclusion:dish_type_different",
+   "error": null,
+   "disagreements": [
+    "gate: reviewer passed vs reference rejected"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "bluefin_crudo",
+   "title": "Spaghetti with bottarga sauce",
+   "canonical_url": "https://greatitalianchefs.com/recipes/spaghetti-with-bottarga-sauce",
+   "reference": {
+    "ref_gate": "rejected",
+    "ref_dish_type": "different",
+    "ref_preparation": "different",
+    "ref_course": "different",
+    "ref_grade": "low",
+    "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "different",
+    "preparation": "different",
+    "course_portion": "different",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "The recipe is a spaghetti dish: \"Cook the spaghetti in salted boiling water\" with 500g spaghetti, herb sauce and carrot juice. It is a pasta course, not a bluefin crudo starter. The raw grouper cheek slice is only a topping, and bottarga is just one component. The main ingredient (raw fish) is not cooked, but the dish itself is different."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "low",
+   "reviewer_hard_exclusion": "hard_exclusion:dish_type_different",
+   "error": null,
+   "disagreements": [
+    "gate: reviewer passed vs reference rejected"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Baby Gem Lettuce. - by Rachel Phipps - ingredient",
+   "canonical_url": "https://ingredientbyrachelphipps.substack.com/p/baby-gem-lettuce",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "different",
+    "ref_preparation": "different",
+    "ref_course": "same",
+    "ref_grade": "low",
+    "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "different",
+    "preparation": "different",
+    "course_portion": "different",
+    "cooks_main_ingredient": true,
+    "confidence": "high",
+    "reason": "The menu dish is raw little gem leaves dressed with tahini vinaigrette, pecorino sardo and toasted sesame. The recipe pan-sears and simmers the lettuce ('Place them, cut side down, in the melted butter and cook for 4-5 minutes', then 'Add the stock and the peas'), and it uses compound butter, chicken stock and peas instead of tahini, pecorino or sesame. It reads as a cooked side dish, so the fat and cholesterol profile differs."
+   },
+   "reviewer_gate": "rejected",
+   "reviewer_grade": "low",
+   "reviewer_hard_exclusion": "hard_exclusion:dish_type_different",
+   "error": null,
+   "disagreements": [
+    "gate: reviewer rejected vs reference passed",
+    "course_portion: reviewer different vs reference same",
+    "cooks_main_ingredient: reviewer True vs reference exclusion hard_exclusion:dish_type_different"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Baby Gem Lettuce Salad",
+   "canonical_url": "https://recipetineats.com/little-gem-lettuce-salad",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Both are raw little/baby gem lettuce salads, but the recipe uses 'Creamy French Dressing', tomatoes, croutons and chives instead of tahini vinaigrette, pecorino sardo and toasted sesame. Only the bread croutons are baked ('Toss the bread with the oil... bake for 10 minutes'), and the lettuce stays raw."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same",
+    "preparation: reviewer similar vs reference same"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Little Gem Cookies Food",
+   "canonical_url": "https://cooking-guide.com/little-gem-cookies",
+   "reference": {
+    "ref_gate": "rejected",
+    "ref_dish_type": "different",
+    "ref_preparation": "different",
+    "ref_course": "same",
+    "ref_grade": "low",
+    "ref_hard_exclusion": "hard_exclusion:main_ingredient_cooked_in_method"
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "different",
+    "preparation": "different",
+    "course_portion": "different",
+    "cooks_main_ingredient": true,
+    "confidence": "high",
+    "reason": "The menu dish is raw Little Gem leaves dressed with tahini vinaigrette, pecorino sardo and toasted sesame. This recipe braises the lettuces ('Put the lid on the pan... cook for 10 mins') in chicken stock and serves them with a pea-and-cream sauce. It shares no dressing or cheese, and the butter, cream and stock change the fat profile. It reads as a side dish, not a starter salad."
+   },
+   "reviewer_gate": "rejected",
+   "reviewer_grade": "low",
+   "reviewer_hard_exclusion": "hard_exclusion:dish_type_different",
+   "error": null,
+   "disagreements": [
+    "course_portion: reviewer different vs reference same"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Little Gem Salad",
+   "canonical_url": "https://pinchandswirl.com/little-gem-salad",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Both are raw Little Gem leaves dressed with a vinaigrette, but the recipe's dressing is a Champagne vinegar, Dijon and olive oil emulsion ('Add oil in a slow, steady stream') with walnuts, not tahini, pecorino sardo or toasted sesame. The lettuce is not cooked, and a salad starter matches the starter course."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same",
+    "preparation: reviewer similar vs reference same"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Grilled Little Gem salad",
+   "canonical_url": "https://somethingnewfordinner.com/recipe/grilled-little-gem-salad",
+   "reference": {
+    "ref_gate": "rejected",
+    "ref_dish_type": "variant",
+    "ref_preparation": "different",
+    "ref_course": "same",
+    "ref_grade": "low",
+    "ref_hard_exclusion": "hard_exclusion:preparation_different"
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "different",
+    "course_portion": "same",
+    "cooks_main_ingredient": true,
+    "confidence": "medium",
+    "reason": "The method says \"Brush the lettuce with a little olive oil and grill for 1 – 2 minutes on either side until lettuce is lightly charred,\" so the lettuce is cooked, whereas the menu's Little Gem is a raw-leaf salad. The dressing is also a shallot-vinegar vinaigrette with feta, not tahini vinaigrette with pecorino sardo and toasted sesame."
+   },
+   "reviewer_gate": "rejected",
+   "reviewer_grade": "low",
+   "reviewer_hard_exclusion": "hard_exclusion:preparation_different",
+   "error": null,
+   "disagreements": [
+    "cooks_main_ingredient: reviewer True vs reference exclusion hard_exclusion:preparation_different"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Little Gem Wedge Salad with Bacon, Blue Cheese, and Warm Garlic Croutons",
+   "canonical_url": "https://cravingcalifornia.com/little-gem-wedge-salad",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "variant",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Both are raw little gem lettuce starters with a dressing and cheese, but the recipe uses a Greek yogurt and blue cheese dressing with bacon, egg and croutons, not the menu's tahini vinaigrette, pecorino sardo and toasted sesame. The method only cooks garnishes (\"Cook, stirring frequently until the croutons are golden\"), so the lettuce stays raw."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "preparation: reviewer similar vs reference same"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Grilled Little Gems With Creamy Tarragon Dressing",
+   "canonical_url": "https://cooking.nytimes.com/recipes/758028330-grilled-little-gems-with-creamy-tarragon-dressing?smid=ck-recipe-iOS-share&cgs=c",
+   "reference": {
+    "ref_gate": "rejected",
+    "ref_dish_type": "variant",
+    "ref_preparation": "different",
+    "ref_course": "same",
+    "ref_grade": "low",
+    "ref_hard_exclusion": "hard_exclusion:preparation_different"
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "different",
+    "course_portion": "same",
+    "cooks_main_ingredient": true,
+    "confidence": "medium",
+    "reason": "The recipe grills the lettuce ('place lettuce on the grill, cut-side down... charred'), while the menu's Little Gem salad with tahini vinaigrette is presumably raw leaves. The dressing is yogurt-based rather than tahini, though Pecorino garnish and the starter role are similar."
+   },
+   "reviewer_gate": "rejected",
+   "reviewer_grade": "low",
+   "reviewer_hard_exclusion": "hard_exclusion:preparation_different",
+   "error": null,
+   "disagreements": [
+    "cooks_main_ingredient: reviewer True vs reference exclusion hard_exclusion:preparation_different"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "little_gem_lettuces",
+   "title": "Baked Goat Cheese With Garden Lettuces",
+   "canonical_url": "https://cooking.nytimes.com/recipes/1012960-baked-goat-cheese-with-garden-lettuces",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "variant",
+    "ref_preparation": "similar",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "The menu dish is raw Little Gem lettuce with tahini vinaigrette, pecorino sardo and toasted sesame. The recipe is a lettuce salad with an oil-and-vinegar dressing, plus breaded baked goat cheese discs ('place 2 discs of the baked cheese on each plate'). The baked cheese is a cooked garnish on raw leaves, so the lettuce is not cooked, but the goat cheese, olive oil marinade and breadcrumbs add fat that the menu dish lacks."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "title": "Roasted Heirloom Tomato Soup with Smoked Paprika",
+   "canonical_url": "https://holcombfarm.org/using-the-harvest-heirloom-tomatoes-and-cherry-tomatoes",
+   "reference": {
+    "ref_gate": "rejected",
+    "ref_dish_type": "different",
+    "ref_preparation": "different",
+    "ref_course": "different",
+    "ref_grade": "low",
+    "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "different",
+    "preparation": "different",
+    "course_portion": "same",
+    "cooks_main_ingredient": true,
+    "confidence": "high",
+    "reason": "The menu dish is a raw heirloom tomato starter with pluot, shiso, basil and sourdough, while the recipe is a blended soup: 'Bake for 20-30 minutes' then 'Blend until completely smooth. Serve hot.' It roasts the tomatoes and shares none of the other menu ingredients."
+   },
+   "reviewer_gate": "rejected",
+   "reviewer_grade": "low",
+   "reviewer_hard_exclusion": "hard_exclusion:dish_type_different",
+   "error": null,
+   "disagreements": [
+    "course_portion: reviewer same vs reference different",
+    "cooks_main_ingredient: reviewer True vs reference exclusion hard_exclusion:dish_type_different"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "title": "6 Tasty Recipes Using Heirloom Tomatoes - Marin Mama Cooks",
+   "canonical_url": "https://marinmamacooks.com/6-tasty-recipes-using-heirloom-tomatoes",
+   "reference": {
+    "ref_gate": "rejected",
+    "ref_dish_type": "different",
+    "ref_preparation": "different",
+    "ref_course": "different",
+    "ref_grade": "low",
+    "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+   },
+   "reviewer": {
+    "usable": false,
+    "dish_type": "different",
+    "preparation": "different",
+    "course_portion": "different",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "The page is a listicle ('6 Tasty Recipes Using Heirloom Tomatoes') with unquantified ingredient lines, and the method is avocado toast/bruschetta ('smash it onto the bread') with no pluot, shiso or basil. The menu dish is a raw heirloom tomato starter, while this is an assembled toast; the tomato itself stays raw, so the main ingredient is not cooked."
+   },
+   "reviewer_gate": "rejected",
+   "reviewer_grade": "low",
+   "reviewer_hard_exclusion": "hard_exclusion:dish_type_different",
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "title": "Heirloom Tomato Salad",
+   "canonical_url": "https://thesophisticatedcaveman.com/heirloom-tomato-salad",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "The recipe is a quantified raw tomato salad ('gently toss until combined') with olive oil, basil and herbs, a close relative of the menu's heirloom tomatoes with pluot, shiso, basil and sourdough. It lacks the pluot, shiso and sourdough and adds onion, mint and oregano, but nothing is cooked and it works as a starter-style salad."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same",
+    "preparation: reviewer similar vs reference same"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "title": "Pluot-Tomato Salad With Suya Pistachio Crunch",
+   "canonical_url": "https://cooking.nytimes.com/recipes/785874251-pluot-tomato-salad-with-suya-pistachio-crunch",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "similar",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Both are raw heirloom tomato and pluot starters with herbs; the recipe adds a pistachio cream (heavy cream, Greek yogurt) and a baked pistachio crunch, but 'Arrange the tomatoes and pluots on top' keeps the tomatoes and pluots raw. The menu lists sourdough and shiso, while the recipe has neither and uses basil or mint, so it is a close relative rather than the same dish."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "heirloom_tomatoes",
+   "title": "Chamoy Tomato Salad",
+   "canonical_url": "https://cooking.nytimes.com/recipes/787173042-chamoy-tomato-salad",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "variant",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Both are raw heirloom tomato and stone-fruit salads (recipe: 'tomatoes, nectarines and plums' tossed with salt, no cooking of the tomatoes). The recipe's chamoy-style dressing, sesame seeds and tortilla chips replace the menu's shiso, basil and sourdough, but none of these adds meaningful saturated fat or cholesterol, and the recipe has only a small amount of sesame oil."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "preparation: reviewer similar vs reference same"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza",
+   "canonical_url": "https://kingarthurbaking.com/recipes/margherita-pizza-recipe",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "The recipe is a baked pizza with tomato sauce, '4 ounces (113g) mozzarella cheese' and 'basil, sliced or torn', which matches the menu's tomato, fior di latte and basil. The mozzarella stands in for fior di latte, and the menu dish is cooked, so no raw main ingredient is cooked."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza Recipe",
+   "canonical_url": "https://easyanddelish.com/best-homemade-margherita-pizza-recipe",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "The recipe is a baked margherita pizza with tomato sauce, fresh mozzarella (a fair stand-in for fior di latte) and basil, and it lists quantities for each. The method says to 'Bake at 550°F' with 'the mozzarella and some of the basil', which matches the menu dish. The menu dish is cooked, so cooks_main_ingredient is false."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "margherita",
+   "title": "Best Homemade Margherita Pizza",
+   "canonical_url": "https://abeautifulplate.com/the-best-homemade-margherita-pizza",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "A single quantified recipe for a baked pizza with tomato, fresh mozzarella (the fior di latte equivalent) and basil, matching the menu's Margherita. Extras such as garlic, parmigiano and olive oil are minor, and the menu dish is cooked, so no raw main ingredient is being cooked."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "margherita",
+   "title": "Easy Pizza Margherita Recipe",
+   "canonical_url": "https://ciaoflorentina.com/easy-pizza-margherita-recipe-video",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "The recipe bakes a margherita pizza with tomato (marinara) sauce, torn mozzarella and fresh basil: 'Tear some of the Mozzarella di Bufala cheese on top and transfer the pie back into the oven'. Buffalo mozzarella stands in for fior di latte (cow's milk mozzarella), which is a small difference, and the 8 individual 10\" pies match a pizza portion."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "margherita",
+   "title": "Easy Margherita Pizza",
+   "canonical_url": "https://bellyfull.net/margherita-pizza",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "The recipe is a baked pizza with '12 ounces fresh ball mozzarella', Roma tomatoes and basil, which matches a margherita with fior di latte. Extras are minor (garlic, olive oil, marinara, shaved Parmesan), and the menu dish is already cooked, so no raw main ingredient is being cooked."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "margherita",
+   "title": "Alexandra Stafford's Classic Margherita Pizza – Cherry Bombe",
+   "canonical_url": "https://cherrybombe.com/blogs/recipes/alexandra-stafford-margherita-pizza",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "A baked margherita pizza with tomato sauce, '3 ounces low-moisture whole-milk mozzarella' and 'Fresh basil leaves', matching the menu's tomato, cheese and basil. The cheese is low-moisture mozzarella rather than fior di latte, but both are cow's-milk cheeses, so the fat profile is similar. Olive oil is added, and the menu dish is itself a cooked pizza."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza",
+   "canonical_url": "https://ooni.com/blogs/recipes/margherita-pizza",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "The ingredients are crushed tomatoes, 'fresh mozzarella, torn into pieces' and basil on pizza dough, baked in a pizza oven. This matches a margherita pizza with tomato, fior di latte and basil. The yield text of '12 items' is odd, but the quantities are for a single pizza, and the olive oil adds only a small amount of fat."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "margherita",
+   "title": "The Perfect Margherita Pizza",
+   "canonical_url": "https://bakingsteel.com/blogs/recipes/mastering-the-margherita-pizza-a-simple-step-by-step-guide",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "The recipe has quantified lines ('4 oz fresh mozzarella', '3 oz crushed tomatoes', '1 pizza dough ball (250g)') and bakes a single pizza with tomato, torn fresh mozzarella and basil, matching the menu's tomato, fior di latte and basil. The menu dish is a cooked pizza, so cooks_main_ingredient is false. The extra olive oil drizzle is minor."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza",
+   "canonical_url": "https://foodnetwork.com/recipes/tyler-florence/margherita-pizza-recipe-1949707",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Baked pizza with tomato sauce, torn fresh buffalo mozzarella and basil: \"Smear with tomato sauce then tear up the mozzarella... Tear the basil leaves... bake in the hot oven\". Buffalo mozzarella stands in for fior di latte, though it has slightly more fat. The yield of \"1 serving\" is unreliable because the recipe makes dough for 2 pizzas and uses one."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza",
+   "canonical_url": "https://tasteofhome.com/recipes/margherita-pizza",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "same",
+    "preparation": "same",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "high",
+    "reason": "The recipe is a baked pizza topped with crushed tomatoes, \"fresh sliced mozzarella cheese\" and \"fresh basil leaves\", which matches tomato, fior di latte and basil. The extra olive oil, oregano and garlic are minor additions that don't change the dish, and the menu dish is already cooked, so no raw main ingredient is cooked."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "margherita",
+   "title": "Margherita Pizza",
+   "canonical_url": "https://lacucinaitaliana.com/recipe/pizza/margherita-pizza",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "same",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "The recipe is a baked margherita pizza with tomatoes, basil and \"buffalo mozzarella\", while the menu lists fior di latte (cow's milk mozzarella). The cheese is a close substitute with slightly higher fat, and the other ingredients match. Ingredient lines are quantified, though basil and olive oil have no amounts."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same",
+    "preparation: reviewer similar vs reference same"
+   ],
+   "preparation_related": true
+  },
+  {
+   "dish": "king_salmon",
+   "title": "King Salmon Recipe | Pan Seared King Salmon",
+   "canonical_url": "https://pikeplacefish.com/new-blog/pan-seared-wild-alaskan-king-salmon-recipe",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "similar",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Both are cooked king salmon mains (recipe: \"Heat oil in pan over high heat... lay fillets flesh side down\"), but the recipe pairs it with arugula and a basil-caper-anchovy salsa verde instead of the menu's squash, corn and shishito. The menu dish is cooked, so cooks_main_ingredient is false."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Baked King Salmon",
+   "canonical_url": "https://thishealthytable.com/blog/baked-king-salmon",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "similar",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Both are cooked king salmon mains (recipe: 'Bake for 15 to 20 minutes' with a butter-honey-mustard glaze), but the menu dish is served with squash, corn, basil and shishito, which the recipe does not include. The butter glaze adds saturated fat and cholesterol the menu preparation may not have, though the salmon is the main ingredient in both."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Pan-Seared Buttery Ora King Salmon Fillets",
+   "canonical_url": "https://wagyushop.com/blogs/recipes/pan-seared-buttery-ora-king-salmon-fillets",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "similar",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "The recipe is a single quantified recipe ('1 lb. salmon fille', '2 Tbsp + ¼ stick butter') for pan-seared salmon with a butter-lemon sauce, a cooked fish main like the menu's king salmon. It lacks the menu's squash, corn, basil and shishito sides and adds butter sauce, so it is a close variant rather than the same dish."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Simple King Salmon en Papillote",
+   "canonical_url": "https://premiercatch.com/blogs/seafood-recipes/simple-king-salmon-en-papillote",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "similar",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "The recipe is one quantified list for a cooked king salmon main ('Bake the salmon for 15 minutes at 350°F'), and the menu dish is also a cooked fish entree. The accompaniments differ: the recipe uses lemon, herbs and greens, while the menu lists squash, corn, basil and shishito. The fat sources (olive oil, salmon) are comparable."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Best Easy Healthy Baked Salmon",
+   "canonical_url": "https://lecremedelacrumb.com/best-easy-healthy-baked-salmon",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "variant",
+    "ref_preparation": "similar",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "The recipe is a single quantified one: \"4 salmon fillets (about 6 ounces each)\" with olive oil, baked 12-15 minutes. That makes it a cooked salmon main like the menu's king salmon entree. It lacks the squash, corn, basil and shishito sides, so it is a close variant and not the same dish."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Crispy Skin Salmon with Lemon Butter Garlic Sauce",
+   "canonical_url": "https://mylatinatable.com/best-crispy-skin-pan-fried-salmon-lemon-butter-garlic-sauce",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "variant",
+    "ref_preparation": "similar",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "The recipe is a pan-seared king salmon main (\"place the salmon filet skin side down\") with a lemon butter garlic sauce, whereas the menu dish is king salmon with squash, corn, basil and shishito. The fish and cooking method match, but the sauce differs and the menu's vegetable accompaniments are absent. The menu dish is cooked, so cooks_main_ingredient is false."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [],
+   "preparation_related": false
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Pan-Seared Wild Pacific King Salmon with Lemon and Thyme Polenta Cake",
+   "canonical_url": "https://foodnetwork.com/recipes/pan-seared-wild-pacific-king-salmon-with-lemon-and-thyme-polenta-cake-recipe-1948036",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "same",
+    "ref_preparation": "similar",
+    "ref_course": "same",
+    "ref_grade": "high",
+    "ref_hard_exclusion": ""
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "variant",
+    "preparation": "similar",
+    "course_portion": "same",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "Method says \"Sear both sides of salmon being careful not to cook beyond medium\", so this is a cooked king salmon main like the menu dish. The recipe adds a polenta cake, a butter and demi-glace sauce, and pattypan squash and zucchini, while the menu lists squash, corn, basil and shishito, so it is a close relative rather than the same dish."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "high",
+   "reviewer_hard_exclusion": null,
+   "error": null,
+   "disagreements": [
+    "dish_type: reviewer variant vs reference same"
+   ],
+   "preparation_related": false
+  },
+  {
+   "dish": "king_salmon",
+   "title": "Salmon, squash & prawn laksa",
+   "canonical_url": "https://bbcgoodfood.com/recipes/salmon-squash-prawn-laksa",
+   "reference": {
+    "ref_gate": "passed",
+    "ref_dish_type": "different",
+    "ref_preparation": "different",
+    "ref_course": "same",
+    "ref_grade": "low",
+    "ref_hard_exclusion": "hard_exclusion:dish_type_different"
+   },
+   "reviewer": {
+    "usable": true,
+    "dish_type": "different",
+    "preparation": "different",
+    "course_portion": "different",
+    "cooks_main_ingredient": false,
+    "confidence": "medium",
+    "reason": "The recipe is a coconut-milk laksa noodle soup ('Pour in the coconut milk and stock', 'Add the drained noodles'), while the menu dish is a king salmon entree of cooked fish with squash, corn, basil and shishito. The salmon is poached in a soup with coconut milk, paste, noodles and prawns, which adds saturated fat and cholesterol that the menu dish would not have. The menu dish is cooked, so cooks_main_ingredient is false."
+   },
+   "reviewer_gate": "passed",
+   "reviewer_grade": "low",
+   "reviewer_hard_exclusion": "hard_exclusion:dish_type_different",
+   "error": null,
+   "disagreements": [
+    "course_portion: reviewer different vs reference same"
+   ],
+   "preparation_related": false
+  }
+ ],
+ "summary": {
+  "reviewed": 42,
+  "errors": 0,
+  "full_agreement": 16,
+  "with_disagreements": 26,
+  "preparation_related_disagreements": 12,
+  "tokens_in": 54337,
+  "tokens_out": 8123,
+  "cost_usd_reported": 0.1899,
+  "seconds": 108.4
+ }
+}

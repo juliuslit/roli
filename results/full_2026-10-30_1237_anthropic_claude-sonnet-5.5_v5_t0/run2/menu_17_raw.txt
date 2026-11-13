@@ -1,0 +1,9 @@
+{"readable": "partly", "problems": "The photo is small, skewed and low-resolution, and the text is too small to read line by line with confidence. Most items in the top menu (Dim Sum, Soup, Noodle, Chicken, Beef & Lamb, Pork, Szechuan hot pot, dried pot) and in the lower Seafood, Tofu & Vegetable and Lunch Special sections cannot be transcribed reliably, and the left edge of the lower menu is cut off. Only the few lines that are legible are listed. A large number of lines were left out across all sections.", "items": [
+{"section": "RICE DISHES", "category": "food", "name": "Fried Rice", "description": "", "price": "10.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "RICE DISHES", "category": "food", "name": "Combination Fried Rice", "description": "", "price": "11.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "RICE DISHES", "category": "food", "name": "Seafood Fried Rice", "description": "", "price": "12.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "RICE DISHES", "category": "food", "name": "Steamed Rice", "description": "", "price": "1.00", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "DESSERT", "category": "food", "name": "Strawberry Ice Cream", "description": "", "price": "3.99", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"},
+{"section": "SEAFOOD", "category": "food", "name": "Honey Walnut Prawns", "description": "", "price": "15.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "medium"},
+{"section": "TOFU & VEGETABLE", "category": "food", "name": "Braised Tofu", "description": "", "price": "12.95", "tags": "", "portion": "", "has_choice": "no", "belongs_to": "", "confidence": "low"}
+]}

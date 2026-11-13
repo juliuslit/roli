@@ -1,0 +1,53 @@
+{
+ "photo": "06",
+ "format_right": 1,
+ "format_reason": "code fence removed (interpretation 18)",
+ "fenced": 1,
+ "check_list": [],
+ "dishes_found": 0.989010989010989,
+ "expected_items": 91,
+ "other_set_aside": 0,
+ "found_items": 90,
+ "joined_found": 0,
+ "unmatched_expected_names": [
+  "Make your own pizza - standard base with sauce and mozzarella"
+ ],
+ "invented": 0,
+ "invented_names": [],
+ "cut_off_listed": 0,
+ "cut_off_names": [],
+ "garbled": 0,
+ "garbled_names": [],
+ "grouping": 0,
+ "grouping_names": [],
+ "prices_right": 1.0,
+ "price_wrong_names": [],
+ "descriptions_right": 1.0,
+ "descriptions_checked": 41,
+ "tags_right": 0.7333333333333333,
+ "portion_right": 1.0,
+ "has_choice_right": 1.0,
+ "belongs_to_right": 0.0,
+ "confidence_calibration": {
+  "high": {
+   "wrong": 0,
+   "total": 90,
+   "share_wrong": 0.0
+  }
+ },
+ "readable_expected": "yes",
+ "readable_model": "yes",
+ "problems_model": "",
+ "bad_photo_caught": null,
+ "false_alarm": 0,
+ "seconds": 37.69278512499295,
+ "cost_usd": 0.029976,
+ "finish_reason": "stop",
+ "rep": 2,
+ "provider": "Google AI Studio",
+ "error": "",
+ "prompt_tokens": 3013,
+ "completion_tokens": 7391,
+ "reasoning_tokens": 0,
+ "generation_id": "gen-1793375641-bskbbFxttnP106IsnDfW"
+}
